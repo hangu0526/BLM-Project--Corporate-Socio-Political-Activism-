@@ -1,0 +1,649 @@
+1num,gvkey,2num,tic,3num,1conm_x,2Company,3CompanyName,1ceo_minority,1ethnicity (from boardex),2BE,1ceo_race(black),ceo_race,1ceo_name,2First,2Last,3DirectorName,3Unnamed: 10,ceo_name,2Female,ceo_gender,2ExecType,3ceo?,3RoleName,3Seniority,3DateStartRole,3DateEndRole,2AnnDate,2permno,2Confounded,2Interim,3CompanyID,3DirectorID
+1,25119,,MHK,383,MOHAWK INDUSTRIES INC,,MOHAWK INDUSTRIES INC,0,CAUCASIAN/WHITE,,,,,,,Jeff Lorberbaum,Jeff Lorberbaum,,,,,1,Chairman/CEO,Executive Director,11/4/09,C,,,,,20964,64542
+2,24617,,ODFL,406,OLD DOMINION FREIGHT,,OLD DOMINION FREIGHT LINE INC,0,CAUCASIAN/WHITE,,,,,,,Earl Congdon Jr,Earl Congdon Jr,,,,,1,Senior Chairman (Executive),Executive Director,5/16/18,1/1/21,,,,,23040,272624
+2,24617,,ODFL,407,OLD DOMINION FREIGHT,,OLD DOMINION FREIGHT LINE INC,0,CAUCASIAN/WHITE,,,,,,,David Congdon,David Congdon,,,,,1,Chairman (Executive),Executive Director,5/16/18,C,,,,,23040,272632
+2,24617,,ODFL,408,OLD DOMINION FREIGHT,,OLD DOMINION FREIGHT LINE INC,0,CAUCASIAN/WHITE,,,,,,,Greg Gantt,Greg Gantt,,,,,1,President/CEO,Executive Director,5/16/18,6/30/23,,,,,23040,896206
+3,6829,17,LOW,350,LOWE'S COS INC,Lowe¡¯s Companies,LOWE'S COS INC,1,BLACK/AFRICAN AMERICAN,1,,black,,Marvin,Ellison,Marvin Ellison,Marvin Ellison,Marvin Ellison,0,Male,CEO,1,President/CEO,Executive Director,7/2/18,6/1/21,5/22/18,61399,0,0,19193,489833
+4,5783,,JBHT,290,HUNT (JB) TRANSPRT SVCS INC,,HUNT(J.B.)TRANSPORT SERVICES INC,0,CAUCASIAN/WHITE,,,,,,,James Thompson,James Thompson,,,,,1,Chairman,Executive Director,1/1/11,1/1/21,,,,,15223,141642
+4,5783,,JBHT,291,HUNT (JB) TRANSPRT SVCS INC,,HUNT(J.B.)TRANSPORT SERVICES INC,0,CAUCASIAN/WHITE,,,,,,,John Roberts III,John Roberts III,,,,,1,President/CEO,Executive Director,1/1/11,8/1/22,,,,,15223,497950
+5,11259,91,WMT,561,WALMART INC,Wal-Mart Stores,WALMART INC (Wal-Mart Stores Inc prior to 02/2018),0,CAUCASIAN/WHITE,0,,non-black,,C. Douglas,McMillon,Doug McMillon,Doug McMillon,C. Douglas McMillon,0,Male,CEO,1,President/CEO,Executive Director,2/1/14,C,11/25/13,55976,0,0,33046,32097
+6,14960,,LH,331,LABORATORY CP OF AMER HLDGS,,LABORATORY CORP OF AMERICA HLDGS (LABCORP),0,CAUCASIAN/WHITE,,,,,,,Dave King,Dave King,,,,,1,Chairman (Executive),Executive Director,10/31/19,5/13/20,,,,,18319,205961
+6,14960,,LH,332,LABORATORY CP OF AMER HLDGS,,LABORATORY CORP OF AMERICA HLDGS (LABCORP),0,CAUCASIAN/WHITE,,,,,,,Adam Schechter,Adam Schechter,,,,,1,President/CEO,Executive Director,11/1/19,5/13/20,,,,,18319,495421
+7,10793,,TSN,529,TYSON FOODS INC -CL A,,TYSON FOODS INC,0,CAUCASIAN/WHITE,,,,,,,John Tyson,John Tyson,,,,,1,Chairman (Executive),Executive Director,11/17/11,C,,,,,31563,140460
+7,10793,,TSN,530,TYSON FOODS INC -CL A,,TYSON FOODS INC,0,CAUCASIAN/WHITE,,,,,,,Noel White,Noel White,,,,,1,CEO,Executive Director,12/20/19,10/3/20,,,,,31563,453851
+8,7146,,MKC,363,MCCORMICK & CO INC,,MCCORMICK & CO INC,0,CAUCASIAN/WHITE,,,,,,,Lawrence Kurzius,Lawrence Kurzius,,,,,1,Chairman/President/CEO,Executive Director,1/31/17,6/1/22,,,,,19939,481697
+9,8151,81,OKE,411,ONEOK INC,"ONEOK, Inc.",ONEOK INC (WAI Inc prior to 11/1997),0,CAUCASIAN/WHITE,0,,non-black,,John,Gibson,Terry Spencer,Terry Spencer,John Gibson,0,Male,CEO,1,President/CEO,Executive Director,1/31/14,6/28/21,11/16/06,25232,1,0,23165,620137
+9,8151,155,OKE,411,ONEOK INC,Oneok Inc,ONEOK INC (WAI Inc prior to 11/1997),0,CAUCASIAN/WHITE,0,,non-black,,David,Kyle,Terry Spencer,Terry Spencer,David Kyle,0,Male,CEO,1,President/CEO,Executive Director,1/31/14,6/28/21,8/29/00,25232,0,0,23165,620137
+10,164296,,TWX,,WarnerMedia,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+11,11506,,WMB,570,WILLIAMS COS INC,,WILLIAMS COMPANIES INC,0,CAUCASIAN/WHITE,,,,,,,Alan Armstrong,Alan Armstrong,,,,,1,President/CEO,Executive Director,1/3/11,C,,,,,33512,443291
+12,175319,204,HBI,624,HANESBRANDS INC,Hanesbrands,HANESBRANDS INC,0,CAUCASIAN/WHITE,1,,black,,Joia,Johnson,Gerald Evans Jr,Gerald Evans Jr,Joia Johnson,1,Female,TMT,1,CEO,Executive Director,10/1/16,8/3/20,1/11/07,91416,0,,882407,514830
+13,5125,,GPC,258,GENUINE PARTS CO,,GENUINE PARTS CO,0,CAUCASIAN/WHITE,,,,,,,Paul Donahue,Paul Donahue,,,,,1,Chairman/CEO,Executive Director,4/22/19,C,,,,,13110,547628
+14,5680,173,HD,281,HOME DEPOT INC,Home Depot,HOME DEPOT INC,0,CAUCASIAN/WHITE,1,,black,,Ann-Marie,Campbell,Craig Menear,Craig Menear,Ann-Marie Campbell,1,Female,TMT,1,Chairman/President/CEO,Executive Director,2/2/15,10/5/20,1/19/16,66181,0,,14982,536170
+14,5680,184,HD,281,HOME DEPOT INC,Home Depot,HOME DEPOT INC,0,CAUCASIAN/WHITE,1,,black,,Marvin,Ellison,Craig Menear,Craig Menear,Marvin Ellison,0,Male,TMT,1,Chairman/President/CEO,Executive Director,2/2/15,10/5/20,8/25/08,66181,1,,14982,536170
+14,5680,258,HD,281,HOME DEPOT INC,Home Depot,HOME DEPOT INC,0,CAUCASIAN/WHITE,1,,black,,Teresa,Wynn Roseborough,Craig Menear,Craig Menear,Teresa Wynn Roseborough,1,Female,TMT,1,Chairman/President/CEO,Executive Director,2/2/15,10/5/20,10/7/11,66181,0,,14982,536170
+15,64853,,QRVO,702,QORVO INC,,QORVO INC,0,CAUCASIAN/WHITE,,,,,,,Bob Bruggeworth,Bob Bruggeworth,,,,,1,President/CEO,Executive Director,1/2/15,C,,,,,2204149,181113
+16,1449,165,AFL,,AFLAC INC,A_ac,,0,CAUCASIAN/WHITE,1,,black,,Audrey,Boone Tillman,,,Audrey Boone Tillman,1,Female,TMT,,,,,,5/5/14,57904,1,,,
+16,1449,251,AFL,,AFLAC INC,A_ac,,0,CAUCASIAN/WHITE,1,,black,,Teresa,White,,,Teresa White,1,Female,TMT,,,,,,9/29/14,57904,1,,,
+17,145977,,AAP,585,ADVANCE AUTO PARTS INC,,ADVANCE AUTO PARTS INC,0,CAUCASIAN/WHITE,,,,,,,Tom Greco,Tom Greco,,,,,1,President/CEO,Executive Director,8/14/16,9/11/23,,,,,95856,1013356
+18,29733,,MLM,359,MARTIN MARIETTA MATERIALS,,MARTIN MARIETTA MATERIALS INC,0,CAUCASIAN/WHITE,,,,,,,Ward Nye,Ward Nye,,,,,1,Chairman/President/CEO,Executive Director,5/22/14,C,,,,,19739,841525
+19,122841,,RHT,639,RED HAT INC,,RELIQ HEALTH TECHNOLOGIES INC (Moseda Technologies Inc prior to 05/2016),0,,,,,,,,Doctor Lisa Crossley,Doctor Lisa Crossley,,,,,1,CEO,Executive Director,1/18/16,12/11/23,,,,,1243400,1664864
+20,4605,,FRT,234,FEDERAL REALTY INVESTMENT TR,,FEDERAL REALTY INVESTMENT TRUST,0,CAUCASIAN/WHITE,,,,,,,Don Wood,Don Wood,,,,,1,President/CEO,Executive Director,1/1/03,3/11/21,,,,,11649,332472
+21,7063,,HST,286,HOST HOTELS & RESORTS INC,,HOST HOTELS & RESORTS INC,0,CAUCASIAN/WHITE,,,,,,,Dick Marriott,Dick Marriott,,,,,1,Chairman,Executive Director,12/29/98,C,,,,,15093,38651
+21,7063,,HST,288,HOST HOTELS & RESORTS INC,,HOST HOTELS & RESORTS INC,0,CAUCASIAN/WHITE,,,,,,,Jim Risoleo,Jim Risoleo,,,,,1,President/CEO,Executive Director,1/1/17,C,,,,,15093,205949
+22,6774,189,LMT,342,LOCKHEED MARTIN CORP,Lockheed Martin,LOCKHEED MARTIN CORP,0,CAUCASIAN/WHITE,1,,black,,Linda,Gooden,Marillyn Hewson,Marillyn Hewson,Linda Gooden,1,Female,TMT,1,Chairman/President/CEO,Executive Director,1/1/14,6/15/20,12/7/06,21178,1,,19048,202548
+23,28930,,MAR,353,MARRIOTT INTL INC,,MARRIOTT INTERNATIONAL INC,0,CAUCASIAN/WHITE,,,,,,,Bill Marriott Jr,Bill Marriott Jr,,,,,1,Chairman (Executive),Executive Director,3/31/12,5/6/22,,,,,19706,24849
+23,28930,,MAR,355,MARRIOTT INTL INC,,MARRIOTT INTERNATIONAL INC,0,CAUCASIAN/WHITE,,,,,,,Arne Sorenson,Arne Sorenson,,,,,1,President/CEO,Executive Director,3/31/12,2/15/21,,,,,19706,38571
+24,14934,,DVN,180,DEVON ENERGY CORP,,DEVON ENERGY CORP,0,CAUCASIAN/WHITE,,,,,,,Dave Hager,Dave Hager,,,,,1,President/CEO,Executive Director,6/8/16,1/7/21,,,,,9103,62347
+25,20116,,PAYC,695,PAYCOM SOFTWARE INC,,PAYCOM SOFTWARE INC,0,CAUCASIAN/WHITE,,,,,,,Chad Richison,Chad Richison,,,,,1,Chairman/President/CEO,Executive Director,8/1/16,2/7/24,,,,,2061294,1388163
+26,29392,,EMN,196,EASTMAN CHEMICAL CO,,EASTMAN CHEMICAL CO,0,CAUCASIAN/WHITE,,,,,,,Mark Costa,Mark Costa,,,,,1,Chair/CEO,Executive Director,6/30/14,C,,,,,9940,534777
+27,29751,,ALB,,ALBEMARLE CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+28,7647,,BAC,81,BANK OF AMERICA CORP,,BANK OF AMERICA CORP,0,CAUCASIAN/WHITE,,,,,,,Brian Moynihan,Brian Moynihan,,,,,1,Chair/President/CEO,Executive Director,10/1/14,C,,,,,4504,35043
+28,7647,,BAC,550,BANK OF AMERICA CORP,,VERIZON COMMUNICATIONS INC,0,CAUCASIAN/WHITE,,,,,,,Hans Vestberg,Hans Vestberg,,,,,1,Chairman/CEO,Executive Director,3/8/19,C,,,,,32507,454544
+29,4093,,DUK,623,DUKE ENERGY CORP,,DUKE ENERGY CORP,0,CAUCASIAN/WHITE,,,,,,,Lynn Good,Lynn Good,,,,,1,Chairman/President/CEO,Executive Director,1/1/16,C,,,,,867887,204347
+30,1300,,HON,283,HONEYWELL INTERNATIONAL INC,,HONEYWELL INTERNATIONAL INC (AlliedSignal Inc prior to 01/2000),0,CAUCASIAN/WHITE,,,,,,,Darius Adamczyk,Darius Adamczyk,,,,,1,Chairman/CEO,Executive Director,4/23/18,6/1/23,,,,,15029,1205682
+31,30098,,IR,299,INGERSOLL RAND INC,,TRANE TECHNOLOGIES PLC (Ingersoll-Rand PLC prior to 03/2020),0,CAUCASIAN/WHITE,,,,,,,Mike Lamach,Mike Lamach,,,,,1,Chairman/CEO,Executive Director,6/4/10,7/1/21,,,,,16041,336406
+31,30098,,IR,712,INGERSOLL RAND INC,,INGERSOLL RAND INC (Gardner Denver Holdings Inc prior to 03/2020),0,CAUCASIAN/WHITE,,,,,,,Vicente Reynal,Vicente Reynal,,,,,1,President/CEO,Executive Director,5/12/17,11/9/21,,,,,2656398,1912562
+32,8030,,NUE,,NUCOR CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+33,9555,,SEE,491,SEALED AIR CORP,,SEALED AIR CORP,0,CAUCASIAN/WHITE,,,,,,,Ted Doheny II,Ted Doheny II,,,,,1,President/CEO,Executive Director,1/1/18,10/23/23,,,,,27418,516421
+34,11856,,TFC,53,TRUIST FINANCIAL CORP,,TRUIST FINANCIAL CORP (BB&T Corp prior to 12/2019),0,CAUCASIAN/WHITE,,,,,,,Kelly King,Kelly King,,,,,1,Chairman/CEO,Executive Director,12/20/16,9/12/21,,,,,3718,39271
+35,13700,,XRAY,179,DENTSPLY SIRONA INC,,DENTSPLY SIRONA INC (DENTSPLY International Inc prior to 02/2016),0,CAUCASIAN/WHITE,,,,,,,Don Casey Jr,Don Casey Jr,,,,,1,CEO,Executive Director,2/12/18,4/19/22,,,,,9023,590656
+36,141384,,ALGN,14,ALIGN TECHNOLOGY INC,,ALIGN TECHNOLOGY INC,0,CAUCASIAN/WHITE,,,,,,,Joe Hogan,Joe Hogan,,,,,1,President/CEO,Executive Director,6/1/15,C,,,,,1384,32461
+37,14590,,FCX,249,FREEPORT-MCMORAN INC,,FREEPORT-MCMORAN INC (Freeport-McMoRan Copper & Gold Inc prior to 07/2014),0,CAUCASIAN/WHITE,,,,,,,Richard Adkerson,Richard Adkerson,,,,,1,Vice Chairman/President/CEO,Executive Director,5/31/13,2/2/21,,,,,12493,206065
+38,27965,,MCHP,373,MICROCHIP TECHNOLOGY INC,,MICROCHIP TECHNOLOGY INC,1,INDIAN/SOUTH ASIAN,,,,,,,Steve Sanghi,Steve Sanghi,,,,,1,Chairman/CEO,Executive Director,2/3/16,3/1/21,,,,,20566,61502
+39,15855,134,NLOK,,NORTONLIFELOCK INC,Symantec,,0,CAUCASIAN/WHITE,1,,black,,John,Thompson,,,John Thompson,0,Male,CEO,,,,,,4/14/99,75607,0,0,,
+39,15855,234,NLOK,,NORTONLIFELOCK INC,Symantec,,0,CAUCASIAN/WHITE,1,,black,,Scott,Taylor,,,Scott Taylor,0,Male,TMT,,,,,,8/1/08,75607,1,,,
+40,134932,,ON,410,ON SEMICONDUCTOR CORP,,ON SEMICONDUCTOR CORP,0,CAUCASIAN/WHITE,,,,,,,Keith Jackson,Keith Jackson,,,,,1,President/CEO,Executive Director,11/19/02,12/7/20,,,,,23134,200418
+41,1075,,PNW,431,PINNACLE WEST CAPITAL CORP,,PINNACLE WEST CAPITAL CORP,0,CAUCASIAN/WHITE,,,,,,,Jeff Guldner,Jeff Guldner,,,,,1,Chairman/President/CEO,Executive Director,11/15/19,C,,,,,24493,891832
+42,112168,,RSG,467,REPUBLIC SERVICES INC,,REPUBLIC SERVICES INC,0,CAUCASIAN/WHITE,,,,,,,Don Slager,Don Slager,,,,,1,CEO,Executive Director,5/1/19,5/21/21,,,,,26097,205673
+43,31587,,DLTR,182,DOLLAR TREE INC,,DOLLAR TREE INC,0,CAUCASIAN/WHITE,,,,,,,Bob Sasser,Bob Sasser,,,,,1,Chairman (Executive),Executive Director,9/18/17,3/16/22,,,,,9474,106603
+43,31587,,DLTR,184,DOLLAR TREE INC,,DOLLAR TREE INC,0,CAUCASIAN/WHITE,,,,,,,Gary Philbin,Gary Philbin,,,,,1,CEO,Executive Director,12/9/19,7/20/20,,,,,9474,452406
+44,40614,,CEG,,CONSTELLATION ENE CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+45,12138,108,TROW,443,PRICE (T. ROWE) GROUP,T. Rowe Price Group,T ROWE PRICE GROUP INC,0,CAUCASIAN/WHITE,0,,non-black,,William,Stromberg,Bill Stromberg,Bill Stromberg,William Stromberg,0,Male,CEO,1,Chairman/President/CEO,Executive Director,4/25/19,2/11/21,5/6/15,10138,1,0,25020,489855
+46,165052,,UAA,,UNDER ARMOUR INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+47,160479,,EXR,602,EXTRA SPACE STORAGE INC,,EXTRA SPACE STORAGE INC,0,CAUCASIAN/WHITE,,,,,,,Joe Margolis,Joe Margolis,,,,,1,CEO,Executive Director,5/18/17,C,,,,,600874,375394
+48,11687,,ZION,578,ZIONS BANCORPORATION NA,,ZIONS BANCORPORATION NA (Zions Bancorporation prior to 10/2018),0,CAUCASIAN/WHITE,,,,,,,Harris Simmons,Harris Simmons,,,,,1,Chairman/CEO,Executive Director,3/4/14,C,,,,,34139,57861
+49,3851,,DAL,178,DELTA AIR LINES INC,,DELTA AIR LINES INC,0,CAUCASIAN/WHITE,,,,,,,Ed Bastian,Ed Bastian,,,,,1,CEO,Executive Director,5/2/16,C,,,,,8946,333894
+50,4423,,EFX,211,EQUIFAX INC,,EQUIFAX INC,0,CAUCASIAN/WHITE,,,,,,,Mark Begor,Mark Begor,,,,,1,CEO,Executive Director,4/16/18,C,,,,,10896,202312
+50,4423,,EFX,649,EQUIFAX INC,,ENERFLEX LTD,0,CAUCASIAN/WHITE,,,,,,,Marc Rossiter,Marc Rossiter,,,,,1,President/CEO,Executive Director,5/3/19,C,,,,,1630130,1385042
+51,184700,,FLT,655,FLEETCOR TECHNOLOGIES INC,,FLEETCOR TECHNOLOGIES INC,0,CAUCASIAN/WHITE,,,,,,,Ron Clarke,Ron Clarke,,,,,1,Chairman/President/CEO,Executive Director,12/15/10,C,,,,,1677118,1058760
+51,184700,,FLT,674,FLEETCOR TECHNOLOGIES INC,,DRONE DELIVERY CANADA CORP (Asher Resources Corp prior to 06/2016),0,CAUCASIAN/WHITE,,,,,,,Mike Zahra,Mike Zahra,,,,,1,President/CEO,Executive Director,6/10/19,2/22/22,,,,,1894801,554070
+52,141913,,GPN,261,GLOBAL PAYMENTS INC,,GLOBAL PAYMENTS INC,0,CAUCASIAN/WHITE,,,,,,,Jeff Sloan,Jeff Sloan,,,,,1,CEO,Executive Director,6/30/14,6/1/23,,,,,13417,1076347
+53,163610,,ICE,616,INTERCONTINENTAL EXCHANGE,,INTERCONTINENTAL EXCHANGE INC (IntercontinentalExchange Group Inc prior to 05/2014),0,CAUCASIAN/WHITE,,,,,,,Jeff Sprecher,Jeff Sprecher,,,,,1,Chairman/CEO,Executive Director,11/1/02,C,,,,,815224,489174
+53,163610,,ICE,668,INTERCONTINENTAL EXCHANGE,,CANLAN ICE SPORTS CORP (Canlan Investment Ltd prior to 08/1999),0,CAUCASIAN/WHITE,,,,,,,Joey St-Aubin,Joey St-Aubin,,,,,1,President/CEO,Executive Director,3/6/09,C,,,,,1806144,1194094
+54,29804,,IVZ,29,INVESCO LTD,,INVESCO LTD (Invesco PLC prior to 12/2007),0,CAUCASIAN/WHITE,,,,,,,Marty Flanagan,Marty Flanagan,,,,,1,President/CEO,Executive Director,8/1/05,6/30/23,,,,,2129,36584
+55,3144,177,KO,140,COCA-COLA CO,Coca-Cola,COCA-COLA CO,0,CAUCASIAN/WHITE,1,,black,,Alexander,Cummings,James Quincey,James Quincey,Alexander Cummings,0,Male,TMT,1,Chairman/CEO,Executive Director,4/24/19,C,7/17/08,11308,1,,7204,877797
+55,3144,221,KO,140,COCA-COLA CO,Coca-Cola,COCA-COLA CO,0,CAUCASIAN/WHITE,1,,black,,Vicki,Palmer,James Quincey,James Quincey,Vicki Palmer,1,Female,TMT,1,Chairman/CEO,Executive Director,4/24/19,C,1/13/04,11308,1,,7204,877797
+55,3144,244,KO,140,COCA-COLA CO,Coca-Cola,COCA-COLA CO,0,CAUCASIAN/WHITE,1,,black,,Kathy,Waller,James Quincey,James Quincey,Kathy Waller,1,Female,TMT,1,Chairman/CEO,Executive Director,4/24/19,C,2/20/14,11308,1,,7204,877797
+56,7923,,NSC,395,NORFOLK SOUTHERN CORP,,NORFOLK SOUTHERN CORP,0,CAUCASIAN/WHITE,,,,,,,Jim Squires,Jim Squires,,,,,1,Chairman/President/CEO,Executive Director,10/1/15,12/1/21,,,,,22412,534106
+57,7875,,NWL,392,NEWELL BRANDS INC,,NEWELL BRANDS INC (Newell Rubbermaid Inc prior to 04/2016),1,INDIAN/SOUTH ASIAN,,,,,,,Ravi Saligram,Ravi Saligram,,,,,1,President/CEO,Executive Director,10/2/19,5/5/22,,,,,22048,447647
+58,8823,,PHM,455,PULTEGROUP INC,,PULTEGROUP INC,0,CAUCASIAN/WHITE,,,,,,,Ryan Marshall,Ryan Marshall,,,,,1,President/CEO,Executive Director,9/8/16,C,,,,,25407,1308442
+59,9225,,ROL,475,ROLLINS INC,,ROLLINS INC,0,CAUCASIAN/WHITE,,,,,,,Richard Rollins Sr,Richard Rollins Sr,,,,,1,Chairman,Executive Director,7/24/01,8/17/20,,,,,26519,44241
+59,9225,,ROL,476,ROLLINS INC,,ROLLINS INC,0,CAUCASIAN/WHITE,,,,,,,Gary Rollins,Gary Rollins,,,,,1,Vice Chairman/CEO,Executive Director,1/22/13,8/25/20,,,,,26519,141669
+60,9850,124,SO,501,SOUTHERN CO,Georgia Power,SOUTHERN CO,0,CAUCASIAN/WHITE,1,,black,,Christopher,Womack,Tom Fanning,Tom Fanning,Christopher Womack,0,Male,CEO,1,Chairman/President/CEO,Executive Director,12/1/10,3/31/23,5/26/21,18411,0,0,28665,325858
+60,9850,257,SO,501,SOUTHERN CO,Southern Company,SOUTHERN CO,0,CAUCASIAN/WHITE,1,,black,,Christopher,Womack,Tom Fanning,Tom Fanning,Christopher Womack,0,Male,TMT,1,Chairman/President/CEO,Executive Director,12/1/10,3/31/23,12/22/08,18411,0,,28665,325858
+61,10920,75,UPS,545,UNITED PARCEL SERVICE INC,United Parcel Service,UNITED PARCEL SERVICE (UPS) INC,0,CAUCASIAN/WHITE,0,,non-black,,Michael,Eskew,David Abney,David Abney,Michael Eskew,0,Male,CEO,1,Chairman/CEO,Executive Director,2/10/16,6/1/20,8/16/01,87447,0,0,32137,41806
+62,29830,,WRK,704,WESTROCK CO,,WESTROCK CO,0,CAUCASIAN/WHITE,,,,,,,Steve Voorhees,Steve Voorhees,,,,,1,President/CEO,Executive Director,7/1/15,3/15/21,,,,,2302775,325766
+63,11811,,JKHY,272,HENRY (JACK) & ASSOCIATES,,JACK HENRY & ASSOCIATES INC,0,CAUCASIAN/WHITE,,,,,,,Dave Foss,Dave Foss,,,,,1,President/CEO,Executive Director,7/1/17,7/1/21,,,,,14668,836736
+64,17928,,IQV,678,IQVIA HOLDINGS INC,,IQVIA HOLDINGS INC (Quintiles IMS Holdings Inc prior to 11/2017),0,CAUCASIAN/WHITE,,,,,,,Ari Bousbib,Ari Bousbib,,,,,1,Chairman/President/CEO,Executive Director,10/3/16,C,,,,,1951118,33049
+65,3336,,DXC,144,DXC TECHNOLOGY CO,,DXC TECHNOLOGY CO (Computer Sciences Corp prior to 04/2017),0,CAUCASIAN/WHITE,,,,,,,Mike Salvino,Mike Salvino,,,,,1,President/CEO,Executive Director,9/12/19,7/26/22,,,,,7584,205612
+66,170750,,FANG,675,DIAMONDBACK ENERGY INC,,DIAMONDBACK ENERGY INC,0,CAUCASIAN/WHITE,,,,,,,Travis Stice,Travis Stice,,,,,1,CEO,Executive Director,1/1/17,2/22/22,,,,,1895607,1277021
+67,8543,,MO,,ALTRIA GROUP INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+68,145701,,PFG,445,PRINCIPAL FINANCIAL GRP INC,,PRINCIPAL FINANCIAL GROUP INC,0,CAUCASIAN/WHITE,,,,,,,Dan Houston,Dan Houston,,,,,1,Chairman/President/CEO,Executive Director,5/17/16,C,,,,,25087,333969
+69,30990,,COF,101,CAPITAL ONE FINANCIAL CORP,,CAPITAL ONE FINANCIAL CORP,0,CAUCASIAN/WHITE,,,,,,,Rich Fairbank,Rich Fairbank,,,,,1,Chairman/CEO,Executive Director,4/24/03,C,,,,,5734,48786
+70,5046,,GD,252,GENERAL DYNAMICS CORP,,GENERAL DYNAMICS CORP,0,CAUCASIAN/WHITE,,,,,,,Phebe Novakovic,Phebe Novakovic,,,,,1,Chairman/CEO,Executive Director,1/1/13,C,,,,,12984,45561
+71,5643,,HLT,279,HILTON WORLDWIDE HOLDINGS,,HILTON HOTELS CORP (De-listed 10/2007),0,CAUCASIAN/WHITE,,,,,,,Gregory Dillon,Gregory Dillon,,,,,1,Vice Chairman,Executive Director,1/1/96,N,,,,,14812,85077
+71,5643,,HLT,693,HILTON WORLDWIDE HOLDINGS,,HILTON WORLDWIDE HOLDINGS INC,0,CAUCASIAN/WHITE,,,,,,,Chris Nassetta,Chris Nassetta,,,,,1,President/CEO,Executive Director,12/12/13,C,,,,,2022926,180239
+72,165123,,LDOS,609,LEIDOS HOLDINGS INC,,LEIDOS HOLDINGS INC (SAIC Inc prior to 09/2013),0,CAUCASIAN/WHITE,,,,,,,Roger Krone,Roger Krone,,,,,1,Chairman/CEO,Executive Director,3/20/15,5/3/23,,,,,660090,881227
+73,7985,,NOC,398,NORTHROP GRUMMAN CORP,,NORTHROP GRUMMAN CORP,0,CAUCASIAN/WHITE,,,,,,,Kathy Warden,Kathy Warden,,,,,1,Chair/President/CEO,Executive Director,8/1/19,C,,,,,22521,1255302
+74,66368,,VRSN,,VERISIGN INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+75,144559,,ZBH,576,ZIMMER BIOMET HOLDINGS INC,,ZIMMER BIOMET HOLDINGS INC (Zimmer Holdings Inc prior to 06/2015),0,CAUCASIAN/WHITE,,,,,,,Bryan Hanson,Bryan Hanson,,,,,1,President/CEO,Executive Director,12/19/17,5/14/21,,,,,34134,1119554
+76,6649,,LEG,,LEGGETT & PLATT INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+77,6649,,LEG,,LEGGETT & PLATT INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+78,24216,,AES,6,AES CORP (THE),,AES CORP,1,HISPANIC/LATIN AMERICAN,,,,,,,Doctor Andr__©s Gluski Weilert,Doctor Andr__©s Gluski Weilert,,,,,1,President/CEO,Executive Director,9/30/11,C,,,,,979,452889
+79,29875,,AVB,45,AVALONBAY COMMUNITIES INC,,AVALONBAY COMMUNITIES INC,0,CAUCASIAN/WHITE,,,,,,,Tim Naughton,Tim Naughton,,,,,1,Chairman/President/CEO,Executive Director,5/22/13,2/1/21,,,,,3169,204883
+80,61420,,POOL,489,POOL CORP,,POOL CORP (SCP Pool prior to 05/2006),0,CAUCASIAN/WHITE,,,,,,,Pete Arvan,Pete Arvan,,,,,1,President/CEO,Executive Director,7/31/19,C,,,,,27358,1351667
+81,4029,,D,186,DOMINION ENERGY INC,,DOMINION ENERGY INC (Dominion Resources Inc (Virginia) prior to 05/2017),0,CAUCASIAN/WHITE,,,,,,,Tom Farrell II,Tom Farrell II,,,,,1,Chairman/President/CEO,Executive Director,4/27/07,10/1/20,,,,,9491,36934
+82,186989,,MPC,645,MARATHON PETROLEUM CORP,,MADISON PACIFIC PROPERTIES INC,0,CAUCASIAN/WHITE,,,,,,,Marvin Haasen,Marvin Haasen,,,,,1,President/CEO,Executive Director,11/1/12,7/17/23,,,,,1604377,2121957
+83,9777,,SJM,498,SMUCKER (JM) CO,,J. M. SMUCKER CO (THE),0,CAUCASIAN/WHITE,,,,,,,Richard Smucker,Richard Smucker,,,,,1,Chairman (Executive),Executive Director,5/1/16,8/17/22,,,,,28325,43611
+83,9777,,SJM,499,SMUCKER (JM) CO,,J. M. SMUCKER CO (THE),0,CAUCASIAN/WHITE,,,,,,,Mark Smucker,Mark Smucker,,,,,1,President/CEO,Executive Director,5/1/16,8/17/22,,,,,28325,548682
+84,10407,,TFX,515,TELEFLEX INC,,TELEFLEX INC,0,CAUCASIAN/WHITE,,,,,,,Liam Kelly,Liam Kelly,,,,,1,President/CEO,Executive Director,5/4/18,5/1/20,,,,,30265,1115309
+85,12850,,CERN,117,CERNER CORP,,CERNER CORP (De-listed 06/2022),0,PREFER NOT TO DISCLOSE,,,,,,,D Shafer,D Shafer,,,,,1,Chairman/CEO,Executive Director,2/1/18,10/1/21,,,,,6375,1370253
+86,3532,212,GLW,,CORNING INC,Corning,,0,CAUCASIAN/WHITE,1,,black,,Lawrence,McRae,,,Lawrence McRae,0,Male,TMT,,,,,,10/7/10,22293,1,,,
+87,3650,,CMI,166,CUMMINS INC,,CUMMINS INC,0,CAUCASIAN/WHITE,,,,,,,Tom Linebarger,Tom Linebarger,,,,,1,Chairman/CEO,Executive Director,1/1/12,8/1/22,,,,,8426,203776
+87,3650,,CMI,682,CUMMINS INC,,C-COM SATELLITE SYSTEMS INC,0,CAUCASIAN/WHITE,,,,,,,Doctor Leslie Klein,Doctor Leslie Klein,,,,,1,President/CEO,Executive Director,8/15/00,C,,,,,1984540,2418090
+88,29736,,TSCO,,TRACTOR SUPPLY CO,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+89,2884,,LUMN,116,LUMEN TECHNOLOGIES INC,,LUMEN TECHNOLOGIES INC (CenturyLink Inc prior to 09/2020),0,CAUCASIAN/WHITE,,,,,,,Jeff Storey,Jeff Storey,,,,,1,President/CEO,Executive Director,5/23/18,11/7/22,,,,,6353,730057
+90,14824,,CINF,126,CINCINNATI FINANCIAL CORP,,CINCINNATI FINANCIAL CORP,0,CAUCASIAN/WHITE,,,,,,,Steve Johnston,Steve Johnston,,,,,1,President/CEO,Executive Director,5/2/11,5/2/20,,,,,6863,270963
+91,63080,,ANSS,31,ANSYS INC,,ANSYS INC,1,INDIAN/SOUTH ASIAN,,,,,,,Doctor Ajei Gopal,Doctor Ajei Gopal,,,,,1,President/CEO,Executive Director,1/1/17,C,,,,,2257,545851
+92,7637,,VTRS,,VIATRIS INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+93,12635,,FISV,,FISERV INC,,,1,ASIAN (EXCLUDE INDIAN/SOUTH ASIAN),,,,,,,,,,,,,,,,,,,,,,,
+94,28180,,ORLY,418,O'REILLY AUTOMOTIVE INC,,O'REILLY AUTOMOTIVE INC,0,CAUCASIAN/WHITE,,,,,,,David O'Reilly,David O'Reilly,,,,,1,Chairman (Executive),Executive Director,2/24/05,5/13/21,,,,,23350,102852
+94,28180,,ORLY,419,O'REILLY AUTOMOTIVE INC,,O'REILLY AUTOMOTIVE INC,0,CAUCASIAN/WHITE,,,,,,,Greg Henslee,Greg Henslee,,,,,1,Vice Chairman (Executive),Executive Director,5/8/18,5/13/21,,,,,23350,204705
+95,3439,195,CMS,137,CMS ENERGY CORP,CMS Energy,CMS ENERGY CORP,0,CAUCASIAN/WHITE,1,,black,,Rejji,Hayes,Patti Poppe,Patti Poppe,Rejji Hayes,0,Male,TMT,1,President/CEO,Executive Director,7/1/16,12/1/20,5/1/17,23229,1,,7147,1094129
+96,5492,,LHX,267,L3HARRIS TECHNOLOGIES INC,,L3HARRIS TECHNOLOGIES INC (Harris Corp prior to 07/2019),0,CAUCASIAN/WHITE,,,,,,,Chris Kubasik,Chris Kubasik,,,,,1,Vice Chairman/President/COO,Executive Director,6/29/19,6/29/21,,,,,14355,34826
+96,5492,,LHX,268,L3HARRIS TECHNOLOGIES INC,,L3HARRIS TECHNOLOGIES INC (Harris Corp prior to 07/2019),0,CAUCASIAN/WHITE,,,,,,,Bill Brown,Bill Brown,,,,,1,Chairman (Executive)/CEO,Executive Director,6/29/19,6/29/21,,,,,14355,484620
+97,34443,,DOW,,DOW INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+98,6375,,K,322,KELLOGG CO,,KELLANOVA CO (Kellogg Co prior to 10/2023),0,CAUCASIAN/WHITE,,,,,,,Steve Cahillane,Steve Cahillane,,,,,1,Chairman/President/CEO,Executive Director,3/16/18,C,,,,,17777,455061
+98,6375,,K,326,KELLOGG CO,,KINROSS GOLD CORP,0,CAUCASIAN/WHITE,,,,,,,J Rollinson,J Rollinson,,,,,1,President/CEO,Executive Director,10/1/14,C,,,,,17958,889546
+99,12726,,UNM,534,UNUM GROUP,,UNUM GROUP (UnumProvident Corp prior to 03/2007),0,CAUCASIAN/WHITE,,,,,,,Rick McKenney,Rick McKenney,,,,,1,President/CEO,Executive Director,5/21/15,C,,,,,31898,340641
+100,24925,,ROP,477,ROPER TECHNOLOGIES INC,,ROPER TECHNOLOGIES INC (Roper Industries Inc prior to 04/2015),0,CAUCASIAN/WHITE,,,,,,,Laurence Hunn,Laurence Hunn,,,,,1,President/CEO,Executive Director,9/19/18,C,,,,,26544,796522
+101,13988,,SCHW,487,SCHWAB (CHARLES) CORP,,CHARLES SCHWAB CORP,0,CAUCASIAN/WHITE,,,,,,,Chuck Schwab Jr,Chuck Schwab Jr,,,,,1,Chairman (Executive),Executive Director,10/1/08,7/27/22,,,,,27292,957
+101,13988,,SCHW,488,SCHWAB (CHARLES) CORP,,CHARLES SCHWAB CORP,0,CAUCASIAN/WHITE,,,,,,,Walt Bettinger II,Walt Bettinger II,,,,,1,President/CEO,Executive Director,10/1/08,10/15/21,,,,,27292,486476
+102,10894,,UDR,543,UDR INC,,UDR INC (United Dominion Realty Trust Inc prior to 03/2007),0,CAUCASIAN/WHITE,,,,,,,Tom Toomey,Tom Toomey,,,,,1,Chairman/CEO,Executive Director,1/1/19,C,,,,,32094,181650
+103,11465,236,WHR,569,WHIRLPOOL CORP,Whirlpool,WHIRLPOOL CORP,0,CAUCASIAN/WHITE,1,,black,,Michael,Todman,Doctor Marc Bitzer,Doctor Marc Bitzer,Michael Todman,0,Male,TMT,1,Chairman/President/CEO,Executive Director,1/1/19,9/1/21,3/25/01,25419,0,,33437,485987
+104,65772,77,MTD,372,METTLER-TOLEDO INTL INC,Mettler-Toledo International,METTLER TOLEDO INTERNATIONAL INC,0,CAUCASIAN/WHITE,0,,non-black,,Olivier,Filliol,Olivier Filliol,Olivier Filliol,Olivier Filliol,0,Male,CEO,1,President/CEO,Executive Director,1/1/09,3/31/21,11/1/07,85621,0,0,20478,205031
+105,28790,,LW,710,LAMB WESTON HOLDINGS INC,,LAMB WESTON HOLDINGS INC,0,CAUCASIAN/WHITE,,,,,,,Tom Werner,Tom Werner,,,,,1,President/CEO,Executive Director,11/9/16,C,,,,,2558653,1595178
+106,7343,,MU,376,MICRON TECHNOLOGY INC,,MICRON TECHNOLOGY INC,1,INDIAN/SOUTH ASIAN,,,,,,,Sanjay Mehrotra,Sanjay Mehrotra,,,,,1,President/CEO,Executive Director,5/8/17,C,,,,,20589,205405
+106,7343,,MU,378,MICRON TECHNOLOGY INC,,MICRON TECHNOLOGY INC,1,INDIAN/SOUTH ASIAN,,,,,,,K Hsu,K Hsu,,,,,1,Chairman/Regional VP,Executive Director,8/1/15,1/1/21,,,,,20589,2554735
+107,6338,,EVRG,717,EVERGY INC,,EVERGY INC,0,CAUCASIAN/WHITE,,,,,,,Terry Bassham,Terry Bassham,,,,,1,President/CEO,Executive Director,6/5/18,1/4/21,,,,,2824528,345671
+108,6335,,KSU,320,KANSAS CITY SOUTHERN,,KANSAS CITY SOUTHERN (De-listed 12/2021),0,CAUCASIAN/WHITE,,,,,,,Pat Ottensmeyer,Pat Ottensmeyer,,,,,1,President/CEO,Executive Director,7/1/16,12/14/21,,,,,17690,489655
+109,10614,,GL,525,GLOBE LIFE INC,,GLOBE LIFE INC (Torchmark Corp prior to 08/2019),0,CAUCASIAN/WHITE,,,,,,,Gary Coleman,Gary Coleman,,,,,1,Co-Chairman/Co-CEO,Executive Director,4/24/14,12/31/22,,,,,30937,58941
+109,10614,,GL,526,GLOBE LIFE INC,,GLOBE LIFE INC (Torchmark Corp prior to 08/2019),0,CAUCASIAN/WHITE,,,,,,,Larry Hutchison,Larry Hutchison,,,,,1,Co-Chairman/Co-CEO,Executive Director,4/24/14,12/31/22,,,,,30937,58946
+110,10789,,TYL,527,TYLER TECHNOLOGIES INC,,TYLER TECHNOLOGIES INC,0,CAUCASIAN/WHITE,,,,,,,John Marr Jr,John Marr Jr,,,,,1,Chairman (Executive),Executive Director,5/10/18,C,,,,,31558,325222
+110,10789,,TYL,528,TYLER TECHNOLOGIES INC,,TYLER TECHNOLOGIES INC,0,CAUCASIAN/WHITE,,,,,,,H Moore Jr,H Moore Jr,,,,,1,President/CEO,Executive Director,5/10/18,C,,,,,31558,325238
+111,9778,,SNA,500,SNAP-ON INC,,SNAP-ON INC,0,CAUCASIAN/WHITE,,,,,,,Nick Pinchuk,Nick Pinchuk,,,,,1,Chairman/President/CEO,Executive Director,4/23/09,C,,,,,28335,206568
+112,2710,,STZ,149,CONSTELLATION BRANDS,,CONSTELLATION BRANDS INC,0,CAUCASIAN/WHITE,,,,,,,Doctor Richard Sands,Doctor Richard Sands,,,,,1,Vice Chairman (Executive),Executive Director,3/1/19,1/1/22,,,,,7753,82517
+112,2710,,STZ,151,CONSTELLATION BRANDS,,CONSTELLATION BRANDS INC,0,CAUCASIAN/WHITE,,,,,,,Rob Sands,Rob Sands,,,,,1,Chairman (Executive),Executive Director,3/1/19,1/1/22,,,,,7753,82522
+112,2710,,STZ,153,CONSTELLATION BRANDS,,CONSTELLATION BRANDS INC,0,CAUCASIAN/WHITE,,,,,,,Bill Newlands Jr,Bill Newlands Jr,,,,,1,President/CEO,Executive Director,3/1/19,C,,,,,7753,1130665
+113,61494,,HSIC,274,HENRY SCHEIN INC,,HENRY SCHEIN INC,0,CAUCASIAN/WHITE,,,,,,,Stan Bergman,Stan Bergman,,,,,1,Chairman/CEO,Executive Director,5/18/05,C,,,,,14669,85377
+113,61494,,HSIC,276,HENRY SCHEIN INC,,HENRY SCHEIN INC,0,CAUCASIAN/WHITE,,,,,,,Jim Breslawski,Jim Breslawski,,,,,1,Vice Chairman/President,Executive Director,5/1/18,C,,,,,14669,85387
+114,14225,,FAST,233,FASTENAL CO,,FASTENAL CO,0,CAUCASIAN/WHITE,,,,,,,Dan Florness,Dan Florness,,,,,1,President/CEO,Executive Director,1/1/16,C,,,,,11608,70422
+115,1045,,AAL,692,AMERICAN AIRLINES GROUP INC,,AMERICAN AIRLINES GROUP INC (AMR Corp prior to 12/2013),0,CAUCASIAN/WHITE,,,,,,,Doug Parker Jr,Doug Parker Jr,,,,,1,Chairman/CEO,Executive Director,6/4/14,3/31/22,,,,,2021732,273457
+116,25340,,DHI,189,D R HORTON INC,,DR HORTON INC,0,CAUCASIAN/WHITE,,,,,,,Donald Horton,Donald Horton,,,,,1,Chairman (Executive),Executive Director,11/1/98,10/1/23,,,,,9582,65517
+117,8898,,RJF,463,RAYMOND JAMES FINANCIAL INC,,RAYMOND JAMES FINANCIAL INC,0,CAUCASIAN/WHITE,,,,,,,Paul Reilly,Paul Reilly,,,,,1,Chairman/CEO,Executive Director,2/16/17,C,,,,,25808,275776
+118,2574,,CSX,164,CSX CORP,,CSX CORP,0,CAUCASIAN/WHITE,,,,,,,Jim Foote,Jim Foote,,,,,1,President/CEO,Executive Director,12/22/17,9/26/22,,,,,8383,331094
+118,2574,,CSX,686,CSX CORP,,CLEAN SEED CAPITAL GROUP LTD,0,CAUCASIAN/WHITE,,,,,,,Graeme Lempriere,Graeme Lempriere,,,,,1,Chairman/CEO,Executive Director,10/16/18,C,,,,,1986420,1852520
+119,165993,,FIS,119,FIDELITY NATIONAL INFO SVCS,,FIDELITY NATIONAL INFORMATION SERVICES INC (Certegy Inc prior to 02/2006),0,CAUCASIAN/WHITE,,,,,,,Gary Norcross,Gary Norcross,,,,,1,Chairman/President/CEO,Executive Director,5/30/18,3/9/21,,,,,6382,516521
+120,29099,,REG,666,REGENCY CENTERS CORP,,REGULUS RESOURCES INC,0,CAUCASIAN/WHITE,,,,,,,John Black,John Black,,,,,1,CEO,Executive Director,9/30/14,C,,,,,1792078,1061422
+121,13721,207,ZTS,,ZOETIS INC,Zoetis,,0,CAUCASIAN/WHITE,1,,black,,Clinton,Lewis,,,Clinton Lewis,0,Male,TMT,,,,,,5/7/15,13788,1,,,
+122,187697,,EPAM,667,EPAM SYSTEMS INC,,EPAM SYSTEMS INC,0,CAUCASIAN/WHITE,,,,,,,Arkadiy Dobkin,Arkadiy Dobkin,,,,,1,Chairman/President/CEO,Executive Director,2/8/12,C,,,,,1796199,1059890
+123,162129,,MOS,599,MOSAIC CO,,MOSAIC CO,0,CAUCASIAN/WHITE,,,,,,,Joc O'Rourke,Joc O'Rourke,,,,,1,President/CEO,Executive Director,8/5/15,8/29/23,,,,,550358,549793
+124,24316,,MNST,265,MONSTER BEVERAGE CORP,,MONSTER BEVERAGE CORP (Hansen Natural Corp prior to 12/2011),0,CAUCASIAN/WHITE,,,,,,,Rodney Sacks,Rodney Sacks,,,,,1,Chairman/CEO,Executive Director,7/1/96,1/13/21,,,,,14301,343707
+124,24316,,MNST,266,MONSTER BEVERAGE CORP,,MONSTER BEVERAGE CORP (Hansen Natural Corp prior to 12/2011),0,CAUCASIAN/WHITE,,,,,,,Hilton Schlosberg,Hilton Schlosberg,,,,,1,Vice Chairman/President/CFO/COO/Secretary,Executive Director,7/1/96,1/13/21,,,,,14301,343710
+125,1209,,APD,8,AIR PRODUCTS & CHEMICALS INC,,AIR PRODUCTS & CHEMICALS INC,1,MIDDLE-EASTERN/NORTH AFRICAN,,,,,,,Seifi Ghasemi,Seifi Ghasemi,,,,,1,Chairman/President/CEO,Executive Director,7/1/14,C,,,,,1173,24391
+126,8455,,PPL,441,PPL CORP,,PPL CORP,0,CAUCASIAN/WHITE,,,,,,,Bill Spence,Bill Spence,,,,,1,Chairman/CEO,Executive Director,7/1/19,5/31/20,,,,,24890,333782
+126,8455,,PPL,610,PPL CORP,,PEMBINA PIPELINE CORP,0,CAUCASIAN/WHITE,,,,,,,Mick Dilger,Mick Dilger,,,,,1,President/CEO,Executive Director,1/1/14,11/19/21,,,,,664896,1248718
+127,178704,,ULTA,595,ULTA BEAUTY INC,,ULTA BEAUTY INC (Ulta Salon Cosmetics & Fragrance Inc prior to 01/2017),0,CAUCASIAN/WHITE,,,,,,,Mary Dillon,Mary Dillon,,,,,1,CEO,Executive Director,7/1/13,6/2/21,,,,,465379,487099
+128,13498,15,CCL,104,CARNIVAL CORPORATION & PLC,Carnival & plc,CARNIVAL CORP,1,BLACK/AFRICAN AMERICAN,1,,black,,Arnold,Donald,Micky Arison,Micky Arison,Arnold Donald,0,Male,CEO,1,Chairman (Executive),Executive Director,7/3/13,C,6/24/13,89728,0,0,5867,27496
+128,13498,15,CCL,105,CARNIVAL CORPORATION & PLC,Carnival & plc,CARNIVAL CORP,1,BLACK/AFRICAN AMERICAN,1,,black,,Arnold,Donald,Arnold Donald,Arnold Donald,Arnold Donald,0,Male,CEO,1,President/CEO,Executive Director,7/3/13,1/1/22,6/24/13,89728,0,0,5867,35264
+129,6669,,LEN,335,LENNAR CORP,,LENNAR CORP,0,CAUCASIAN/WHITE,,,,,,,Stuart Miller,Stuart Miller,,,,,1,Chairman (Executive),Executive Director,4/11/18,9/1/23,,,,,18703,61812
+129,6669,,LEN,337,LENNAR CORP,,LENNAR CORP,0,CAUCASIAN/WHITE,,,,,,,Rick Beckwitt,Rick Beckwitt,,,,,1,CEO,Executive Director,4/11/18,11/2/20,,,,,18703,67887
+130,104432,,NCLH,677,NORWEGIAN CRUISE LINE HLDGS,,NORWEGIAN CRUISE LINE HOLDINGS LTD,1,HISPANIC/LATIN AMERICAN,,,,,,,Frank Del Rio,Frank Del Rio,,,,,1,President/CEO,Executive Director,8/4/15,6/30/23,,,,,1925428,1451131
+131,28191,,RCL,480,ROYAL CARIBBEAN GROUP,,ROYAL CARIBBEAN CRUISES LTD (ROYAL CARIBBEAN GROUP),0,CAUCASIAN/WHITE,,,,,,,Richard Fain,Richard Fain,,,,,1,Chairman/CEO,Executive Director,4/1/88,1/3/22,,,,,26625,13413
+132,165914,,CMG,601,CHIPOTLE MEXICAN GRILL INC,,COMPUTER MODELLING GROUP LTD,0,CAUCASIAN/WHITE,,,,,,,Ryan Schneider,Ryan Schneider,,,,,1,President/CEO,Executive Director,7/12/18,5/10/22,,,,,598752,1457763
+133,133366,,EW,202,EDWARDS LIFESCIENCES CORP,,EDWARDS LIFESCIENCES CORP,0,CAUCASIAN/WHITE,,,,,,,Mike Mussallem,Mike Mussallem,,,,,1,Chairman/CEO,Executive Director,3/31/00,5/11/23,,,,,10156,90062
+133,133366,,EW,637,EDWARDS LIFESCIENCES CORP,,EAST WEST PETROLEUM CORP (Avere Energy Inc prior to 08/2010),0,CAUCASIAN/WHITE,,,,,,,Nick DeMare,Nick DeMare,,,,,1,CFO/Secretary/Interim CEO,Executive Director,3/14/19,2/2/23,,,,,1195225,482389
+134,1327,,SWKS,17,SKYWORKS SOLUTIONS INC,,SKYWORKS SOLUTIONS INC (Alpha Industries prior to 6/2002),0,CAUCASIAN/WHITE,,,,,,,Liam Griffin,Liam Griffin,,,,,1,President/CEO,Executive Director,5/11/16,5/13/21,,,,,1573,327486
+135,5597,,HSY,277,HERSHEY CO,,HERSHEY CO (THE),0,CAUCASIAN/WHITE,,,,,,,Michele Buck,Michele Buck,,,,,1,Chairman/President/CEO,Executive Director,10/11/19,C,,,,,14714,485170
+136,161844,,LVS,603,LAS VEGAS SANDS CORP,,LAS VEGAS SANDS CORP,0,CAUCASIAN/WHITE,,,,,,,Sheldon Adelson,Sheldon Adelson,,,,,1,Chairman/CEO/Treasurer,Executive Director,8/1/04,1/11/21,,,,,603630,373289
+137,149318,,WYNN,589,WYNN RESORTS LTD,,WYNN RESORTS LTD,0,CAUCASIAN/WHITE,,,,,,,Matt Maddox,Matt Maddox,,,,,1,CEO,Executive Director,5/29/19,1/31/22,,,,,136226,488858
+138,176928,,BR,625,BROADRIDGE FINANCIAL SOLUTNS,,BROADRIDGE FINANCIAL SOLUTIONS INC,0,CAUCASIAN/WHITE,,,,,,,Rich Daly,Rich Daly,,,,,1,Chairman (Executive),Executive Director,1/2/19,C,,,,,934640,35096
+139,24731,,KIM,324,KIMCO REALTY CORP,,KIMCO REALTY CORP,0,CAUCASIAN/WHITE,,,,,,,Milton Cooper,Milton Cooper,,,,,1,Chairman (Executive),Executive Director,12/31/09,C,,,,,17915,142173
+139,24731,,KIM,325,KIMCO REALTY CORP,,KIMCO REALTY CORP,0,CAUCASIAN/WHITE,,,,,,,Conor Flynn,Conor Flynn,,,,,1,CEO,Executive Director,2/27/17,C,,,,,17915,888666
+140,28477,,FLIR,237,FLIR SYSTEMS INC,,FLIR SYSTEMS INC (De-listed 05/2021),0,CAUCASIAN/WHITE,,,,,,,Jim Cannon,Jim Cannon,,,,,1,President/CEO,Executive Director,6/19/17,5/14/21,,,,,12112,1301933
+141,8099,,FE,236,FIRSTENERGY CORP,,FIRSTENERGY CORP,0,CAUCASIAN/WHITE,,,,,,,Chuck Jones Jr,Chuck Jones Jr,,,,,1,President/CEO,Executive Director,1/1/15,5/24/20,,,,,11964,621318
+141,8099,,FE,608,FIRSTENERGY CORP,,FE BATTERY METALS CORP (First Energy Metals Ltd prior to 11/2022),0,CAUCASIAN/WHITE,,,,,,,Gurm Sangha,Gurm Sangha,,,,,1,President/CEO,Executive Director,3/26/18,C,,,,,643675,1966120
+142,2176,,BRK.B,61,BERKSHIRE HATHAWAY,,BERKSHIRE HATHAWAY INC,0,CAUCASIAN/WHITE,,,,,,,Warren Buffett,Warren Buffett,,,,,1,Chairman/CEO,Executive Director,1/1/70,C,,,,,4080,32543
+142,2176,,BRK.B,65,BERKSHIRE HATHAWAY,,BERKSHIRE HATHAWAY INC,0,CAUCASIAN/WHITE,,,,,,,Charlie Munger,Charlie Munger,,,,,1,Vice Chairman,Executive Director,1/1/78,11/28/23,,,,,4080,40751
+142,2176,,BRK.B,69,BERKSHIRE HATHAWAY,,BERKSHIRE HATHAWAY INC,0,CAUCASIAN/WHITE,,,,,,,Greg Abel,Greg Abel,,,,,1,Vice Chairman - Operations,Executive Director,1/9/18,C,,,,,4080,344171
+142,2176,,BRK.B,73,BERKSHIRE HATHAWAY,,BERKSHIRE HATHAWAY INC,0,CAUCASIAN/WHITE,,,,,,,Ajit Jain,Ajit Jain,,,,,1,Vice Chairman - Operations,Executive Director,1/9/18,C,,,,,4080,1113697
+143,10867,171,UNP,532,UNION PACIFIC CORP,Union Paci_c,UNION PACIFIC CORP,0,CAUCASIAN/WHITE,1,,black,,Eric,Butler,Lance Fritz,Lance Fritz,Eric Butler,0,Male,TMT,1,Chairman/President/CEO,Executive Director,10/1/15,8/14/23,11/17/16,48725,1,,31786,603672
+143,10867,172,UNP,532,UNION PACIFIC CORP,Union Paci_c,UNION PACIFIC CORP,0,CAUCASIAN/WHITE,1,,black,,Eric,Butler,Lance Fritz,Lance Fritz,Eric Butler,0,Male,TMT,1,Chairman/President/CEO,Executive Director,10/1/15,8/14/23,3/15/12,48725,1,,31786,603672
+143,10867,186,UNP,532,UNION PACIFIC CORP,Union Paci_c,UNION PACIFIC CORP,0,CAUCASIAN/WHITE,1,,black,,Rhonda,Ferguson,Lance Fritz,Lance Fritz,Rhonda Ferguson,1,Female,TMT,1,Chairman/President/CEO,Executive Director,10/1/15,8/14/23,6/7/16,48725,0,,31786,603672
+144,3835,,DE,177,DEERE & CO,,DEERE & CO,0,CAUCASIAN/WHITE,,,,,,,John May,John May,,,,,1,President/CEO,Executive Director,11/4/19,5/1/20,,,,,8886,1070838
+144,3835,,DE,689,DEERE & CO,,DECISIVE DIVIDEND CORP,0,CAUCASIAN/WHITE,,,,,,,James Paterson,James Paterson,,,,,1,Chairman/CEO,Executive Director,9/24/13,5/31/21,,,,,1987627,2784754
+145,4674,,RF,597,REGIONS FINANCIAL CORP,,REGIONS FINANCIAL CORP,0,CAUCASIAN/WHITE,,,,,,,John Turner Jr,John Turner Jr,,,,,1,President/CEO,Executive Director,7/2/18,C,,,,,550049,488345
+146,11228,,VMC,556,VULCAN MATERIALS CO,,VULCAN MATERIALS CO,0,CAUCASIAN/WHITE,,,,,,,Tom Hill,Tom Hill,,,,,1,Chairman/President/CEO,Executive Director,1/1/16,9/20/23,,,,,32979,1085549
+146,11228,,VMC,694,VULCAN MATERIALS CO,,VICINITY MOTOR CORP (Grande West Transportation Group Inc prior to 03/2021),0,CAUCASIAN/WHITE,,,,,,,William Trainer,William Trainer,,,,,1,President/CEO,Executive Director,8/26/19,C,,,,,2034565,1537148
+147,1678,,APA,33,APA CORP,,APA CORP (Apache Corp prior to 03/2021),0,CAUCASIAN/WHITE,,,,,,,John Christmann IV,John Christmann IV,,,,,1,President/CEO,Executive Director,1/20/15,1/1/24,,,,,2307,535064
+148,32106,,BKR,48,BAKER HUGHES CO,,BAKER HUGHES CO (Baker Hughes a GE Co prior to 10/2019),0,CAUCASIAN/WHITE,,,,,,,Lorenzo Simonelli,Lorenzo Simonelli,,,,,1,Chairman/President/CEO,Executive Director,10/2/17,C,,,,,3415,641184
+149,113490,,CCI,163,CROWN CASTLE INC,,CROWN CASTLE INC (Crown Castle International Corp prior to 08/2022),0,CAUCASIAN/WHITE,,,,,,,Jay Brown,Jay Brown,,,,,1,President/CEO,Executive Director,6/1/16,1/16/24,,,,,8304,620002
+150,5742,,CNP,113,CENTERPOINT ENERGY INC,,CENTERPOINT ENERGY INC,0,CAUCASIAN/WHITE,,,,,,,Milton Carroll,Milton Carroll,,,,,1,Chairman (Executive),Executive Director,6/1/13,7/21/21,,,,,6271,81927
+151,8549,,COP,428,CONOCOPHILLIPS,,CONOCOPHILLIPS COMPANY,0,CAUCASIAN/WHITE,,,,,,,Ryan Lance,Ryan Lance,,,,,1,Chairman/CEO,Executive Director,5/1/12,C,,,,,24355,486834
+152,20548,,CTRA,96,COTERRA ENERGY INC,,COTERRA ENERGY INC (Cabot Oil & Gas Corp prior to 10/2021),0,CAUCASIAN/WHITE,,,,,,,Dan Dinges,Dan Dinges,,,,,1,Chairman/President/CEO,Executive Director,5/2/02,10/1/21,,,,,5465,202913
+153,16478,,EOG,210,EOG RESOURCES INC,,EOG RESOURCES INC (Enron Oil & Gas Co prior to 09/1999),0,CAUCASIAN/WHITE,,,,,,,Bill Thomas,Bill Thomas,,,,,1,Chairman/CEO,Executive Director,1/1/14,9/30/21,,,,,10844,534761
+153,16478,,EOG,669,EOG RESOURCES INC,,ECO ATLANTIC OIL & GAS LTD (Goldbard Capital Corp prior to 11/2011),0,CAUCASIAN/WHITE,,,,,,,Gil Holzman,Gil Holzman,,,,,1,President/CEO,Executive Director,11/25/11,C,,,,,1807060,1892119
+154,5439,,HAL,264,HALLIBURTON CO,,HALLIBURTON CO,0,CAUCASIAN/WHITE,,,,,,,Jeff Miller,Jeff Miller,,,,,1,Chairman/President/CEO,Executive Director,1/1/19,C,,,,,14212,1269010
+155,26156,,HPE,706,HEWLETT PACKARD ENTERPRISE,,HEWLETT PACKARD ENTERPRISE CO,1,HISPANIC/LATIN AMERICAN,,,,,,,Antonio Neri,Antonio Neri,,,,,1,President/CEO,Executive Director,2/1/18,C,,,,,2358912,1192124
+156,6310,,KMI,660,KINDER MORGAN INC,,KINDER MORGAN INC (Kinder Morgan Holdco LLC prior to 02/2011),0,CAUCASIAN/WHITE,,,,,,,Rich Kinder,Rich Kinder,,,,,1,Chairman (Executive),Executive Director,6/1/15,C,,,,,1687673,38016
+156,6310,,KMI,661,KINDER MORGAN INC,,KINDER MORGAN INC (Kinder Morgan Holdco LLC prior to 02/2011),0,CAUCASIAN/WHITE,,,,,,,Steve Kean,Steve Kean,,,,,1,CEO,Executive Director,4/18/18,8/1/23,,,,,1687673,480557
+157,294524,,LYB,653,LYONDELLBASELL INDUSTRIES NV,,LYONDELLBASELL INDUSTRIES NV,1,INDIAN/SOUTH ASIAN,,,,,,,Bob Patel,Bob Patel,,,,,1,CEO,Executive Director,6/1/18,12/31/21,,,,,1667126,1092110
+158,7017,,MRO,542,MARATHON OIL CORP,,MARATHON OIL CORP (USX Marathon Group prior to 01/2002),0,CAUCASIAN/WHITE,,,,,,,Lee Tillman,Lee Tillman,,,,,1,Chairman/President/CEO,Executive Director,2/1/19,C,,,,,32067,1314672
+159,63892,,NOV,389,NOV INC,,NOV INC (National Oilwell Varco Inc prior to 01/2021),0,CAUCASIAN/WHITE,,,,,,,Clay Williams,Clay Williams,,,,,1,Chairman/President/CEO,Executive Director,5/30/14,C,,,,,21553,207048
+160,135990,,NRG,400,NRG ENERGY INC,,NRG ENERGY INC,1,HISPANIC/LATIN AMERICAN,,,,,,,Mauricio Gutierrez,Mauricio Gutierrez,,,,,1,President/CEO,Executive Director,1/4/16,11/17/23,,,,,22626,598675
+161,8068,,OXY,405,OCCIDENTAL PETROLEUM CORP,,OCCIDENTAL PETROLEUM CORP,0,CAUCASIAN/WHITE,,,,,,,Vicki Hollub,Vicki Hollub,,,,,1,President/CEO,Executive Director,4/29/16,C,,,,,22899,1304382
+162,170841,,PSX,671,PHILLIPS 66,,PHILLIPS 66,0,CAUCASIAN/WHITE,,,,,,,Greg Garland,Greg Garland,,,,,1,Chairman/CEO,Executive Director,6/1/14,7/1/22,,,,,1813482,1089975
+163,66446,,PWR,460,QUANTA SERVICES INC,,QUANTA SERVICES INC,0,CAUCASIAN/WHITE,,,,,,,Duke Austin Jr,Duke Austin Jr,,,,,1,President/CEO/COO,Executive Director,3/14/16,1/26/22,,,,,25544,1048547
+164,9465,,SLB,486,SCHLUMBERGER LTD,,SCHLUMBERGER LIMITED,0,CAUCASIAN/WHITE,,,,,,,Olivier Le Peuch,Olivier Le Peuch,,,,,1,CEO,Executive Director,8/1/19,C,,,,,27242,484858
+165,10247,,SYY,,SYSCO CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+166,185532,,TRGP,,TARGA RESOURCES CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+167,14477,,WM,563,WASTE MANAGEMENT INC,,WASTE MANAGEMENT INC,0,CAUCASIAN/WHITE,,,,,,,Jim Fish Jr,Jim Fish Jr,,,,,1,President/CEO,Executive Director,11/10/16,C,,,,,33114,1119364
+167,14477,,WM,613,WASTE MANAGEMENT INC,,WALLBRIDGE MINING CO LTD,0,CAUCASIAN/WHITE,,,,,,,Marz Kord-Gharachorloo,Marz Kord-Gharachorloo,,,,,1,President/CEO,Executive Director,4/25/12,10/10/23,,,,,742530,1061537
+168,4699,28,MTB,351,M & T BANK CORP,M&T Bank,M&T BANK CORP,0,CAUCASIAN/WHITE,1,,black,,Rene,Jones,Ren__© Jones,Ren__© Jones,Rene Jones,0,Male,CEO,1,Chairman/CEO,Executive Director,12/20/17,C,12/20/17,35554,1,0,19327,484476
+169,36191,,CARR,,CARRIER GLOBAL CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+170,4517,,NEE,246,NEXTERA ENERGY INC,,NEXTERA ENERGY INC (FPL Group Inc prior to 05/2010),0,CAUCASIAN/WHITE,,,,,,,Jim Robo,Jim Robo,,,,,1,Chairman/President/CEO,Executive Director,12/13/13,3/1/22,,,,,12407,39031
+171,121382,,SBAC,481,SBA COMMUNICATIONS CORP,,SBA COMMUNICATIONS CORP,0,CAUCASIAN/WHITE,,,,,,,Jeff Stoops,Jeff Stoops,,,,,1,President/CEO,Executive Director,1/1/02,12/31/23,,,,,27160,346056
+172,28742,,BWA,86,BORGWARNER INC,,BORGWARNER INC,0,CAUCASIAN/WHITE,,,,,,,Frederic Lissalde,Frederic Lissalde,,,,,1,President/CEO,Executive Director,8/1/18,C,,,,,4839,1195691
+173,7974,119,NI,394,NISOURCE INC,NiSource,NISOURCE INC (NIPSCO Industries Inc prior to 04/1999),0,CAUCASIAN/WHITE,1,,black,,Lloyd,Yates,Joe Hamrock,Joe Hamrock,Lloyd Yates,0,Male,CEO,1,President/CEO,Executive Director,7/1/15,2/14/22,1/28/22,38762,1,0,22260,594908
+173,7974,166,NI,394,NISOURCE INC,NiSource,NISOURCE INC (NIPSCO Industries Inc prior to 04/1999),0,CAUCASIAN/WHITE,1,,black,,Donald,Brown,Joe Hamrock,Joe Hamrock,Donald Brown,0,Male,TMT,1,President/CEO,Executive Director,7/1/15,2/14/22,3/24/15,38762,1,,22260,594908
+174,7970,,ES,401,EVERSOURCE ENERGY,,EVERSOURCE ENERGY (Northeast Utilities prior to 02/2015),0,CAUCASIAN/WHITE,,,,,,,Jim Judge,Jim Judge,,,,,1,Chairman/President/CEO,Executive Director,5/3/17,5/5/21,,,,,22660,206005
+175,3062,199,CTAS,128,CINTAS CORP,Cintas,CINTAS CORP,0,CAUCASIAN/WHITE,1,,black,,Phillip,Holloman,Scott Farmer,Scott Farmer,Phillip Holloman,0,Male,TMT,1,Chairman/CEO,Executive Director,9/30/16,5/31/21,1/19/08,23660,0,,6877,38311
+176,4640,67,FITB,1,FIFTH THIRD BANCORP,Fifth Third Bancorp,FIFTH THIRD BANCORP,0,CAUCASIAN/WHITE,0,,non-black,,Greg,Carmichael,Greg Carmichael,Greg Carmichael,Greg Carmichael,0,Male,CEO,1,Chairman/President/CEO,Executive Director,2/1/18,10/26/20,7/8/15,34746,0,0,324,203638
+177,6502,,KR,330,KROGER CO,,KROGER CO,0,CAUCASIAN/WHITE,,,,,,,William McMullen,William McMullen,,,,,1,Chairman/CEO,Executive Director,1/1/15,C,,,,,18195,35937
+178,8762,,PG,446,PROCTER & GAMBLE CO,,PROCTER & GAMBLE CO,0,CAUCASIAN/WHITE,,,,,,,David Taylor,David Taylor,,,,,1,Chairman/President/CEO,Executive Director,7/1/16,11/1/21,,,,,25150,549272
+178,8762,,PG,631,PROCTER & GAMBLE CO,,I-80 GOLD CORP (Premier Gold Mines Ltd prior to 04/2021),0,CAUCASIAN/WHITE,,,,,,,John Begeman,John Begeman,,,,,1,Chairman (Executive),Executive Director,6/25/15,4/7/21,,,,,1027070,441971
+178,8762,,PG,633,PROCTER & GAMBLE CO,,I-80 GOLD CORP (Premier Gold Mines Ltd prior to 04/2021),0,CAUCASIAN/WHITE,,,,,,,Ewan Downie,Ewan Downie,,,,,1,President/CEO,Executive Director,5/29/06,4/7/21,,,,,1027070,732790
+179,175955,,IPGP,311,IPG PHOTONICS CORP,,IPG PHOTONICS CORP,0,CAUCASIAN/WHITE,,,,,,,Doctor Valentin Gapontsev,Doctor Valentin Gapontsev,,,,,1,Chairman/CEO,Executive Director,1/1/98,5/4/21,,,,,16949,552050
+180,61574,,WAT,,WATERS CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+181,5543,,WELL,271,WELLTOWER INC,,WELLTOWER INC (Health Care REIT Inc prior to 09/2015),0,CAUCASIAN/WHITE,,,,,,,Tom DeRosa,Tom DeRosa,,,,,1,Chairman/CEO,Executive Director,5/2/19,10/5/20,,,,,14484,183802
+181,5543,,WELL,687,WELLTOWER INC,,WELL HEALTH TECHNOLOGIES CORP (Wellness Lifestyles Inc prior to 07/2018),0,CAUCASIAN/WHITE,,,,,,,Hamed Shahbazi,Hamed Shahbazi,,,,,1,Chairman/CEO,Executive Director,5/23/18,C,,,,,1987496,1607052
+182,2111,,BDX,,BECTON DICKINSON & CO,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+183,111864,,CTSH,141,COGNIZANT TECH SOLUTIONS,,COGNIZANT TECHNOLOGY SOLUTIONS CORP,0,CAUCASIAN/WHITE,,,,,,,Brian Humphries,Brian Humphries,,,,,1,CEO,Executive Director,4/1/19,1/12/23,,,,,7256,515842
+184,1988,,BALL,49,BALL CORP,,BALL CORP,0,CAUCASIAN/WHITE,,,,,,,John Hayes,John Hayes,,,,,1,Chairman/President/CEO,Executive Director,4/24/13,1/1/21,,,,,3439,456592
+185,3505,,TAP,156,MOLSON COORS BEVERAGE CO,,MOLSON COORS BEVERAGE CO (Molson Coors Brewing Co prior to 01/2020),0,CAUCASIAN/WHITE,,,,,,,Gavin Hattersley,Gavin Hattersley,,,,,1,President/CEO,Executive Director,9/28/19,C,,,,,7847,1202080
+186,4058,,DOV,188,DOVER CORP,,DOVER CORP,0,CAUCASIAN/WHITE,,,,,,,Rich Tobin,Rich Tobin,,,,,1,President/CEO,Executive Director,5/1/18,2/10/24,,,,,9555,480780
+187,1598,,AME,25,AMETEK INC,,AMETEK INC,0,CAUCASIAN/WHITE,,,,,,,David Zapico,David Zapico,,,,,1,Chairman/CEO,Executive Director,7/7/17,C,,,,,2058,205055
+187,1598,,AME,629,AMETEK INC,,ABACUS MINING & EXPLORATION CORP (Abacus Minerals Corp prior to 04/2001),0,CAUCASIAN/WHITE,,,,,,,Mike McInnis,Mike McInnis,,,,,1,Chairman (Executive),Executive Director,11/1/17,C,,,,,1016911,1379549
+188,6742,,LNC,341,LINCOLN NATIONAL CORP,,LINCOLN NATIONAL CORP,0,CAUCASIAN/WHITE,,,,,,,Dennis Glass,Dennis Glass,,,,,1,President/CEO,Executive Director,7/6/07,5/27/22,,,,,18908,54612
+189,11376,,WST,566,WEST PHARMACEUTICAL SVSC INC,,WEST PHARMACEUTICAL SERVICES INC,0,CAUCASIAN/WHITE,,,,,,,Eric Green,Eric Green,,,,,1,President/CEO,Executive Director,12/17/15,5/24/22,,,,,33314,1194462
+190,14282,,APH,28,AMPHENOL CORP,,AMPHENOL CORP,0,CAUCASIAN/WHITE,,,,,,,Richard Norwitt,Richard Norwitt,,,,,1,President/CEO,Executive Director,1/5/09,C,,,,,2100,496788
+191,15247,,VLO,,VALERO ENERGY CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+192,10115,,SYK,506,STRYKER CORP,,STRYKER CORP,1,INDIAN/SOUTH ASIAN,,,,,,,Kevin Lobo,Kevin Lobo,,,,,1,Chair/CEO,Executive Director,8/1/18,10/1/21,,,,,29405,1117420
+193,26590,,FTV,709,FORTIVE CORP,,FORTIVE CORP,0,CAUCASIAN/WHITE,,,,,,,Jim Lico,Jim Lico,,,,,1,President/CEO,Executive Director,7/2/16,C,,,,,2482889,372492
+194,8402,,PAYX,424,PAYCHEX INC,,PAYCHEX INC,0,CAUCASIAN/WHITE,,,,,,,Martin Mucci,Martin Mucci,,,,,1,President/CEO,Executive Director,10/14/10,12/1/21,,,,,23945,39151
+195,2435,,BF.B,93,BROWN FORMAN CORP,,BROWN FORMAN CORP,0,CAUCASIAN/WHITE,,,,,,,Lawson Whiting,Lawson Whiting,,,,,1,President/CEO,Executive Director,3/28/19,C,,,,,5210,1113025
+196,27914,,HUM,289,HUMANA INC,,HUMANA INC,0,CAUCASIAN/WHITE,,,,,,,Bruce Broussard,Bruce Broussard,,,,,1,President/CEO,Executive Director,1/1/13,1/8/24,,,,,15207,272234
+197,65417,,YUM,,YUM BRANDS INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+198,1602,,AMGN,27,AMGEN INC,,AMGEN INC,0,CAUCASIAN/WHITE,,,,,,,Bob Bradway,Bob Bradway,,,,,1,Chairman/President/CEO,Executive Director,1/1/13,C,,,,,2068,534543
+199,126721,,TDY,514,TELEDYNE TECHNOLOGIES INC,,TELEDYNE TECHNOLOGIES INC,0,CAUCASIAN/WHITE,,,,,,,Professor Doctor Robert Mehrabian,Professor Doctor Robert Mehrabian,,,,,1,Chairman (Executive),Executive Director,1/1/19,10/15/21,,,,,30261,36111
+200,28192,,HWM,,HOWMET AEROSPACE INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+201,5568,,KHC,,KRAFT HEINZ CO,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+202,8245,,PNC,434,PNC FINANCIAL SVCS GROUP INC,,PNC FINANCIAL SERVICES GROUP INC,0,CAUCASIAN/WHITE,,,,,,,William Demchak,William Demchak,,,,,1,Chairman/President/CEO,Executive Director,4/22/14,2/20/24,,,,,24669,44576
+203,8247,,PPG,440,PPG INDUSTRIES INC,,PPG INDUSTRIES INC,0,CAUCASIAN/WHITE,,,,,,,Michael McGarry,Michael McGarry,,,,,1,Chairman/CEO,Executive Director,9/1/16,1/1/23,,,,,24887,624113
+204,60979,,WAB,557,WABTEC CORP,,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP,1,HISPANIC/LATIN AMERICAN,,,,,,,Al Neupaver,Al Neupaver,,,,,1,Chairman (Executive),Executive Director,5/1/18,7/1/20,,,,,33000,205052
+204,60979,,WAB,558,WABTEC CORP,,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP,1,HISPANIC/LATIN AMERICAN,,,,,,,Rafael Santana,Rafael Santana,,,,,1,President/CEO,Executive Director,7/1/19,C,,,,,33000,1188120
+205,20228,,CTLT,698,CATALENT INC,,CATALENT INC,0,CAUCASIAN/WHITE,,,,,,,John Chiminski,John Chiminski,,,,,1,Chairman/CEO,Executive Director,2/13/19,7/1/22,,,,,2129696,1047323
+206,162887,,DXCM,591,DEXCOM INC,,DEXCOM INC,0,CAUCASIAN/WHITE,,,,,,,Kevin Sayer,Kevin Sayer,,,,,1,Chairman/President/CEO,Executive Director,7/30/18,C,,,,,373917,346517
+207,138205,,ILMN,297,ILLUMINA INC,,ILLUMINA INC,1,INDIAN/SOUTH ASIAN,,,,,,,Francis DeSouza,Francis DeSouza,,,,,1,President/CEO,Executive Director,7/5/16,6/11/23,,,,,15581,647025
+208,30822,,O,464,REALTY INCOME CORP,,REALTY INCOME CORP,1,INDIAN/SOUTH ASIAN,,,,,,,Sumit Roy,Sumit Roy,,,,,1,President/CEO,Executive Director,10/16/18,C,,,,,25864,1128307
+209,24800,,QCOM,457,QUALCOMM INC,,QUALCOMM INC,0,CAUCASIAN/WHITE,,,,,,,Doctor Irwin Jacobs,Doctor Irwin Jacobs,,,,,1,Chairman/CEO Emeritus,Executive Director,3/6/12,N,,,,,25529,34486
+209,24800,,QCOM,459,QUALCOMM INC,,QUALCOMM INC,0,CAUCASIAN/WHITE,,,,,,,Steve Mollenkopf,Steve Mollenkopf,,,,,1,CEO,Executive Director,3/4/14,6/30/21,,,,,25529,640531
+210,31887,,RMD,468,RESMED INC,,RESMED INC,1,OTHER,,,,,,,Mick Farrell,Mick Farrell,,,,,1,CEO,Executive Director,3/1/13,1/25/23,,,,,26113,1089889
+211,8272,76,SRE,,SEMPRA ENERGY,Sempra Energy,,0,CAUCASIAN/WHITE,0,,non-black,,Donald,Felsinger,,,Donald Felsinger,0,Male,CEO,,,,,,12/7/05,86136,0,0,,
+212,6266,,JNJ,314,JOHNSON & JOHNSON,,JOHNSON & JOHNSON,0,CAUCASIAN/WHITE,,,,,,,Alex Gorsky,Alex Gorsky,,,,,1,Chairman/CEO,Executive Director,12/28/12,1/3/22,,,,,17478,747756
+213,21825,,CFG,700,CITIZENS FINANCIAL GROUP INC,,CITIZENS FINANCIAL GROUP INC,0,CAUCASIAN/WHITE,,,,,,,Bruce van Saun,Bruce van Saun,,,,,1,Chairman/CEO,Executive Director,9/24/14,C,,,,,2150201,35815
+214,7241,,CVS,168,CVS HEALTH CORP,,CVS HEALTH CORP (CVS Caremark Corp prior to 09/2014),0,CAUCASIAN/WHITE,,,,,,,Larry Merlo,Larry Merlo,,,,,1,President/CEO,Executive Director,3/1/11,2/1/21,,,,,8468,45626
+215,5518,,HAS,270,HASBRO INC,,HASBRO INC,0,CAUCASIAN/WHITE,,,,,,,Brian Goldner,Brian Goldner,,,,,1,Chairman/CEO,Executive Director,2/6/17,10/12/21,,,,,14399,205487
+216,10519,,TXT,520,TEXTRON INC,,TEXTRON INC,0,CAUCASIAN/WHITE,,,,,,,Scott Donnelly,Scott Donnelly,,,,,1,Chairman/President/CEO,Executive Director,9/1/10,C,,,,,30529,32459
+217,60900,,DISH,197,DISH NETWORK CORP,,DISH NETWORK CORP (Echostar Communications Corp prior to 01/2008) (De-listed 12/2023),0,CAUCASIAN/WHITE,,,,,,,Charlie Ergen,Charlie Ergen,,,,,1,Chairman (Executive),Executive Director,12/5/17,12/29/23,,,,,10024,43416
+218,5709,,HRL,284,HORMEL FOODS CORP,,HORMEL FOODS CORP,0,CAUCASIAN/WHITE,,,,,,,Jim Snee,Jim Snee,,,,,1,Chairman/President/CEO,Executive Director,11/20/17,C,,,,,15070,806078
+219,31846,42,DRI,173,DARDEN RESTAURANTS INC,Darden Restaurants,DARDEN RESTAURANTS INC,0,CAUCASIAN/WHITE,1,,black,,Clarence,Otis,Gene Lee Jr,Gene Lee Jr,Clarence Otis,0,Male,CEO,1,President/CEO,Executive Director,2/22/15,1/4/21,8/12/04,81655,1,0,8697,200799
+220,16101,,ABBV,676,ABBVIE INC,,ABBVIE INC,1,HISPANIC/LATIN AMERICAN,,,,,,,Rick Gonzalez,Rick Gonzalez,,,,,1,Chairman/CEO,Executive Director,1/2/13,C,,,,,1921326,33494
+221,1078,,ABT,,ABBOTT LABORATORIES,,,1,HISPANIC/LATIN AMERICAN,,,,,,,,,,,,,,,,,,,,,,,
+222,2086,,BAX,50,BAXTER INTERNATIONAL INC,,BAXTER INTERNATIONAL INC,1,HISPANIC/LATIN AMERICAN,,,,,,,Joe Almeida,Joe Almeida,,,,,1,Chairman/President/CEO,Executive Director,1/1/16,C,,,,,3684,327852
+223,2817,,CAT,106,CATERPILLAR INC,,CATERPILLAR INC,0,CAUCASIAN/WHITE,,,,,,,Jim Umpleby III,Jim Umpleby III,,,,,1,Chairman/CEO,Executive Director,12/12/18,C,,,,,6052,1079119
+224,28320,,CDW,679,CDW CORP,,CDW CORP,0,CAUCASIAN/WHITE,,,,,,,Chris Leahy,Chris Leahy,,,,,1,President/CEO,Executive Director,1/1/19,1/5/23,,,,,1961452,452866
+225,163946,,CF,604,CF INDUSTRIES HOLDINGS INC,,CANACCORD GENUITY GROUP INC (Canaccord Financial Inc prior to 10/2013),0,CAUCASIAN/WHITE,,,,,,,David Kassie,David Kassie,,,,,1,Chairman (Executive),Executive Director,10/1/15,C,,,,,603809,331091
+225,163946,,CF,605,CF INDUSTRIES HOLDINGS INC,,CANACCORD GENUITY GROUP INC (Canaccord Financial Inc prior to 10/2013),0,CAUCASIAN/WHITE,,,,,,,Dan Daviau,Dan Daviau,,,,,1,President/CEO,Executive Director,10/1/15,C,,,,,603809,1131095
+225,163946,,CF,611,CF INDUSTRIES HOLDINGS INC,,CF INDUSTRIES HLDGS INC,0,CAUCASIAN/WHITE,,,,,,,Tony Will,Tony Will,,,,,1,President/CEO,Executive Director,1/2/14,C,,,,,665753,534187
+226,177376,,DFS,582,DISCOVER FINANCIAL SVCS,,DISCOVER FINANCIAL SERVICES INC,0,CAUCASIAN/WHITE,,,,,,,Roger Hochschild,Roger Hochschild,,,,,1,President/CEO,Executive Director,10/1/18,8/14/23,,,,,78171,33852
+227,188255,,FBHS,,FORTUNE BRANDS HOME & SECUR,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+228,5256,,GWW,263,GRAINGER (W W) INC,,WW GRAINGER INC,0,CAUCASIAN/WHITE,,,,,,,DG Macpherson,DG Macpherson,,,,,1,Chairman/CEO,Executive Director,10/1/17,C,,,,,13725,881638
+229,128978,,PKG,422,PACKAGING CORP OF AMERICA,,PACKAGING CORP OF AMERICA,0,CAUCASIAN/WHITE,,,,,,,Mark Kowlzan,Mark Kowlzan,,,,,1,Chairman/CEO,Executive Director,1/1/16,C,,,,,23635,205273
+230,11264,135,WBA,559,WALGREENS BOOTS ALLIANCE INC,Walgreens,WALGREENS BOOTS ALLIANCE INC (Walgreen Co prior to 12/2014),0,CAUCASIAN/WHITE,1,,black,,Rosalind,Brewer,Stefano Pessina,Stefano Pessina,Rosalind Brewer,1,Female,CEO,1,Executive Vice Chairman/CEO,Executive Director,7/9/15,3/15/21,1/26/21,19502,0,0,33026,3997
+230,11264,135,WBA,560,WALGREENS BOOTS ALLIANCE INC,Walgreens,WALGREENS BOOTS ALLIANCE INC (Walgreen Co prior to 12/2014),0,CAUCASIAN/WHITE,1,,black,,Rosalind,Brewer,Jim Skinner,Jim Skinner,Rosalind Brewer,1,Female,CEO,1,Chairman (Executive),Executive Director,1/9/15,3/15/21,1/26/21,19502,0,0,33026,35981
+230,11264,255,WBA,559,WALGREENS BOOTS ALLIANCE INC,Walgreens Boots Alliance,WALGREENS BOOTS ALLIANCE INC (Walgreen Co prior to 12/2014),0,CAUCASIAN/WHITE,1,,black,,Kathleen,Wilson-Thompson,Stefano Pessina,Stefano Pessina,Kathleen Wilson-Thompson,1,Female,TMT,1,Executive Vice Chairman/CEO,Executive Director,7/9/15,3/15/21,11/23/09,19502,1,,33026,3997
+230,11264,255,WBA,560,WALGREENS BOOTS ALLIANCE INC,Walgreens Boots Alliance,WALGREENS BOOTS ALLIANCE INC (Walgreen Co prior to 12/2014),0,CAUCASIAN/WHITE,1,,black,,Kathleen,Wilson-Thompson,Jim Skinner,Jim Skinner,Kathleen Wilson-Thompson,1,Female,TMT,1,Chairman (Executive),Executive Director,1/9/15,3/15/21,11/23/09,19502,1,,33026,35981
+231,24405,,ZBRA,575,ZEBRA TECHNOLOGIES CP -CL A,,ZEBRA TECHNOLOGIES CORP,0,CAUCASIAN/WHITE,,,,,,,Anders Gustafsson,Anders Gustafsson,,,,,1,CEO,Executive Director,9/4/07,3/1/23,,,,,34075,204453
+232,31673,,ABC,,AMERISOURCEBERGEN CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+233,11032,,UHS,533,UNIVERSAL HEALTH SVCS INC,,UNIVERSAL HEALTH SERVICES INC,0,CAUCASIAN/WHITE,,,,,,,Alan Miller,Alan Miller,,,,,1,Chairman/CEO,Executive Director,5/20/09,1/1/21,,,,,31865,81852
+234,13619,,ABMD,2,ABIOMED INC,,ABIOMED INC (De-listed 12/2022),0,CAUCASIAN/WHITE,,,,,,,Mike Minogue,Mike Minogue,,,,,1,Chairman/President/CEO,Executive Director,6/15/05,12/22/22,,,,,481,336173
+235,119314,,BKNG,444,BOOKING HOLDINGS INC,,BOOKING HOLDINGS INC (Priceline Group Inc (The) prior to 02/2018),0,CAUCASIAN/WHITE,,,,,,,Glenn Fogel,Glenn Fogel,,,,,1,President/CEO/Division CEO,Executive Director,6/26/19,C,,,,,25022,549248
+236,126136,,CHTR,652,CHARTER COMMUNICATIONS INC,,CHARTER COMMUNICATIONS INC (Spectrum),0,CAUCASIAN/WHITE,,,,,,,Tom Rutledge,Tom Rutledge,,,,,1,Chairman/CEO,Executive Director,7/26/16,11/30/22,,,,,1661731,334487
+237,12441,,IT,251,GARTNER INC,,GARTNER INC (Gartner Group Inc prior to 08/2001),0,CAUCASIAN/WHITE,,,,,,,Gene Hall,Gene Hall,,,,,1,CEO,Executive Director,8/3/04,C,,,,,12862,35090
+238,16245,,PBCT,627,PEOPLE'S UNITED FINL INC,,PEOPLE'S UNITED FINANCIAL INC (De-listed 04/2022),0,CAUCASIAN/WHITE,,,,,,,Jack Barnes,Jack Barnes,,,,,1,Chairman/CEO,Executive Director,6/26/18,4/4/22,,,,,1013530,204547
+239,20686,,SYF,699,SYNCHRONY FINANCIAL,,SYNCHRONY FINANCIAL,0,CAUCASIAN/WHITE,,,,,,,Margaret Keane,Margaret Keane,,,,,1,CEO,Executive Director,5/2/19,4/1/21,,,,,2129744,1111132
+240,66065,227,URI,546,UNITED RENTALS INC,United Rentals,UNITED RENTALS INC,0,CAUCASIAN/WHITE,1,,black,,William,Plummer,Matt Flannery,Matt Flannery,William Plummer,0,Male,TMT,1,President/CEO,Executive Director,5/8/19,C,11/24/08,85663,1,,32144,628081
+241,14822,,WRB,57,BERKLEY (W R) CORP,,W.R. BERKLEY CORP,0,CAUCASIAN/WHITE,,,,,,,Rob Berkley Jr,Rob Berkley Jr,,,,,1,President/CEO,Executive Director,10/31/15,C,,,,,4078,82162
+241,14822,,WRB,58,BERKLEY (W R) CORP,,W.R. BERKLEY CORP,0,CAUCASIAN/WHITE,,,,,,,Wm Berkley Sr,Wm Berkley Sr,,,,,1,Chairman (Executive),Executive Director,10/31/15,C,,,,,4078,82207
+242,11636,6,XRX,573,XEROX HOLDINGS CORP,Xerox,XEROX HOLDINGS CORP (Xerox Corp prior to 08/2019),0,CAUCASIAN/WHITE,1,,black,,Ursula,Burns,John Visentin,John Visentin,Ursula Burns,1,Female,CEO,1,Vice Chairman/CEO,Executive Director,5/14/18,6/28/22,5/21/09,27983,1,0,33850,1117881
+242,11636,170,XRX,573,XEROX HOLDINGS CORP,Xerox,XEROX HOLDINGS CORP (Xerox Corp prior to 08/2019),0,CAUCASIAN/WHITE,1,,black,,Ursula,Burns,John Visentin,John Visentin,Ursula Burns,1,Female,TMT,1,Vice Chairman/CEO,Executive Director,5/14/18,6/28/22,4/3/07,27983,0,,33850,1117881
+242,11636,187,XRX,573,XEROX HOLDINGS CORP,Xerox,XEROX HOLDINGS CORP (Xerox Corp prior to 08/2019),0,CAUCASIAN/WHITE,1,,black,,Darrell,Ford,John Visentin,John Visentin,Darrell Ford,0,Male,TMT,1,Vice Chairman/CEO,Executive Director,5/14/18,6/28/22,11/2/15,27983,0,,33850,1117881
+242,11636,228,XRX,573,XEROX HOLDINGS CORP,Xerox,XEROX HOLDINGS CORP (Xerox Corp prior to 08/2019),0,CAUCASIAN/WHITE,1,,black,,Barry,Rand,John Visentin,John Visentin,Barry Rand,0,Male,TMT,1,Vice Chairman/CEO,Executive Director,5/14/18,6/28/22,2/4/92,27983,1,,33850,1117881
+242,11636,246,XRX,573,XEROX HOLDINGS CORP,Xerox,XEROX HOLDINGS CORP (Xerox Corp prior to 08/2019),0,CAUCASIAN/WHITE,1,,black,,Kevin,Warren,John Visentin,John Visentin,Kevin Warren,0,Male,TMT,1,Vice Chairman/CEO,Executive Director,5/14/18,6/28/22,12/7/16,27983,1,,33850,1117881
+243,2547,205,CI,125,CIGNA CORP,Cigna,THE CIGNA GROUP (Cigna Corp prior to 02/2023),0,CAUCASIAN/WHITE,1,,black,,Nicole,Jones,David Cordani,David Cordani,Nicole Jones,1,Female,TMT,1,President/CEO,Executive Director,12/25/09,1/1/22,5/25/10,64186,0,,6837,486024
+243,2547,240,CI,125,CIGNA CORP,Cigna,THE CIGNA GROUP (Cigna Corp prior to 02/2023),0,CAUCASIAN/WHITE,1,,black,,Michael,Triplett,David Cordani,David Cordani,Michael Triplett,0,Male,TMT,1,President/CEO,Executive Director,12/25/09,1/1/22,2/23/17,64186,1,,6837,486024
+244,61739,,HIG,269,HARTFORD FINANCIAL SERVICES,,HARTFORD FINANCIAL SERVICES GROUP INC,0,CAUCASIAN/WHITE,,,,,,,Chris Swift,Chris Swift,,,,,1,Chairman/CEO,Executive Director,1/5/15,C,,,,,14372,1073631
+245,36190,,OTIS,,OTIS WORLDWIDE CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+246,10016,,SWK,503,STANLEY BLACK & DECKER INC,,STANLEY BLACK & DECKER INC,0,CAUCASIAN/WHITE,,,,,,,Jim Loree,Jim Loree,,,,,1,President/CEO,Executive Director,8/1/16,2/23/21,,,,,29065,204774
+247,35168,,CTVA,726,CORTEVA INC,,CORTEVA INC,0,CAUCASIAN/WHITE,,,,,,,Jim Collins Jr,Jim Collins Jr,,,,,1,CEO,Executive Director,6/3/19,11/1/21,,,,,3039776,1010737
+248,13510,,DRE,194,DUKE REALTY CORP,,DUKE REALTY CORP (De-listed 10/2022),0,CAUCASIAN/WHITE,,,,,,,Jim Connor,Jim Connor,,,,,1,Chairman/CEO,Executive Director,4/26/17,10/3/22,,,,,9730,333005
+249,145046,,ELV,32,ELEVANCE HEALTH INC,,ELEVANCE HEALTH INC (Anthem Inc prior to 06/2022),0,CAUCASIAN/WHITE,,,,,,,Gail Boudreaux,Gail Boudreaux,,,,,1,President/CEO,Executive Director,11/20/17,C,,,,,2273,184069
+250,6730,48,LLY,339,LILLY (ELI) & CO,Eli Lilly and Co.,ELI LILLY & CO,0,CAUCASIAN/WHITE,1,,black,,Derica,Rice,Dave Ricks,Dave Ricks,Derica Rice,0,Male,CEO,1,Chair/President/CEO,Executive Director,6/1/17,C,5/6/13,50876,1,1,18888,1068880
+250,6730,229,LLY,339,LILLY (ELI) & CO,Eli Lilly,ELI LILLY & CO,0,CAUCASIAN/WHITE,1,,black,,Derica,Rice,Dave Ricks,Dave Ricks,Derica Rice,0,Male,TMT,1,Chair/President/CEO,Executive Director,6/1/17,C,12/18/09,50876,0,,18888,1068880
+250,6730,230,LLY,339,LILLY (ELI) & CO,Eli Lilly,ELI LILLY & CO,0,CAUCASIAN/WHITE,1,,black,,Derica,Rice,Dave Ricks,Dave Ricks,Derica Rice,0,Male,TMT,1,Chair/President/CEO,Executive Director,6/1/17,C,2/23/06,50876,1,,18888,1068880
+251,29389,,SPG,493,SIMON PROPERTY GROUP INC,,SIMON PROPERTY GROUP INC,0,CAUCASIAN/WHITE,,,,,,,David Simon,David Simon,,,,,1,Chairman/President/CEO,Executive Director,2/15/19,C,,,,,28041,70877
+251,29389,,SPG,494,SIMON PROPERTY GROUP INC,,SIMON PROPERTY GROUP INC,0,CAUCASIAN/WHITE,,,,,,,Richard Sokolov,Richard Sokolov,,,,,1,Vice Chairman,Executive Director,2/15/19,C,,,,,28041,141036
+251,29389,,SPG,714,SIMON PROPERTY GROUP INC,,SPARK POWER GROUP INC (Canaccord Genuity Acquisition Corp prior to 09/2018) (De-listed 12/2023),0,CAUCASIAN/WHITE,,,,,,,Jason Sparaga,Jason Sparaga,,,,,1,Co-CEO,Executive Director,8/31/18,1/5/21,,,,,2686564,2235636
+251,29389,,SPG,715,SIMON PROPERTY GROUP INC,,SPARK POWER GROUP INC (Canaccord Genuity Acquisition Corp prior to 09/2018) (De-listed 12/2023),0,CAUCASIAN/WHITE,,,,,,,Andrew Clark,Andrew Clark,,,,,1,Co-CEO,Executive Director,8/31/18,1/5/21,,,,,2686564,2239576
+252,23809,,AZO,44,AUTOZONE INC,,AUTOZONE INC,0,CAUCASIAN/WHITE,,,,,,,Bill Rhodes III,Bill Rhodes III,,,,,1,Chairman/President/CEO,Executive Director,6/6/07,1/2/24,,,,,3154,49966
+253,4598,,FDX,235,FEDEX CORP,,FEDEX CORP,0,CAUCASIAN/WHITE,,,,,,,Fred Smith,Fred Smith,,,,,1,Chairman/CEO,Executive Director,2/1/17,5/31/22,,,,,11664,43076
+254,6104,,IP,307,INTL PAPER CO,,INTERNATIONAL PAPER CO,0,CAUCASIAN/WHITE,,,,,,,Mark Sutton,Mark Sutton,,,,,1,Chairman/CEO,Executive Director,1/1/15,C,,,,,16569,621903
+254,6104,,IP,683,INTL PAPER CO,,IMAGINEAR INC (Imagination Park Technologies Inc prior to 04/2020),0,CAUCASIAN/WHITE,,,,,,,Alen Silverrstieen,Alen Silverrstieen,,,,,1,President/CEO,Executive Director,3/1/19,1/1/21,,,,,1985284,2589083
+255,29649,,MAA,381,MID-AMERICA APT CMNTYS INC,,MID-AMERICA APARTMENT COMMUNITIES INC,0,CAUCASIAN/WHITE,,,,,,,H Bolton Jr,H Bolton Jr,,,,,1,Chairman/President/CEO,Executive Director,10/1/02,C,,,,,20625,341827
+256,4016,,DG,647,DOLLAR GENERAL CORP,,DOLLAR GENERAL CORP,0,CAUCASIAN/WHITE,,,,,,,Todd Vasos,Todd Vasos,,,,,1,CEO,Executive Director,6/3/15,11/1/22,,,,,1605214,487710
+257,22260,,HCA,662,HCA HEALTHCARE INC,,HCA HEALTHCARE INC (HCA Holdings Inc prior to 05/2017),0,CAUCASIAN/WHITE,,,,,,,Sam Hazen,Sam Hazen,,,,,1,CEO,Executive Director,1/1/19,C,,,,,1692837,35175
+258,61676,,CTXS,134,CITRIX SYSTEMS INC,,CITRIX SYSTEMS INC (De-listed 09/2022),0,CAUCASIAN/WHITE,,,,,,,David Henshall,David Henshall,,,,,1,President/CEO,Executive Director,7/10/17,10/1/21,,,,,6959,205153
+259,64410,,KMX,586,CARMAX INC,,CARMAX INC,0,CAUCASIAN/WHITE,,,,,,,Bill Nash,Bill Nash,,,,,1,President/CEO,Executive Director,9/1/16,C,,,,,107377,1011736
+260,1440,,AEP,20,AMERICAN ELECTRIC POWER CO,,AMERICAN ELECTRIC POWER CO INC,0,CAUCASIAN/WHITE,,,,,,,Nick Akins,Nick Akins,,,,,1,Chairman/President/CEO,Executive Director,1/1/14,8/10/22,,,,,1809,533555
+261,6733,,BBWI,340,BATH & BODY WORKS INC,,BATH & BODY WORKS INC (L Brands Inc prior to 08/2021),0,CAUCASIAN/WHITE,,,,,,,Leslie Wexner,Leslie Wexner,,,,,1,Chairman/CEO,Executive Director,1/1/02,5/14/20,,,,,18892,53436
+262,2751,,CAH,102,CARDINAL HEALTH INC,,CARDINAL HEALTH INC,0,CAUCASIAN/WHITE,,,,,,,Mike Kaufmann,Mike Kaufmann,,,,,1,CEO,Executive Director,9/1/19,9/1/22,,,,,5811,517277
+263,5786,,HBAN,292,HUNTINGTON BANCSHARES,,HUNTINGTON BANCSHARES INC,0,CAUCASIAN/WHITE,,,,,,,Steve Steinour,Steve Steinour,,,,,1,Chairman/President/CEO,Executive Director,1/14/09,C,,,,,15235,200105
+264,4383,,ATO,39,ATMOS ENERGY CORP,,ATMOS ENERGY CORP,0,CAUCASIAN/WHITE,,,,,,,Kim Cocklin,Kim Cocklin,,,,,1,Chairman (Executive),Executive Director,10/1/17,11/23/20,,,,,2963,328716
+264,4383,,ATO,40,ATMOS ENERGY CORP,,ATMOS ENERGY CORP,0,CAUCASIAN/WHITE,,,,,,,John Akers,John Akers,,,,,1,President/CEO,Executive Director,10/1/19,C,,,,,2963,806085
+265,260774,,CBRE,109,CBRE GROUP INC,,CBRE GROUP INC (CB Richard Ellis Group Inc prior to 10/2011),0,CAUCASIAN/WHITE,,,,,,,Bob Sulentic,Bob Sulentic,,,,,1,President/CEO,Executive Director,12/1/12,11/17/23,,,,,6083,272769
+266,162254,,CE,,CELANESE CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+267,3231,,CMA,,COMERICA INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+268,29901,,CPRT,158,COPART INC,,COPART INC,0,CAUCASIAN/WHITE,,,,,,,Jay Adair,Jay Adair,,,,,1,CEO,Executive Director,2/12/10,4/1/22,,,,,7852,183351
+268,29901,,CPRT,159,COPART INC,,COPART INC,0,CAUCASIAN/WHITE,,,,,,,Willis Johnson,Willis Johnson,,,,,1,Chairman (Executive),Executive Director,2/12/10,C,,,,,7852,183354
+269,4108,,FLS,238,FLOWSERVE CORP,,FLOWSERVE CORP,0,CAUCASIAN/WHITE,,,,,,,Robert Rowe,Robert Rowe,,,,,1,President/CEO,Executive Director,4/1/17,C,,,,,12153,1304182
+270,30004,,INVH,711,INVITATION HOMES INC,,INVITATION HOMES INC,0,CAUCASIAN/WHITE,,,,,,,Dallas Tanner,Dallas Tanner,,,,,1,President/CEO,Executive Director,1/16/19,3/1/23,,,,,2607907,1862251
+271,6216,,J,313,JACOBS ENGINEERING GROUP INC,,JACOBS SOLUTIONS INC (Jacobs Engineering Group Inc prior to 08/2022),0,CAUCASIAN/WHITE,,,,,,,Steve Demetriou,Steve Demetriou,,,,,1,Chairman/CEO,Executive Director,7/28/16,1/24/23,,,,,17251,349932
+272,6435,,KMB,,KIMBERLY-CLARK CORP,,,1,ASIAN (EXCLUDE INDIAN/SOUTH ASIAN),,,,,,,,,,,,,,,,,,,,,,,
+273,9882,,LUV,502,SOUTHWEST AIRLINES,,SOUTHWEST AIRLINES CO,0,CAUCASIAN/WHITE,,,,,,,Gary Kelly,Gary Kelly,,,,,1,Chairman/CEO,Executive Director,1/10/17,2/1/22,,,,,28696,44881
+274,7171,,MCK,368,MCKESSON CORP,,MCKESSON CORP (McKesson HBOC Inc prior to 08/2001),0,CAUCASIAN/WHITE,,,,,,,Doctor Brian Tyler,Doctor Brian Tyler,,,,,1,CEO,Executive Director,4/1/19,C,,,,,19966,509859
+275,26061,,MTCH,539,MATCH GROUP INC,,MATCH GROUP INC (IAC InterActiveCorp prior to 07/2020),1,INDIAN/SOUTH ASIAN,,,,,,,Barry Diller,Barry Diller,,,,,1,Chairman (Executive),Executive Director,12/1/10,6/30/20,,,,,32019,33328
+275,26061,,MTCH,540,MATCH GROUP INC,,MATCH GROUP INC (IAC InterActiveCorp prior to 07/2020),1,INDIAN/SOUTH ASIAN,,,,,,,Victor Kaufman,Victor Kaufman,,,,,1,Vice Chairman (Executive),Executive Director,10/1/99,6/30/20,,,,,32019,43526
+275,26061,,MTCH,541,MATCH GROUP INC,,MATCH GROUP INC (IAC InterActiveCorp prior to 07/2020),1,INDIAN/SOUTH ASIAN,,,,,,,Joey Levin,Joey Levin,,,,,1,CEO,Executive Director,6/24/15,6/30/20,,,,,32019,641282
+276,14359,,PXD,433,PIONEER NATURAL RESOURCES CO,,PIONEER NATURAL RESOURCES CO,0,CAUCASIAN/WHITE,,,,,,,Scott Sheffield,Scott Sheffield,,,,,1,President/CEO,Executive Director,2/21/19,1/1/21,,,,,24506,66062
+277,9899,191,T,482,AT&T INC,AT&T,AT&T INC (SBC Communications Inc prior to 11/2005),0,CAUCASIAN/WHITE,1,,black,,Mirian,Graddick,Randall Stephenson Jr,Randall Stephenson Jr,Mirian Graddick,1,Female,TMT,1,Chairman/CEO,Executive Director,10/1/19,7/1/20,2/12/99,66093,1,,27163,33072
+277,9899,191,T,516,AT&T INC,AT&T,TELUS CORP,0,CAUCASIAN/WHITE,1,,black,,Mirian,Graddick,Darren Entwistle,Darren Entwistle,Mirian Graddick,1,Female,TMT,1,President/CEO,Executive Director,8/10/15,C,2/12/99,66093,1,,30372,336808
+277,9899,254,T,482,AT&T INC,AT&T,AT&T INC (SBC Communications Inc prior to 11/2005),0,CAUCASIAN/WHITE,1,,black,,Xavier,Williams,Randall Stephenson Jr,Randall Stephenson Jr,Xavier Williams,0,Male,TMT,1,Chairman/CEO,Executive Director,10/1/19,7/1/20,10/12/17,66093,0,,27163,33072
+277,9899,254,T,516,AT&T INC,AT&T,TELUS CORP,0,CAUCASIAN/WHITE,1,,black,,Xavier,Williams,Darren Entwistle,Darren Entwistle,Xavier Williams,0,Male,TMT,1,President/CEO,Executive Director,8/10/15,C,10/12/17,66093,0,,30372,336808
+278,10499,,TXN,519,TEXAS INSTRUMENTS INC,,TEXAS INSTRUMENTS INC,0,CAUCASIAN/WHITE,,,,,,,Rich Templeton,Rich Templeton,,,,,1,Chairman/President/CEO,Executive Director,7/17/18,4/1/23,,,,,30509,13520
+279,4503,,XOM,229,EXXON MOBIL CORP,,EXXON MOBIL CORP,0,CAUCASIAN/WHITE,,,,,,,Darren Woods,Darren Woods,,,,,1,Chairman/CEO,Executive Director,1/1/17,C,,,,,11430,1253894
+280,7906,,NKE,,NIKE INC -CL B,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+281,24197,,IDXX,294,IDEXX LABS INC,,IDEXX LABORATORIES INC,0,CAUCASIAN/WHITE,,,,,,,Jonathan Mazelsky,Jonathan Mazelsky,,,,,1,President/CEO,Executive Director,10/23/19,C,,,,,15486,1254756
+282,179437,,AWK,,AMERICAN WATER WORKS CO INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+283,2663,,CPB,98,CAMPBELL SOUP CO,,CAMPBELL SOUP CO,0,CAUCASIAN/WHITE,,,,,,,Mark Clouse,Mark Clouse,,,,,1,President/CEO,Executive Director,1/22/19,C,,,,,5620,1122227
+284,9783,194,KEY,323,KEYCORP,KeyCorp,KEYCORP,0,CAUCASIAN/WHITE,1,,black,,Paul,Harris,Beth Mooney,Beth Mooney,Paul Harris,0,Male,TMT,1,Chairman/President/CEO,Executive Director,5/1/11,5/1/20,2/3/03,64995,1,,17862,50551
+284,9783,248,KEY,323,KEYCORP,KeyCorp,KEYCORP,0,CAUCASIAN/WHITE,1,,black,,Jeffrey,Weaver,Beth Mooney,Beth Mooney,Jeffrey Weaver,0,Male,TMT,1,Chairman/President/CEO,Executive Director,5/1/11,5/1/20,7/5/05,64995,0,,17862,50551
+285,13341,,PGR,448,PROGRESSIVE CORP-OHIO,,PROGRESSIVE CORP (OHIO),0,CAUCASIAN/WHITE,,,,,,,Tricia Griffith,Tricia Griffith,,,,,1,President/CEO,Executive Director,7/1/16,C,,,,,25199,40291
+286,8358,,PH,423,PARKER-HANNIFIN CORP,,PARKER-HANNIFIN CORP,0,CAUCASIAN/WHITE,,,,,,,Tom Williams,Tom Williams,,,,,1,Chairman/CEO,Executive Director,1/1/16,1/1/23,,,,,23834,502142
+287,9667,,SHW,492,SHERWIN-WILLIAMS CO,,SHERWIN-WILLIAMS CO,0,CAUCASIAN/WHITE,,,,,,,John Morikis,John Morikis,,,,,1,Chairman/CEO,Executive Director,3/1/19,3/12/21,,,,,27786,60662
+288,148349,,TDG,619,TRANSDIGM GROUP INC,,TRANSDIGM GROUP INC,0,CAUCASIAN/WHITE,,,,,,,Nick Howley,Nick Howley,,,,,1,Chairman (Executive),Executive Director,4/26/18,8/6/21,,,,,818089,512642
+288,148349,,TDG,620,TRANSDIGM GROUP INC,,TRANSDIGM GROUP INC,0,CAUCASIAN/WHITE,,,,,,,Doctor Kevin Stein,Doctor Kevin Stein,,,,,1,President/CEO,Executive Director,4/26/18,C,,,,,818089,895408
+289,7257,19,MRK,484,MERCK & CO,Merck,MERCK & CO INC (Schering-Plough Corp prior to 11/2009),1,BLACK/AFRICAN AMERICAN,1,,black,,Kenneth,Frazier,Ken Frazier,Ken Frazier,Kenneth Frazier,0,Male,CEO,1,Chairman/President/CEO,Executive Director,12/1/11,4/1/21,11/30/10,22752,0,0,27219,31551
+289,7257,180,MRK,484,MERCK & CO,Merck,MERCK & CO INC (Schering-Plough Corp prior to 11/2009),1,BLACK/AFRICAN AMERICAN,1,,black,,Willie,Deese,Ken Frazier,Ken Frazier,Willie Deese,0,Male,TMT,1,Chairman/President/CEO,Executive Director,12/1/11,4/1/21,5/25/05,22752,0,,27219,31551
+289,7257,188,MRK,484,MERCK & CO,Merck,MERCK & CO INC (Schering-Plough Corp prior to 11/2009),1,BLACK/AFRICAN AMERICAN,1,,black,,Kenneth,Frazier,Ken Frazier,Ken Frazier,Kenneth Frazier,0,Male,TMT,1,Chairman/President/CEO,Executive Director,12/1/11,4/1/21,7/27/07,22752,1,,27219,31551
+289,7257,196,MRK,484,MERCK & CO,Merck,MERCK & CO INC (Schering-Plough Corp prior to 11/2009),1,BLACK/AFRICAN AMERICAN,1,,black,,Bridgette,Heller,Ken Frazier,Ken Frazier,Bridgette Heller,1,Female,TMT,1,Chairman/President/CEO,Executive Director,12/1/11,4/1/21,2/16/10,22752,1,,27219,31551
+290,6066,,IBM,,INTL BUSINESS MACHINES CORP,,,1,INDIAN/SOUTH ASIAN,,,,,,,,,,,,,,,,,,,,,,,
+291,160225,,MA,,MASTERCARD INC,,,1,INDIAN/SOUTH ASIAN,,,,,,,,,,,,,,,,,,,,,,,
+292,8479,,PEP,426,PEPSICO INC,,PEPSICO INC,1,HISPANIC/LATIN AMERICAN,,,,,,,Ramon Laguarta,Ramon Laguarta,,,,,1,Chairman/President/CEO,Executive Director,2/1/19,C,,,,,24151,1304732
+293,23812,,REGN,465,REGENERON PHARMACEUTICALS,,REGENERON PHARMACEUTICALS INC,0,CAUCASIAN/WHITE,,,,,,,Doctor Len Schleifer,Doctor Len Schleifer,,,,,1,President/CEO,Executive Director,1/1/94,6/9/23,,,,,25954,201093
+294,189491,,XYL,665,XYLEM INC,,XYLEM INC,0,CAUCASIAN/WHITE,,,,,,,Patrick Decker,Patrick Decker,,,,,1,President/CEO,Executive Director,3/17/14,12/31/23,,,,,1731107,598774
+295,4060,,DD,,DUPONT DE NEMOURS INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+296,29127,,INCY,298,INCYTE CORP,,INCYTE CORP (Incyte Genomics prior to 03/2003),0,PREFER NOT TO DISCLOSE,,,,,,,Herv__© Hoppenot,Herv__© Hoppenot,,,,,1,Chairman/President/CEO,Executive Director,5/22/15,6/5/23,,,,,15783,1249099
+297,3897,,DTE,191,DTE ENERGY CO,,DTE ENERGY CO,0,CAUCASIAN/WHITE,,,,,,,Gerry Anderson,Gerry Anderson,,,,,1,Chairman (Executive),Executive Director,7/1/19,5/5/22,,,,,9693,204995
+297,3897,,DTE,193,DTE ENERGY CO,,DTE ENERGY CO,0,CAUCASIAN/WHITE,,,,,,,Jerry Norcia,Jerry Norcia,,,,,1,President/CEO,Executive Director,7/1/19,5/5/22,,,,,9693,534436
+298,4839,,F,241,FORD MOTOR CO,,FORD MOTOR CO,0,CAUCASIAN/WHITE,,,,,,,Bill Ford Jr,Bill Ford Jr,,,,,1,Chairman (Executive),Executive Director,9/1/06,C,,,,,12262,23366
+298,4839,,F,243,FORD MOTOR CO,,FORD MOTOR CO,0,CAUCASIAN/WHITE,,,,,,,Jim Hackett,Jim Hackett,,,,,1,President/CEO,Executive Director,5/22/17,10/1/20,,,,,12262,34156
+298,4839,,F,638,FORD MOTOR CO,,FIORE GOLD LTD (Fiore Exploration Ltd prior to 09/2017) (De-listed 01/2022),0,CAUCASIAN/WHITE,,,,,,,Tim Warman,Tim Warman,,,,,1,CEO,Executive Director,9/25/17,1/12/22,,,,,1227085,735131
+299,5073,164,GM,654,GENERAL MOTORS CO,General Motors,GENERAL MOTORS CO,0,CAUCASIAN/WHITE,1,,black,,Alicia,Boler Davis,Mary Barra,Mary Barra,Alicia Boler Davis,1,Female,TMT,1,Chair/CEO,Executive Director,1/4/16,C,6/9/16,12369,1,,1673114,892349
+300,7085,,MAS,360,MASCO CORP,,MASCO CORP,0,CAUCASIAN/WHITE,,,,,,,Keith Allman,Keith Allman,,,,,1,President/CEO,Executive Director,2/14/14,C,,,,,19758,1135450
+301,9771,,AOS,496,SMITH (A.O.),,SMITH (AO) CORP,0,CAUCASIAN/WHITE,,,,,,,Ajita Rajendra,Ajita Rajendra,,,,,1,Chairman (Executive),Executive Director,9/1/18,5/1/20,,,,,28304,484111
+301,9771,,AOS,497,SMITH (A.O.),,SMITH (AO) CORP,0,CAUCASIAN/WHITE,,,,,,,Kevin Wheeler,Kevin Wheeler,,,,,1,President/CEO,Executive Director,9/1/18,5/1/20,,,,,28304,1302544
+302,9203,,ROK,473,ROCKWELL AUTOMATION,,ROCKWELL AUTOMATION INC,0,CAUCASIAN/WHITE,,,,,,,Blake Moret,Blake Moret,,,,,1,Chairman/President/CEO,Executive Director,1/1/18,C,,,,,26468,1108705
+303,11550,,WEC,571,WEC ENERGY GROUP INC,,WEC ENERGY GROUP INC (Wisconsin Energy Corp prior to 06/2015),0,CAUCASIAN/WHITE,,,,,,,Gale Klappa,Gale Klappa,,,,,1,Chairman (Executive),Executive Director,2/1/19,C,,,,,33607,36615
+303,11550,,WEC,572,WEC ENERGY GROUP INC,,WEC ENERGY GROUP INC (Wisconsin Energy Corp prior to 06/2015),0,CAUCASIAN/WHITE,,,,,,,Kevin Fletcher,Kevin Fletcher,,,,,1,President/CEO,Executive Director,2/1/19,2/1/22,,,,,33607,885203
+304,3026,,CHD,124,CHURCH & DWIGHT INC,,CHURCH & DWIGHT CO INC,0,CAUCASIAN/WHITE,,,,,,,Matthew Farrell,Matthew Farrell,,,,,1,Chairman/President/CEO,Executive Director,5/2/19,C,,,,,6779,336620
+305,164708,,AMP,612,AMERIPRISE FINANCIAL INC,,AMERIPRISE FINANCIAL INC,0,CAUCASIAN/WHITE,,,,,,,Jim Cracchiolo,Jim Cracchiolo,,,,,1,Chairman/CEO,Executive Director,9/30/05,C,,,,,667645,33676
+306,2184,61,BBY,75,BEST BUY CO INC,Best Buy,BEST BUY CO INC,0,CAUCASIAN/WHITE,0,,non-black,,Bradbury,Anderson,Hubert Joly,Hubert Joly,Bradbury Anderson,0,Male,CEO,1,Chairman (Executive),Executive Director,6/11/19,6/11/20,2/25/02,85914,0,0,4118,801207
+306,2184,61,BBY,77,BEST BUY CO INC,Best Buy,BEST BUY CO INC,0,CAUCASIAN/WHITE,0,,non-black,,Bradbury,Anderson,Corie Barry,Corie Barry,Bradbury Anderson,0,Male,CEO,1,CEO,Executive Director,6/11/19,C,2/25/02,85914,0,0,4118,1713009
+307,65609,,CHRW,120,C H ROBINSON WORLDWIDE INC,,CH ROBINSON WORLDWIDE INC,0,CAUCASIAN/WHITE,,,,,,,John Wiehoff,John Wiehoff,,,,,1,Chairman,Executive Director,5/9/19,5/7/20,,,,,6438,67247
+307,65609,,CHRW,121,C H ROBINSON WORLDWIDE INC,,CH ROBINSON WORLDWIDE INC,0,CAUCASIAN/WHITE,,,,,,,Bob Biesterfeld Jr,Bob Biesterfeld Jr,,,,,1,President/CEO,Executive Director,5/9/19,12/31/22,,,,,6438,1656763
+308,5071,83,GIS,257,GENERAL MILLS INC,General Mills,GENERAL MILLS INC,0,CAUCASIAN/WHITE,0,,non-black,,Jeffrey,Harmening,Jeff Harmening,Jeff Harmening,Jeffrey Harmening,0,Male,CEO,1,Chairman/CEO,Executive Director,1/1/18,C,5/3/17,17144,0,0,13034,988199
+308,5071,83,GIS,260,GENERAL MILLS INC,General Mills,GILEAD SCIENCES INC,0,CAUCASIAN/WHITE,0,,non-black,,Jeffrey,Harmening,Daniel O'Day,Daniel O'Day,Jeffrey Harmening,0,Male,CEO,1,Chairman/CEO,Executive Director,3/1/19,C,5/3/17,17144,0,0,13273,1015485
+308,5071,162,GIS,257,GENERAL MILLS INC,General Mills,GENERAL MILLS INC,0,CAUCASIAN/WHITE,1,,black,,Marc,Belton,Jeff Harmening,Jeff Harmening,Marc Belton,0,Male,TMT,1,Chairman/CEO,Executive Director,1/1/18,C,5/3/05,17144,1,,13034,988199
+308,5071,162,GIS,260,GENERAL MILLS INC,General Mills,GILEAD SCIENCES INC,0,CAUCASIAN/WHITE,1,,black,,Marc,Belton,Daniel O'Day,Daniel O'Day,Marc Belton,0,Male,TMT,1,Chairman/CEO,Executive Director,3/1/19,C,5/3/05,17144,1,,13273,1015485
+308,5071,163,GIS,257,GENERAL MILLS INC,General Mills,GENERAL MILLS INC,0,CAUCASIAN/WHITE,1,,black,,Marc,Belton,Jeff Harmening,Jeff Harmening,Marc Belton,0,Male,TMT,1,Chairman/CEO,Executive Director,1/1/18,C,5/4/06,17144,1,,13034,988199
+308,5071,163,GIS,260,GENERAL MILLS INC,General Mills,GILEAD SCIENCES INC,0,CAUCASIAN/WHITE,1,,black,,Marc,Belton,Daniel O'Day,Daniel O'Day,Marc Belton,0,Male,TMT,1,Chairman/CEO,Executive Director,3/1/19,C,5/4/06,17144,1,,13273,1015485
+309,3813,245,TGT,511,TARGET CORP,Target,TARGET CORP,0,CAUCASIAN/WHITE,1,,black,,Laysha,Ward,Bill Andres,Bill Andres,Laysha Ward,1,Female,TMT,1,Chairman/CEO,Executive Director,N,N,12/17/14,49154,1,,29978,34696
+309,3813,245,TGT,513,TARGET CORP,Target,TARGET CORP,0,CAUCASIAN/WHITE,1,,black,,Laysha,Ward,Brian Cornell,Brian Cornell,Laysha Ward,1,Female,TMT,1,Chair/CEO,Executive Director,8/12/14,C,12/17/14,49154,1,,29978,310363
+310,10903,242,UNH,544,UNITEDHEALTH GROUP INC,UnitedHealth Group,UNITEDHEALTH GROUP INC,0,CAUCASIAN/WHITE,1,,black,,Reed,Tuckson,Dave Wichmann,Dave Wichmann,Reed Tuckson,0,Male,TMT,1,CEO,Executive Director,9/1/17,2/4/21,9/16/00,92655,0,,32107,333999
+311,4723,,USB,536,US BANCORP,,US BANCORP,0,CAUCASIAN/WHITE,,,,,,,Andy Cecere,Andy Cecere,,,,,1,Chairman/President/CEO,Executive Director,4/17/18,C,,,,,31946,34167
+312,7977,,XEL,,XCEL ENERGY INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+313,1632,,ADI,30,ANALOG DEVICES INC,,ANALOG DEVICES INC,0,CAUCASIAN/WHITE,,,,,,,Vincent Roche,Vincent Roche,,,,,1,President/CEO,Executive Director,5/6/13,3/9/22,,,,,2145,35469
+314,125595,,AKAM,9,AKAMAI TECHNOLOGIES INC,,AKAMAI TECHNOLOGIES INC,0,CAUCASIAN/WHITE,,,,,,,Doctor Tom Leighton,Doctor Tom Leighton,,,,,1,CEO,Executive Director,1/1/13,C,,,,,1221,183176
+315,24468,,BIIB,592,BIOGEN INC,,BIOGEN INC (Biogen Idec Inc prior to 03/2015),0,CAUCASIAN/WHITE,,,,,,,Michel Vounatsos,Michel Vounatsos,,,,,1,CEO,Executive Director,1/6/17,11/14/22,,,,,440155,1694109
+316,25279,,BSX,88,BOSTON SCIENTIFIC CORP,,BOSTON SCIENTIFIC CORP,0,CAUCASIAN/WHITE,,,,,,,Mike Mahoney,Mike Mahoney,,,,,1,Chairman/President/CEO,Executive Director,5/3/16,C,,,,,4865,879252
+316,25279,,BSX,640,BOSTON SCIENTIFIC CORP,,BELO SUN MINING CORP (Verena Minerals Corp prior to 07/2010),0,CAUCASIAN/WHITE,,,,,,,Mark Eaton,Mark Eaton,,,,,1,Chairman (Executive),Executive Director,8/15/14,C,,,,,1264297,730965
+316,25279,,BSX,641,BOSTON SCIENTIFIC CORP,,BELO SUN MINING CORP (Verena Minerals Corp prior to 07/2010),0,CAUCASIAN/WHITE,,,,,,,Peter Tagliamonte,Peter Tagliamonte,,,,,1,President/CEO,Executive Director,8/15/14,C,,,,,1264297,790420
+317,20904,,HOLX,280,HOLOGIC INC,,HOLOGIC INC,0,CAUCASIAN/WHITE,,,,,,,Steve MacMillan,Steve MacMillan,,,,,1,Chairman/President/CEO,Executive Director,6/16/15,C,,,,,14967,41481
+318,28877,,KDP,635,KEURIG DR PEPPER INC,,KEURIG DR PEPPER INC (Dr Pepper Snapple Group Inc prior to 07/2018),0,CAUCASIAN/WHITE,,,,,,,Bob Gamgort Jr,Bob Gamgort Jr,,,,,1,Chairman/President/CEO,Executive Director,1/13/19,7/29/22,,,,,1057037,989294
+319,34410,,MRNA,719,MODERNA INC,,MODERNA INC,0,CAUCASIAN/WHITE,,,,,,,St__©phane Bancel,St__©phane Bancel,,,,,1,CEO,Executive Director,12/7/18,C,,,,,2959246,507530
+320,4145,,PKI,664,PERKINELMER INC,,PARKLAND CORP (Parkland Fuel Corp prior to 05/2020),1,INDIAN/SOUTH ASIAN,,,,,,,Bob Espey,Bob Espey,,,,,1,President/CEO,Executive Director,5/12/11,C,,,,,1719568,1248755
+321,177227,,PODD,622,INSULET CORP,,INSULET CORPORATION,0,CAUCASIAN/WHITE,,,,,,,Shacey Petrovic,Shacey Petrovic,,,,,1,President/CEO,Executive Director,1/1/19,6/1/22,,,,,862492,1519215
+322,8972,132,RTN,,RAYTHEON CO,Raytheon,,0,CAUCASIAN/WHITE,1,,black,,Hansel,Tookes,,,Hansel Tookes,0,Male,CEO,,,,,,9/8/99,24942,1,0,,
+323,10983,,RTX,,RAYTHEON TECHNOLOGIES CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+324,10453,,TER,517,TERADYNE INC,,TERADYNE INC,0,CAUCASIAN/WHITE,,,,,,,Mark Jagiela,Mark Jagiela,,,,,1,President/CEO,Executive Director,2/1/14,7/1/22,,,,,30437,488571
+325,11672,,TJX,523,TJX COS INC (THE),,TJX COS INC,0,CAUCASIAN/WHITE,,,,,,,Carol Meyrowitz,Carol Meyrowitz,,,,,1,Chairman (Executive),Executive Director,1/31/16,C,,,,,30801,38966
+325,11672,,TJX,524,TJX COS INC (THE),,TJX COS INC,0,CAUCASIAN/WHITE,,,,,,,Ernie Herrman,Ernie Herrman,,,,,1,President/CEO,Executive Director,1/31/16,C,,,,,30801,540575
+326,10530,,TMO,521,THERMO FISHER SCIENTIFIC INC,,THERMO FISHER SCIENTIFIC INC (Thermo Electron Corp prior to 11/2006),0,CAUCASIAN/WHITE,,,,,,,Delete Delete,Delete Delete,,,,,1,Chairman/VP/Treasurer,Executive Director,N,C,,,,,30616,2810399
+327,64821,,ARE,11,ALEXANDRIA R E EQUITIES INC,,ALEXANDRIA REAL ESTATE EQUITIES INC,0,CAUCASIAN/WHITE,,,,,,,Joel Marcus,Joel Marcus,,,,,1,Chairman (Executive),Executive Director,4/23/18,C,,,,,1354,182964
+327,64821,,ARE,581,ALEXANDRIA R E EQUITIES INC,,AECON GROUP INC,0,CAUCASIAN/WHITE,,,,,,,Jean-Louis Servranckx,Jean-Louis Servranckx,,,,,1,President/CEO,Executive Director,6/4/19,C,,,,,72259,1206037
+328,180405,,ATVI,3,ACTIVISION BLIZZARD INC,,ACTIVISION BLIZZARD INC (De-listed 10/2023),0,CAUCASIAN/WHITE,,,,,,,Bobby Kotick,Bobby Kotick,,,,,1,CEO,Executive Director,6/26/17,10/13/23,,,,,725,69696
+329,1913,,AVY,46,AVERY DENNISON CORP,,AVERY DENNISON CORP,0,CAUCASIAN/WHITE,,,,,,,Mitch Butier,Mitch Butier,,,,,1,Chairman/President/CEO,Executive Director,4/25/19,2/28/22,,,,,3210,530989
+330,3980,197,DIS,,DISNEY (WALT) CO,Walt Disney,,0,CAUCASIAN/WHITE,1,,black,,Dennis,Hightower,,,Dennis Hightower,0,Male,TMT,,,,,,9/24/90,26403,1,,,
+330,3980,217,DIS,,DISNEY (WALT) CO,Walt Disney,,0,CAUCASIAN/WHITE,1,,black,,Richard,Nanula,,,Richard Nanula,0,Male,TMT,,,,,,8/29/91,26403,1,,,
+331,9846,,EIX,201,EDISON INTERNATIONAL,,EDISON INTERNATIONAL,1,HISPANIC/LATIN AMERICAN,,,,,,,Pedro Pizarro,Pedro Pizarro,,,,,1,President/CEO,Executive Director,9/30/16,C,,,,,10130,791001
+332,165746,,LYV,615,LIVE NATION ENTERTAINMENT,,LIVE NATION ENTERTAINMENT INC (Live Nation Inc prior to 01/2010),0,CAUCASIAN/WHITE,,,,,,,Michael Rapino,Michael Rapino,,,,,1,President/CEO,Executive Director,1/1/18,C,,,,,814633,551171
+333,10096,,PSA,453,PUBLIC STORAGE,,PUBLIC STORAGE (Public Storage Inc prior to 06/2007),0,CAUCASIAN/WHITE,,,,,,,Joe Russell Jr,Joe Russell Jr,,,,,1,President/CEO,Executive Director,1/1/19,C,,,,,25380,270150
+334,4213,,ECL,200,ECOLAB INC,,ECOLAB INC,0,CAUCASIAN/WHITE,,,,,,,Doug Baker Jr,Doug Baker Jr,,,,,1,Chairman/CEO,Executive Director,12/2/11,1/1/21,,,,,10036,51882
+335,7435,,MMM,382,3M CO,,3M CO (Minnesota Mining & Manufacturing Co prior to 02/2002),0,CAUCASIAN/WHITE,,,,,,,Mike Roman,Mike Roman,,,,,1,Chairman/President/CEO,Executive Director,6/1/19,9/1/23,,,,,20777,1310783
+335,7435,,MMM,642,3M CO,,MINCO CAPITAL CORP (Minco Gold Corp prior to 02/2019),0,CAUCASIAN/WHITE,,,,,,,Doctor Ken Cai,Doctor Ken Cai,,,,,1,Chairman/CEO,Executive Director,6/28/17,6/4/20,,,,,1336232,842949
+336,160991,,DLR,606,DIGITAL REALTY TRUST INC,,DIGITAL REALTY TRUST INC,0,CAUCASIAN/WHITE,,,,,,,Bill Stein,Bill Stein,,,,,1,CEO,Executive Director,5/1/15,12/13/22,,,,,641924,374955
+337,12142,226,ORCL,413,ORACLE CORP,Oracle,ORACLE CORP,0,CAUCASIAN/WHITE,1,,black,,Charles,Phillips,Larry Ellison,Larry Ellison,Charles Phillips,0,Male,TMT,1,Executive Chairman/Chief Technology Officer,Executive Director,9/17/14,C,1/13/04,10104,1,,23295,27485
+337,12142,226,ORCL,415,ORACLE CORP,Oracle,ORACLE CORP,0,CAUCASIAN/WHITE,1,,black,,Charles,Phillips,Jeff Henley,Jeff Henley,Charles Phillips,0,Male,TMT,1,Vice Chairman (Executive),Executive Director,9/17/14,C,1/13/04,10104,1,,23295,33468
+337,12142,226,ORCL,417,ORACLE CORP,Oracle,ORACLE CORP,0,CAUCASIAN/WHITE,1,,black,,Charles,Phillips,Safra Catz,Safra Catz,Charles Phillips,0,Male,TMT,1,CEO,Executive Director,10/18/19,C,1/13/04,10104,1,,23295,33503
+338,184996,,TSLA,651,TESLA INC,,TESLA INC (Tesla Motors Inc prior to 02/2017),0,CAUCASIAN/WHITE,,,,,,,Elon Musk,Elon Musk,,,,,1,CEO,Executive Director,11/7/18,C,,,,,1650150,1090701
+339,2220,,BIO,79,BIO-RAD LABORATORIES INC,,BIO RAD LABORATORIES INC,0,CAUCASIAN/WHITE,,,,,,,Norman Schwartz,Norman Schwartz,,,,,1,Chairman/President/CEO,Executive Director,1/1/12,C,,,,,4311,181631
+340,3504,,COO,155,COOPER COS INC (THE),,COOPER COMPANIES INC,0,CAUCASIAN/WHITE,,,,,,,Al White III,Al White III,,,,,1,President/CEO,Executive Director,5/1/18,C,,,,,7836,517326
+341,2991,,CVX,123,CHEVRON CORP,,CHEVRON CORP,0,CAUCASIAN/WHITE,,,,,,,Mike Wirth,Mike Wirth,,,,,1,Chairman/CEO,Executive Director,2/1/18,C,,,,,6627,343163
+342,160211,183,DPZ,583,DOMINO'S PIZZA INC,Domino¡¯s Pizza,DOMINO'S PIZZA INC,0,CAUCASIAN/WHITE,1,,black,,Troy,Ellis,Ritch Allison Jr,Ritch Allison Jr,Troy Ellis,0,Male,TMT,1,CEO,Executive Director,7/1/18,4/26/22,6/30/15,90248,1,,90132,1110512
+343,64166,,DGX,461,QUEST DIAGNOSTICS INC,,QUEST DIAGNOSTICS INC,0,CAUCASIAN/WHITE,,,,,,,Steve Rusckowski,Steve Rusckowski,,,,,1,Chairman/President/CEO,Executive Director,1/1/17,11/1/22,,,,,25578,37246
+344,38821,,OGN,643,ORGANON & CO,,OROGEN ROYALTIES INC (Evrim Resources Corp prior to 08/2020),0,CAUCASIAN/WHITE,,,,,,,Paddy Nicol,Paddy Nicol,,,,,1,President/CEO,Executive Director,1/25/11,8/18/20,,,,,1562505,2413290
+345,180652,,VRSK,644,VERISK ANALYTICS INC,,VERISK ANALYTICS INC,0,CAUCASIAN/WHITE,,,,,,,Scott Stephenson,Scott Stephenson,,,,,1,Chairman/President/CEO,Executive Director,4/1/16,5/5/22,,,,,1586724,982579
+346,126554,,A,7,AGILENT TECHNOLOGIES INC,,AGILENT TECHNOLOGIES INC,0,CAUCASIAN/WHITE,,,,,,,Mike McMullen,Mike McMullen,,,,,1,President/CEO,Executive Director,3/18/15,C,,,,,1060,598782
+347,1690,,AAPL,36,APPLE INC,,APPLE INC (Apple Computer Inc prior to 01/2007),0,CAUCASIAN/WHITE,,,,,,,Tim Cook,Tim Cook,,,,,1,CEO,Executive Director,8/24/11,C,,,,,2355,55422
+348,12540,,ADBE,4,ADOBE INC,,ADOBE INC (Adobe Systems Inc prior to 10/2018),1,INDIAN/SOUTH ASIAN,,,,,,,Shantanu Narayen,Shantanu Narayen,,,,,1,Chairman/President/CEO,Executive Director,1/27/17,1/13/22,,,,,808,49351
+349,1704,,AMAT,37,APPLIED MATERIALS INC,,APPLIED MATERIALS INC,0,CAUCASIAN/WHITE,,,,,,,Gary Dickerson,Gary Dickerson,,,,,1,President/CEO,Executive Director,9/1/13,C,,,,,2382,50901
+350,1161,,AMD,5,ADVANCED MICRO DEVICES,,ADVANCED MICRO DEVICES INC (AMD),1,ASIAN (EXCLUDE INDIAN/SOUTH ASIAN),,,,,,,Doctor Lisa Su,Doctor Lisa Su,,,,,1,President/CEO,Executive Director,10/8/14,2/14/22,,,,,881,542142
+351,20748,,ANET,696,ARISTA NETWORKS INC,,ARISTA NETWORKS INC,1,INDIAN/SOUTH ASIAN,,,,,,,Doctor Andy von Bechtolsheim,Doctor Andy von Bechtolsheim,,,,,1,Chairman/Chief Development Officer,Executive Director,5/18/15,12/1/23,,,,,2073894,201466
+351,20748,,ANET,697,ARISTA NETWORKS INC,,ARISTA NETWORKS INC,1,INDIAN/SOUTH ASIAN,,,,,,,Jayshree Ullal,Jayshree Ullal,,,,,1,President/CEO,Executive Director,6/6/14,12/1/23,,,,,2073894,765053
+352,180711,,AVGO,618,BROADCOM INC,,BROADCOM INC (Broadcom Ltd prior to 04/2018),1,ASIAN (EXCLUDE INDIAN/SOUTH ASIAN),,,,,,,Hock Tan,Hock Tan,,,,,1,President/CEO,Executive Director,8/6/09,C,,,,,817439,102722
+353,13421,,CDNS,97,CADENCE DESIGN SYSTEMS INC,,CADENCE DESIGN SYSTEMS INC,1,ASIAN (EXCLUDE INDIAN/SOUTH ASIAN),,,,,,,Lip-Bu Tan,Lip-Bu Tan,,,,,1,CEO,Executive Director,11/16/17,12/15/21,,,,,5480,182411
+354,20779,,CSCO,130,CISCO SYSTEMS INC,,CISCO SYSTEMS INC,0,CAUCASIAN/WHITE,,,,,,,Chuck Robbins,Chuck Robbins,,,,,1,Chair/CEO,Executive Director,12/11/17,C,,,,,6908,536628
+355,114524,,EBAY,,EBAY INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+356,183377,,FTNT,648,FORTINET INC,,FORTINET INC,1,ASIAN (EXCLUDE INDIAN/SOUTH ASIAN),,,,,,,Ken Xie,Ken Xie,,,,,1,Chairman/CEO,Executive Director,11/11/13,C,,,,,1606380,1055310
+357,160329,,GOOGL,588,ALPHABET INC,,ALPHABET INC (Google Inc prior to 10/2015),1,INDIAN/SOUTH ASIAN,,,,,,,Sundar Pichai,Sundar Pichai,,,,,1,CEO,Executive Director,12/3/19,C,,,,,116351,887679
+358,5606,,HPQ,278,HP INC,,HP INC (Hewlett-Packard Co prior to 11/2015),1,HISPANIC/LATIN AMERICAN,,,,,,,Enrique Lores,Enrique Lores,,,,,1,President/CEO,Executive Director,11/1/19,C,,,,,14722,607415
+358,5606,,HPQ,685,HP INC,,HPQ SILICON INC (HPQ Silicon Resources Inc prior to 07/2022),1,HISPANIC/LATIN AMERICAN,,,,,,,Bernard Tourillon,Bernard Tourillon,,,,,1,Chairman/President/CEO,Executive Director,1/1/18,C,,,,,1985899,2390887
+359,6008,,INTC,302,INTEL CORP,,INTEL CORP,0,CAUCASIAN/WHITE,,,,,,,Bob Swan,Bob Swan,,,,,1,CEO,Executive Director,1/30/19,2/15/21,,,,,16239,48076
+360,27928,,INTU,308,INTUIT INC,,INTUIT INC,1,MIDDLE-EASTERN/NORTH AFRICAN,,,,,,,Brad Smith,Brad Smith,,,,,1,Chairman (Executive),Executive Director,1/1/19,1/1/22,,,,,16626,444827
+360,27928,,INTU,309,INTUIT INC,,INTUIT INC,1,MIDDLE-EASTERN/NORTH AFRICAN,,,,,,,Sasan Goodarzi,Sasan Goodarzi,,,,,1,President/CEO,Executive Director,1/1/19,2/1/24,,,,,16626,556870
+361,136725,,ISRG,310,INTUITIVE SURGICAL INC,,INTUITIVE SURGICAL INC,0,CAUCASIAN/WHITE,,,,,,,Doctor Gary Guthart,Doctor Gary Guthart,,,,,1,President/CEO,Executive Director,1/1/10,5/16/23,,,,,16627,324511
+362,121718,,JNPR,318,JUNIPER NETWORKS INC,,JUNIPER NETWORKS INC,1,ASIAN (EXCLUDE INDIAN/SOUTH ASIAN),,,,,,,Rami Rahim,Rami Rahim,,,,,1,CEO,Executive Director,11/10/14,C,,,,,17580,1275216
+363,6304,,KLAC,328,KLA CORP,,KLA CORP (KLA Tencor Corp prior to 07/2019),0,CAUCASIAN/WHITE,,,,,,,Rick Wallace,Rick Wallace,,,,,1,President/CEO,Executive Director,11/13/08,C,,,,,17984,51071
+364,14256,,MXIM,362,MAXIM INTEGRATED PRODUCTS,,MAXIM INTEGRATED PRODUCTS INC (De-listed 08/2021),1,MIDDLE-EASTERN/NORTH AFRICAN,,,,,,,Tunc Doluca,Tunc Doluca,,,,,1,President/CEO,Executive Director,1/1/07,8/26/21,,,,,19863,36387
+365,147579,,NFLX,584,NETFLIX INC,,NETFLIX INC,0,CAUCASIAN/WHITE,,,,,,,Wilmot Hastings Jr,Wilmot Hastings Jr,,,,,1,Chairman/President/CEO,Executive Director,7/1/99,7/14/20,,,,,93427,182088
+366,171007,,NOW,673,SERVICENOW INC,,SERVICENOW INC,0,CAUCASIAN/WHITE,,,,,,,Bill McDermott,Bill McDermott,,,,,1,President/CEO,Executive Director,11/18/19,10/25/22,,,,,1830138,206474
+367,61591,,NTAP,391,NETAPP INC,,NETAPP INC (Network Appliance Inc prior to 03/2008),1,INDIAN/SOUTH ASIAN,,,,,,,George Kurian,George Kurian,,,,,1,President/CEO,Executive Director,5/20/16,7/1/20,,,,,21903,1448606
+368,117768,,NVDA,403,NVIDIA CORP,,NVIDIA CORP,1,ASIAN (EXCLUDE INDIAN/SOUTH ASIAN),,,,,,,Jensen Huang,Jensen Huang,,,,,1,President/CEO,Executive Director,4/1/93,C,,,,,22806,83377
+369,24616,,PYPL,705,PAYPAL HOLDINGS INC,,PAYPAL HOLDINGS INC,0,CAUCASIAN/WHITE,,,,,,,Dan Schulman,Dan Schulman,,,,,1,President/CEO,Executive Director,7/17/15,9/27/23,,,,,2308850,54611
+370,17120,,SIVB,,SVB FINANCIAL GROUP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+371,24975,,SNPS,507,SYNOPSYS INC,,SYNOPSYS INC,0,CAUCASIAN/WHITE,,,,,,,Doctor Aart De Geus,Doctor Aart De Geus,,,,,1,Chairman/Co-CEO,Executive Director,5/21/12,4/30/22,,,,,29816,64702
+371,24975,,SNPS,508,SYNOPSYS INC,,SYNOPSYS INC,0,CAUCASIAN/WHITE,,,,,,,Doctor Chi-Foon Chan,Doctor Chi-Foon Chan,,,,,1,President/Co-CEO,Executive Director,5/21/12,11/1/21,,,,,29816,64712
+372,22815,,TRMB,,TRIMBLE INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+373,11115,,VAR,547,VARIAN MEDICAL SYSTEMS INC,,VARIAN MEDICAL SYSTEMS INC (De-listed 04/2021),0,CAUCASIAN/WHITE,,,,,,,Dow Wilson,Dow Wilson,,,,,1,President/CEO,Executive Director,9/29/12,10/5/20,,,,,32375,453565
+374,11399,,WDC,,WESTERN DIGITAL CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+375,22325,,XLNX,574,XILINX INC,,XILINX INC (De-listed 02/2022),1,ASIAN (EXCLUDE INDIAN/SOUTH ASIAN),,,,,,,Victor Peng,Victor Peng,,,,,1,President/CEO,Executive Director,1/29/18,2/14/22,,,,,33857,339239
+376,1722,,ADM,38,ARCHER-DANIELS-MIDLAND CO,,ARCHER-DANIELS-MIDLAND CO,1,HISPANIC/LATIN AMERICAN,,,,,,,Juan Luciano,Juan Luciano,,,,,1,Chairman/President/CEO,Executive Director,1/1/16,C,,,,,2490,890753
+377,4973,,AJG,250,ARTHUR J GALLAGHER & CO,,ARTHUR J GALLAGHER & CO,0,CAUCASIAN/WHITE,,,,,,,Pat Gallagher Jr,Pat Gallagher Jr,,,,,1,Chairman/President/CEO,Executive Director,10/19/06,1/1/24,,,,,12761,81627
+378,28349,,ALL,16,ALLSTATE CORP,,ALLSTATE CORP,0,CAUCASIAN/WHITE,,,,,,,Tom Wilson II,Tom Wilson II,,,,,1,Chairman/President/CEO,Executive Director,2/23/18,C,,,,,1534,34944
+379,2285,4,BA,,BOEING CO,Boeing Company,,0,CAUCASIAN/WHITE,1,,black,,James,Bell,,,James Bell,0,Male,CEO,,,,,,3/7/05,19561,0,1,,
+379,2285,161,BA,,BOEING CO,Boeing,,0,CAUCASIAN/WHITE,1,,black,,James,Bell,,,James Bell,0,Male,TMT,,,,,,1/6/04,19561,0,,,
+380,3362,,CAG,145,CONAGRA BRANDS INC,,CONAGRA BRANDS INC (Conagra Foods Inc prior to 11/2016),0,CAUCASIAN/WHITE,,,,,,,Sean Connolly,Sean Connolly,,,,,1,President/CEO,Executive Director,4/6/15,C,,,,,7619,837621
+381,184500,,CBOE,650,CBOE GLOBAL MARKETS INC,,CBOE GLOBAL MARKETS INC (CBOE Holdings Inc prior to 10/2017),0,CAUCASIAN/WHITE,,,,,,,Ed Tilly,Ed Tilly,,,,,1,Chairman/President/CEO,Executive Director,1/14/19,5/12/22,,,,,1647824,1058282
+382,149070,,CME,590,CME GROUP INC,,CME GROUP INC (Chicago Mercantile Exchange Holdings Inc prior to 07/2007),0,CAUCASIAN/WHITE,,,,,,,The Hon. Terry Duffy,The Hon. Terry Duffy,,,,,1,Chairman/CEO,Executive Director,11/10/16,C,,,,,268946,91452
+383,28733,,EQR,214,EQUITY RESIDENTIAL,,EQUITY RESIDENTIAL (Equity Residential Properties Trust prior to 10/2002),0,CAUCASIAN/WHITE,,,,,,,Mark Parrell,Mark Parrell,,,,,1,President/CEO,Executive Director,12/31/18,C,,,,,10928,552575
+384,8539,176,EXC,225,EXELON CORP,Exelon,EXELON CORP,0,CAUCASIAN/WHITE,1,,black,,Frank,Clark,Chris Crane,Chris Crane,Frank Clark,0,Male,TMT,1,President/CEO,Executive Director,3/12/12,10/17/22,10/2/01,21776,1,,11376,534954
+385,41818,,GEHC,,GE HEALTHCARE TECHNOLOGI INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+386,15267,,IEX,,IDEX CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+387,5878,,ITW,296,ILLINOIS TOOL WORKS,,ILLINOIS TOOL WORKS INC (ITW),0,CAUCASIAN/WHITE,,,,,,,Ernest Santi,Ernest Santi,,,,,1,Chairman/CEO,Executive Director,5/8/15,1/1/24,,,,,15580,534201
+388,155394,,LKQ,593,LKQ CORP,,LKQ CORPORATION INC,0,CAUCASIAN/WHITE,,,,,,,Joe Holsten,Joe Holsten,,,,,1,Chairman (Executive),Executive Director,3/6/17,5/10/22,,,,,463860,345185
+388,155394,,LKQ,594,LKQ CORP,,LKQ CORPORATION INC,0,CAUCASIAN/WHITE,,,,,,,Nick Zarcone,Nick Zarcone,,,,,1,President/CEO,Executive Director,5/31/17,C,,,,,463860,1523271
+389,7154,51,MCD,365,MCDONALD'S CORP,McDonald¡¯s,MCDONALD'S CORP,0,CAUCASIAN/WHITE,1,,black,,Donald,Thompson,Chris Kempczinski,Chris Kempczinski,Donald Thompson,0,Male,CEO,1,President/CEO,Executive Director,11/1/19,C,1/11/10,43449,1,0,19944,1381393
+389,7154,213,MCD,365,MCDONALD'S CORP,McDonald¡¯s,MCDONALD'S CORP,0,CAUCASIAN/WHITE,1,,black,,Raymond,Mines,Chris Kempczinski,Chris Kempczinski,Raymond Mines,0,Male,TMT,1,President/CEO,Executive Director,11/1/19,C,9/28/98,43449,0,,19944,1381393
+390,142953,249,MDLZ,329,MONDELEZ INTERNATIONAL INC,Kraft Foods,MONDELEZ INTERNATIONAL INC,0,CAUCASIAN/WHITE,1,,black,,Mary Beth,West,Doctor Dirk van de Put,Doctor Dirk van de Put,Mary Beth West,1,Female,TMT,1,Chairman/CEO,Executive Director,4/1/18,C,10/29/07,89006,0,,18164,640369
+391,7585,,MSI,386,MOTOROLA SOLUTIONS INC,,MOTOROLA SOLUTIONS INC,0,CAUCASIAN/WHITE,,,,,,,Greg Brown,Greg Brown,,,,,1,Chairman/CEO,Executive Director,5/3/11,C,,,,,21174,42861
+391,7585,,MSI,657,MOTOROLA SOLUTIONS INC,,LIFEWORKS INC (Morneau Shepell Inc prior to 05/2021) (De-listed 09/2022),0,CAUCASIAN/WHITE,,,,,,,Stephen Liptrap,Stephen Liptrap,,,,,1,President/CEO,Executive Director,5/4/17,9/2/22,,,,,1681880,1060498
+392,7982,235,NTRS,397,NORTHERN TRUST CORP,Northern Trust,NORTHERN TRUST CORP,0,CAUCASIAN/WHITE,1,,black,,Shundrawn,Thomas,Mike O'Grady,Mike O'Grady,Shundrawn Thomas,0,Male,TMT,1,Chairman/President/CEO,Executive Director,1/23/19,C,5/28/14,58246,1,,22509,1122917
+393,10795,26,UAL,531,UNITED AIRLINES HOLDINGS INC,United Airlines,UNITED AIRLINES HOLDINGS INC (United Continental Holdings Inc prior to 07/2019),0,CAUCASIAN/WHITE,1,,black,,Brett,Hart,Oscar Munoz,Oscar Munoz,Brett Hart,0,Male,CEO,1,CEO,Executive Director,8/29/16,5/20/20,10/19/15,91103,0,1,31575,160071
+394,110179,,VTR,549,VENTAS INC,,VENTAS INC (Vencor Inc prior to 04/1998),0,CAUCASIAN/WHITE,,,,,,,Debra Cafaro,Debra Cafaro,,,,,1,Chairman/CEO,Executive Director,11/2/10,C,,,,,32450,180625
+395,20232,,KEYS,701,KEYSIGHT TECHNOLOGIES INC,,KEYSIGHT TECHNOLOGIES INC,0,CAUCASIAN/WHITE,,,,,,,Ron Nersesian,Ron Nersesian,,,,,1,Chairman/President/CEO,Executive Director,11/1/19,5/1/22,,,,,2163313,598783
+396,1230,,ALK,10,ALASKA AIR GROUP INC,,ALASKA AIR GROUP INC,0,CAUCASIAN/WHITE,,,,,,,Brad Tilden,Brad Tilden,,,,,1,Chairman/President/CEO,Executive Director,1/1/14,3/31/21,,,,,1273,220505
+397,64768,,AMZN,18,AMAZON.COM INC,,AMAZON.COM INC,0,CAUCASIAN/WHITE,,,,,,,Jeff Bezos,Jeff Bezos,,,,,1,Chairman/President/CEO,Executive Director,10/1/00,7/5/21,,,,,1703,45136
+398,29028,,COST,161,COSTCO WHOLESALE CORP,,COSTCO WHOLESALE CORP,0,CAUCASIAN/WHITE,,,,,,,W Jelinek,W Jelinek,,,,,1,President/CEO,Executive Director,1/1/12,2/2/22,,,,,8022,43701
+399,4494,,EXPD,228,EXPEDITORS INTL WASH INC,,EXPEDITORS INTERNATIONAL OF WASHINGTON INC,0,CAUCASIAN/WHITE,,,,,,,Jeff Musser,Jeff Musser,,,,,1,President/CEO,Executive Director,3/1/14,C,,,,,11401,452655
+400,126296,,EXPE,614,EXPEDIA GROUP INC,,EXPEDIA GROUP INC (Expedia Inc prior to 03/2018),0,CAUCASIAN/WHITE,,,,,,,Barry Diller,Barry Diller,,,,,1,Chairman (Executive),Executive Director,8/9/05,C,,,,,770141,33328
+401,121077,35,FFIV,231,F5 INC,F5 Networks,F5 INC (F5 Networks Inc prior to 11/2021),1,BLACK/AFRICAN AMERICAN,1,,black,,Fran_ois,Locoh-Donou,Francois Locoh-Donou,Francois Locoh-Donou,Fran_ois Locoh-Donou,0,Male,CEO,1,President/CEO,Executive Director,4/3/17,C,1/31/17,86964,0,0,11468,601275
+402,12141,,MSFT,380,MICROSOFT CORP,,MICROSOFT CORP,1,INDIAN/SOUTH ASIAN,,,,,,,Satya Nadella,Satya Nadella,,,,,1,CEO,Executive Director,2/4/14,6/16/21,,,,,20601,499383
+403,8253,,PCAR,420,PACCAR INC,,PACCAR INC,0,CAUCASIAN/WHITE,,,,,,,Mark Pigott,Mark Pigott,,,,,1,Chairman (Executive),Executive Director,4/27/14,C,,,,,23563,51632
+403,8253,,PCAR,421,PACCAR INC,,PACCAR INC,0,CAUCASIAN/WHITE,,,,,,,R Feight,R Feight,,,,,1,CEO,Executive Director,7/1/19,C,,,,,23563,1526154
+404,25434,,SBUX,504,STARBUCKS CORP,,STARBUCKS CORP,0,CAUCASIAN/WHITE,,,,,,,Kevin Johnson,Kevin Johnson,,,,,1,President/CEO,Executive Director,4/3/17,4/4/22,,,,,29093,31844
+405,17874,,TMUS,,T-MOBILE US INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+406,11456,,WY,568,WEYERHAEUSER CO,,WEYERHAEUSER CO,0,CAUCASIAN/WHITE,,,,,,,Devin Stockfish,Devin Stockfish,,,,,1,President/CEO,Executive Director,1/1/19,C,,,,,33418,1266749
+407,11554,,LNT,15,ALLIANT ENERGY CORP,,ALLIANT ENERGY CORP,0,CAUCASIAN/WHITE,,,,,,,John Larsen,John Larsen,,,,,1,Chair/President/CEO,Executive Director,7/1/19,2/27/23,,,,,1476,896820
+408,23238,,ETSY,703,ETSY INC,,ETSY INC,0,CAUCASIAN/WHITE,,,,,,,Josh Silverman,Josh Silverman,,,,,1,President/CEO,Executive Director,5/3/17,C,,,,,2236759,765386
+409,1891,,ADP,41,AUTOMATIC DATA PROCESSING,,AUTOMATIC DATA PROCESSING INC (ADP),1,HISPANIC/LATIN AMERICAN,,,,,,,Carlos Rodriguez,Carlos Rodriguez,,,,,1,President/CEO,Executive Director,11/8/11,1/1/22,,,,,3101,745222
+410,8810,,PEG,451,PUBLIC SERVICE ENTRP GRP INC,,PUBLIC SERVICE ENTERPRISE GROUP INC,0,CAUCASIAN/WHITE,,,,,,,Doctor Ralph Izzo,Doctor Ralph Izzo,,,,,1,Chairman/President/CEO,Executive Director,4/1/07,8/31/22,,,,,25378,204007
+411,143356,,PRU,450,PRUDENTIAL FINANCIAL INC,,PRUDENTIAL FINANCIAL INC,0,CAUCASIAN/WHITE,,,,,,,Charlie Lowrey Jr,Charlie Lowrey Jr,,,,,1,Chairman/President/CEO,Executive Director,4/5/19,C,,,,,25332,885991
+412,4885,,BEN,247,FRANKLIN RESOURCES INC,,FRANKLIN RESOURCES INC,0,CAUCASIAN/WHITE,,,,,,,Rupert Johnson Jr,Rupert Johnson Jr,,,,,1,Vice Chairman,Executive Director,12/1/99,C,,,,,12463,36572
+413,16721,,EA,204,ELECTRONIC ARTS INC,,ELECTRONIC ARTS INC,0,CAUCASIAN/WHITE,,,,,,,Andrew Wilson,Andrew Wilson,,,,,1,CEO,Executive Director,9/17/13,8/12/21,,,,,10364,1207036
+414,138743,,EQIX,212,EQUINIX INC,,EQUINIX INC,0,CAUCASIAN/WHITE,,,,,,,Peter Van Camp,Peter Van Camp,,,,,1,Chairman (Executive),Executive Director,9/12/18,C,,,,,10899,202552
+414,138743,,EQIX,213,EQUINIX INC,,EQUINIX INC,0,CAUCASIAN/WHITE,,,,,,,Charles Meyers,Charles Meyers,,,,,1,President/CEO,Executive Director,9/12/18,C,,,,,10899,1089745
+415,30293,,ESS,215,ESSEX PROPERTY TRUST,,ESSEX PROPERTY TRUST INC (Essex Property Corp prior to 06/1994),0,CAUCASIAN/WHITE,,,,,,,Mike Schall,Mike Schall,,,,,1,President/CEO,Executive Director,1/1/11,3/31/23,,,,,11060,182075
+416,24856,96,GILD,259,GILEAD SCIENCES INC,Gilead Sciences,GILEAD SCIENCES INC,0,CAUCASIAN/WHITE,0,,non-black,,Daniel,O¡¯Day,Daniel O'Day,Daniel O'Day,Daniel O¡¯Day,0,Male,CEO,1,Chairman/CEO,Executive Director,3/1/19,C,12/9/18,77274,0,0,13273,1015485
+416,24856,247,GILD,259,GILEAD SCIENCES INC,Gilead Sciences,GILEAD SCIENCES INC,0,CAUCASIAN/WHITE,1,,black,,Robin,Washington,Daniel O'Day,Daniel O'Day,Robin Washington,1,Female,TMT,1,Chairman/CEO,Executive Director,3/1/19,C,4/21/08,77274,0,,13273,1015485
+417,170617,,META,672,META PLATFORMS INC,,META PLATFORMS INC (Facebook Inc prior to 11/2021),0,CAUCASIAN/WHITE,,,,,,,Mark Zuckerberg,Mark Zuckerberg,,,,,1,Chairman/CEO,Executive Director,5/18/12,C,,,,,1820060,646335
+417,170617,,META,708,META PLATFORMS INC,,META GROWTH CORP (National Access Cannabis Corp prior to 03/2020) (De-listed 11/2020),0,CAUCASIAN/WHITE,,,,,,,Mark Goliger,Mark Goliger,,,,,1,CEO,Executive Director,9/10/18,11/18/20,,,,,2429185,2127717
+418,2312,,RHI,469,ROBERT HALF INTL INC,,ROBERT HALF INC (Robert Half International Inc prior to 07/2023),0,CAUCASIAN/WHITE,,,,,,,Harold Messmer Jr,Harold Messmer Jr,,,,,1,Chairman (Executive),Executive Director,12/15/19,C,,,,,26429,81557
+418,2312,,RHI,471,ROBERT HALF INTL INC,,ROBERT HALF INC (Robert Half International Inc prior to 07/2023),0,CAUCASIAN/WHITE,,,,,,,Michael Waddell,Michael Waddell,,,,,1,Vice Chairman/CEO/President,Executive Director,12/15/19,C,,,,,26429,81587
+419,179534,,V,626,VISA INC,,VISA INC,0,CAUCASIAN/WHITE,,,,,,,Al Kelly Jr,Al Kelly Jr,,,,,1,Chairman/CEO,Executive Director,4/16/19,2/1/23,,,,,937594,33689
+420,30490,,AIV,35,APARTMENT INVST & MGMT CO,,APARTMENT INVESTMENT & MANAGEMENT CO (AIMCO),0,CAUCASIAN/WHITE,,,,,,,The Hon. Terry Considine,The Hon. Terry Considine,,,,,1,Chairman/CEO,Executive Director,2/10/09,12/15/20,,,,,2310,87112
+421,61483,,DVA,174,DAVITA INC,,DAVITA INC (DaVita HealthCare Partners Inc prior to 09/2016),1,HISPANIC/LATIN AMERICAN,,,,,,,Kent Thiry,Kent Thiry,,,,,1,Chairman (Executive),Executive Director,6/1/19,6/1/20,,,,,8783,71242
+421,61483,,DVA,175,DAVITA INC,,DAVITA INC (DaVita HealthCare Partners Inc prior to 09/2016),1,HISPANIC/LATIN AMERICAN,,,,,,,Javier Rodriguez,Javier Rodriguez,,,,,1,CEO,Executive Director,6/1/19,C,,,,,8783,655130
+422,7881,,NEM,393,NEWMONT CORP,,NEWMONT CORP (Newmont Goldcorp Corp prior to 01/2020),0,CAUCASIAN/WHITE,,,,,,,Tom Palmer,Tom Palmer,,,,,1,President/CEO,Executive Director,10/1/19,C,,,,,22069,1378869
+423,13125,,PEAK,,HEALTHPEAK PROPERTIES INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+424,11060,,VFC,552,VF CORP,,VF CORP,0,CAUCASIAN/WHITE,,,,,,,Steve Rendle,Steve Rendle,,,,,1,Chairman (Executive)/President/CEO,Executive Director,10/28/17,12/2/22,,,,,32574,831805
+425,175263,140,WU,621,WESTERN UNION CO,Western Union,WESTERN UNION CO,0,CAUCASIAN/WHITE,0,,non-black,,Devin,McGranahan,Hikmet Ersek,Hikmet Ersek,Devin McGranahan,0,Male,CEO,1,President/CEO,Executive Director,9/1/10,12/31/21,11/15/21,91461,0,0,840164,502258
+426,3121,,CLX,135,CLOROX CO/DE,,CLOROX COMPANY (THE),0,CAUCASIAN/WHITE,,,,,,,Benno Dorer,Benno Dorer,,,,,1,Chairman/CEO,Executive Director,8/15/16,9/14/20,,,,,7089,750963
+427,187450,,ENPH,670,ENPHASE ENERGY INC,,ENPHASE ENERGY INC,1,INDIAN/SOUTH ASIAN,,,,,,,Badri Kothandaraman,Badri Kothandaraman,,,,,1,President/CEO,Executive Director,9/3/17,C,,,,,1810090,1197971
+428,6565,,LRCX,334,LAM RESEARCH CORP,,LAM RESEARCH CORP,0,CAUCASIAN/WHITE,,,,,,,Tim Archer,Tim Archer,,,,,1,President/CEO,Executive Director,12/5/18,C,,,,,18384,487342
+429,8264,,PCG,427,PG&E CORP,,PG&E CORP,0,White,,,,,,,Bill Johnson,Bill Johnson,,,,,1,President/CEO,Executive Director,6/21/19,6/30/20,,,,,24303,47996
+430,9248,,ROST,478,ROSS STORES INC,,ROSS STORES INC,0,CAUCASIAN/WHITE,,,,,,,Barbara Rentler,Barbara Rentler,,,,,1,CEO,Executive Director,6/1/14,5/19/21,,,,,26560,487157
+431,62263,,ALXN,12,ALEXION PHARMACEUTICALS INC,,ALEXION PHARMACEUTICALS INC (De-listed 07/2021),0,CAUCASIAN/WHITE,,,,,,,Doctor Ludwig Hantson,Doctor Ludwig Hantson,,,,,1,CEO,Executive Director,3/27/17,7/21/21,,,,,1355,1077323
+432,105365,,AMT,,AMERICAN TOWER CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+433,64925,,BXP,87,BOSTON PROPERTIES INC,,BOSTON PROPERTIES INC,0,CAUCASIAN/WHITE,,,,,,,Owen Thomas,Owen Thomas,,,,,1,CEO,Executive Director,4/2/13,5/19/22,,,,,4863,491901
+434,5047,,GE,254,GENERAL ELECTRIC CO,,GENERAL ELECTRIC CO,0,CAUCASIAN/WHITE,,,,,,,Larry Culp Jr,Larry Culp Jr,,,,,1,Chairman/CEO,Executive Director,9/30/18,C,,,,,12986,36907
+435,62374,,IRM,312,IRON MOUNTAIN INC,,IRON MOUNTAIN INC,0,CAUCASIAN/WHITE,,,,,,,Bill Meaney,Bill Meaney,,,,,1,President/CEO,Executive Director,1/7/13,C,,,,,17012,1188382
+436,10035,,STT,,STATE STREET CORP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+437,24344,,VRTX,,VERTEX PHARMACEUTICALS INC,,,1,INDIAN/SOUTH ASIAN,,,,,,,,,,,,,,,,,,,,,,,
+438,3226,193,CMCSA,143,COMCAST CORP,Comcast,COMCAST CORP (AT&T Comcast Corp prior to 11/2002),0,CAUCASIAN/WHITE,1,,black,,Kimberley,Harris,Brian Roberts,Brian Roberts,Kimberley Harris,1,Female,TMT,1,Chairman/President/CEO,Executive Director,5/25/04,10/11/22,7/16/13,89565,1,,7387,35803
+439,4510,,FMC,239,FMC CORP,,FMC CORP,0,CAUCASIAN/WHITE,,,,,,,Doctor Pierre Brondeau,Doctor Pierre Brondeau,,,,,1,Chairman/CEO,Executive Director,6/1/18,5/31/20,,,,,12164,51661
+440,10860,,AEE,24,AMEREN CORP,,AMEREN CORP,0,CAUCASIAN/WHITE,,,,,,,Warner Baxter,Warner Baxter,,,,,1,Chairman/President/CEO,Executive Director,7/1/14,1/1/22,,,,,1976,51707
+441,7366,167,ETR,207,ENTERGY CORP,Entergy,ENTERGY CORP,0,CAUCASIAN/WHITE,1,,black,,Marcus,Brown,Leo Denault,Leo Denault,Marcus Brown,0,Male,TMT,1,Chairman/CEO,Executive Director,2/1/13,11/1/22,1/31/12,24010,1,,10750,204855
+441,7366,167,ETR,720,ENTERGY CORP,Entergy,ETRUSCUS RESOURCES CORP,0,CAUCASIAN/WHITE,1,,black,,Marcus,Brown,Fiore Aliperti,Fiore Aliperti,Marcus Brown,0,Male,TMT,1,Chairman (Executive),Executive Director,1/15/19,11/23/21,1/31/12,24010,1,,2978540,655507
+441,7366,167,ETR,721,ENTERGY CORP,Entergy,ETRUSCUS RESOURCES CORP,0,CAUCASIAN/WHITE,1,,black,,Marcus,Brown,Gordon Lam,Gordon Lam,Marcus Brown,0,Male,TMT,1,President/CEO,Executive Director,1/15/19,7/1/21,1/31/12,24010,1,,2978540,2141493
+441,7366,250,ETR,207,ENTERGY CORP,Entergy,ENTERGY CORP,0,CAUCASIAN/WHITE,1,,black,,Roderick,West,Leo Denault,Leo Denault,Roderick West,0,Male,TMT,1,Chairman/CEO,Executive Director,2/1/13,11/1/22,6/7/10,24010,1,,10750,204855
+441,7366,250,ETR,720,ENTERGY CORP,Entergy,ETRUSCUS RESOURCES CORP,0,CAUCASIAN/WHITE,1,,black,,Roderick,West,Fiore Aliperti,Fiore Aliperti,Roderick West,0,Male,TMT,1,Chairman (Executive),Executive Director,1/15/19,11/23/21,6/7/10,24010,1,,2978540,655507
+441,7366,250,ETR,721,ENTERGY CORP,Entergy,ETRUSCUS RESOURCES CORP,0,CAUCASIAN/WHITE,1,,black,,Roderick,West,Gordon Lam,Gordon Lam,Roderick West,0,Male,TMT,1,President/CEO,Executive Director,1/15/19,7/1/21,6/7/10,24010,1,,2978540,2141493
+442,1878,,ADSK,42,AUTODESK INC,,AUTODESK INC,0,CAUCASIAN/WHITE,,,,,,,Doctor Andrew Anagnost,Doctor Andrew Anagnost,,,,,1,President/CEO,Executive Director,6/19/17,1/19/21,,,,,3118,1203207
+443,157855,,CRM,,SALESFORCE INC,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+444,14275,,FRC,,FIRST REPUBLIC BANK,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+445,4990,,GPS,,GAP INC,,,1,INDIAN/SOUTH ASIAN,,,,,,,,,,,,,,,,,,,,,,,
+446,29984,,PLD,19,PROLOGIS INC,,PROLOGIS INC (AMB Property Corp prior to 06/2011),1,MIDDLE-EASTERN/NORTH AFRICAN,,,,,,,Hamid Moghadam,Hamid Moghadam,,,,,1,Chairman/CEO,Executive Director,1/1/13,C,,,,,1710,60091
+447,18872,,TWTR,690,TWITTER INC,,TWITTER INC (De-listed 10/2022),0,CAUCASIAN/WHITE,,,,,,,Omid Kordestani,Omid Kordestani,,,,,1,Chairman (Executive),Executive Director,10/13/15,6/1/20,,,,,2006706,334036
+447,18872,,TWTR,691,TWITTER INC,,TWITTER INC (De-listed 10/2022),0,CAUCASIAN/WHITE,,,,,,,Jack Dorsey,Jack Dorsey,,,,,1,CEO,Executive Director,9/30/15,11/29/21,,,,,2006706,1132809
+448,8007,198,WFC,565,WELLS FARGO & CO,Wells Fargo,WELLS FARGO & CO,0,CAUCASIAN/WHITE,1,,black,,Yvette,Hollingsworth Clark,Charlie Scharf,Charlie Scharf,Yvette Hollingsworth Clark,1,Female,TMT,1,President/CEO,Executive Director,10/21/19,C,5/14/12,38703,0,,33264,33951
+448,8007,198,WFC,617,WELLS FARGO & CO,Wells Fargo,WALL FINANCIAL CORP,0,CAUCASIAN/WHITE,1,,black,,Yvette,Hollingsworth Clark,Bruno Wall,Bruno Wall,Yvette Hollingsworth Clark,1,Female,TMT,1,President/CEO/CFO/Treasurer,Executive Director,7/6/94,C,5/14/12,38703,0,,817190,1046778
+448,8007,206,WFC,565,WELLS FARGO & CO,Wells Fargo,WELLS FARGO & CO,0,CAUCASIAN/WHITE,1,,black,,Michelle,Lee,Charlie Scharf,Charlie Scharf,Michelle Lee,1,Female,TMT,1,President/CEO,Executive Director,10/21/19,C,10/16/14,38703,1,,33264,33951
+448,8007,206,WFC,617,WELLS FARGO & CO,Wells Fargo,WALL FINANCIAL CORP,0,CAUCASIAN/WHITE,1,,black,,Michelle,Lee,Bruno Wall,Bruno Wall,Michelle Lee,1,Female,TMT,1,President/CEO/CFO/Treasurer,Executive Director,7/6/94,C,10/16/14,38703,1,,817190,1046778
+449,1487,,AIG,,AMERICAN INTERNATIONAL GROUP,,,0,CAUCASIAN/WHITE,,,,,,,,,,,,,,,,,,,,,,,
+450,157057,,AIZ,598,ASSURANT INC,,ASSURANT INC,0,CAUCASIAN/WHITE,,,,,,,Alan Colberg,Alan Colberg,,,,,1,President/CEO,Executive Director,1/1/15,5/18/21,,,,,550072,853893
+451,1447,136,AXP,13,AMERICAN EXPRESS CO,American Express,ALEXION PHARMACEUTICALS INC (De-listed 07/2021),0,CAUCASIAN/WHITE,1,,black,,Kenneth,Chenault,Doctor Ludwig Hantson,Doctor Ludwig Hantson,Kenneth Chenault,0,Male,CEO,1,CEO,Executive Director,3/27/17,7/21/21,4/27/99,59176,1,0,1355,1077323
+451,1447,136,AXP,22,AMERICAN EXPRESS CO,American Express,AMERICAN EXPRESS CO,0,CAUCASIAN/WHITE,1,,black,,Kenneth,Chenault,Steve Squeri,Steve Squeri,Kenneth Chenault,0,Male,CEO,1,Chairman/CEO,Executive Director,2/1/18,C,4/27/99,59176,1,0,1815,455385
+451,1447,190,AXP,13,AMERICAN EXPRESS CO,American Express,ALEXION PHARMACEUTICALS INC (De-listed 07/2021),0,CAUCASIAN/WHITE,1,,black,,Kim,Goodman,Doctor Ludwig Hantson,Doctor Ludwig Hantson,Kim Goodman,1,Female,TMT,1,CEO,Executive Director,3/27/17,7/21/21,7/12/07,59176,0,,1355,1077323
+451,1447,190,AXP,22,AMERICAN EXPRESS CO,American Express,AMERICAN EXPRESS CO,0,CAUCASIAN/WHITE,1,,black,,Kim,Goodman,Steve Squeri,Steve Squeri,Kim Goodman,1,Female,TMT,1,Chairman/CEO,Executive Director,2/1/18,C,7/12/07,59176,0,,1815,455385
+451,1447,252,AXP,13,AMERICAN EXPRESS CO,American Express,ALEXION PHARMACEUTICALS INC (De-listed 07/2021),0,CAUCASIAN/WHITE,1,,black,,Anr_,Williams,Doctor Ludwig Hantson,Doctor Ludwig Hantson,Anr_ Williams,0,Male,TMT,1,CEO,Executive Director,3/27/17,7/21/21,11/4/11,59176,1,,1355,1077323
+451,1447,252,AXP,22,AMERICAN EXPRESS CO,American Express,AMERICAN EXPRESS CO,0,CAUCASIAN/WHITE,1,,black,,Anr_,Williams,Steve Squeri,Steve Squeri,Anr_ Williams,0,Male,TMT,1,Chairman/CEO,Executive Director,2/1/18,C,11/4/11,59176,1,,1815,455385
+452,2019,,BK,688,BANK OF NEW YORK MELLON CORP,,CANADIAN BANC CORP,0,CAUCASIAN/WHITE,,,,,,,Steve Finch,Steve Finch,,,,,1,Chairman/President/CEO,Executive Director,7/15/05,C,,,,,1987552,735008
+453,124434,,BLK,83,BLACKROCK INC,,BLACKROCK INC,0,CAUCASIAN/WHITE,,,,,,,Larry Fink,Larry Fink,,,,,1,Chairman/CEO,Executive Director,1/1/98,C,,,,,4584,140463
+454,2403,,BMY,89,BRISTOL-MYERS SQUIBB CO,,BRISTOL-MYERS SQUIBB CO,0,CAUCASIAN/WHITE,,,,,,,Doctor Giovanni Caforio,Doctor Giovanni Caforio,,,,,1,Chairman/CEO,Executive Director,5/2/17,11/1/23,,,,,5118,857412
+455,3243,209,C,131,CITIGROUP INC,Citigroup,CITIGROUP INC,0,CAUCASIAN/WHITE,1,,black,,Mark,Mason,Mike Corbat,Mike Corbat,Mark Mason,0,Male,TMT,1,CEO,Executive Director,10/15/12,2/26/21,9/7/06,70519,1,,6930,604908
+455,3243,209,C,713,CITIGROUP INC,Citigroup,CONTACT GOLD CORP (Winwell Ventures Inc prior to 06/2017),0,CAUCASIAN/WHITE,1,,black,,Mark,Mason,Matt Lennox-King,Matt Lennox-King,Mark Mason,0,Male,TMT,1,President/CEO,Executive Director,6/7/17,C,9/7/06,70519,1,,2667306,1480332
+456,3170,,CL,718,COLGATE-PALMOLIVE CO,,CRESCO LABS INC,0,CAUCASIAN/WHITE,,,,,,,Charles Bachtell,Charles Bachtell,,,,,1,CEO,Executive Director,12/3/18,C,,,,,2957858,1374341
+457,3413,,ED,147,CONSOLIDATED EDISON INC,,CONSOLIDATED EDISON INC,0,CAUCASIAN/WHITE,,,,,,,John McAvoy,John McAvoy,,,,,1,Chairman/President/CEO,Executive Director,5/12/14,12/29/20,,,,,7705,1074910
+458,61567,237,EL,217,ESTEE LAUDER COMPANIES INC,Estee Lauder,ESTEE LAUDER COS INC,0,CAUCASIAN/WHITE,1,,black,,Tracey,Travis,William Lauder,William Lauder,Tracey Travis,1,Female,TMT,1,Chairman (Executive),Executive Director,7/1/09,C,7/18/12,82642,0,,11074,51266
+458,61567,237,EL,219,ESTEE LAUDER COMPANIES INC,Estee Lauder,ESTEE LAUDER COS INC,0,CAUCASIAN/WHITE,1,,black,,Tracey,Travis,Leonard Lauder,Leonard Lauder,Tracey Travis,1,Female,TMT,1,Chairman Emeritus,Executive Director,7/1/09,11/17/23,7/18/12,82642,0,,11074,51286
+458,61567,237,EL,221,ESTEE LAUDER COMPANIES INC,Estee Lauder,ESTEE LAUDER COS INC,0,CAUCASIAN/WHITE,1,,black,,Tracey,Travis,The Hon. Ronald Lauder,The Hon. Ronald Lauder,Tracey Travis,1,Female,TMT,1,Division Chairman,Executive Director,11/11/16,C,7/18/12,82642,0,,11074,51301
+458,61567,237,EL,223,ESTEE LAUDER COMPANIES INC,Estee Lauder,ESTEE LAUDER COS INC,0,CAUCASIAN/WHITE,1,,black,,Tracey,Travis,Fabrizio Freda,Fabrizio Freda,Tracey Travis,1,Female,TMT,1,President/CEO,Executive Director,7/1/09,C,7/18/12,82642,0,,11074,590109
+458,61567,239,EL,217,ESTEE LAUDER COMPANIES INC,Estee Lauder,ESTEE LAUDER COS INC,0,CAUCASIAN/WHITE,1,,black,,Tracey,Travis,William Lauder,William Lauder,Tracey Travis,1,Female,TMT,1,Chairman (Executive),Executive Director,7/1/09,C,7/18/12,82642,0,,11074,51266
+458,61567,239,EL,219,ESTEE LAUDER COMPANIES INC,Estee Lauder,ESTEE LAUDER COS INC,0,CAUCASIAN/WHITE,1,,black,,Tracey,Travis,Leonard Lauder,Leonard Lauder,Tracey Travis,1,Female,TMT,1,Chairman Emeritus,Executive Director,7/1/09,11/17/23,7/18/12,82642,0,,11074,51286
+458,61567,239,EL,221,ESTEE LAUDER COMPANIES INC,Estee Lauder,ESTEE LAUDER COS INC,0,CAUCASIAN/WHITE,1,,black,,Tracey,Travis,The Hon. Ronald Lauder,The Hon. Ronald Lauder,Tracey Travis,1,Female,TMT,1,Division Chairman,Executive Director,11/11/16,C,7/18/12,82642,0,,11074,51301
+458,61567,239,EL,223,ESTEE LAUDER COMPANIES INC,Estee Lauder,ESTEE LAUDER COS INC,0,CAUCASIAN/WHITE,1,,black,,Tracey,Travis,Fabrizio Freda,Fabrizio Freda,Tracey Travis,1,Female,TMT,1,President/CEO,Executive Director,7/1/09,C,7/18/12,82642,0,,11074,590109
+459,34636,,FOXA,723,FOX CORP,,FOX CORP,0,CAUCASIAN/WHITE,,,,,,,Keith Murdoch,Keith Murdoch,,,,,1,Chairman,Executive Director,3/19/19,11/17/23,,,,,3010375,4799
+459,34636,,FOXA,725,FOX CORP,,FOX CORP,0,CAUCASIAN/WHITE,,,,,,,Lachlan Murdoch,Lachlan Murdoch,,,,,1,Chair (Executive)/CEO,Executive Director,3/19/19,C,,,,,3010375,15156
+460,114628,,GS,262,GOLDMAN SACHS GROUP INC,,GOLDMAN SACHS GROUP INC,0,CAUCASIAN/WHITE,,,,,,,David Solomon,David Solomon,,,,,1,Chairman/CEO,Executive Director,1/1/19,C,,,,,13564,795984
+461,1380,,HES,23,HESS CORP,,HESS CORP (Amerada Hess prior to 05/2006),0,CAUCASIAN/WHITE,,,,,,,John Hess,John Hess,,,,,1,CEO,Executive Director,5/16/13,C,,,,,1970,64947
+462,6078,,IFF,304,INTL FLAVORS & FRAGRANCES,,INTERNATIONAL FLAVORS & FRAGRANCES INC,0,CAUCASIAN/WHITE,,,,,,,Andreas Fibig,Andreas Fibig,,,,,1,Chairman/CEO,Executive Director,12/1/14,2/14/22,,,,,16530,548131
+463,6136,,IPG,303,INTERPUBLIC GROUP OF COS,,INTERPUBLIC GROUP OF COMPANIES INC,0,CAUCASIAN/WHITE,,,,,,,Michael Roth,Michael Roth,,,,,1,Chairman/CEO,Executive Director,1/19/05,1/1/21,,,,,16427,48701
+464,2968,,JPM,316,JPMORGAN CHASE & CO,,JPMORGAN CHASE & CO,0,CAUCASIAN/WHITE,,,,,,,Jamie Dimon,Jamie Dimon,,,,,1,Chairman/CEO,Executive Director,1/30/18,C,,,,,17528,33908
+465,6781,,L,344,LOEWS CORP,,LOEWS CORP,0,CAUCASIAN/WHITE,,,,,,,Andrew Tisch,Andrew Tisch,,,,,1,Co-Chairman,Executive Director,1/10/06,12/31/21,,,,,19065,11269
+465,6781,,L,346,LOEWS CORP,,LOEWS CORP,0,CAUCASIAN/WHITE,,,,,,,Jim Tisch,Jim Tisch,,,,,1,President/CEO,Executive Director,1/1/99,C,,,,,19065,36800
+465,6781,,L,348,LOEWS CORP,,LOEWS CORP,0,CAUCASIAN/WHITE,,,,,,,Jon Tisch,Jon Tisch,,,,,1,Co-Chairman,Executive Director,1/10/06,C,,,,,19065,36825
+465,6781,,L,579,LOEWS CORP,,LOBLAW COMPANIES LTD,0,CAUCASIAN/WHITE,,,,,,,Galen Weston Jr,Galen Weston Jr,,,,,1,Chairman (Executive),Executive Director,1/1/19,5/6/21,,,,,35930,880948
+466,139665,,MCO,384,MOODY'S CORP,,MOODYS CORP,0,CAUCASIAN/WHITE,,,,,,,Raymond McDaniel Jr,Raymond McDaniel Jr,,,,,1,President/CEO,Executive Director,4/19/12,12/31/20,,,,,21071,49681
+467,133768,,MET,369,METLIFE INC,,METLIFE INC,1,MIDDLE-EASTERN/NORTH AFRICAN,,,,,,,Michel Khalaf,Michel Khalaf,,,,,1,President/CEO,Executive Director,5/1/19,C,,,,,20426,1135745
+468,158742,,MKTX,600,MARKETAXESS HOLDINGS INC,,MARKETAXESS HOLDINGS INC,0,CAUCASIAN/WHITE,,,,,,,Rick McVey,Rick McVey,,,,,1,Chairman/CEO,Executive Director,9/13/06,4/3/23,,,,,551122,446101
+469,7065,145,MMC,357,MARSH & MCLENNAN COS,Marsh & McLennan,MARSH & MCLENNAN COMPANIES INC,0,CAUCASIAN/WHITE,0,,non-black,,Dean,Klisura,Dan Glaser,Dan Glaser,Dean Klisura,0,Male,CEO,1,President/CEO,Executive Director,1/1/13,12/31/22,11/18/21,45751,0,0,19713,592845
+470,12124,,MS,385,MORGAN STANLEY,,MORGAN STANLEY (Morgan Stanley Dean Witter & Co prior to 07/2002),0,CAUCASIAN/WHITE,,,,,,,James Gorman,James Gorman,,,,,1,Chairman/CEO,Executive Director,1/1/12,1/1/24,,,,,21105,34080
+471,178507,,MSCI,634,MSCI INC,,MSCI INC,1,HISPANIC/LATIN AMERICAN,,,,,,,Henry Fernandez,Henry Fernandez,,,,,1,Chairman/CEO,Executive Director,10/31/17,C,,,,,1041062,598481
+472,149337,,NDAQ,580,NASDAQ INC,,NASDAQ INC (NASDAQ OMX Group Inc prior to 09/2015),0,CAUCASIAN/WHITE,,,,,,,Adena Friedman,Adena Friedman,,,,,1,President/CEO,Executive Director,1/1/17,1/1/23,,,,,42640,483505
+473,100873,201,NLSN,659,NIELSEN HOLDINGS PLC,Nielsen Holdings plc,NIELSEN HOLDINGS PLC (Nielsen NV prior to 08/2015) (De-listed 10/2022),0,CAUCASIAN/WHITE,1,,black,,Jamere,Jackson,David Kenny,David Kenny,Jamere Jackson,0,Male,TMT,1,CEO/Chief Diversity Officer,Executive Director,1/1/19,3/23/21,2/24/14,12542,1,,1684303,140602
+474,18043,,NWSA,681,NEWS CORP,,NEWS CORP,0,CAUCASIAN/WHITE,,,,,,,Robert Thomson,Robert Thomson,,,,,1,CEO,Executive Director,6/28/13,C,,,,,1962516,1282519
+475,4066,,OMC,409,OMNICOM GROUP INC,,OMNICOM GROUP INC,0,CAUCASIAN/WHITE,,,,,,,John Wren III,John Wren III,,,,,1,Chairman/CEO,Executive Director,5/22/18,C,,,,,23113,35509
+476,13714,157,PARA,110,PARAMOUNT GLOBAL,Cbs,PARAMOUNT GLOBAL (Viacomcbs Inc prior to 02/2022),0,CAUCASIAN/WHITE,0,,non-black,,Roger,King,Bob Bakish,Bob Bakish,Roger King,0,Male,CEO,1,President/CEO,Executive Director,12/4/19,C,1/19/00,75104,0,0,6098,23537
+477,8530,208,PFE,,PFIZER INC,P_zer,,0,CAUCASIAN/WHITE,1,,black,,Freda,Lewis-Hall,,,Freda Lewis-Hall,1,Female,TMT,,,,,,5/4/09,21936,0,,,
+478,179621,,PM,636,PHILIP MORRIS INTERNATIONAL,,PHILIP MORRIS INTERNATIONAL INC,0,CAUCASIAN/WHITE,,,,,,,Andr__© Calantzopoulos,Andr__© Calantzopoulos,,,,,1,CEO,Executive Director,5/8/13,5/5/21,,,,,1060044,36791
+479,8551,,PVH,430,PVH CORP,,PVH CORP,0,CAUCASIAN/WHITE,,,,,,,Manny Chirico,Manny Chirico,,,,,1,Chairman/CEO,Executive Director,6/19/07,2/1/21,,,,,24356,207452
+480,64891,238,RL,437,RALPH LAUREN CORP,Polo Ralph Lauren,RALPH LAUREN CORP,0,CAUCASIAN/WHITE,1,,black,,Tracey,Travis,Ralph Lauren,Ralph Lauren,Tracey Travis,1,Female,TMT,1,Executive Chairman/Chief Creative Officer,Executive Director,11/2/15,C,11/20/04,85072,1,,24726,220546
+480,64891,238,RL,438,RALPH LAUREN CORP,Polo Ralph Lauren,RALPH LAUREN CORP,0,CAUCASIAN/WHITE,1,,black,,Tracey,Travis,Patrice Louvet,Patrice Louvet,Tracey Travis,1,Female,TMT,1,President/CEO,Executive Director,7/3/17,C,11/20/04,85072,1,,24726,884348
+480,64891,238,RL,439,RALPH LAUREN CORP,Polo Ralph Lauren,RALPH LAUREN CORP,0,CAUCASIAN/WHITE,1,,black,,Tracey,Travis,David Lauren,David Lauren,Tracey Travis,1,Female,TMT,1,Vice Chairman/Chief Innovation Officer,Executive Director,10/7/16,3/1/22,11/20/04,85072,1,,24726,1319543
+481,65290,,SLG,495,SL GREEN REALTY CORP,,SL GREEN REALTY CORP,0,CAUCASIAN/WHITE,,,,,,,Marc Holliday,Marc Holliday,,,,,1,Chairman/CEO,Executive Director,1/1/19,12/31/23,,,,,28228,181802
+482,7163,,SPGI,367,S&P GLOBAL INC,,S&P GLOBAL INC (McGraw Hill Financial Inc prior to 04/2016),0,CAUCASIAN/WHITE,,,,,,,Doug Peterson,Doug Peterson,,,,,1,President/CEO,Executive Director,11/1/13,C,,,,,19953,604942
+483,140541,58,TPR,139,TAPESTRY INC,Tapestry Inc,TAPESTRY INC (Coach Inc prior to 10/2017),0,CAUCASIAN/WHITE,1,,black,,Jide,Zeitlin,Jide Zeitlin,Jide Zeitlin,Jide Zeitlin,0,Male,CEO,1,Chairman/CEO,Executive Director,9/4/19,7/20/20,9/4/19,88661,1,0,7173,271683
+484,62689,105,TRV,596,TRAVELERS COS INC,The Travelers Companies,THE TRAVELERS COMPANIES INC (St Paul Travelers Companies Inc prior to 02/2007),0,CAUCASIAN/WHITE,0,,non-black,,Alan,Schnitzer,Alan Schnitzer,Alan Schnitzer,Alan Schnitzer,0,Male,CEO,1,Chairman/CEO,Executive Director,8/1/17,C,8/4/15,59459,0,0,469152,533891
+485,64630,,TTWO,509,TAKE-TWO INTERACTIVE SFTWR,,TAKE TWO INTERACTIVE SOFTWARE INC,0,CAUCASIAN/WHITE,,,,,,,Strauss Zelnick,Strauss Zelnick,,,,,1,Chairman (Executive)/CEO,Executive Director,1/1/11,C,,,,,29924,333171
+486,32580,,VICI,716,VICI PROPERTIES INC,,VICI PROPERTIES INC,0,CAUCASIAN/WHITE,,,,,,,Ed Pitoniak,Ed Pitoniak,,,,,1,CEO,Executive Director,2/1/18,C,,,,,2771146,648089
+487,11220,,VNO,554,VORNADO REALTY TRUST,,VORNADO REALTY TRUST,0,CAUCASIAN/WHITE,,,,,,,Steve Roth,Steve Roth,,,,,1,Chairman/CEO,Executive Director,4/15/13,C,,,,,32928,142089
+488,2136,,VZ,551,VERIZON COMMUNICATIONS INC,,VERIZON COMMUNICATIONS INC,0,CAUCASIAN/WHITE,,,,,,,Hans Vestberg,Hans Vestberg,,,,,1,Chairman/CEO,Executive Director,3/8/19,C,,,,,32507,454544
+489,112111,,CSGP,160,COSTAR GROUP INC,,COSTAR GROUP INC,0,CAUCASIAN/WHITE,,,,,,,Andy Florance,Andy Florance,,,,,1,President/CEO,Executive Director,1/1/95,C,,,,,8021,201870
+490,3735,,DHR,170,DANAHER CORP,,DANAHER CORP,0,CAUCASIAN/WHITE,,,,,,,Steven Rales,Steven Rales,,,,,1,Chairman (Executive),Executive Director,2/1/90,C,,,,,8663,36902
+490,3735,,DHR,172,DANAHER CORP,,DANAHER CORP,0,CAUCASIAN/WHITE,,,,,,,Tom Joyce Jr,Tom Joyce Jr,,,,,1,President/CEO,Executive Director,9/9/14,9/1/20,,,,,8663,490718
+491,144435,,BG,95,BUNGE LTD,,BUNGE GLOBAL SA (Bunge Ltd prior to 11/2023),0,CAUCASIAN/WHITE,,,,,,,Greg Heckman,Greg Heckman,,,,,1,CEO,Executive Director,4/25/19,C,,,,,5320,500231
+492,145552,,CNC,112,CENTENE CORP,,CENTENE CORP,0,CAUCASIAN/WHITE,,,,,,,Michael Neidorff,Michael Neidorff,,,,,1,Chairman/President/CEO,Executive Director,4/23/19,9/7/21,,,,,6261,201946
+493,4321,,EMR,206,EMERSON ELECTRIC CO,,EMERSON ELECTRIC CO,0,CAUCASIAN/WHITE,,,,,,,David Farr,David Farr,,,,,1,Chairman/CEO,Executive Director,10/5/10,2/5/21,,,,,10535,35223
+494,186310,231,HII,663,HUNTINGTON INGALLS IND INC,Huntington Ingalls Industries,HUNTINGTON INGALLS INDUSTRIES INC,0,CAUCASIAN/WHITE,1,,black,,Michael,Smith,Mike Petters,Mike Petters,Michael Smith,0,Male,TMT,1,President/CEO,Executive Director,3/31/11,3/1/22,10/30/15,12623,1,,1694757,487356
+494,186310,243,HII,663,HUNTINGTON INGALLS IND INC,Huntington Ingalls Industries,HUNTINGTON INGALLS INDUSTRIES INC,0,CAUCASIAN/WHITE,1,,black,,Kellye,Walker,Mike Petters,Mike Petters,Kellye Walker,1,Female,TMT,1,President/CEO,Executive Director,3/31/11,3/1/22,12/17/14,12623,1,,1694757,487356

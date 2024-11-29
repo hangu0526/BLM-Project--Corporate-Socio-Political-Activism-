@@ -1,0 +1,546 @@
+"coid","tic","conm_x","gvkey","ceo_name","2First.x","2Last.x","ceo_ethnicity","ceo_race(black)","ceo_minority","ceo_gender","ceo_female","2020_active","2020_active_may26_dec31","2020_two_ceos","2020_co-ceo","2020_ceo_change","2020_ceo_change_date","2020_in_or_out","ethnicity_boardex","BE_from_bermiss","Actual_Bermiss_discrepancy","RoleType_boardex","RoleName_boardex","Interim_boardex","DateStartRole_boardex","DateEndRole_boardex","2First.y","2Last.y"
+89,"CINF","CINCINNATI FINANCIAL CORP",14824,"Steve Johnston",NA,NA,"Caucasian/White",0,0,"M",0,0,0,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/2/11","5/2/20",NA,NA
+425,"CLX","CLOROX CO/DE",3121,"Benno Dorer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"8/15/16","9/14/20",NA,NA
+456,"ED","CONSOLIDATED EDISON INC",3413,"John McAvoy",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"5/12/14","12/29/20",NA,NA
+489,"DHR","DANAHER CORP",3735,"Tom Joyce Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"9/9/14","9/1/20",NA,NA
+143,"DE","DEERE & CO",3835,"John May",NA,NA,"Caucasian/White",0,0,"M",0,1,0,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"11/4/19","5/1/20",NA,NA
+43,"DLTR","DOLLAR TREE INC",31587,"Gary Philbin",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"12/9/19","7/20/20",NA,NA
+80,"D","DOMINION ENERGY INC",4029,"Tom Farrell II",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"4/27/07","10/1/20",NA,NA
+175,"FITB","FIFTH THIRD BANCORP",4640,"Greg Carmichael",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",0,0,"CEO","Chairman/President/CEO",0,"2/1/18","10/26/20",NA,NA
+12,"HBI","HANESBRANDS INC",175319,"Gerald Evans Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,0,"CEO","CEO",0,"10/1/16","8/3/20",NA,NA
+14,"HD","HOME DEPOT INC",5680,"Craig Menear",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chairman/President/CEO",0,"2/2/15","10/5/20",NA,NA
+283,"KEY","KEYCORP",9783,"Beth Mooney",NA,NA,"Caucasian/White",0,0,"F",1,1,0,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chairman/President/CEO",0,"5/1/11","5/1/20",NA,NA
+6,"LH","LABORATORY CP OF AMER HLDGS",14960,"Adam Schechter",NA,NA,"Caucasian/White",0,0,"M",0,0,0,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"11/1/19","5/13/20",NA,NA
+128,"LEN","LENNAR CORP",6669,"Rick Beckwitt",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"4/11/18","11/2/20",NA,NA
+274,"MTCH","MATCH GROUP INC",26061,"Joey Levin",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","CEO",0,"6/24/15","6/30/20",NA,NA
+366,"NTAP","NETAPP INC",61591,"George Kurian",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","President/CEO",0,"5/20/16","7/1/20",NA,NA
+364,"NFLX","NETFLIX INC",147579,"Wilmot Hastings Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"7/1/99","7/14/20",NA,NA
+40,"ON","ON SEMICONDUCTOR CORP",134932,"Keith Jackson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"11/19/02","12/7/20",NA,NA
+59,"ROL","ROLLINS INC",9225,"Gary Rollins",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Vice Chairman/CEO",0,"1/22/13","8/25/20",NA,NA
+300,"AOS","SMITH (A.O.)",9771,"Kevin Wheeler",NA,NA,"Caucasian/White",0,0,"M",0,0,0,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"9/1/18","5/1/20",NA,NA
+83,"TFX","TELEFLEX INC",10407,"Liam Kelly",NA,NA,"Caucasian/White",0,0,"M",0,0,0,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/4/18","5/1/20",NA,NA
+7,"TSN","TYSON FOODS INC -CL A",10793,"Noel White",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"12/20/19","10/3/20",NA,NA
+372,"VAR","VARIAN MEDICAL SYSTEMS INC",11115,"Dow Wilson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"9/29/12","10/5/20",NA,NA
+180,"WELL","WELLTOWER INC",5543,"Tom DeRosa",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"4/1/14","10/5/20",NA,NA
+419,"AIV","APARTMENT INVST & MGMT CO",30490,"Wes Powell",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,1,"12/15/20","incoming",NA,NA,0,"CEO","President/CEO",0,"12/15/20",NA,NA,NA
+419,"AIV","APARTMENT INVST & MGMT CO",30490,"The Hon. Terry Considine",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,1,"12/15/20","outgoing","CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"2/10/09","12/15/20",NA,NA
+260,"BBWI","BATH & BODY WORKS INC",6733,"Andrew Meslow",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,1,"5/14/20","incoming",NA,NA,0,"CEO","CEO",0,"5/14/20",NA,NA,NA
+260,"BBWI","BATH & BODY WORKS INC",6733,"Leslie Wexner",NA,NA,"Caucasian/White",0,0,"M",0,0,0,1,0,1,"5/14/20","outgoing","CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/02","5/14/20",NA,NA
+94,"CMS","CMS ENERGY CORP",3439,"Patti Poppe",NA,NA,"Caucasian/White",0,0,"F",1,1,1,1,0,1,"12/1/20","incoming",NA,NA,0,"CEO","President/CEO",0,NA,NA,NA,NA
+94,"CMS","CMS ENERGY CORP",3439,"Garrick Rochow",NA,NA,"Caucasian/White",0,0,"M",1,1,1,1,0,1,"12/1/20","outgoing","CAUCASIAN/WHITE",1,0,"CEO","President/CEO",0,"7/1/16","12/1/20",NA,NA
+92,"FISV","FISERV INC",12635,"Jeffrey W. Yabuki",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,1,"7/1/20","outgoing",NA,NA,0,"CEO","President/CEO",0,NA,NA,NA,NA
+92,"FISV","FISERV INC",12635,"Frank Bisignano",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,1,"7/1/20","incoming",NA,NA,0,"CEO","Chairman/CEO",0,"5/1/12","7/1/20",NA,NA
+27,"ALB","ALBEMARLE CORP",29751,"J. Kent Masters",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Jun","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"6/17/20",NA,NA,NA
+27,"ALB","ALBEMARLE CORP",29751,"Luther C. Kissam IV",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Jun","outgoing",NA,NA,0,"CEO",NA,0,"7/3/05","6/17/20",NA,NA
+482,"TPR","TAPESTRY INC",140541,"Jide Zeitlin",NA,NA,"African American/Black",1,1,"M",0,1,0,1,0,1,"7/1/20","outgoing",NA,NA,0,"CEO","CEO",1,NA,NA,NA,NA
+482,"TPR","TAPESTRY INC",140541,"Joanne Crevoiserat",NA,NA,"Caucasian/White",1,1,"F",0,1,1,1,0,1,"7/1/20","incoming",NA,1,0,"CEO","Chairman/CEO",0,"9/4/19","7/20/20",NA,NA
+67,"MO","ALTRIA GROUP INC",8543,"Howard A. Willard III",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Apr","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"5/17/18","4/16/20",NA,NA
+428,"PCG","PG&E CORP",8264,"Bill Johnson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,1,"20-Apr","outgoing",NA,NA,0,"CEO","CEO",0,"6/21/19","6/30/20",NA,NA
+334,"MMM","3M CO",7435,"Mike Roman",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"6/1/19",NA,NA,NA
+220,"ABT","ABBOTT LABORATORIES",1078,"Miles D. White",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"3/31/20","outgoing",NA,NA,0,"CEO",NA,0,"6/21/05","3/31/20",NA,NA
+220,"ABT","ABBOTT LABORATORIES",1078,"Robert B. Ford",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"3/31/20","incoming",NA,NA,0,"CEO",NA,0,"3/31/20",NA,NA,NA
+219,"ABBV","ABBVIE INC",16101,"Rick Gonzalez",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","Chairman/CEO",0,"1/2/13",NA,NA,NA
+233,"ABMD","ABIOMED INC",13619,"Mike Minogue",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"6/15/05","12/22/22",NA,NA
+327,"ATVI","ACTIVISION BLIZZARD INC",180405,"Bobby Kotick",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"6/26/17","10/13/23",NA,NA
+347,"ADBE","ADOBE INC",12540,"Shantanu Narayen",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","Chairman/President/CEO",0,"1/27/17","1/13/22",NA,NA
+17,"AAP","ADVANCE AUTO PARTS INC",145977,"Tom Greco",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"8/14/16","9/11/23",NA,NA
+349,"AMD","ADVANCED MICRO DEVICES",1161,"Doctor Lisa Su",NA,NA,"Asian/Taiwanese",0,1,"F",1,1,1,0,0,0,NA,NA,"ASIAN (EXCLUDE INDIAN/SOUTH ASIAN)",NA,0,"CEO","President/CEO",0,"10/8/14","2/14/22",NA,NA
+77,"AES","AES CORP (THE)",24216,"Doctor Andres Gluski Weilert",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","President/CEO",0,"9/30/11",NA,NA,NA
+16,"AFL","AFLAC INC",1449,"Daniel P. Amos",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,NA,NA,0,"CEO",NA,0,"6/12/05",NA,NA,NA
+345,"A","AGILENT TECHNOLOGIES INC",126554,"Mike McMullen",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"3/18/15",NA,NA,NA
+124,"APD","AIR PRODUCTS & CHEMICALS INC",1209,"Seifi Ghasemi",NA,NA,"Middle Eastern/Iranian",0,1,"M",0,1,1,0,0,0,NA,NA,"MIDDLE-EASTERN/NORTH AFRICAN",NA,0,"CEO","Chairman/President/CEO",0,"7/1/14",NA,NA,NA
+313,"AKAM","AKAMAI TECHNOLOGIES INC",125595,"Doctor Tom Leighton",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"1/1/13",NA,NA,NA
+395,"ALK","ALASKA AIR GROUP INC",1230,"Brad Tilden",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/1/14","3/31/21",NA,NA
+67,"MO","ALTRIA GROUP INC",8543,"William F. Gifford Jr.",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Apr","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"4/16/20",NA,NA,NA
+431,"AMT","AMERICAN TOWER CORP",105365,"James D. Taiclet Jr.",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Jun","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"6/25/05","6/14/20",NA,NA
+326,"ARE","ALEXANDRIA R E EQUITIES INC",64821,"Peter Moglia",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,1,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CIO/Co-CEO",0,"4/1/18",NA,NA,NA
+326,"ARE","ALEXANDRIA R E EQUITIES INC",64821,"Peter Moglia",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,1,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CIO/Co-CEO",0,"4/1/18",NA,NA,NA
+326,"ARE","ALEXANDRIA R E EQUITIES INC",64821,"Stephen Richardson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,1,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Co-CEO",0,"4/1/18","7/1/22",NA,NA
+326,"ARE","ALEXANDRIA R E EQUITIES INC",64821,"Stephen Richardson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,1,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Co-CEO",0,"4/1/18","7/1/22",NA,NA
+430,"ALXN","ALEXION PHARMACEUTICALS INC",62263,"Doctor Ludwig Hantson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"3/27/17","7/21/21",NA,NA
+36,"ALGN","ALIGN TECHNOLOGY INC",141384,"Joe Hogan",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"6/1/15",NA,NA,NA
+406,"LNT","ALLIANT ENERGY CORP",11554,"John Larsen",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chair/President/CEO",0,"7/1/19","2/27/23",NA,NA
+377,"ALL","ALLSTATE CORP",28349,"Tom Wilson II",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"2/23/18",NA,NA,NA
+356,"GOOGL","ALPHABET INC",160329,"Sundar Pichai",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","CEO",0,"12/3/19",NA,NA,NA
+431,"AMT","AMERICAN TOWER CORP",179437,"Thomas A. Bartlett",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,1,"20-Jun","incoming",NA,NA,0,"CEO",NA,0,"6/14/20",NA,NA,NA
+281,"AWK","AMERICAN WATER WORKS CO INC",179437,"Susan N. Story",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,1,"20-Apr","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"5/1/14","4/1/20",NA,NA
+396,"AMZN","AMAZON.COM INC",64768,"Jeff Bezos",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"10/1/00","7/5/21",NA,NA
+439,"AEE","AMEREN CORP",10860,"Warner Baxter",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"7/1/14","1/1/22",NA,NA
+114,"AAL","AMERICAN AIRLINES GROUP INC",1045,"Doug Parker Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"6/4/14","3/31/22",NA,NA
+259,"AEP","AMERICAN ELECTRIC POWER CO",1440,"Nick Akins",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/1/14","8/10/22",NA,NA
+450,"AXP","AMERICAN EXPRESS CO",1447,"Steve Squeri",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chairman/CEO",0,"2/1/18",NA,"Kenneth","Chenault"
+448,"AIG","AMERICAN INTERNATIONAL GROUP",1487,"Brian Duperreault",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"5/1/17","3/1/21",NA,NA
+281,"AWK","AMERICAN WATER WORKS CO INC",179437,"Walter J. Lynch",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Apr","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"4/1/20",NA,NA,NA
+181,"BDX","BECTON DICKINSON & CO",2111,"Vincent A. Forlenza",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Jan","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"10/1/11","1/28/20",NA,NA
+181,"BDX","BECTON DICKINSON & CO",2111,"Thomas E. Polen",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Jan","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/28/20",NA,NA,NA
+240,"WRB","BERKLEY (W R) CORP",14822,"William R. Berkley",NA,NA,"Caucasian/White",0,0,"M",0,1,0,0,0,1,"20-Jan","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"5/20/05","10/31/15",NA,NA
+304,"AMP","AMERIPRISE FINANCIAL INC",164708,"Jim Cracchiolo",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"9/30/05",NA,NA,NA
+231,"ABC","AMERISOURCEBERGEN CORP",31673,"Steven H. Collis",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"7/1/11",NA,NA,NA
+186,"AME","AMETEK INC",1598,"David Zapico",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"7/7/17",NA,NA,NA
+197,"AMGN","AMGEN INC",1602,"Bob Bradway",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/1/13",NA,NA,NA
+189,"APH","AMPHENOL CORP",14282,"Richard Norwitt",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/5/09",NA,NA,NA
+312,"ADI","ANALOG DEVICES INC",1632,"Vincent Roche",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/6/13","3/9/22",NA,NA
+90,"ANSS","ANSYS INC",63080,"Doctor Ajei Gopal",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","President/CEO",0,"1/1/17",NA,NA,NA
+146,"APA","APA CORP",1678,"John Christmann IV",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/20/15","1/1/24",NA,NA
+346,"AAPL","APPLE INC",1690,"Tim Cook",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"8/24/11",NA,NA,NA
+348,"AMAT","APPLIED MATERIALS INC",1704,"Gary Dickerson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"9/1/13",NA,NA,NA
+375,"ADM","ARCHER-DANIELS-MIDLAND CO",1722,"Juan Luciano",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","Chairman/President/CEO",0,"1/1/16",NA,NA,NA
+350,"ANET","ARISTA NETWORKS INC",20748,"Jayshree Ullal",NA,NA,"Asian/Indian",0,1,"F",1,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","President/CEO",0,"6/6/14","12/1/23",NA,NA
+376,"AJG","ARTHUR J GALLAGHER & CO",4973,"Pat Gallagher Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"10/19/06","1/1/24",NA,NA
+449,"AIZ","ASSURANT INC",157057,"Alan Colberg",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/15","5/18/21",NA,NA
+276,"T","AT&T INC",9899,"John Stankey",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"7/1/20","incoming","CAUCASIAN/WHITE",1,1,"CEO","Chairman/CEO",0,"7/1/20",NA,NA,NA
+276,"T","AT&T INC",9899,"Randall Stephenson Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"6/30/20","outgoing","CAUCASIAN/WHITE",1,1,"CEO","Chairman/CEO",0,"1/1/07","6/30/20",NA,NA
+263,"ATO","ATMOS ENERGY CORP",4383,"John Akers",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"10/1/19",NA,NA,NA
+441,"ADSK","AUTODESK INC",1878,"Doctor Andrew Anagnost",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"6/19/17","1/19/21",NA,NA
+408,"ADP","AUTOMATIC DATA PROCESSING",1891,"Carlos Rodriguez",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","President/CEO",0,"11/8/11","1/1/22",NA,NA
+251,"AZO","AUTOZONE INC",23809,"Bill Rhodes III",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"6/6/07","1/2/24",NA,NA
+78,"AVB","AVALONBAY COMMUNITIES INC",29875,"Tim Naughton",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"5/22/13","2/1/21",NA,NA
+328,"AVY","AVERY DENNISON CORP",1913,"Mitch Butier",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"4/25/19","2/28/22",NA,NA
+147,"BKR","BAKER HUGHES CO",32106,"Lorenzo Simonelli",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"10/2/17",NA,NA,NA
+183,"BALL","BALL CORP",1988,"John Hayes",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"4/24/13","1/1/21",NA,NA
+28,"BAC","BANK OF AMERICA CORP",7647,"Brian Moynihan",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chair/President/CEO",0,"10/1/14",NA,NA,NA
+451,"BK","BANK OF NEW YORK MELLON CORP",2019,"Thomas P. Gibbons",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"3/1/20","8/1/22",NA,NA
+221,"BAX","BAXTER INTERNATIONAL INC",2086,"Joe Almeida",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","Chairman/President/CEO",0,"1/1/16",NA,NA,NA
+240,"WRB","BERKLEY (W R) CORP",14822,"W. Robert Berkley Jr.",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Jan","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"10/31/15",NA,NA,NA
+149,"CNP","CENTERPOINT ENERGY INC",5742,"Scott M. Prochazka",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Feb","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/1/14","2/19/20",NA,NA
+149,"CNP","CENTERPOINT ENERGY INC",5742,"John W. Somerhalder II",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,1,"20-Feb","incoming",NA,NA,0,"CEO",NA,0,"2/19/20",NA,NA,NA
+329,"DIS","DISNEY (WALT) CO",3980,"Robert A. Iger",NA,NA,"Caucasian/White",0,0,"M",0,1,0,0,0,1,"20-Feb","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"10/5/24","2/25/20",NA,NA
+141,"BRK.B","BERKSHIRE HATHAWAY",2176,"Warren Buffett",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/70",NA,NA,NA
+305,"BBY","BEST BUY CO INC",2184,"Corie Barry",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",0,0,"CEO","CEO",0,"6/11/19",NA,"Bradbury","Anderson"
+338,"BIO","BIO-RAD LABORATORIES INC",2220,"Norman Schwartz",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/1/12",NA,NA,NA
+314,"BIIB","BIOGEN INC",24468,"Michel Vounatsos",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"1/6/17","11/14/22",NA,NA
+452,"BLK","BLACKROCK INC",124434,"Larry Fink",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/98",NA,NA,NA
+378,"BA","BOEING CO",2285,"David L. Calhoun",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",1,NA,NA,NA,NA
+234,"BKNG","BOOKING HOLDINGS INC",119314,"Glenn Fogel",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO/Division CEO",0,"6/26/19",NA,NA,NA
+171,"BWA","BORGWARNER INC",28742,"Frederic Lissalde",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"8/1/18",NA,NA,NA
+432,"BXP","BOSTON PROPERTIES INC",64925,"Owen Thomas",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"4/2/13","5/19/22",NA,NA
+315,"BSX","BOSTON SCIENTIFIC CORP",25279,"Mike Mahoney",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"5/3/16",NA,NA,NA
+453,"BMY","BRISTOL-MYERS SQUIBB CO",2403,"Doctor Giovanni Caforio",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"5/2/17","11/1/23",NA,NA
+351,"AVGO","BROADCOM INC",180711,"Hock Tan",NA,NA,"Asian/Malaysian",0,1,"M",0,1,1,0,0,0,NA,NA,"ASIAN (EXCLUDE INDIAN/SOUTH ASIAN)",NA,0,"CEO","President/CEO",0,"8/6/09",NA,NA,NA
+137,"BR","BROADRIDGE FINANCIAL SOLUTNS",176928,"Timothy C. Gokey",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/2/19",NA,NA,NA
+194,"BF.B","BROWN FORMAN CORP",2435,"Lawson Whiting",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"3/28/19",NA,NA,NA
+490,"BG","BUNGE LTD",144435,"Greg Heckman",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"4/25/19",NA,NA,NA
+306,"CHRW","C H ROBINSON WORLDWIDE INC",65609,"Bob Biesterfeld Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/9/19","12/31/22",NA,NA
+352,"CDNS","CADENCE DESIGN SYSTEMS INC",13421,"Lip-Bu Tan",NA,NA,"Asian/Malaysian",0,1,"M",0,1,1,0,0,0,NA,NA,"ASIAN (EXCLUDE INDIAN/SOUTH ASIAN)",NA,0,"CEO","CEO",0,"11/16/17","12/15/21",NA,NA
+282,"CPB","CAMPBELL SOUP CO",2663,"Mark Clouse",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/22/19",NA,NA,NA
+69,"COF","CAPITAL ONE FINANCIAL CORP",30990,"Rich Fairbank",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"4/24/03",NA,NA,NA
+261,"CAH","CARDINAL HEALTH INC",2751,"Mike Kaufmann",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"9/1/19","9/1/22",NA,NA
+258,"KMX","CARMAX INC",64410,"Bill Nash",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"9/1/16",NA,NA,NA
+127,"CCL","CARNIVAL CORPORATION & PLC",13498,"Arnold Donald",NA,NA,"African American/Black",1,1,"M",0,1,1,0,0,0,NA,NA,"BLACK/AFRICAN AMERICAN",1,0,"CEO","President/CEO",0,"7/3/13","1/1/22",NA,NA
+168,"CARR","CARRIER GLOBAL CORP",36191,"David L. Gitlin",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"3/1/20",NA,NA,NA
+204,"CTLT","CATALENT INC",20228,"John Chiminski",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"2/13/19","7/1/22",NA,NA
+222,"CAT","CATERPILLAR INC",2817,"Jim Umpleby III",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"12/12/18",NA,NA,NA
+380,"CBOE","CBOE GLOBAL MARKETS INC",184500,"Ed Tilly",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/14/19","5/12/22",NA,NA
+264,"CBRE","CBRE GROUP INC",260774,"Bob Sulentic",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"12/1/12","11/17/23",NA,NA
+223,"CDW","CDW CORP",28320,"Chris Leahy",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/19","1/5/23",NA,NA
+265,"CE","CELANESE CORP",162254,"Lori J. Ryerkerk",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"5/1/19",NA,NA,NA
+491,"CNC","CENTENE CORP",145552,"Michael Neidorff",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"4/23/19","9/7/21",NA,NA
+329,"DIS","DISNEY (WALT) CO",3980,"Bob Chapek",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Feb","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"2/25/20","12/21/24",NA,NA
+354,"EBAY","EBAY INC",114524,"Devin N. Wenig",NA,NA,"Caucasian/White",0,0,"M",0,1,0,0,0,1,"19-Sep","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"7/15/24","9/25/19",NA,NA
+84,"CERN","CERNER CORP",12850,"D Shafer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"PREFER NOT TO DISCLOSE",NA,0,"CEO","Chairman/CEO",0,"2/1/18","10/1/21",NA,NA
+224,"CF","CF INDUSTRIES HOLDINGS INC",163946,"Tony Will",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/2/14",NA,NA,NA
+235,"CHTR","CHARTER COMMUNICATIONS INC",126136,"Tom Rutledge",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"7/26/16","11/30/22",NA,NA
+340,"CVX","CHEVRON CORP",2991,"Mike Wirth",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"2/1/18",NA,NA,NA
+131,"CMG","CHIPOTLE MEXICAN GRILL INC",165914,"Brian Niccol",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"3/1/18",NA,NA,NA
+303,"CHD","CHURCH & DWIGHT INC",3026,"Matthew Farrell",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"5/2/19",NA,NA,NA
+242,"CI","CIGNA CORP",2547,"David Cordani",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","President/CEO",0,"12/25/09","1/1/22",NA,NA
+174,"CTAS","CINTAS CORP",3062,"Scott Farmer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chairman/CEO",0,"9/30/16","5/31/21",NA,NA
+353,"CSCO","CISCO SYSTEMS INC",20779,"Chuck Robbins",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chair/CEO",0,"12/11/17",NA,NA,NA
+454,"C","CITIGROUP INC",3243,"Mike Corbat",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","CEO",0,"10/15/12","2/26/21",NA,NA
+212,"CFG","CITIZENS FINANCIAL GROUP INC",21825,"Bruce van Saun",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"9/24/14",NA,NA,NA
+257,"CTXS","CITRIX SYSTEMS INC",61676,"David J. Henshall",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"7/17/24","10/21/24",NA,NA
+381,"CME","CME GROUP INC",149070,"The Hon. Terry Duffy",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"11/10/16",NA,NA,NA
+55,"KO","COCA-COLA CO",3144,"James Quincey",NA,NA,"Caucasian/White",0,0,"M",0,0,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chairman/CEO",0,"4/24/19",NA,NA,NA
+182,"CTSH","COGNIZANT TECH SOLUTIONS",111864,"Brian Humphries",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"4/1/19","1/12/23",NA,NA
+455,"CL","COLGATE-PALMOLIVE CO",3170,"Noel Wallace",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"4/1/19",NA,NA,NA
+437,"CMCSA","COMCAST CORP",3226,"Brian Roberts",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chairman/President/CEO",0,"5/25/04","10/11/22",NA,NA
+266,"CMA","COMERICA INC",3231,"Curtis C. Farmer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"4/19/24",NA,NA,NA
+379,"CAG","CONAGRA BRANDS INC",3362,"Sean Connolly",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"4/6/15",NA,NA,NA
+150,"COP","CONOCOPHILLIPS",8549,"Ryan Lance",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"5/1/12",NA,NA,NA
+111,"STZ","CONSTELLATION BRANDS",2710,"Bill Newlands Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"3/1/19",NA,NA,NA
+44,"CEG","CONSTELLATION ENE CORP",40614,"Joseph Dominguez",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"3/22/24",NA,NA,NA
+339,"COO","COOPER COS INC (THE)",3504,"Al White III",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/1/18",NA,NA,NA
+267,"CPRT","COPART INC",29901,"Jay Adair",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"2/12/10","4/1/22",NA,NA
+85,"GLW","CORNING INC",3532,"Wendell P. Weeks",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"4/5/24",NA,NA,NA
+246,"CTVA","CORTEVA INC",35168,"Jim Collins Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"6/3/19","11/1/21",NA,NA
+488,"CSGP","COSTAR GROUP INC",112111,"Andy Florance",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/95",NA,NA,NA
+397,"COST","COSTCO WHOLESALE CORP",29028,"W Jelinek",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/12","2/2/22",NA,NA
+151,"CTRA","COTERRA ENERGY INC",20548,"Dan Dinges",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"5/2/02","10/1/21",NA,NA
+148,"CCI","CROWN CASTLE INC",113490,"Jay Brown",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,1,"CEO","President/CEO",0,"6/1/16","1/16/24",NA,NA
+117,"CSX","CSX CORP",2574,"Jim Foote",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"12/22/17","9/26/22",NA,NA
+86,"CMI","CUMMINS INC",3650,"Tom Linebarger",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/12","8/1/22",NA,NA
+213,"CVS","CVS HEALTH CORP",7241,"Larry Merlo",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"3/1/11","2/1/21",NA,NA
+115,"DHI","D R HORTON INC",25340,"David V. Auld",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"10/1/14",NA,NA,NA
+218,"DRI","DARDEN RESTAURANTS INC",31846,"Gene Lee Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","President/CEO",0,"2/22/15","5/1/22","Clarence","Otis"
+420,"DVA","DAVITA INC",61483,"Javier Rodriguez",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","CEO",0,"6/1/19",NA,NA,NA
+49,"DAL","DELTA AIR LINES INC",3851,"Ed Bastian",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"5/2/16",NA,NA,NA
+35,"XRAY","DENTSPLY SIRONA INC",13700,"Don Casey Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"2/12/18","4/19/22",NA,NA
+24,"DVN","DEVON ENERGY CORP",14934,"Dave Hager",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"6/8/16","1/7/21",NA,NA
+205,"DXCM","DEXCOM INC",162887,"Kevin Sayer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"7/30/18",NA,NA,NA
+66,"FANG","DIAMONDBACK ENERGY INC",170750,"Travis Stice",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"1/1/17","2/22/22",NA,NA
+335,"DLR","DIGITAL REALTY TRUST INC",160991,"Bill Stein",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"5/1/15","12/13/22",NA,NA
+225,"DFS","DISCOVER FINANCIAL SVCS",177376,"Roger Hochschild",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"10/1/18","8/14/23",NA,NA
+216,"DISH","DISH NETWORK CORP",60900,"W. Erik Carlson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"12/5/17",NA,NA,NA
+354,"EBAY","EBAY INC",114524,"Scott Schenkel (Interim)",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Apr","interim","CAUCASIAN/WHITE",NA,0,"CEO","CEO",1,"9/25/19","4/27/20",NA,NA
+354,"EBAY","EBAY INC",114524,"Jamie Iannone",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Apr","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"4/27/20",NA,NA,NA
+255,"DG","DOLLAR GENERAL CORP",4016,"Todd Vasos",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"6/3/15","11/1/22",NA,NA
+341,"DPZ","DOMINO'S PIZZA INC",160211,"Ritch Allison Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","CEO",0,"7/1/18","4/26/22",NA,NA
+185,"DOV","DOVER CORP",4058,"Rich Tobin",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/1/18","2/10/24",NA,NA
+96,"DOW","DOW INC",34443,"James R. Fitterling",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"7/1/18",NA,NA,NA
+296,"DTE","DTE ENERGY CO",3897,"Jerry Norcia",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"7/1/19","5/5/22",NA,NA
+29,"DUK","DUKE ENERGY CORP",4093,"Lynn Good",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/1/16",NA,NA,NA
+247,"DRE","DUKE REALTY CORP",13510,"Jim Connor",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"4/26/17","10/3/22",NA,NA
+294,"DD","DUPONT DE NEMOURS INC",4060,"Edward D. Breen",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"2/20/24",NA,NA,NA
+65,"DXC","DXC TECHNOLOGY CO",3336,"Mike Salvino",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"9/12/19","7/26/22",NA,NA
+26,"EMN","EASTMAN CHEMICAL CO",29392,"Mark Costa",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chair/CEO",0,"6/30/14",NA,NA,NA
+51,"FLT","FLEETCOR TECHNOLOGIES INC",184700,"Ron Clarke",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"12/15/10",NA,NA,NA
+226,"FBHS","FORTUNE BRANDS HOME & SECUR",188255,"Christopher J. Klein",NA,NA,"Caucasian/White",0,0,"M",0,1,0,0,0,1,"20-Jan","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"10/11/24","1/6/20",NA,NA
+333,"ECL","ECOLAB INC",4213,"Doug Baker Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"12/2/11","1/1/21",NA,NA
+330,"EIX","EDISON INTERNATIONAL",9846,"Pedro Pizarro",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","President/CEO",0,"9/30/16",NA,NA,NA
+132,"EW","EDWARDS LIFESCIENCES CORP",133366,"Mike Mussallem",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"3/31/00","5/11/23",NA,NA
+412,"EA","ELECTRONIC ARTS INC",16721,"Andrew Wilson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"9/17/13","8/12/21",NA,NA
+248,"ELV","ELEVANCE HEALTH INC",145046,"Gail Boudreaux",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"11/20/17",NA,NA,NA
+492,"EMR","EMERSON ELECTRIC CO",4321,"David Farr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"10/5/10","2/5/21",NA,NA
+426,"ENPH","ENPHASE ENERGY INC",187450,"Badri Kothandaraman",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","President/CEO",0,"9/3/17",NA,NA,NA
+440,"ETR","ENTERGY CORP",7366,"Leo Denault",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chairman/CEO",0,"2/1/13",NA,NA,NA
+152,"EOG","EOG RESOURCES INC",16478,"Bill Thomas",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/14","9/30/21",NA,NA
+121,"EPAM","EPAM SYSTEMS INC",187697,"Arkadiy Dobkin",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"2/8/12",NA,NA,NA
+50,"EFX","EQUIFAX INC",4423,"Mark Begor",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"4/16/18",NA,NA,NA
+413,"EQIX","EQUINIX INC",138743,"Charles Meyers",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"9/12/18",NA,NA,NA
+382,"EQR","EQUITY RESIDENTIAL",28733,"Mark Parrell",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"12/31/18",NA,NA,NA
+414,"ESS","ESSEX PROPERTY TRUST",30293,"Mike Schall",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/11","3/31/23",NA,NA
+457,"EL","ESTEE LAUDER COMPANIES INC",61567,"Fabrizio Freda",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","President/CEO",0,"7/1/09",NA,NA,NA
+407,"ETSY","ETSY INC",23238,"Josh Silverman",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/3/17",NA,NA,NA
+106,"EVRG","EVERGY INC",6338,"Terry Bassham",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"6/5/18","1/4/21",NA,NA
+173,"ES","EVERSOURCE ENERGY",7970,"Jim Judge",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"5/3/17","5/5/21",NA,NA
+383,"EXC","EXELON CORP",8539,"Chris Crane",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","President/CEO",0,"3/12/12","10/17/22",NA,NA
+399,"EXPE","EXPEDIA GROUP INC",126296,"Mark Okerstrom",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"8/17/24","12/4/19",NA,NA
+399,"EXPE","EXPEDIA GROUP INC",126296,"Peter Kern",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"4/22/20",NA,NA,NA
+398,"EXPD","EXPEDITORS INTL WASH INC",4494,"Jeff Musser",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"3/1/14",NA,NA,NA
+47,"EXR","EXTRA SPACE STORAGE INC",160479,"Joe Margolis",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"5/18/17",NA,NA,NA
+278,"XOM","EXXON MOBIL CORP",4503,"Darren Woods",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/17",NA,NA,NA
+400,"FFIV","F5 INC",121077,"Francois Locoh-Donou",NA,NA,"African American/Black",1,1,"M",0,1,1,0,0,0,NA,NA,"BLACK/AFRICAN AMERICAN",1,0,"CEO",NA,0,NA,NA,NA,NA
+113,"FAST","FASTENAL CO",14225,"Dan Florness",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/16",NA,NA,NA
+20,"FRT","FEDERAL REALTY INVESTMENT TR",4605,"Don Wood",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/03","3/11/21",NA,NA
+252,"FDX","FEDEX CORP",4598,"Fred Smith",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"2/1/17","5/31/22",NA,NA
+118,"FIS","FIDELITY NATIONAL INFO SVCS",165993,"Gary Norcross",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"5/30/18","3/9/21",NA,NA
+443,"FRC","FIRST REPUBLIC BANK",14275,"James H. Herbert II",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"6/7/05","3/13/22",NA,NA
+140,"FE","FIRSTENERGY CORP",8099,"Steven E. Strah",NA,NA,"Caucasian/White",0,0,"M",0,1,0,1,0,1,"10/29/20","incoming","CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"10/1/20",NA,NA,NA
+140,"FE","FIRSTENERGY CORP",8099,"Steven E. Strah",NA,NA,"Caucasian/White",0,0,"M",0,1,0,1,0,1,"10/29/20","incoming","CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"10/1/20",NA,NA,NA
+140,"FE","FIRSTENERGY CORP",8099,"Chuck Jones Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,0,1,0,1,"10/29/20","outgoing","CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/15","5/24/20",NA,NA
+140,"FE","FIRSTENERGY CORP",8099,"Chuck Jones Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,0,1,0,1,"10/29/20","outgoing","CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/15","5/24/20",NA,NA
+92,"FISV","FISERV INC",12635,"Frank J. Bisignano",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"ASIAN (EXCLUDE INDIAN/SOUTH ASIAN)",NA,0,"CEO",NA,0,"7/1/20",NA,NA,NA
+226,"FBHS","FORTUNE BRANDS HOME & SECUR",188255,"Nicholas Fink",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Jan","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/6/20",NA,NA,NA
+411,"BEN","FRANKLIN RESOURCES INC",4885,"Gregory E. Johnson",NA,NA,"Caucasian/White",0,0,"M",0,1,0,0,0,1,"20-Feb","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"7/5/24","2/11/20",NA,NA
+139,"FLIR","FLIR SYSTEMS INC",28477,"Jim Cannon",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"6/19/17","5/14/21",NA,NA
+268,"FLS","FLOWSERVE CORP",4108,"Robert Rowe",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"4/1/17",NA,NA,NA
+438,"FMC","FMC CORP",4510,"Doctor Pierre Brondeau",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"6/1/18","5/31/20",NA,NA
+297,"F","FORD MOTOR CO",4839,"Jim Hackett",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"10/1/20","outgoing","CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/22/17","10/1/20",NA,NA
+297,"F","FORD MOTOR CO",4839,"James D. Farley Jr.",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,1,"10/1/20","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"10/1/20",NA,NA,NA
+355,"FTNT","FORTINET INC",183377,"Ken Xie",NA,NA,"Asian/Chinese",0,1,"M",0,1,1,0,0,0,NA,NA,"ASIAN (EXCLUDE INDIAN/SOUTH ASIAN)",NA,0,"CEO","Chairman/CEO",0,"11/11/13",NA,NA,NA
+192,"FTV","FORTIVE CORP",26590,"Jim Lico",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"7/2/16",NA,NA,NA
+411,"BEN","FRANKLIN RESOURCES INC",4885,"Jennifer M. Johnson",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,1,"20-Feb","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"2/11/20",NA,NA,NA
+385,"IEX","IDEX CORP",15267,"Andrew K. Silvernail",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Dec","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/1/11","12/15/20",NA,NA
+458,"FOXA","FOX CORP",34636,"Lachlan K. Murdoch",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"3/19/24",NA,NA,NA
+385,"IEX","IDEX CORP",15267,"Eric D. Ashleman",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Dec","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"12/15/20",NA,NA,NA
+22,"LMT","LOCKHEED MARTIN CORP",6774,"Marillyn Hewson",NA,NA,"Caucasian/White",0,0,"F",1,1,1,1,0,1,"6/15/20","outgoing",NA,NA,0,"CEO","President/CEO",0,NA,NA,NA,NA
+37,"FCX","FREEPORT-MCMORAN INC",14590,"Richard Adkerson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Vice Chairman/President/CEO",0,"5/31/13","2/2/21",NA,NA
+444,"GPS","GAP INC",4990,"Art Peck",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"2/15/24","11/19/24",NA,NA
+236,"IT","GARTNER INC",12441,"Gene Hall",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"8/3/04",NA,NA,NA
+384,"GEHC","GE HEALTHCARE TECHNOLOGI INC",41818,"Kieran Murphy",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"6/1/17","1/3/22",NA,NA
+70,"GD","GENERAL DYNAMICS CORP",5046,"Phebe Novakovic",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/13",NA,NA,NA
+433,"GE","GENERAL ELECTRIC CO",5047,"Larry Culp Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"9/30/18",NA,NA,NA
+307,"GIS","GENERAL MILLS INC",5071,"Jeffrey Harmening",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",0,0,"CEO","Chairman/CEO",0,"1/1/18",NA,NA,NA
+298,"GM","GENERAL MOTORS CO",5073,"Mary Barra",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chair/CEO",0,"1/4/16",NA,NA,NA
+13,"GPC","GENUINE PARTS CO",5125,"Paul Donahue",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"4/22/19",NA,NA,NA
+415,"GILD","GILEAD SCIENCES INC",24856,"Daniel O'Day",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",0,0,"CEO","Chairman/CEO",0,"3/1/19",NA,NA,NA
+52,"GPN","GLOBAL PAYMENTS INC",141913,"Jeff Sloan",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"6/30/14","6/1/23",NA,NA
+108,"GL","GLOBE LIFE INC",10614,"Gary Coleman",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,1,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Co-Chairman/Co-CEO",0,"4/24/14","12/31/22",NA,NA
+108,"GL","GLOBE LIFE INC",10614,"Gary Coleman",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,1,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Co-Chairman/Co-CEO",0,"4/24/14","12/31/22",NA,NA
+108,"GL","GLOBE LIFE INC",10614,"Larry Hutchison",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,1,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Co-Chairman/Co-CEO",0,"4/24/14","12/31/22",NA,NA
+108,"GL","GLOBE LIFE INC",10614,"Larry Hutchison",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,1,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Co-Chairman/Co-CEO",0,"4/24/14","12/31/22",NA,NA
+459,"GS","GOLDMAN SACHS GROUP INC",114628,"David Solomon",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/19",NA,NA,NA
+227,"GWW","GRAINGER (W W) INC",5256,"DG Macpherson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"10/1/17",NA,NA,NA
+153,"HAL","HALLIBURTON CO",5439,"Jeff Miller",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/1/19",NA,NA,NA
+243,"HIG","HARTFORD FINANCIAL SERVICES",61739,"Chris Swift",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/5/15",NA,NA,NA
+214,"HAS","HASBRO INC",5518,"Brian Goldner",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"2/6/17","10/12/21",NA,NA
+256,"HCA","HCA HEALTHCARE INC",22260,"Sam Hazen",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"1/1/19",NA,NA,NA
+422,"PEAK","HEALTHPEAK PROPERTIES INC",13125,"Tom Herzog",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/1/17","10/6/22",NA,NA
+63,"JKHY","HENRY (JACK) & ASSOCIATES",11811,"Dave Foss",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"7/1/17","7/1/21",NA,NA
+112,"HSIC","HENRY SCHEIN INC",61494,"Stan Bergman",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"5/18/05",NA,NA,NA
+134,"HSY","HERSHEY CO",5597,"Michele Buck",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"10/11/19",NA,NA,NA
+460,"HES","HESS CORP",1380,"John Hess",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"5/16/13",NA,NA,NA
+154,"HPE","HEWLETT PACKARD ENTERPRISE",26156,"Antonio Neri",NA,NA,"Hispanic/Argentinian",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","President/CEO",0,"2/1/18",NA,NA,NA
+71,"HLT","HILTON WORLDWIDE HOLDINGS",5643,"Chris Nassetta",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"12/12/13",NA,NA,NA
+316,"HOLX","HOLOGIC INC",20904,"Steve MacMillan",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"6/16/15",NA,NA,NA
+30,"HON","HONEYWELL INTERNATIONAL INC",1300,"Darius Adamczyk",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"4/23/18","6/1/23",NA,NA
+217,"HRL","HORMEL FOODS CORP",5709,"Jim Snee",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"11/20/17",NA,NA,NA
+21,"HST","HOST HOTELS & RESORTS INC",7063,"Jim Risoleo",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/17",NA,NA,NA
+199,"HWM","HOWMET AEROSPACE INC",28192,"John C. Plant",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"4/1/20",NA,NA,NA
+357,"HPQ","HP INC",5606,"Enrique Lores",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","President/CEO",0,"11/1/19",NA,NA,NA
+195,"HUM","HUMANA INC",27914,"Bruce Broussard",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/13","1/8/24",NA,NA
+4,"JBHT","HUNT (JB) TRANSPRT SVCS INC",5783,"John Roberts III",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/11","8/1/22",NA,NA
+262,"HBAN","HUNTINGTON BANCSHARES",5786,"Steve Steinour",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/14/09",NA,NA,NA
+493,"HII","HUNTINGTON INGALLS IND INC",186310,"Mike Petters",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","President/CEO",0,"3/31/11","3/1/22",NA,NA
+22,"LMT","LOCKHEED MARTIN CORP",6774,"James D. Taiclet",NA,NA,"Caucasian/White",0,0,"M",1,1,1,1,0,1,"6/15/20","incoming","CAUCASIAN/WHITE",1,0,"CEO","Chairman/President/CEO",0,"1/1/14","6/15/20",NA,NA
+32,"NUE","NUCOR CORP",8030,"Leon J. Topalian",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Jan","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/1/20",NA,NA,NA
+280,"IDXX","IDEXX LABS INC",24197,"Jonathan Mazelsky",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"10/23/19",NA,NA,NA
+386,"ITW","ILLINOIS TOOL WORKS",5878,"Ernest Santi",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"5/8/15","1/1/24",NA,NA
+206,"ILMN","ILLUMINA INC",138205,"Francis DeSouza",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","President/CEO",0,"7/5/16","6/11/23",NA,NA
+295,"INCY","INCYTE CORP",29127,"Herve Hoppenot",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"PREFER NOT TO DISCLOSE",NA,0,"CEO","Chairman/President/CEO",0,"5/22/15","6/5/23",NA,NA
+31,"IR","INGERSOLL RAND INC",30098,"Vicente Reynal",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,NA,NA,0,"CEO","President/CEO",0,"5/12/17","11/9/21",NA,NA
+320,"PODD","INSULET CORP",177227,"Shacey Petrovic",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/19","6/1/22",NA,NA
+358,"INTC","INTEL CORP",6008,"Bob Swan",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"1/30/19","2/15/21",NA,NA
+53,"ICE","INTERCONTINENTAL EXCHANGE",163610,"Jeff Sprecher",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"11/1/02",NA,NA,NA
+462,"IPG","INTERPUBLIC GROUP OF COS",6136,"Michael Roth",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/19/05","1/1/21",NA,NA
+289,"IBM","INTL BUSINESS MACHINES CORP",6066,"Arvind Krishna",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO",NA,0,"4/6/20",NA,NA,NA
+461,"IFF","INTL FLAVORS & FRAGRANCES",6078,"Andreas Fibig",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"12/1/14","2/14/22",NA,NA
+253,"IP","INTL PAPER CO",6104,"Mark Sutton",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/15",NA,NA,NA
+253,"IP","INTL PAPER CO",6104,"Mark Sutton",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/15",NA,NA,NA
+359,"INTU","INTUIT INC",27928,"Sasan Goodarzi",NA,NA,"Middle Eastern",0,1,"M",0,1,1,0,0,0,NA,NA,"MIDDLE-EASTERN/NORTH AFRICAN",NA,0,"CEO","President/CEO",0,"1/1/19","2/1/24",NA,NA
+360,"ISRG","INTUITIVE SURGICAL INC",136725,"Doctor Gary Guthart",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/10","5/16/23",NA,NA
+54,"IVZ","INVESCO LTD",29804,"Marty Flanagan",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"8/1/05","6/30/23",NA,NA
+269,"INVH","INVITATION HOMES INC",30004,"Dallas Tanner",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/16/19","3/1/23",NA,NA
+178,"IPGP","IPG PHOTONICS CORP",175955,"Doctor Valentin Gapontsev",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/98","5/4/21",NA,NA
+64,"IQV","IQVIA HOLDINGS INC",17928,"Ari Bousbib",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"10/3/16",NA,NA,NA
+434,"IRM","IRON MOUNTAIN INC",62374,"Bill Meaney",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/7/13",NA,NA,NA
+270,"J","JACOBS ENGINEERING GROUP INC",6216,"Steve Demetriou",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"7/28/16","1/24/23",NA,NA
+211,"JNJ","JOHNSON & JOHNSON",6266,"Alex Gorsky",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"12/28/12","1/3/22",NA,NA
+463,"JPM","JPMORGAN CHASE & CO",2968,"Jamie Dimon",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/30/18",NA,NA,NA
+361,"JNPR","JUNIPER NETWORKS INC",121718,"Rami Rahim",NA,NA,"Middle Eastern",0,1,"M",0,1,1,0,0,0,NA,NA,"ASIAN (EXCLUDE INDIAN/SOUTH ASIAN)",NA,0,"CEO","CEO",0,"11/10/14",NA,NA,NA
+107,"KSU","KANSAS CITY SOUTHERN",6335,"Pat Ottensmeyer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"7/1/16","12/14/21",NA,NA
+97,"K","KELLOGG CO",6375,"Steve Cahillane",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"3/16/18",NA,NA,NA
+317,"KDP","KEURIG DR PEPPER INC",28877,"Bob Gamgort Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/13/19","7/29/22",NA,NA
+394,"KEYS","KEYSIGHT TECHNOLOGIES INC",20232,"Ron Nersesian",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"11/1/19","5/1/22",NA,NA
+271,"KMB","KIMBERLY-CLARK CORP",6435,"Michael D. Hsu",NA,NA,"Asian/Taiwanese",0,1,"M",0,1,1,0,0,0,NA,NA,"ASIAN (EXCLUDE INDIAN/SOUTH ASIAN)",NA,0,"CEO",NA,0,"1/1/19",NA,NA,NA
+138,"KIM","KIMCO REALTY CORP",24731,"Conor Flynn",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"2/27/17",NA,NA,NA
+155,"KMI","KINDER MORGAN INC",6310,"Steve Kean",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"4/18/18","8/1/23",NA,NA
+362,"KLAC","KLA CORP",6304,"Rick Wallace",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"11/13/08",NA,NA,NA
+200,"KHC","KRAFT HEINZ CO",5568,"Miguel Patricio",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,NA,NA,0,"CEO",NA,0,"7/1/19",NA,NA,NA
+176,"KR","KROGER CO",6502,"William McMullen",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/15",NA,NA,NA
+95,"LHX","L3HARRIS TECHNOLOGIES INC",5492,"Bill Brown",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman (Executive)/CEO",0,"6/29/19","6/29/21",NA,NA
+427,"LRCX","LAM RESEARCH CORP",6565,"Tim Archer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"12/5/18",NA,NA,NA
+104,"LW","LAMB WESTON HOLDINGS INC",28790,"Tom Werner",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"11/9/16",NA,NA,NA
+135,"LVS","LAS VEGAS SANDS CORP",161844,"Sheldon Adelson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO/Treasurer",0,"8/1/04","1/11/21",NA,NA
+76,"LEG","LEGGETT & PLATT INC",6649,"Karl G. Glassman",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/1/16","12/31/21",NA,NA
+72,"LDOS","LEIDOS HOLDINGS INC",165123,"Roger Krone",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"3/20/15","5/3/23",NA,NA
+249,"LLY","LILLY (ELI) & CO",6730,"David Ricks",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chair/President/CEO",1,"6/1/17",NA,"Derica","Rice"
+187,"LNC","LINCOLN NATIONAL CORP",6742,"Dennis Glass",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"7/6/07","5/27/22",NA,NA
+331,"LYV","LIVE NATION ENTERTAINMENT",165746,"Michael Rapino",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/18",NA,NA,NA
+387,"LKQ","LKQ CORP",155394,"Nick Zarcone",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/31/17",NA,NA,NA
+464,"L","LOEWS CORP",6781,"Jim Tisch",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/99",NA,NA,NA
+3,"LOW","LOWE'S COS INC",6829,"Marvin Ellison",NA,NA,"African American/Black",1,1,"M",0,1,1,0,0,0,NA,NA,"BLACK/AFRICAN AMERICAN",NA,0,"CEO","President/CEO",0,"7/2/18","6/1/21",NA,NA
+88,"LUMN","LUMEN TECHNOLOGIES INC",2884,"Jeff Storey",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/23/18","11/7/22",NA,NA
+156,"LYB","LYONDELLBASELL INDUSTRIES NV",294524,"Bob Patel",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","CEO",0,"6/1/18","12/31/21",NA,NA
+167,"MTB","M & T BANK CORP",4699,"Rene Jones",NA,NA,"African American/Black",1,1,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,0,"CEO","Chairman/CEO",0,"12/20/17",NA,NA,NA
+157,"MRO","MARATHON OIL CORP",7017,"Lee Tillman",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"2/1/19",NA,NA,NA
+81,"MPC","MARATHON PETROLEUM CORP",186989,"Marvin Haasen",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"11/1/12","7/17/23",NA,NA
+467,"MKTX","MARKETAXESS HOLDINGS INC",158742,"Rick McVey",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"9/13/06","4/3/23",NA,NA
+23,"MAR","MARRIOTT INTL INC",28930,"Arne Sorenson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"3/31/12","2/15/21",NA,NA
+468,"MMC","MARSH & MCLENNAN COS",7065,"Dan Glaser",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",0,0,"CEO","President/CEO",0,"1/1/13",NA,"Dean","Klisura"
+18,"MLM","MARTIN MARIETTA MATERIALS",29733,"Ward Nye",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"5/22/14",NA,NA,NA
+299,"MAS","MASCO CORP",7085,"Keith Allman",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"2/14/14",NA,NA,NA
+290,"MA","MASTERCARD INC",160225,"Ajay Banga",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO",NA,0,"7/1/10","12/31/20",NA,NA
+363,"MXIM","MAXIM INTEGRATED PRODUCTS",14256,"Tunc Doluca",NA,NA,"Middle Eastern/Turkish",0,1,"M",0,1,1,0,0,0,NA,NA,"MIDDLE-EASTERN/NORTH AFRICAN",NA,0,"CEO","President/CEO",0,"1/1/07","8/26/21",NA,NA
+8,"MKC","MCCORMICK & CO INC",7146,"Lawrence Kurzius",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/31/17","6/1/22",NA,NA
+388,"MCD","MCDONALD'S CORP",7154,"Chris Kempczinski",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,NA,NA,"Donald","Thompson"
+273,"MCK","MCKESSON CORP",7171,"Doctor Brian Tyler",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"4/1/19",NA,NA,NA
+288,"MRK","MERCK & CO",7257,"Kenneth Frazier",NA,NA,"African American/Black",1,1,"F",1,1,1,0,0,0,NA,NA,"BLACK/AFRICAN AMERICAN",1,0,"CEO","Chairman/President/CEO",0,"12/1/11","4/1/21",NA,NA
+416,"META","META PLATFORMS INC",170617,"Mark Zuckerberg",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"5/18/12",NA,NA,NA
+466,"MET","METLIFE INC",133768,"Michel Khalaf",NA,NA,"Middle Eastern",0,1,"M",0,1,1,0,0,0,NA,NA,"MIDDLE-EASTERN/NORTH AFRICAN",NA,0,"CEO","President/CEO",0,"5/1/19",NA,NA,NA
+103,"MTD","METTLER-TOLEDO INTL INC",65772,"Olivier Filliol",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",0,0,"CEO","President/CEO",0,"1/1/09","3/31/21",NA,NA
+38,"MCHP","MICROCHIP TECHNOLOGY INC",27965,"Steve Sanghi",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","Chairman/CEO",0,"2/3/16","3/1/21",NA,NA
+105,"MU","MICRON TECHNOLOGY INC",7343,"Sanjay Mehrotra",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","President/CEO",0,"5/8/17",NA,NA,NA
+401,"MSFT","MICROSOFT CORP",12141,"Satya Nadella",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","CEO",0,"2/4/14","6/16/21",NA,NA
+254,"MAA","MID-AMERICA APT CMNTYS INC",29649,"H Bolton Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"10/1/02",NA,NA,NA
+318,"MRNA","MODERNA INC",34410,"Stephane Bancel",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"12/7/18",NA,NA,NA
+1,"MHK","MOHAWK INDUSTRIES INC",25119,"Jeff Lorberbaum",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"11/4/09",NA,NA,NA
+184,"TAP","MOLSON COORS BEVERAGE CO",3505,"Gavin Hattersley",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"9/28/19",NA,NA,NA
+389,"MDLZ","MONDELEZ INTERNATIONAL INC",142953,"Doctor Dirk van de Put",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chairman/CEO",0,"4/1/18",NA,NA,NA
+123,"MNST","MONSTER BEVERAGE CORP",24316,"Rodney Sacks",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"7/1/96","1/13/21",NA,NA
+465,"MCO","MOODY'S CORP",139665,"Raymond McDaniel Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"4/19/12","12/31/20",NA,NA
+469,"MS","MORGAN STANLEY",12124,"James Gorman",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/12","1/1/24",NA,NA
+122,"MOS","MOSAIC CO",162129,"Joc O'Rourke",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"8/5/15","8/29/23",NA,NA
+390,"MSI","MOTOROLA SOLUTIONS INC",7585,"Greg Brown",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"5/3/11",NA,NA,NA
+470,"MSCI","MSCI INC",178507,"Henry Fernandez",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","Chairman/CEO",0,"10/31/17",NA,NA,NA
+471,"NDAQ","NASDAQ INC",149337,"Adena Friedman",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/17","1/1/23",NA,NA
+57,"NWL","NEWELL BRANDS INC",7875,"Ravi Saligram",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","President/CEO",0,"10/2/19","5/5/22",NA,NA
+421,"NEM","NEWMONT CORP",7881,"Tom Palmer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"10/1/19",NA,NA,NA
+473,"NWSA","NEWS CORP",18043,"Robert Thomson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"6/28/13",NA,NA,NA
+169,"NEE","NEXTERA ENERGY INC",4517,"Jim Robo",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"12/13/13","3/1/22",NA,NA
+472,"NLSN","NIELSEN HOLDINGS PLC",100873,"David Kenny",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","CEO/Chief Diversity Officer",0,"1/1/19","3/23/21",NA,NA
+279,"NKE","NIKE INC -CL B",7906,"John Donahoe",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/13/20",NA,NA,NA
+172,"NI","NISOURCE INC",7974,"Joe Hamrock",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","President/CEO",0,"7/1/15","2/14/22","Lloyd","Yates"
+56,"NSC","NORFOLK SOUTHERN CORP",7923,"Jim Squires",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"10/1/15","12/1/21",NA,NA
+391,"NTRS","NORTHERN TRUST CORP",7982,"Mike O'Grady",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chairman/President/CEO",0,"1/23/19",NA,NA,NA
+73,"NOC","NORTHROP GRUMMAN CORP",7985,"Kathy Warden",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chair/President/CEO",0,"8/1/19",NA,NA,NA
+39,"NLOK","NORTONLIFELOCK INC (Pre Symantec)",15855,"Vincent Pilette",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,1,"CEO",NA,0,"4/14/99",NA,NA,NA
+129,"NCLH","NORWEGIAN CRUISE LINE HLDGS",104432,"Frank Del Rio",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","President/CEO",0,"8/4/15","6/30/23",NA,NA
+158,"NOV","NOV INC",63892,"Clay Williams",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"5/30/14",NA,NA,NA
+159,"NRG","NRG ENERGY INC",135990,"Mauricio Gutierrez",NA,NA,"Hispanic/Mexican",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","President/CEO",0,"1/4/16",NA,NA,NA
+32,"NUE","NUCOR CORP",8030,"John J. Ferriola",NA,NA,"Caucasian/White",0,0,"M",0,1,0,0,0,1,"20-Jan","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/1/13","12/31/19",NA,NA
+428,"PCG","PG&E CORP",8264,"Bill Smith",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,1,"6/30/20","outgoing","CAUCASIAN/WHITE",NA,0,"CEO","Interim CEO",1,NA,NA,NA,NA
+367,"NVDA","NVIDIA CORP",117768,"Jensen Huang",NA,NA,"Asian/Taiwanese",0,1,"M",0,1,1,0,0,0,NA,NA,"ASIAN (EXCLUDE INDIAN/SOUTH ASIAN)",NA,0,"CEO","President/CEO",0,"4/1/93",NA,NA,NA
+93,"ORLY","O'REILLY AUTOMOTIVE INC",28180,"Gregory D. Johnson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/8/18",NA,NA,NA
+160,"OXY","OCCIDENTAL PETROLEUM CORP",8068,"Vicki Hollub",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"4/29/16",NA,NA,NA
+2,"ODFL","OLD DOMINION FREIGHT",24617,"Greg Gantt",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/16/18","6/30/23",NA,NA
+474,"OMC","OMNICOM GROUP INC",4066,"John Wren III",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"5/22/18",NA,NA,NA
+9,"OKE","ONEOK INC",8151,"Terry Spencer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,0,NA,NA,"CAUCASIAN/WHITE",0,0,"CEO","President/CEO",0,"1/31/14","6/28/21",NA,NA
+9,"OKE","ONEOK INC",8151,"Terry Spencer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,0,NA,NA,"CAUCASIAN/WHITE",0,0,"CEO","President/CEO",0,"1/31/14","6/28/21",NA,NA
+336,"ORCL","ORACLE CORP",12142,"Safra Catz",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","CEO",0,"10/18/19",NA,NA,NA
+343,"OGN","ORGANON & CO",38821,"Kevin Ali",NA,NA,"Caucasian/White",0,0,"M",0,0,0,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"6/1/21",NA,NA,NA
+244,"OTIS","OTIS WORLDWIDE CORP",36190,"Judy Marks",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"4/3/20",NA,NA,NA
+402,"PCAR","PACCAR INC",8253,"R Feight",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"7/1/19",NA,NA,NA
+228,"PKG","PACKAGING CORP OF AMERICA",128978,"Mark Kowlzan",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/16",NA,NA,NA
+475,"PARA","PARAMOUNT GLOBAL",13714,"George Cheeks",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"3/23/20","incoming","CAUCASIAN/WHITE",0,0,"CEO","President/CEO",0,"12/4/19",NA,"Roger","King"
+475,"PARA","PARAMOUNT GLOBAL",13714,"Joseph Ianniello",NA,NA,"Caucasian/White",0,0,"M",0,1,0,1,0,1,"3/23/20","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,NA,"3/23/20","Roger","King"
+285,"PH","PARKER-HANNIFIN CORP",8358,"Tom Williams",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/16","1/1/23",NA,NA
+193,"PAYX","PAYCHEX INC",8402,"Martin Mucci",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"10/14/10","12/1/21",NA,NA
+25,"PAYC","PAYCOM SOFTWARE INC",20116,"Chad Richison",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"8/1/16","2/7/24",NA,NA
+368,"PYPL","PAYPAL HOLDINGS INC",24616,"Dan Schulman",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"7/17/15","9/27/23",NA,NA
+237,"PBCT","PEOPLE'S UNITED FINL INC",16245,"Jack Barnes",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"6/26/18","4/4/22",NA,NA
+291,"PEP","PEPSICO INC",8479,"Ramon Laguarta",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","Chairman/President/CEO",0,"2/1/19",NA,NA,NA
+319,"PKI","PERKINELMER INC",4145,"Prahlad Singh",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","President/CEO",0,"12/1/19",NA,NA,NA
+476,"PFE","PFIZER INC",8530,"Albert Bourla",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/1/19",NA,NA,NA
+477,"PM","PHILIP MORRIS INTERNATIONAL",179621,"Andre Calantzopoulos",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"5/8/13","5/5/21",NA,NA
+161,"PSX","PHILLIPS 66",170841,"Greg Garland",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"6/1/14","7/1/22",NA,NA
+41,"PNW","PINNACLE WEST CAPITAL CORP",1075,"Jeff Guldner",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"11/15/19",NA,NA,NA
+275,"PXD","PIONEER NATURAL RESOURCES CO",14359,"Scott Sheffield",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"2/21/19","1/1/21",NA,NA
+201,"PNC","PNC FINANCIAL SVCS GROUP INC",8245,"William Demchak",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"4/22/14","2/20/24",NA,NA
+79,"POOL","POOL CORP",61420,"Pete Arvan",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"7/31/19",NA,NA,NA
+202,"PPG","PPG INDUSTRIES INC",8247,"Michael McGarry",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"9/1/16","1/1/23",NA,NA
+125,"PPL","PPL CORP",8455,"Bill Spence",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"6/1/20","outgoing","CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"7/1/19","5/31/20",NA,NA
+125,"PPL","PPL CORP",8455,"Vincent Sorgi",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"6/1/20","incoming","CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"6/1/20",NA,NA,NA
+45,"TROW","PRICE (T. ROWE) GROUP",12138,"William Stromberg",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",0,0,"CEO","Chairman/President/CEO",0,"4/25/19","2/11/21",NA,NA
+68,"PFG","PRINCIPAL FINANCIAL GRP INC",145701,"Dan Houston",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"5/17/16",NA,NA,NA
+177,"PG","PROCTER & GAMBLE CO",8762,"David Taylor",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"7/1/16","11/1/21",NA,NA
+284,"PGR","PROGRESSIVE CORP-OHIO",13341,"Tricia Griffith",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"7/1/16",NA,NA,NA
+445,"PLD","PROLOGIS INC",29984,"Hamid Moghadam",NA,NA,"Middle Eastern",0,1,"M",0,1,1,0,0,0,NA,NA,"MIDDLE-EASTERN/NORTH AFRICAN",NA,0,"CEO","Chairman/CEO",0,"1/1/13",NA,NA,NA
+410,"PRU","PRUDENTIAL FINANCIAL INC",143356,"Charlie Lowrey Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"4/5/19",NA,NA,NA
+409,"PEG","PUBLIC SERVICE ENTRP GRP INC",8810,"Doctor Ralph Izzo",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"4/1/07","8/31/22",NA,NA
+332,"PSA","PUBLIC STORAGE",10096,"Joe Russell Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/19",NA,NA,NA
+58,"PHM","PULTEGROUP INC",8823,"Ryan Marshall",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"9/8/16",NA,NA,NA
+478,"PVH","PVH CORP",8551,"Manny Chirico",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"6/19/07","2/1/21",NA,NA
+15,"QRVO","QORVO INC",64853,"Bob Bruggeworth",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/2/15",NA,NA,NA
+208,"QCOM","QUALCOMM INC",24800,"Steve Mollenkopf",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"3/4/14","6/30/21",NA,NA
+208,"QCOM","QUALCOMM INC",24800,"Steve Mollenkopf",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"3/4/14","6/30/21",NA,NA
+162,"PWR","QUANTA SERVICES INC",66446,"Duke Austin Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO/COO",0,"3/14/16","1/26/22",NA,NA
+342,"DGX","QUEST DIAGNOSTICS INC",64166,"Steve Rusckowski",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/1/17","11/1/22",NA,NA
+479,"RL","RALPH LAUREN CORP",64891,"Patrice Louvet",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","President/CEO",0,"7/3/17",NA,NA,NA
+116,"RJF","RAYMOND JAMES FINANCIAL INC",8898,"Paul Reilly",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"2/16/17",NA,NA,NA
+321,"RTN","RAYTHEON CO",8972,"Gregory J. Hayes",NA,NA,"Caucasian/White",0,0,"M",0,0,1,0,0,1,"4/1/20","incoming","CAUCASIAN/WHITE",1,1,"CEO",NA,0,"4/1/20",NA,NA,NA
+321,"RTN","RAYTHEON CO",8972,"Thomas A. Kennedy",NA,NA,"Caucasian/White",0,0,"M",0,0,0,0,0,1,"4/1/20","outgoing","CAUCASIAN/WHITE",1,0,"CEO",NA,0,"3/1/14","4/1/20",NA,NA
+322,"RTX","RAYTHEON TECHNOLOGIES CORP",10983,"Gregory J. Hayes",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"4/3/20",NA,NA,NA
+207,"O","REALTY INCOME CORP",30822,"Sumit Roy",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","President/CEO",0,"10/16/18",NA,NA,NA
+19,"RHT","RED HAT INC",122841,"Paul Cormier",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"4/1/20","7/1/22",NA,NA
+119,"REG","REGENCY CENTERS CORP",29099,"Lisa Palmer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/20",NA,NA,NA
+292,"REGN","REGENERON PHARMACEUTICALS",23812,"Doctor Len Schleifer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/94","6/9/23",NA,NA
+144,"RF","REGIONS FINANCIAL CORP",4674,"John Turner Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"7/2/18",NA,NA,NA
+42,"RSG","REPUBLIC SERVICES INC",112168,"Don Slager",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"5/1/19","5/21/21",NA,NA
+209,"RMD","RESMED INC",31887,"Mick Farrell",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"OTHER",NA,0,"CEO","CEO",0,"3/1/13","1/25/23",NA,NA
+417,"RHI","ROBERT HALF INTL INC",2312,"Michael Waddell",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Vice Chairman/CEO/President",0,"12/15/19",NA,NA,NA
+301,"ROK","ROCKWELL AUTOMATION",9203,"Blake Moret",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/1/18",NA,NA,NA
+99,"ROP","ROPER TECHNOLOGIES INC",24925,"Laurence Hunn",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"9/19/18",NA,NA,NA
+429,"ROST","ROSS STORES INC",9248,"Barbara Rentler",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"6/1/14","5/19/21",NA,NA
+130,"RCL","ROYAL CARIBBEAN GROUP",28191,"Richard Fain",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"4/1/88","1/3/22",NA,NA
+481,"SPGI","S&P GLOBAL INC",7163,"Doug Peterson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"11/1/13",NA,NA,NA
+442,"CRM","SALESFORCE INC",157855,"Marc Benioff",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"6/21/05",NA,NA,NA
+170,"SBAC","SBA COMMUNICATIONS CORP",121382,"Jeff Stoops",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/02","12/31/23",NA,NA
+163,"SLB","SCHLUMBERGER LTD",9465,"Olivier Le Peuch",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"8/1/19",NA,NA,NA
+100,"SCHW","SCHWAB (CHARLES) CORP",13988,"Walt Bettinger II",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"10/1/08","10/15/21",NA,NA
+33,"SEE","SEALED AIR CORP",9555,"Ted Doheny II",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/18","10/23/23",NA,NA
+210,"SRE","SEMPRA ENERGY",8272,"Jeffrey W. Martin",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",0,0,"CEO",NA,0,NA,NA,NA,NA
+365,"NOW","SERVICENOW INC",171007,"Bill McDermott",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"11/18/19","10/25/22",NA,NA
+286,"SHW","SHERWIN-WILLIAMS CO",9667,"John Morikis",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"3/1/19","3/12/21",NA,NA
+250,"SPG","SIMON PROPERTY GROUP INC",29389,"David Simon",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"2/15/19",NA,NA,NA
+133,"SWKS","SKYWORKS SOLUTIONS INC",1327,"Liam Griffin",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/11/16","5/13/21",NA,NA
+480,"SLG","SL GREEN REALTY CORP",65290,"Marc Holliday",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/19","12/31/23",NA,NA
+82,"SJM","SMUCKER (JM) CO",9777,"Mark Smucker",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/1/16","8/17/22",NA,NA
+110,"SNA","SNAP-ON INC",9778,"Nick Pinchuk",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"4/23/09",NA,NA,NA
+60,"SO","SOUTHERN CO",9850,"Tom Fanning",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,0,"CEO","Chairman/President/CEO",0,"12/1/10","3/31/23","Christopher","Womack"
+272,"LUV","SOUTHWEST AIRLINES",9882,"Gary Kelly",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/10/17","2/1/22",NA,NA
+245,"SWK","STANLEY BLACK & DECKER INC",10016,"Jim Loree",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"8/1/16","2/23/21",NA,NA
+403,"SBUX","STARBUCKS CORP",25434,"Kevin Johnson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"4/3/17","4/4/22",NA,NA
+435,"STT","STATE STREET CORP",10035,"Ronald P. O'Hanley",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/1/19",NA,NA,NA
+191,"SYK","STRYKER CORP",10115,"Kevin Lobo",NA,NA,"Asian/Indian",0,1,"M",0,1,1,0,0,0,NA,NA,"INDIAN/SOUTH ASIAN",NA,0,"CEO","Chair/CEO",0,"8/1/18","10/1/21",NA,NA
+369,"SIVB","SVB FINANCIAL GROUP",17120,"Gregory W. Becker",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"4/1/11","3/10/23",NA,NA
+238,"SYF","SYNCHRONY FINANCIAL",20686,"Margaret Keane",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"5/2/19","4/1/21",NA,NA
+370,"SNPS","SYNOPSYS INC",24975,"Doctor Aart De Geus",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,1,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/Co-CEO",0,"1/1/86",NA,NA,NA
+370,"SNPS","SYNOPSYS INC",24975,"Doctor Aart De Geus",NA,NA,"Caucasian/White",0,0,"M",0,1,1,1,1,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/Co-CEO",0,"1/1/86",NA,NA,NA
+370,"SNPS","SYNOPSYS INC",24975,"Doctor Chi-Foon Chan",NA,NA,"Asian/Chinese",0,1,"M",0,1,1,1,1,0,NA,NA,NA,NA,0,"CEO","President/Co-CEO",0,"5/21/12","4/30/22",NA,NA
+370,"SNPS","SYNOPSYS INC",24975,"Doctor Chi-Foon Chan",NA,NA,"Asian/Chinese",0,1,"M",0,1,1,1,1,0,NA,NA,NA,NA,0,"CEO","President/Co-CEO",0,"5/21/12","4/30/22",NA,NA
+164,"SYY","SYSCO CORP",10247,"Kevin Hourican",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"2/1/20",NA,NA,NA
+404,"TMUS","T-MOBILE US INC",17874,"John Legere",NA,NA,"Caucasian/White",0,0,"M",0,1,0,0,0,1,"20-Apr","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"9/1/12","4/1/20",NA,NA
+404,"TMUS","T-MOBILE US INC",17874,"Mike Sievert",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Apr","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"4/1/20",NA,NA,NA
+484,"TTWO","TAKE-TWO INTERACTIVE SFTWR",64630,"Strauss Zelnick",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman (Executive)/CEO",0,"1/1/11",NA,NA,NA
+482,"TPR","TAPESTRY INC",140541,"Joanne Crevoiserat",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chairman/CEO",0,"7/20/20",NA,NA,NA
+165,"TRGP","TARGA RESOURCES CORP",185532,"Joe Bob Perkins",NA,NA,"Caucasian/White",0,0,"M",0,1,0,0,0,1,"20-Mar","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/1/12","3/1/20",NA,NA
+165,"TRGP","TARGA RESOURCES CORP",185532,"Matthew J. Meloy",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Mar","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"3/1/20",NA,NA,NA
+308,"TGT","TARGET CORP",3813,"Brian Cornell",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chair/CEO",0,"8/12/14",NA,NA,NA
+308,"TGT","TARGET CORP",3813,"Brian Cornell",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chair/CEO",0,"8/12/14",NA,NA,NA
+198,"TDY","TELEDYNE TECHNOLOGIES INC",126721,"Robert Mehrabian",NA,NA,"Middle Eastern",0,1,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"11/15/18",NA,NA,NA
+323,"TER","TERADYNE INC",10453,"Mark Jagiela",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"2/1/14","7/1/22",NA,NA
+337,"TSLA","TESLA INC",184996,"Elon Musk",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"11/7/18",NA,NA,NA
+277,"TXN","TEXAS INSTRUMENTS INC",10499,"Rich Templeton",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"7/17/18","4/1/23",NA,NA
+215,"TXT","TEXTRON INC",10519,"Scott Donnelly",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"9/1/10",NA,NA,NA
+325,"TMO","THERMO FISHER SCIENTIFIC INC",10530,"Marc N. Casper",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"10/1/09",NA,NA,NA
+324,"TJX","TJX COS INC (THE)",11672,"Ernie Herrman",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/31/16",NA,NA,NA
+87,"TSCO","TRACTOR SUPPLY CO",29736,"Hal Lawton",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/13/20",NA,NA,NA
+287,"TDG","TRANSDIGM GROUP INC",148349,"Doctor Kevin Stein",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"4/26/18",NA,NA,NA
+483,"TRV","TRAVELERS COS INC",62689,"Alan Schnitzer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",0,0,"CEO","Chairman/CEO",0,"8/1/17",NA,NA,NA
+371,"TRMB","TRIMBLE INC",22815,"Steven W. Berglund",NA,NA,"Caucasian/White",0,0,"M",0,1,0,0,0,1,"20-Jan","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"3/1/99","1/4/20",NA,NA
+371,"TRMB","TRIMBLE INC",22815,"Robert G. Painter",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"20-Jan","incoming","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/4/20",NA,NA,NA
+34,"TFC","TRUIST FINANCIAL CORP",11856,"Kelly King",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"12/20/16","9/12/21",NA,NA
+446,"TWTR","TWITTER INC",18872,"Jack Dorsey",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"9/30/15","11/29/21",NA,NA
+109,"TYL","TYLER TECHNOLOGIES INC",10789,"H Moore Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/10/18",NA,NA,NA
+101,"UDR","UDR INC",10894,"Tom Toomey",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"1/1/19",NA,NA,NA
+126,"ULTA","ULTA BEAUTY INC",178704,"Mary Dillon",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"7/1/13","6/2/21",NA,NA
+46,"UAA","UNDER ARMOUR INC",165052,"Patrik Frisk",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/1/20","6/1/22",NA,NA
+142,"UNP","UNION PACIFIC CORP",10867,"Lance Fritz",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chairman/President/CEO",0,"10/1/15","8/14/23",NA,NA
+392,"UAL","UNITED AIRLINES HOLDINGS INC",10795,"Oscar Munoz",NA,NA,"Hispanic/Latino",0,1,"M",0,1,0,0,0,1,"5/1/20","outgoing","CAUCASIAN/WHITE",1,1,"CEO","CEO",1,"5/20/20","5/1/20","Brett","Hart"
+61,"UPS","UNITED PARCEL SERVICE INC",10920,"Carol Tome",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,1,"6/1/20","incoming","CAUCASIAN/WHITE",0,0,"CEO","Chairman/CEO",0,"6/1/20",NA,"Michael","Eskew"
+61,"UPS","UNITED PARCEL SERVICE INC",10920,"David Abney",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,1,"5/31/20","outgoing","CAUCASIAN/WHITE",0,0,"CEO","Chairman/CEO",0,"2/10/16","5/31/20","Michael","Eskew"
+239,"URI","UNITED RENTALS INC",66065,"Matt Flannery",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","President/CEO",0,"5/8/19",NA,NA,NA
+309,"UNH","UNITEDHEALTH GROUP INC",10903,"Dave Wichmann",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","CEO",0,"9/1/17","2/4/21",NA,NA
+232,"UHS","UNIVERSAL HEALTH SVCS INC",11032,"Alan Miller",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"5/20/09","1/1/21",NA,NA
+98,"UNM","UNUM GROUP",12726,"Rick McKenney",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"5/21/15",NA,NA,NA
+310,"USB","US BANCORP",4723,"Andy Cecere",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"4/17/18",NA,NA,NA
+190,"VLO","VALERO ENERGY CORP",15247,"Joseph W. Gorder",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"5/1/14",NA,NA,NA
+393,"VTR","VENTAS INC",110179,"Debra Cafaro",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"11/2/10",NA,NA,NA
+74,"VRSN","VERISIGN INC",66368,"D. James Bidzos",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"8/1/11",NA,NA,NA
+344,"VRSK","VERISK ANALYTICS INC",180652,"Scott Stephenson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"4/1/16","5/5/22",NA,NA
+487,"VZ","VERIZON COMMUNICATIONS INC",2136,"Hans Vestberg",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"3/8/19",NA,NA,NA
+436,"VRTX","VERTEX PHARMACEUTICALS INC",24344,"Jeffrey M. Leiden",NA,NA,"Caucasian/White",0,0,"M",0,1,0,0,0,1,"20-Apr","outgoing","CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"2/1/12","4/1/20",NA,NA
+436,"VRTX","VERTEX PHARMACEUTICALS INC",24344,"Reshma Kewalramani",NA,NA,"Asian/Indian",0,1,"F",1,1,1,0,0,1,"20-Apr","incoming","INDIAN/SOUTH ASIAN",NA,0,"CEO",NA,0,"4/1/20",NA,NA,NA
+423,"VFC","VF CORP",11060,"Steve Rendle",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman (Executive)/President/CEO",0,"10/28/17","12/2/22",NA,NA
+91,"VTRS","VIATRIS INC",7637,"Michael Goettler",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"11/16/20",NA,NA,NA
+485,"VICI","VICI PROPERTIES INC",32580,"Ed Pitoniak",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"2/1/18",NA,NA,NA
+418,"V","VISA INC",179534,"Al Kelly Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"4/16/19","2/1/23",NA,NA
+486,"VNO","VORNADO REALTY TRUST",11220,"Steve Roth",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"4/15/13",NA,NA,NA
+145,"VMC","VULCAN MATERIALS CO",11228,"Tom Hill",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/1/16","9/20/23",NA,NA
+145,"VMC","VULCAN MATERIALS CO",11228,"Tom Hill",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/President/CEO",0,"1/1/16","9/20/23",NA,NA
+203,"WAB","WABTEC CORP",60979,"Rafael Santana",NA,NA,"Hispanic/Latino",0,1,"M",0,1,1,0,0,0,NA,NA,"HISPANIC/LATIN AMERICAN",NA,0,"CEO","President/CEO",0,"7/1/19",NA,NA,NA
+229,"WBA","WALGREENS BOOTS ALLIANCE INC",11264,"Stefano Pessina",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Executive Vice Chairman/CEO",0,"7/9/15","3/15/21","Rosalind","Brewer"
+5,"WMT","WALMART INC",11259,"Doug McMillon",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",0,0,"CEO","President/CEO",0,"2/1/14",NA,NA,NA
+10,"TWX","WarnerMedia",164296,"Jason Kilar",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"5/1/20","4/8/22",NA,NA
+166,"WM","WASTE MANAGEMENT INC",14477,"Jim Fish Jr",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"11/11/16",NA,NA,NA
+179,"WAT","WATERS CORP",61574,"Christopher J. O'Connell",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"9/1/15",NA,NA,NA
+302,"WEC","WEC ENERGY GROUP INC",11550,"Kevin Fletcher",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"2/1/19","2/1/22",NA,NA
+447,"WFC","WELLS FARGO & CO",8007,"Charlie Scharf",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","President/CEO",0,"10/21/19",NA,NA,NA
+188,"WST","WEST PHARMACEUTICAL SVSC INC",11376,"Eric Green",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"12/17/15","5/24/22",NA,NA
+373,"WDC","WESTERN DIGITAL CORP",11399,"David Goeckeler",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"3/9/20",NA,NA,NA
+424,"WU","WESTERN UNION CO",175263,"Hikmet Ersek",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",0,0,"CEO","President/CEO",0,"9/1/10","12/31/21","Devin","McGranahan"
+62,"WRK","WESTROCK CO",29830,"Steve Voorhees",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"7/1/15","3/15/21",NA,NA
+405,"WY","WEYERHAEUSER CO",11456,"Devin Stockfish",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/1/19",NA,NA,NA
+102,"WHR","WHIRLPOOL CORP",11465,"Doctor Marc Bitzer",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Chairman/President/CEO",0,"1/1/19","9/1/21",NA,NA
+11,"WMB","WILLIAMS COS INC",11506,"Alan Armstrong",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"1/3/11",NA,NA,NA
+136,"WYNN","WYNN RESORTS LTD",149318,"Matt Maddox",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"5/29/19","1/31/22",NA,NA
+311,"XEL","XCEL ENERGY INC",7977,"Benjamin G.S. Fowke III",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"8/24/11","8/18/21",NA,NA
+241,"XRX","XEROX HOLDINGS CORP",11636,"John Visentin",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",1,1,"CEO","Vice Chairman/CEO",0,"5/14/18","6/28/22","Ursula","Burns"
+374,"XLNX","XILINX INC",22325,"Victor Peng",NA,NA,"Asian/Chinese",0,1,"M",0,1,1,0,0,0,NA,NA,"ASIAN (EXCLUDE INDIAN/SOUTH ASIAN)",NA,0,"CEO","President/CEO",0,"1/29/18","2/14/22",NA,NA
+293,"XYL","XYLEM INC",189491,"Patrick Decker",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"3/17/14","12/31/23",NA,NA
+196,"YUM","YUM BRANDS INC",65417,"David W. Gibbs",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/1/20",NA,NA,NA
+230,"ZBRA","ZEBRA TECHNOLOGIES CP -CL A",24405,"Anders Gustafsson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","CEO",0,"9/4/07","3/1/23",NA,NA
+75,"ZBH","ZIMMER BIOMET HOLDINGS INC",144559,"Bryan Hanson",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","President/CEO",0,"12/19/17","5/14/21",NA,NA
+48,"ZION","ZIONS BANCORPORATION NA",11687,"Harris Simmons",NA,NA,"Caucasian/White",0,0,"M",0,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO","Chairman/CEO",0,"3/4/14",NA,NA,NA
+120,"ZTS","ZOETIS INC",13721,"Kristin Peck",NA,NA,"Caucasian/White",0,0,"F",1,1,1,0,0,0,NA,NA,"CAUCASIAN/WHITE",NA,0,"CEO",NA,0,"1/1/20",NA,NA,NA

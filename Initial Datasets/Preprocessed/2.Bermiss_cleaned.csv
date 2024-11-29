@@ -1,0 +1,258 @@
+2num,2First,2Last,2Company,2AnnDate,gvkey,2permno,2ExecType,2BE,2Confounded,2Interim,2Female,2DirectorName,2Gender
+1,John,Agwunobi,Herbalife Nutrition,10/29/19,14269.0,90516.0,CEO,1,0,0.0,0,John Agwunobi,M
+2,Victor,Alston,Ixia,3/19/12,140759.0,88750.0,CEO,1,0,0.0,0,Victor Alston,M
+3,Craig,Arnold,Eaton,8/24/05,4199.0,11762.0,CEO,1,0,0.0,0,Craig Arnold,M
+4,James,Bell,Boeing Company,3/7/05,2285.0,19561.0,CEO,1,0,1.0,0,James Bell,M
+5,Byron,Boston,Dynex Capital,12/12/13,14403.0,75269.0,CEO,1,0,0.0,0,Byron Boston,M
+6,Ursula,Burns,Xerox,5/21/09,11636.0,27983.0,CEO,1,1,0.0,1,Ursula Burns,F
+7,Ursula,Burns,Veon Ltd,12/13/18,63987.0,93337.0,CEO,1,0,0.0,1,Ursula Burns,F
+8,Lloyd,Carney,Brocade Communications Systems,1/14/13,120774.0,86881.0,CEO,1,0,0.0,0,Lloyd Carney,M
+9,Matthew,Carter,Inteliquent Inc,6/6/15,178767.0,92454.0,CEO,1,0,0.0,0,Matthew Carter,M
+10,Anthony,Coles,NPS Pharmaceuticals,5/12/06,30255.0,80560.0,CEO,1,1,0.0,0,Anthony Coles,M
+11,Leonard,Comma,Jack in the Box,8/7/13,13092.0,77453.0,CEO,1,0,0.0,0,Leonard Comma,M
+12,Nathaniel,Davis,"K12, Inc",2/13/18,178976.0,92493.0,CEO,1,0,0.0,0,Nathaniel Davis,M
+13,Steven,Davis,Bob Evans Farms,5/2/06,2282.0,18570.0,CEO,1,0,0.0,0,Steven Davis,M
+14,Ken,Denman,Openwave Systems,11/6/08,121257.0,86990.0,CEO,1,0,0.0,0,Ken Denman,M
+15,Arnold,Donald,Carnival & plc,6/24/13,13498.0,89728.0,CEO,1,0,0.0,0,Arnold Donald,M
+16,Marvin,Ellison,J.C. Penney,10/13/14,8446.0,18403.0,CEO,1,0,0.0,0,Marvin Ellison,M
+17,Marvin,Ellison,Lowe¡¯s Companies,5/22/18,6829.0,61399.0,CEO,1,0,0.0,0,Marvin Ellison,M
+18,Michael,Fields,Kana Software,8/26/05,123998.0,87241.0,CEO,1,0,0.0,0,Michael Fields,M
+19,Kenneth,Frazier,Merck,11/30/10,7257.0,22752.0,CEO,1,0,0.0,0,Kenneth Frazier,M
+20,William,Freeman,Arbinet-thexchange,11/19/07,160867.0,90469.0,CEO,1,0,0.0,0,William Freeman,M
+21,James,Gavin,MicroIslet Inc,6/9/06,141196.0,90212.0,CEO,1,0,0.0,0,James Gavin,M
+22,James,Gavin,MicroIslet Inc,1/19/06,141196.0,90212.0,CEO,1,0,1.0,0,James Gavin,M
+23,Joel,Gay,Energy Recovery,4/24/15,179738.0,92753.0,CEO,1,0,0.0,0,Joel Gay,M
+24,Kim,Goodman,Worldpay,9/28/16,194956.0,13314.0,CEO,1,0,0.0,1,Kim Goodman,F
+25,Leslie,Hale,RLJ Lodging Trust,4/10/18,186363.0,12756.0,CEO,1,1,1.0,1,Leslie Hale,F
+26,Brett,Hart,United Airlines,10/19/15,10795.0,91103.0,CEO,1,0,1.0,0,Brett Hart,M
+27,Richard,Holder,"NN, Inc.",5/10/13,29894.0,80343.0,CEO,1,0,0.0,0,Richard Holder,M
+28,Rene,Jones,M&T Bank,12/20/17,4699.0,35554.0,CEO,1,1,0.0,0,Rene Jones,M
+29,Eric,Kelly,Overland Storage Inc,1/28/09,64408.0,84555.0,CEO,1,0,0.0,0,Eric Kelly,M
+30,Theo,Killion,Zale Corporation,9/23/10,11669.0,79672.0,CEO,1,0,0.0,0,Theo Killion,M
+31,Theo,Killion,Zale Corporation,1/13/10,11669.0,79672.0,CEO,1,0,1.0,0,Theo Killion,M
+32,Kase,Lawal,CAMAC Energy Inc,4/12/11,178878.0,93106.0,CEO,1,1,0.0,0,Kase Lawal,M
+33,Aylwin,Lewis,Kmart Holding Corp,10/18/04,6307.0,89757.0,CEO,1,0,0.0,0,Aylwin Lewis,M
+34,Aylwin,Lewis,Sears Holdings Corporation,9/8/05,6307.0,89757.0,CEO,1,0,0.0,0,Aylwin Lewis,M
+35,Fran_ois,Locoh-Donou,F5 Networks,1/31/17,121077.0,86964.0,CEO,1,0,0.0,0,Fran_ois Locoh-Donou,M
+36,Shaun,McAlmont,Lincoln Educational Services Corporation,1/21/09,163668.0,90735.0,CEO,1,1,0.0,0,Shaun McAlmont,M
+37,Ronald,McCray,Career Education Corporation,2/12/15,66379.0,85724.0,CEO,1,0,1.0,0,Ronald McCray,M
+38,Gary,McCullough,Career Education,3/7/07,66379.0,85724.0,CEO,1,0,0.0,0,Gary McCullough,M
+39,Stanley,O¡¯Neal,Merrill Lynch,7/22/02,7267.0,52919.0,CEO,1,1,0.0,0,Stanley O¡¯Neal,M
+40,William,Osborne,Federal Signal Corporation,9/15/08,4608.0,47706.0,CEO,1,0,0.0,0,William Osborne,M
+41,Clarence,Otis,Darden Restaurants,8/12/04,31846.0,81655.0,CEO,1,1,0.0,0,Clarence Otis,M
+42,Sam,Owusu-Akyaw,Osteotech,11/23/05,24198.0,76710.0,CEO,1,0,0.0,0,Sam Owusu-Akyaw,M
+43,Richard,Parsons,Time Warner,12/5/01,120359.0,86926.0,CEO,1,1,0.0,0,Richard Parsons,M
+44,Gregory,Pratt,Carpenter Technology Corporation,11/14/14,2787.0,20618.0,CEO,1,0,0.0,0,Gregory Pratt,M
+45,Gregory,Pratt,Carpenter Technology Corporation,10/12/09,2787.0,20618.0,CEO,1,0,1.0,0,Gregory Pratt,M
+46,Michael,Pugh,Carver Bancorp,11/17/14,30857.0,80960.0,CEO,1,0,0.0,0,Michael Pugh,M
+47,Derica,Rice,Eli Lilly and Co.,5/6/13,6730.0,50876.0,CEO,1,1,1.0,0,Derica Rice,M
+48,James,Sweetnam,Dana Holding Corporation,5/27/09,3734.0,92570.0,CEO,1,0,0.0,0,James Sweetnam,M
+49,Tidjane,Thiam,Credit Suisse Group,3/9/15,28838.0,89154.0,CEO,1,0,0.0,0,Tidjane Thiam,M
+50,Donald,Thompson,McDonald¡¯s,1/11/10,7154.0,43449.0,CEO,1,1,0.0,0,Donald Thompson,M
+51,Lisa,Wardell,DeVry Education Group,5/24/16,3905.0,76708.0,CEO,1,1,0.0,1,Lisa Wardell,F
+52,Gene,Warren,ACT Teleconferencing,12/17/03,62649.0,83347.0,CEO,1,0,0.0,0,Gene Warren,M
+53,James,White,Jamba Juice,11/18/08,164255.0,90795.0,CEO,1,1,0.0,0,James White,M
+54,Ronald,Williams,Aetna,1/4/06,1177.0,88845.0,CEO,1,1,0.0,0,Ronald Williams,M
+55,Mary,Winston,Bed Bath & Beyond,5/13/19,25338.0,77659.0,CEO,1,0,1.0,1,Mary Winston,F
+56,RL,Wood,Crompton,1/12/04,3607.0,38420.0,CEO,1,0,0.0,0,RL Wood,M
+57,Jide,Zeitlin,Tapestry Inc,9/4/19,140541.0,88661.0,CEO,1,1,0.0,0,Jide Zeitlin,M
+58,Keith,Alessi,Westmoreland Coal Company,5/2/07,11440.0,59467.0,CEO,0,1,1.0,0,Keith Alessi,M
+59,Keith,Alessi,Westmoreland Coal Company,1/27/09,11440.0,59467.0,CEO,0,0,0.0,0,Keith Alessi,M
+60,Bradbury,Anderson,Best Buy,2/25/02,2184.0,85914.0,CEO,0,0,0.0,0,Bradbury Anderson,M
+61,Sherry,Bahrambeygui,PriceSmart,1/31/19,65343.0,85394.0,CEO,0,1,0.0,1,Sherry Bahrambeygui,F
+62,Michael,Barry,Quaker Chemical Corporpation,5/7/08,8850.0,64929.0,CEO,0,1,0.0,0,Michael Barry,M
+63,Todd,Becker,Green Plains Renewable Energy,12/22/08,166576.0,91161.0,CEO,0,0,0.0,0,Todd Becker,M
+64,Friedhelm,Blobel,Sciclone Pharmaceuticals,4/24/06,25047.0,77413.0,CEO,0,0,0.0,0,Friedhelm Blobel,M
+65,Mark,Capone,Myriad Genetics,2/3/15,61399.0,82508.0,CEO,0,0,0.0,0,Mark Capone,M
+66,Greg,Carmichael,Fifth Third Bancorp,7/8/15,4640.0,34746.0,CEO,0,0,0.0,0,Greg Carmichael,M
+67,Steven,Cosse,Murphy Oil Corporation,6/20/12,7620.0,28345.0,CEO,0,0,0.0,0,Steven Cosse,M
+68,Patrick,Coyne,Delaware Investments Dividend and Income Fund,8/1/06,27963.0,79036.0,CEO,0,0,0.0,0,Patrick Coyne,M
+69,Alec,Cunningham,Wellcare Health Plans,12/21/09,260778.0,90272.0,CEO,0,0,0.0,0,Alec Cunningham,M
+70,Joseph,Darling,Anika Therapeutics,3/5/18,28209.0,79150.0,CEO,0,0,0.0,0,Joseph Darling,M
+71,David,Dickson,Mcdermott International,10/17/13,7152.0,64629.0,CEO,0,1,0.0,0,David Dickson,M
+72,Brian,Driscoll,Snyder¡¯s-Lance,4/17/17,6574.0,48531.0,CEO,0,1,1.0,0,Brian Driscoll,M
+73,Thomas,Edman,TTM Technologies,10/30/13,139804.0,88648.0,CEO,0,0,0.0,0,Thomas Edman,M
+74,Michael,Eskew,United Parcel Service,8/16/01,10920.0,87447.0,CEO,0,0,0.0,0,Michael Eskew,M
+75,Donald,Felsinger,Sempra Energy,12/7/05,8272.0,86136.0,CEO,0,0,0.0,0,Donald Felsinger,M
+76,Olivier,Filliol,Mettler-Toledo International,11/1/07,65772.0,85621.0,CEO,0,0,0.0,0,Olivier Filliol,M
+77,Larry,Franklin,"Harte-Hanks,Inc",12/15/08,12545.0,79903.0,CEO,0,0,1.0,0,Larry Franklin,M
+78,Scott,Freidheim,CDI Corporation,8/13/14,2538.0,45655.0,CEO,0,0,0.0,0,Scott Freidheim,M
+79,Andrew,Gatto,Russ Berrie and Co.,4/12/04,9289.0,66050.0,CEO,0,1,0.0,0,Andrew Gatto,M
+80,John,Gibson,"ONEOK, Inc.",11/16/06,8151.0,25232.0,CEO,0,1,0.0,0,John Gibson,M
+81,Shira,Goodman,"Staples, Inc.",9/26/16,15521.0,75489.0,CEO,0,0,0.0,1,Shira Goodman,F
+82,Jeffrey,Harmening,General Mills,5/3/17,5071.0,17144.0,CEO,0,0,0.0,0,Jeffrey Harmening,M
+83,Lawrence,Hebert,Riggs National Corporation,3/9/05,9142.0,66967.0,CEO,0,0,0.0,0,Lawrence Hebert,M
+84,Bradley,Jacobs,XPO Logistics,9/2/11,144998.0,90175.0,CEO,0,1,0.0,0,Bradley Jacobs,M
+85,Nicholas,Konidaris,Electro Scienti_c Industries,1/7/04,4274.0,32054.0,CEO,0,0,0.0,0,Nicholas Konidaris,M
+86,Michael,Lamach,Ingersoll-Rand PLC,2/4/10,5959.0,12431.0,CEO,0,0,0.0,0,Michael Lamach,M
+87,Michael,Macdonald,"Medifast, Inc.",2/2/12,29517.0,80054.0,CEO,0,0,0.0,0,Michael Macdonald,M
+88,Christopher,Martin,Provident Financial Services,2/27/09,150279.0,89653.0,CEO,0,0,0.0,0,Christopher Martin,M
+89,Joseph,McGrath,Unisys Corporation,10/22/04,2504.0,10890.0,CEO,0,0,0.0,0,Joseph McGrath,M
+90,C. Douglas,McMillon,Wal-Mart Stores,11/25/13,11259.0,55976.0,CEO,0,0,0.0,0,C. Douglas McMillon,M
+91,Norman,Miller,"Conn¡¯s, Inc.",9/9/15,156614.0,89908.0,CEO,0,1,0.0,0,Norman Miller,M
+92,Max,Mitchell,Crane Co.,4/22/13,3580.0,20204.0,CEO,0,0,0.0,0,Max Mitchell,M
+93,Gregg,Mollins,Reliance Steel & Aluminum Co.,3/2/15,30671.0,80864.0,CEO,0,1,0.0,0,Gregg Mollins,M
+94,William,Morrow,Clearwire Corporation,3/9/09,174579.0,91892.0,CEO,0,0,0.0,0,William Morrow,M
+95,Daniel,O¡¯Day,Gilead Sciences,12/9/18,24856.0,77274.0,CEO,0,0,0.0,0,Daniel O¡¯Day,M
+96,Kelly,Ortberg,Rockwell Collins,4/19/13,144066.0,89014.0,CEO,0,0,0.0,1,Kelly Ortberg,F
+97,Andrea,Owen,Herman Miller,8/15/18,7401.0,54114.0,CEO,0,0,0.0,1,Andrea Owen,F
+98,Gerald,Perkel,"Planar Systems, Inc.",9/26/05,29435.0,80012.0,CEO,0,0,0.0,0,Gerald Perkel,M
+99,Michael,Plisinski,Rudolph Technologies,11/9/15,126423.0,87415.0,CEO,0,0,0.0,0,Michael Plisinski,M
+100,Patrick,Ramsey,Multimedia Games,3/15/10,62107.0,83529.0,CEO,0,0,1.0,0,Patrick Ramsey,M
+101,Patrick,Ramsey,Multimedia Games,9/20/10,62107.0,83529.0,CEO,0,0,0.0,0,Patrick Ramsey,M
+102,Darren,Rebelez,Casey¡¯s General Stores,6/5/19,2807.0,21742.0,CEO,0,0,0.0,0,Darren Rebelez,M
+103,Jeffrey,San_lippo,John B. San_lippo & Son,5/11/06,24755.0,77165.0,CEO,0,0,0.0,0,Jeffrey San_lippo,M
+104,Alan,Schnitzer,The Travelers Companies,8/4/15,62689.0,59459.0,CEO,0,0,0.0,0,Alan Schnitzer,M
+105,C. Randall,Sims,Home BancShares,7/17/09,164633.0,91356.0,CEO,0,0,0.0,0,C. Randall Sims,M
+106,Michael,Strianese,L-3 Communications Holdings,6/9/06,13440.0,85991.0,CEO,0,1,1.0,0,Michael Strianese,M
+107,William,Stromberg,T. Rowe Price Group,5/6/15,12138.0,10138.0,CEO,0,1,0.0,0,William Stromberg,M
+108,Joseph,Sullivan,Legg Mason,2/8/13,6653.0,65330.0,CEO,0,0,0.0,0,Joseph Sullivan,M
+109,Nigel,Travis,Papa John¡¯s International,1/31/05,28397.0,79299.0,CEO,0,0,0.0,0,Nigel Travis,M
+110,Brian,Vance,Heritage Financial Corporation,9/22/06,,,CEO,0,0,0.0,0,Brian Vance,M
+111,Kenneth,Vecchione,Encore Capital Group,4/8/13,121815.0,87077.0,CEO,0,0,0.0,0,Kenneth Vecchione,M
+112,Emma,Walmsley,GlaxoSmithKline,9/20/16,5180.0,75064.0,CEO,0,0,0.0,1,Emma Walmsley,F
+113,Cynthia,Warner,Renewable Energy Group,12/6/18,187692.0,13201.0,CEO,0,0,0.0,1,Cynthia Warner,F
+114,Kevin,Wilson,Heska Corporpation,3/27/14,65011.0,85187.0,CEO,0,0,0.0,0,Kevin Wilson,M
+115,John,Hall,Independence Federal Savings Bank,6/2/07,16888.0,88891.0,CEO,1,1,0.0,0,John Hall,M
+116,Lonnel,Coats,Lexicon Pharmaceuticals Inc,7/8/14,133868.0,88173.0,CEO,1,0,0.0,0,Lonnel Coats,M
+117,David,Rawlinson,Qurate Retail Inc,7/13/21,174147.0,91278.0,CEO,1,1,0.0,0,David Rawlinson,M
+118,Lloyd,Yates,NiSource,1/28/22,7974.0,38762.0,CEO,1,1,0.0,0,Lloyd Yates,M
+119,Stephen,Beard,Adtalem Global Education,8/4/21,3905.0,76708.0,CEO,1,0,0.0,0,Stephen Beard,M
+120,Marvin,Riley,EnPro Industries Inc,3/12/19,148950.0,89406.0,CEO,1,1,0.0,0,Marvin Riley,M
+121,Sam,Solomon,EveryWare Global Inc,6/9/14,170327.0,13378.0,CEO,1,0,0.0,0,Sam Solomon,M
+122,Michael,Dinkins,Access Worldwide Communications Inc,7/30/99,66454.0,85807.0,CEO,1,1,0.0,0,Michael Dinkins,M
+123,Christopher,Womack,Georgia Power,5/26/21,9850.0,18411.0,CEO,1,0,0.0,0,Christopher Womack,M
+124,Clinton,Lewis,AgroFresh Solutions Inc,4/12/21,19525.0,14590.0,CEO,1,1,0.0,0,Clinton Lewis,M
+125,Rahsan-Rahsan,Lindsay,MediaCo Holding Inc,6/11/21,35583.0,19129.0,CEO,1,0,0.0,0,Rahsan-Rahsan Lindsay,M
+126,Dwight,Gibson,BlueLinx Holdings Inc,4/22/21,161813.0,90496.0,CEO,1,0,0.0,0,Dwight Gibson,M
+127,Clifford,Alexander,Dun & Bradstreet,10/26/99,4094.0,48506.0,CEO,1,1,1.0,0,Clifford Alexander,M
+128,Barry,Rand,Avis Rent A Car,11/9/99,65056.0,85331.0,CEO,1,0,0.0,0,Barry Rand,M
+129,Anthony,Coles,Onyx Pharmaceuticals Inc,2/26/08,62826.0,83541.0,CEO,1,0,0.0,0,Anthony Coles,M
+130,Priscilla,Sims Brown,Amalgamated Financial Corp,5/11/21,33625.0,18043.0,CEO,1,0,0.0,1,Priscilla Sims Brown,F
+131,Hansel,Tookes,Raytheon,9/8/99,8972.0,24942.0,CEO,1,1,0.0,0,Hansel Tookes,M
+132,Lloyd,Ward,Maytag,5/13/99,7139.0,13119.0,CEO,1,1,0.0,0,Lloyd Ward,M
+133,John,Thompson,Symantec,4/14/99,15855.0,75607.0,CEO,1,0,0.0,0,John Thompson,M
+134,Rosalind,Brewer,Walgreens,1/26/21,11264.0,19502.0,CEO,1,0,0.0,1,Rosalind Brewer,F
+135,Kenneth,Chenault,American Express,4/27/99,1447.0,59176.0,CEO,1,1,0.0,0,Kenneth Chenault,M
+136,Steven,Hanson,Inplay Technologies,7/2/07,66275.0,87138.0,CEO,0,0,0.0,0,Steven Hanson,M
+137,Chris,Homeister,Tile Shop Holdings,10/28/14,13861.0,13563.0,CEO,0,0,0.0,0,Chris Homeister,M
+138,John,Weinberg,Evercore,10/27/21,174744.0,91413.0,CEO,0,0,0.0,0,John Weinberg,M
+139,Devin,McGranahan,Western Union,11/15/21,175263.0,91461.0,CEO,0,0,0.0,0,Devin McGranahan,M
+140,James,Mullen,Editas Medicine,2/8/21,26874.0,15937.0,CEO,0,0,0.0,0,James Mullen,M
+141,William,Higgins,Albany International Corp,1/21/20,14084.0,11731.0,CEO,0,0,0.0,0,William Higgins,M
+142,William,Petroplus,"First West Virginia Bancorp, Inc",3/27/15,31593.0,81298.0,CEO,0,0,0.0,0,William Petroplus,M
+143,Robert,Thomas,Charles & Colvard,7/17/00,65850.0,85539.0,CEO,0,0,0.0,0,Robert Thomas,M
+144,Dean,Klisura,Marsh & McLennan,11/18/21,7065.0,45751.0,CEO,0,0,0.0,0,Dean Klisura,M
+145,Daniel,Thoren,Graham Corporation,8/10/21,5254.0,60468.0,CEO,0,0,0.0,0,Daniel Thoren,M
+146,Thomas,Burnell,Interpace Biosciences,11/25/20,110728.0,86083.0,CEO,0,0,0.0,0,Thomas Burnell,M
+147,Mark,Filanowski,Pangaea Logistics Solns,12/14/21,21904.0,14353.0,CEO,0,0,0.0,0,Mark Filanowski,M
+148,Bruce,Nelson,Of_ce Depot,7/18/00,14624.0,75573.0,CEO,0,0,0.0,0,Bruce Nelson,M
+149,Philip,Hadley,Factset Research Systems,9/5/00,63172.0,83597.0,CEO,0,0,0.0,0,Philip Hadley,M
+150,Timothy,Frank,Conns,6/3/08,156614.0,89908.0,CEO,0,1,0.0,0,Timothy Frank,M
+151,Laura,Francis,Si-BONE,1/7/21,34193.0,18212.0,CEO,0,0,0.0,1,Laura Francis,F
+152,Jozef,Straus,Jds Uniphase,5/18/00,29241.0,79879.0,CEO,0,0,0.0,0,Jozef Straus,M
+153,Francis,Scricco,Arrow Electronics,5/10/00,1773.0,29209.0,CEO,0,0,0.0,0,Francis Scricco,M
+154,David,Kyle,Oneok Inc,8/29/00,8151.0,25232.0,CEO,0,0,0.0,0,David Kyle,M
+155,Sheila,Harrington,Urban Out_tters,10/14/20,29150.0,79881.0,CEO,0,1,0.0,1,Sheila Harrington,F
+156,Roger,King,Cbs,1/19/00,13714.0,75104.0,CEO,0,0,0.0,0,Roger King,M
+157,Brian,Anderson,Of_ceMax,11/11/04,2290.0,42024.0,TMT,1,0,,0,Brian Anderson,M
+158,Craig,Arnold,Eaton,1/28/09,4199.0,11762.0,TMT,1,1,,0,Craig Arnold,M
+159,Wendel,Barr,Covance,12/19/07,64162.0,84364.0,TMT,1,1,,0,Wendel Barr,M
+160,James,Bell,Boeing,1/6/04,2285.0,19561.0,TMT,1,0,,0,James Bell,M
+161,Marc,Belton,General Mills,5/3/05,5071.0,17144.0,TMT,1,1,,0,Marc Belton,M
+162,Marc,Belton,General Mills,5/4/06,5071.0,17144.0,TMT,1,1,,0,Marc Belton,M
+163,Alicia,Boler Davis,General Motors,6/9/16,5073.0,12369.0,TMT,1,1,,1,Alicia Boler Davis,F
+164,Audrey,Boone Tillman,A_ac,5/5/14,1449.0,57904.0,TMT,1,1,,1,Audrey Boone Tillman,F
+165,Donald,Brown,NiSource,3/24/15,7974.0,38762.0,TMT,1,1,,0,Donald Brown,M
+166,Marcus,Brown,Entergy,1/31/12,7366.0,24010.0,TMT,1,1,,0,Marcus Brown,M
+167,Harvey,Brownlee,Bob Evans Farms,1/21/09,2282.0,18570.0,TMT,1,1,,0,Harvey Brownlee,M
+168,Glynis,Bryan,Insight Enterprises,11/19/07,31453.0,81220.0,TMT,1,0,,1,Glynis Bryan,F
+169,Ursula,Burns,Xerox,4/3/07,11636.0,27983.0,TMT,1,0,,1,Ursula Burns,F
+170,Eric,Butler,Union Paci_c,11/17/16,10867.0,48725.0,TMT,1,1,,0,Eric Butler,M
+171,Eric,Butler,Union Paci_c,3/15/12,10867.0,48725.0,TMT,1,1,,0,Eric Butler,M
+172,Ann-Marie,Campbell,Home Depot,1/19/16,5680.0,66181.0,TMT,1,0,,1,Ann-Marie Campbell,F
+173,Angelique,Carbo,Selective Insurance Group,3/3/16,17115.0,68292.0,TMT,1,1,,1,Angelique Carbo,F
+174,Edward,Chaplin,MBIA,5/30/06,13561.0,75175.0,TMT,1,1,,0,Edward Chaplin,M
+175,Frank,Clark,Exelon,10/2/01,8539.0,21776.0,TMT,1,1,,0,Frank Clark,M
+176,Alexander,Cummings,Coca-Cola,7/17/08,3144.0,11308.0,TMT,1,1,,0,Alexander Cummings,M
+177,Jeffrey,Davis,J.C. Penney,7/25/17,8446.0,18403.0,TMT,1,0,,0,Jeffrey Davis,M
+178,Martin,Davis,Wachovia,2/10/03,4739.0,36469.0,TMT,1,0,,0,Martin Davis,M
+179,Willie,Deese,Merck,5/25/05,7257.0,22752.0,TMT,1,0,,0,Willie Deese,M
+180,Jerri,DeVard,Of_ce Depot,9/14/17,14624.0,75573.0,TMT,1,0,,1,Jerri DeVard,F
+181,Verona,Dorch,Peabody Energy,8/4/15,142460.0,88991.0,TMT,1,0,,1,Verona Dorch,F
+182,Troy,Ellis,Domino¡¯s Pizza,6/30/15,160211.0,90248.0,TMT,1,1,,0,Troy Ellis,M
+183,Marvin,Ellison,Home Depot,8/25/08,5680.0,66181.0,TMT,1,1,,0,Marvin Ellison,M
+184,Forest,Farmer,Chrysler,8/30/88,3022.0,11260.0,TMT,1,1,,0,Forest Farmer,M
+185,Rhonda,Ferguson,Union Paci_c,6/7/16,10867.0,48725.0,TMT,1,0,,1,Rhonda Ferguson,F
+186,Darrell,Ford,Xerox,11/2/15,11636.0,27983.0,TMT,1,0,,0,Darrell Ford,M
+187,Kenneth,Frazier,Merck,7/27/07,7257.0,22752.0,TMT,1,1,,0,Kenneth Frazier,M
+188,Linda,Gooden,Lockheed Martin,12/7/06,6774.0,21178.0,TMT,1,1,,1,Linda Gooden,F
+189,Kim,Goodman,American Express,7/12/07,1447.0,59176.0,TMT,1,0,,1,Kim Goodman,F
+190,Mirian,Graddick,AT&T,2/12/99,9899.0,66093.0,TMT,1,1,,1,Mirian Graddick,F
+191,Sylvester,Green,Chubb & Son,9/16/98,3024.0,59192.0,TMT,1,0,,0,Sylvester Green,M
+192,Kimberley,Harris,Comcast,7/16/13,3226.0,89565.0,TMT,1,1,,1,Kimberley Harris,F
+193,Paul,Harris,KeyCorp,2/3/03,9783.0,64995.0,TMT,1,1,,0,Paul Harris,M
+194,Rejji,Hayes,CMS Energy,5/1/17,3439.0,23229.0,TMT,1,1,,0,Rejji Hayes,M
+195,Bridgette,Heller,Merck,2/16/10,7257.0,22752.0,TMT,1,1,,1,Bridgette Heller,F
+196,Dennis,Hightower,Walt Disney,9/24/90,3980.0,26403.0,TMT,1,1,,0,Dennis Hightower,M
+197,Yvette,Hollingsworth Clark,Wells Fargo,5/14/12,8007.0,38703.0,TMT,1,0,,1,Yvette Hollingsworth Clark,F
+198,Phillip,Holloman,Cintas,1/19/08,3062.0,23660.0,TMT,1,0,,0,Phillip Holloman,M
+199,Duane,Holloway,Ascena Retail Group,1/18/16,4072.0,30737.0,TMT,1,0,,0,Duane Holloway,M
+200,Jamere,Jackson,Nielsen Holdings plc,2/24/14,100873.0,12542.0,TMT,1,1,,0,Jamere Jackson,M
+201,John,Jacob,Anheuser-Busch,6/6/94,1663.0,59184.0,TMT,1,0,,0,John Jacob,M
+202,Lisa,Jeffries Caldwell,Reynolds American,5/21/08,120877.0,86946.0,TMT,1,1,,1,Lisa Jeffries Caldwell,F
+203,Joia,Johnson,Hanesbrands,1/11/07,175319.0,91416.0,TMT,1,0,,1,Joia Johnson,F
+204,Nicole,Jones,Cigna,5/25/10,2547.0,64186.0,TMT,1,0,,1,Nicole Jones,F
+205,Michelle,Lee,Wells Fargo,10/16/14,8007.0,38703.0,TMT,1,1,,1,Michelle Lee,F
+206,Clinton,Lewis,Zoetis,5/7/15,13721.0,13788.0,TMT,1,1,,0,Clinton Lewis,M
+207,Freda,Lewis-Hall,P_zer,5/4/09,8530.0,21936.0,TMT,1,0,,1,Freda Lewis-Hall,F
+208,Mark,Mason,Citigroup,9/7/06,3243.0,70519.0,TMT,1,1,,0,Mark Mason,M
+209,George,Mayes,Diebold,4/27/06,3946.0,40440.0,TMT,1,1,,0,George Mayes,M
+210,Antoinette,McCorvey,Eastman Kodak,10/12/10,4194.0,11754.0,TMT,1,1,,1,Antoinette McCorvey,F
+211,Lawrence,McRae,Corning,10/7/10,3532.0,22293.0,TMT,1,1,,0,Lawrence McRae,M
+212,Raymond,Mines,McDonald¡¯s,9/28/98,7154.0,43449.0,TMT,1,0,,0,Raymond Mines,M
+213,Harold,Morrison,Chubb,6/19/08,3024.0,59192.0,TMT,1,1,,0,Harold Morrison,M
+214,Harold,Morrison,Chubb,10/21/10,3024.0,59192.0,TMT,1,1,,0,Harold Morrison,M
+215,Vanessa,Morrison,20th Century Fox,10/30/17,12886.0,90441.0,TMT,1,0,,1,Vanessa Morrison,F
+216,Richard,Nanula,Walt Disney,8/29/91,3980.0,26403.0,TMT,1,1,,0,Richard Nanula,M
+217,George,Neale,Selective Insurance Group,5/12/15,17115.0,68292.0,TMT,1,1,,0,George Neale,M
+218,Momar,Nguer,Total S.A.,3/18/16,24625.0,77078.0,TMT,1,1,,0,Momar Nguer,M
+219,Stanley,O¡¯Neal,Merrill Lynch,2/4/98,7267.0,52919.0,TMT,1,1,,0,Stanley O¡¯Neal,M
+220,Vicki,Palmer,Coca-Cola,1/13/04,3144.0,11308.0,TMT,1,1,,1,Vicki Palmer,F
+221,Herbert,Parker,Harman International,5/7/08,12788.0,75224.0,TMT,1,1,,0,Herbert Parker,M
+222,Herbert,Parker,Harman International,5/6/08,12788.0,75224.0,TMT,1,1,,0,Herbert Parker,M
+223,Richard,Parsons,Time Warner,10/31/94,10576.0,40483.0,TMT,1,0,,0,Richard Parsons,M
+224,Angelia,Pelham,Cinemark Holdings,1/15/16,177108.0,91915.0,TMT,1,0,,1,Angelia Pelham,F
+225,Charles,Phillips,Oracle,1/13/04,12142.0,10104.0,TMT,1,1,,0,Charles Phillips,M
+226,William,Plummer,United Rentals,11/24/08,66065.0,85663.0,TMT,1,1,,0,William Plummer,M
+227,Barry,Rand,Xerox,2/4/92,11636.0,27983.0,TMT,1,1,,0,Barry Rand,M
+228,Derica,Rice,Eli Lilly,12/18/09,6730.0,50876.0,TMT,1,0,,0,Derica Rice,M
+229,Derica,Rice,Eli Lilly,2/23/06,6730.0,50876.0,TMT,1,1,,0,Derica Rice,M
+230,Michael,Smith,Huntington Ingalls Industries,10/30/15,186310.0,12623.0,TMT,1,1,,0,Michael Smith,M
+231,Susan,Somersille Johnson,SunTrust Banks,8/5/14,10187.0,68144.0,TMT,1,0,,1,Susan Somersille Johnson,F
+232,Denis,Suggs,Belden,6/14/07,28940.0,79668.0,TMT,1,0,,0,Denis Suggs,M
+233,Scott,Taylor,Symantec,8/1/08,15855.0,75607.0,TMT,1,1,,0,Scott Taylor,M
+234,Shundrawn,Thomas,Northern Trust,5/28/14,7982.0,58246.0,TMT,1,1,,0,Shundrawn Thomas,M
+235,Michael,Todman,Whirlpool,3/25/01,11465.0,25419.0,TMT,1,0,,0,Michael Todman,M
+236,Tracey,Travis,Estee Lauder,7/18/12,61567.0,82642.0,TMT,1,0,,1,Tracey Travis,F
+237,Tracey,Travis,Polo Ralph Lauren,11/20/04,64891.0,85072.0,TMT,1,1,,1,Tracey Travis,F
+238,Tracey,Travis,Estee Lauder,7/18/12,61567.0,82642.0,TMT,1,0,,1,Tracey Travis,F
+239,Michael,Triplett,Cigna,2/23/17,2547.0,64186.0,TMT,1,1,,0,Michael Triplett,M
+240,Michael,Tucker,Avis Budget Group,4/22/10,3278.0,25487.0,TMT,1,0,,0,Michael Tucker,M
+241,Reed,Tuckson,UnitedHealth Group,9/16/00,10903.0,92655.0,TMT,1,0,,0,Reed Tuckson,M
+242,Kellye,Walker,Huntington Ingalls Industries,12/17/14,186310.0,12623.0,TMT,1,1,,1,Kellye Walker,F
+243,Kathy,Waller,Coca-Cola,2/20/14,3144.0,11308.0,TMT,1,1,,1,Kathy Waller,F
+244,Laysha,Ward,Target,12/17/14,3813.0,49154.0,TMT,1,1,,1,Laysha Ward,F
+245,Kevin,Warren,Xerox,12/7/16,11636.0,27983.0,TMT,1,1,,0,Kevin Warren,M
+246,Robin,Washington,Gilead Sciences,4/21/08,24856.0,77274.0,TMT,1,0,,1,Robin Washington,F
+247,Jeffrey,Weaver,KeyCorp,7/5/05,9783.0,64995.0,TMT,1,0,,0,Jeffrey Weaver,M
+248,Mary Beth,West,Kraft Foods,10/29/07,142953.0,89006.0,TMT,1,0,,1,Mary Beth West,F
+249,Roderick,West,Entergy,6/7/10,7366.0,24010.0,TMT,1,1,,0,Roderick West,M
+250,Teresa,White,A_ac,9/29/14,1449.0,57904.0,TMT,1,1,,1,Teresa White,F
+251,Anr_,Williams,American Express,11/4/11,1447.0,59176.0,TMT,1,1,,0,Anr_ Williams,M
+252,Felicia,Williams,Macy¡¯s,1/15/16,4611.0,77462.0,TMT,1,1,,1,Felicia Williams,F
+253,Xavier,Williams,AT&T,10/12/17,9899.0,66093.0,TMT,1,0,,0,Xavier Williams,M
+254,Kathleen,Wilson-Thompson,Walgreens Boots Alliance,11/23/09,11264.0,19502.0,TMT,1,1,,1,Kathleen Wilson-Thompson,F
+255,Mary Beth,Winston,Family Dollar Stores,4/10/12,4560.0,53866.0,TMT,1,1,,1,Mary Beth Winston,F
+256,Christopher,Womack,Southern Company,12/22/08,9850.0,18411.0,TMT,1,0,,0,Christopher Womack,M
+257,Teresa,Wynn Roseborough,Home Depot,10/7/11,5680.0,66181.0,TMT,1,0,,1,Teresa Wynn Roseborough,F

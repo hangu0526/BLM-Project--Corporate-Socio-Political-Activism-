@@ -1,0 +1,727 @@
+3num,tic,3CompanyID,3DirectorID,3DirectorName,3CompanyName,3RoleName,3DateStartRole,3DateEndRole,3Seniority,Active2020_May26_Dec31,RoleType
+1,FITB,324,203638,Greg Carmichael,FIFTH THIRD BANCORP,Chairman/President/CEO,2/1/18,10/26/20,Executive Director,Yes,CEO
+2,ABMD,481,336173,Mike Minogue,ABIOMED INC (De-listed 12/2022),Chairman/President/CEO,6/15/05,12/22/22,Executive Director,Yes,CEO
+3,ATVI,725,69696,Bobby Kotick,ACTIVISION BLIZZARD INC (De-listed 10/2023),CEO,6/26/17,10/13/23,Executive Director,Yes,CEO
+4,ADBE,808,49351,Shantanu Narayen,ADOBE INC (Adobe Systems Inc prior to 10/2018),Chairman/President/CEO,1/27/17,1/13/22,Executive Director,Yes,CEO
+5,AMD,881,542142,Doctor Lisa Su,ADVANCED MICRO DEVICES INC (AMD),President/CEO,10/8/14,2/14/22,Executive Director,Yes,CEO
+6,AES,979,452889,Doctor Andres Gluski Weilert,AES CORP,President/CEO,9/30/11,,Executive Director,Yes,CEO
+7,A,1060,598782,Mike McMullen,AGILENT TECHNOLOGIES INC,President/CEO,3/18/15,,Executive Director,Yes,CEO
+8,APD,1173,24391,Seifi Ghasemi,AIR PRODUCTS & CHEMICALS INC,Chairman/President/CEO,7/1/14,,Executive Director,Yes,CEO
+9,AKAM,1221,183176,Doctor Tom Leighton,AKAMAI TECHNOLOGIES INC,CEO,1/1/13,,Executive Director,Yes,CEO
+10,ALK,1273,220505,Brad Tilden,ALASKA AIR GROUP INC,Chairman/President/CEO,1/1/14,3/31/21,Executive Director,Yes,CEO
+11,ARE,1354,182964,Joel Marcus,ALEXANDRIA REAL ESTATE EQUITIES INC,Chairman (Executive),4/23/18,,Executive Director,Yes,TMT
+12,ALXN,1355,1077323,Doctor Ludwig Hantson,ALEXION PHARMACEUTICALS INC (De-listed 07/2021),CEO,3/27/17,7/21/21,Executive Director,Yes,CEO
+13,AXP,1355,1077323,Doctor Ludwig Hantson,ALEXION PHARMACEUTICALS INC (De-listed 07/2021),CEO,3/27/17,7/21/21,Executive Director,Yes,CEO
+14,ALGN,1384,32461,Joe Hogan,ALIGN TECHNOLOGY INC,President/CEO,6/1/15,,Executive Director,Yes,CEO
+15,LNT,1476,896820,John Larsen,ALLIANT ENERGY CORP,Chair/President/CEO,7/1/19,2/27/23,Executive Director,Yes,CEO
+16,ALL,1534,34944,Tom Wilson II,ALLSTATE CORP,Chairman/President/CEO,2/23/18,,Executive Director,Yes,CEO
+17,SWKS,1573,327486,Liam Griffin,SKYWORKS SOLUTIONS INC (Alpha Industries prior to 6/2002),President/CEO,5/11/16,5/13/21,Executive Director,Yes,CEO
+18,AMZN,1703,45136,Jeff Bezos,AMAZON.COM INC,Chairman/President/CEO,10/1/00,7/5/21,Executive Director,Yes,CEO
+19,PLD,1710,60091,Hamid Moghadam,PROLOGIS INC (AMB Property Corp prior to 06/2011),Chairman/CEO,1/1/13,,Executive Director,Yes,CEO
+20,AEP,1809,533555,Nick Akins,AMERICAN ELECTRIC POWER CO INC,Chairman/President/CEO,1/1/14,8/10/22,Executive Director,Yes,CEO
+21,AEC1,1815,455385,Steve Squeri,AMERICAN EXPRESS CO,Chairman/CEO,2/1/18,,Executive Director,Yes,CEO
+22,AXP,1815,455385,Steve Squeri,AMERICAN EXPRESS CO,Chairman/CEO,2/1/18,,Executive Director,Yes,CEO
+23,HES,1970,64947,John Hess,HESS CORP (Amerada Hess prior to 05/2006),CEO,5/16/13,,Executive Director,Yes,CEO
+24,AEE,1976,51707,Warner Baxter,AMEREN CORP,Chairman/President/CEO,7/1/14,1/1/22,Executive Director,Yes,CEO
+25,AME,2058,205055,David Zapico,AMETEK INC,Chairman/CEO,7/7/17,,Executive Director,Yes,CEO
+26,AMG,2068,534543,Bob Bradway,AMGEN INC,Chairman/President/CEO,1/1/13,,Executive Director,Yes,CEO
+27,AMGN,2068,534543,Bob Bradway,AMGEN INC,Chairman/President/CEO,1/1/13,,Executive Director,Yes,CEO
+28,APH,2100,496788,Richard Norwitt,AMPHENOL CORP,President/CEO,1/5/09,,Executive Director,Yes,CEO
+29,IVZ,2129,36584,Marty Flanagan,INVESCO LTD (Invesco PLC prior to 12/2007),President/CEO,8/1/05,6/30/23,Executive Director,Yes,CEO
+30,ADI,2145,35469,Vincent Roche,ANALOG DEVICES INC,President/CEO,5/6/13,3/9/22,Executive Director,Yes,CEO
+31,ANSS,2257,545851,Doctor Ajei Gopal,ANSYS INC,President/CEO,1/1/17,,Executive Director,Yes,CEO
+32,ELV,2273,184069,Gail Boudreaux,ELEVANCE HEALTH INC (Anthem Inc prior to 06/2022),President/CEO,11/20/17,,Executive Director,Yes,CEO
+33,APA,2307,535064,John Christmann IV,APA CORP (Apache Corp prior to 03/2021),President/CEO,1/20/15,1/1/24,Executive Director,Yes,CEO
+34,,2310,87112,The Hon. Terry Considine,APARTMENT INVESTMENT & MANAGEMENT CO (AIMCO),Chairman/CEO,2/10/09,12/15/20,Executive Director,Yes,CEO
+35,AIV,2310,87112,The Hon. Terry Considine,APARTMENT INVESTMENT & MANAGEMENT CO (AIMCO),Chairman/CEO,2/10/09,12/15/20,Executive Director,Yes,CEO
+36,AAPL,2355,55422,Tim Cook,APPLE INC (Apple Computer Inc prior to 01/2007),CEO,8/24/11,,Executive Director,Yes,CEO
+37,AMAT,2382,50901,Gary Dickerson,APPLIED MATERIALS INC,President/CEO,9/1/13,,Executive Director,Yes,CEO
+38,ADM,2490,890753,Juan Luciano,ARCHER-DANIELS-MIDLAND CO,Chairman/President/CEO,1/1/16,,Executive Director,Yes,CEO
+39,ATO,2963,328716,Kim Cocklin,ATMOS ENERGY CORP,Chairman (Executive),10/1/17,11/23/20,Executive Director,Yes,TMT
+40,ATO,2963,806085,John Akers,ATMOS ENERGY CORP,President/CEO,10/1/19,,Executive Director,Yes,CEO
+41,ADP,3101,745222,Carlos Rodriguez,AUTOMATIC DATA PROCESSING INC (ADP),President/CEO,11/8/11,1/1/22,Executive Director,Yes,CEO
+42,ADSK,3118,1203207,Doctor Andrew Anagnost,AUTODESK INC,President/CEO,6/19/17,1/19/21,Executive Director,Yes,CEO
+43,AUD,3118,1203207,Doctor Andrew Anagnost,AUTODESK INC,President/CEO,6/19/17,1/19/21,Executive Director,Yes,CEO
+44,AZO,3154,49966,Bill Rhodes III,AUTOZONE INC,Chairman/President/CEO,6/6/07,1/2/24,Executive Director,Yes,CEO
+45,AVB,3169,204883,Tim Naughton,AVALONBAY COMMUNITIES INC,Chairman/President/CEO,5/22/13,2/1/21,Executive Director,Yes,CEO
+46,AVY,3210,530989,Mitch Butier,AVERY DENNISON CORP,Chairman/President/CEO,4/25/19,2/28/22,Executive Director,Yes,CEO
+47,68V,3415,641184,Lorenzo Simonelli,BAKER HUGHES CO (Baker Hughes a GE Co prior to 10/2019),Chairman/President/CEO,10/2/17,,Executive Director,Yes,CEO
+48,BKR,3415,641184,Lorenzo Simonelli,BAKER HUGHES CO (Baker Hughes a GE Co prior to 10/2019),Chairman/President/CEO,10/2/17,,Executive Director,Yes,CEO
+49,BALL,3439,456592,John Hayes,BALL CORP,Chairman/President/CEO,4/24/13,1/1/21,Executive Director,Yes,CEO
+50,BAX,3684,327852,Joe Almeida,BAXTER INTERNATIONAL INC,Chairman/President/CEO,1/1/16,,Executive Director,Yes,CEO
+51,BBT.PRG,3718,39271,Kelly King,TRUIST FINANCIAL CORP (BB&T Corp prior to 12/2019),Chairman/CEO,12/20/16,9/12/21,Executive Director,Yes,CEO
+52,BBT.PRH,3718,39271,Kelly King,TRUIST FINANCIAL CORP (BB&T Corp prior to 12/2019),Chairman/CEO,12/20/16,9/12/21,Executive Director,Yes,CEO
+53,TFC,3718,39271,Kelly King,TRUIST FINANCIAL CORP (BB&T Corp prior to 12/2019),Chairman/CEO,12/20/16,9/12/21,Executive Director,Yes,CEO
+54,TFC.PRF,3718,39271,Kelly King,TRUIST FINANCIAL CORP (BB&T Corp prior to 12/2019),Chairman/CEO,12/20/16,9/12/21,Executive Director,Yes,CEO
+55,TFC.PRG,3718,39271,Kelly King,TRUIST FINANCIAL CORP (BB&T Corp prior to 12/2019),Chairman/CEO,12/20/16,9/12/21,Executive Director,Yes,CEO
+56,TFC.PRH,3718,39271,Kelly King,TRUIST FINANCIAL CORP (BB&T Corp prior to 12/2019),Chairman/CEO,12/20/16,9/12/21,Executive Director,Yes,CEO
+57,WRB,4078,82162,Rob Berkley Jr,W.R. BERKLEY CORP,President/CEO,10/31/15,,Executive Director,Yes,CEO
+58,WRB,4078,82207,Wm Berkley Sr,W.R. BERKLEY CORP,Chairman (Executive),10/31/15,,Executive Director,Yes,TMT
+59,BRH,4080,32543,Warren Buffett,BERKSHIRE HATHAWAY INC,Chairman/CEO,1/1/70,,Executive Director,No,CEO
+60,BRK.A,4080,32543,Warren Buffett,BERKSHIRE HATHAWAY INC,Chairman/CEO,1/1/70,,Executive Director,No,CEO
+61,BRK.B,4080,32543,Warren Buffett,BERKSHIRE HATHAWAY INC,Chairman/CEO,1/1/70,,Executive Director,No,CEO
+62,BRYN,4080,32543,Warren Buffett,BERKSHIRE HATHAWAY INC,Chairman/CEO,1/1/70,,Executive Director,No,CEO
+63,BRH,4080,40751,Charlie Munger,BERKSHIRE HATHAWAY INC,Vice Chairman,1/1/78,11/28/23,Executive Director,Yes,TMT
+64,BRK.A,4080,40751,Charlie Munger,BERKSHIRE HATHAWAY INC,Vice Chairman,1/1/78,11/28/23,Executive Director,Yes,TMT
+65,BRK.B,4080,40751,Charlie Munger,BERKSHIRE HATHAWAY INC,Vice Chairman,1/1/78,11/28/23,Executive Director,Yes,TMT
+66,BRYN,4080,40751,Charlie Munger,BERKSHIRE HATHAWAY INC,Vice Chairman,1/1/78,11/28/23,Executive Director,Yes,TMT
+67,BRH,4080,344171,Greg Abel,BERKSHIRE HATHAWAY INC,Vice Chairman - Operations,1/9/18,,Executive Director,Yes,TMT
+68,BRK.A,4080,344171,Greg Abel,BERKSHIRE HATHAWAY INC,Vice Chairman - Operations,1/9/18,,Executive Director,Yes,TMT
+69,BRK.B,4080,344171,Greg Abel,BERKSHIRE HATHAWAY INC,Vice Chairman - Operations,1/9/18,,Executive Director,Yes,TMT
+70,BRYN,4080,344171,Greg Abel,BERKSHIRE HATHAWAY INC,Vice Chairman - Operations,1/9/18,,Executive Director,Yes,TMT
+71,BRH,4080,1113697,Ajit Jain,BERKSHIRE HATHAWAY INC,Vice Chairman - Operations,1/9/18,,Executive Director,Yes,TMT
+72,BRK.A,4080,1113697,Ajit Jain,BERKSHIRE HATHAWAY INC,Vice Chairman - Operations,1/9/18,,Executive Director,Yes,TMT
+73,BRK.B,4080,1113697,Ajit Jain,BERKSHIRE HATHAWAY INC,Vice Chairman - Operations,1/9/18,,Executive Director,Yes,TMT
+74,BRYN,4080,1113697,Ajit Jain,BERKSHIRE HATHAWAY INC,Vice Chairman - Operations,1/9/18,,Executive Director,Yes,TMT
+75,BBY,4118,801207,Hubert Joly,BEST BUY CO INC,Chairman (Executive),6/11/19,6/11/20,Executive Director,Yes,TMT
+76,BUY,4118,801207,Hubert Joly,BEST BUY CO INC,Chairman (Executive),6/11/19,6/11/20,Executive Director,Yes,TMT
+77,BBY,4118,1713009,Corie Barry,BEST BUY CO INC,CEO,6/11/19,,Executive Director,Yes,CEO
+78,BUY,4118,1713009,Corie Barry,BEST BUY CO INC,CEO,6/11/19,,Executive Director,Yes,CEO
+79,BIO,4311,181631,Norman Schwartz,BIO RAD LABORATORIES INC,Chairman/President/CEO,1/1/12,,Executive Director,Yes,CEO
+80,BIO.B,4311,181631,Norman Schwartz,BIO RAD LABORATORIES INC,Chairman/President/CEO,1/1/12,,Executive Director,Yes,CEO
+81,BAC,4504,35043,Brian Moynihan,BANK OF AMERICA CORP,Chair/President/CEO,10/1/14,,Executive Director,Yes,CEO
+82,NCB,4504,35043,Brian Moynihan,BANK OF AMERICA CORP,Chair/President/CEO,10/1/14,,Executive Director,Yes,CEO
+83,BLK,4584,140463,Larry Fink,BLACKROCK INC,Chairman/CEO,1/1/98,,Executive Director,Yes,CEO
+84,BLQA,4584,140463,Larry Fink,BLACKROCK INC,Chairman/CEO,1/1/98,,Executive Director,Yes,CEO
+85,BGW,4839,1195691,Frederic Lissalde,BORGWARNER INC,President/CEO,8/1/18,,Executive Director,Yes,CEO
+86,BWA,4839,1195691,Frederic Lissalde,BORGWARNER INC,President/CEO,8/1/18,,Executive Director,Yes,CEO
+87,BXP,4863,491901,Owen Thomas,BOSTON PROPERTIES INC,CEO,4/2/13,5/19/22,Executive Director,Yes,CEO
+88,BSX,4865,879252,Mike Mahoney,BOSTON SCIENTIFIC CORP,Chairman/President/CEO,5/3/16,,Executive Director,Yes,CEO
+89,BMY,5118,857412,Doctor Giovanni Caforio,BRISTOL-MYERS SQUIBB CO,Chairman/CEO,5/2/17,11/1/23,Executive Director,Yes,CEO
+90,BMYMP,5118,857412,Doctor Giovanni Caforio,BRISTOL-MYERS SQUIBB CO,Chairman/CEO,5/2/17,11/1/23,Executive Director,Yes,CEO
+91,BRM,5118,857412,Doctor Giovanni Caforio,BRISTOL-MYERS SQUIBB CO,Chairman/CEO,5/2/17,11/1/23,Executive Director,Yes,CEO
+92,BF.A,5210,1113025,Lawson Whiting,BROWN FORMAN CORP,President/CEO,3/28/19,,Executive Director,Yes,CEO
+93,BF.B,5210,1113025,Lawson Whiting,BROWN FORMAN CORP,President/CEO,3/28/19,,Executive Director,Yes,CEO
+94,,5320,500231,Greg Heckman,BUNGE GLOBAL SA (Bunge Ltd prior to 11/2023),CEO,4/25/19,,Executive Director,Yes,CEO
+95,BG,5320,500231,Greg Heckman,BUNGE GLOBAL SA (Bunge Ltd prior to 11/2023),CEO,4/25/19,,Executive Director,Yes,CEO
+96,CTRA,5465,202913,Dan Dinges,COTERRA ENERGY INC (Cabot Oil & Gas Corp prior to 10/2021),Chairman/President/CEO,5/2/02,10/1/21,Executive Director,Yes,CEO
+97,CDNS,5480,182411,Lip-Bu Tan,CADENCE DESIGN SYSTEMS INC,CEO,11/16/17,12/15/21,Executive Director,Yes,CEO
+98,CPB,5620,1122227,Mark Clouse,CAMPBELL SOUP CO,President/CEO,1/22/19,,Executive Director,Yes,CEO
+99,CSC,5620,1122227,Mark Clouse,CAMPBELL SOUP CO,President/CEO,1/22/19,,Executive Director,Yes,CEO
+100,CFX,5734,48786,Rich Fairbank,CAPITAL ONE FINANCIAL CORP,Chairman/CEO,4/24/03,,Executive Director,Yes,CEO
+101,COF,5734,48786,Rich Fairbank,CAPITAL ONE FINANCIAL CORP,Chairman/CEO,4/24/03,,Executive Director,Yes,CEO
+102,CAH,5811,517277,Mike Kaufmann,CARDINAL HEALTH INC,CEO,9/1/19,9/1/22,Executive Director,Yes,CEO
+103,CLH,5811,517277,Mike Kaufmann,CARDINAL HEALTH INC,CEO,9/1/19,9/1/22,Executive Director,Yes,CEO
+104,CCL,5867,27496,Micky Arison,CARNIVAL CORP,Chairman (Executive),7/3/13,,Executive Director,Yes,TMT
+105,CCL,5867,35264,Arnold Donald,CARNIVAL CORP,President/CEO,7/3/13,1/1/22,Executive Director,Yes,CEO
+106,CAT,6052,1079119,Jim Umpleby III,CATERPILLAR INC,Chairman/CEO,12/12/18,,Executive Director,Yes,CEO
+107,CAT1,6052,1079119,Jim Umpleby III,CATERPILLAR INC,Chairman/CEO,12/12/18,,Executive Director,Yes,CEO
+108,CATR,6052,1079119,Jim Umpleby III,CATERPILLAR INC,Chairman/CEO,12/12/18,,Executive Director,Yes,CEO
+109,CBRE,6083,272769,Bob Sulentic,CBRE GROUP INC (CB Richard Ellis Group Inc prior to 10/2011),President/CEO,12/1/12,11/17/23,Executive Director,Yes,CEO
+110,PARA,6098,23537,Bob Bakish,PARAMOUNT GLOBAL (Viacomcbs Inc prior to 02/2022),President/CEO,12/4/19,,Executive Director,Yes,CEO
+111,PARAA,6098,23537,Bob Bakish,PARAMOUNT GLOBAL (Viacomcbs Inc prior to 02/2022),President/CEO,12/4/19,,Executive Director,Yes,CEO
+112,CNC,6261,201946,Michael Neidorff,CENTENE CORP,Chairman/President/CEO,4/23/19,9/7/21,Executive Director,Yes,CEO
+113,CNP,6271,81927,Milton Carroll,CENTERPOINT ENERGY INC,Chairman (Executive),6/1/13,7/21/21,Executive Director,Yes,TMT
+114,,6353,730057,Jeff Storey,LUMEN TECHNOLOGIES INC (CenturyLink Inc prior to 09/2020),President/CEO,5/23/18,11/7/22,Executive Director,Yes,CEO
+115,CYT,6353,730057,Jeff Storey,LUMEN TECHNOLOGIES INC (CenturyLink Inc prior to 09/2020),President/CEO,5/23/18,11/7/22,Executive Director,Yes,CEO
+116,LUMN,6353,730057,Jeff Storey,LUMEN TECHNOLOGIES INC (CenturyLink Inc prior to 09/2020),President/CEO,5/23/18,11/7/22,Executive Director,Yes,CEO
+117,CERN,6375,1370253,D Shafer,CERNER CORP (De-listed 06/2022),Chairman/CEO,2/1/18,10/1/21,Executive Director,Yes,CEO
+118,CRE,6375,1370253,D Shafer,CERNER CORP (De-listed 06/2022),Chairman/CEO,2/1/18,10/1/21,Executive Director,Yes,CEO
+119,FIS,6382,516521,Gary Norcross,FIDELITY NATIONAL INFORMATION SERVICES INC (Certegy Inc prior to 02/2006),Chairman/President/CEO,5/30/18,3/9/21,Executive Director,Yes,CEO
+120,CHRW,6438,67247,John Wiehoff,CH ROBINSON WORLDWIDE INC,Chairman,5/9/19,5/7/20,Executive Director,No,TMT
+121,CHRW,6438,1656763,Bob Biesterfeld Jr,CH ROBINSON WORLDWIDE INC,President/CEO,5/9/19,12/31/22,Executive Director,Yes,CEO
+122,CHV,6627,343163,Mike Wirth,CHEVRON CORP,Chairman/CEO,2/1/18,,Executive Director,Yes,CEO
+123,CVX,6627,343163,Mike Wirth,CHEVRON CORP,Chairman/CEO,2/1/18,,Executive Director,Yes,CEO
+124,CHD,6779,336620,Matthew Farrell,CHURCH & DWIGHT CO INC,Chairman/President/CEO,5/2/19,,Executive Director,Yes,CEO
+125,CI,6837,486024,David Cordani,THE CIGNA GROUP (Cigna Corp prior to 02/2023),President/CEO,12/25/09,1/1/22,Executive Director,Yes,CEO
+126,CINF,6863,270963,Steve Johnston,CINCINNATI FINANCIAL CORP,President/CEO,5/2/11,5/2/20,Executive Director,No,CEO
+127,CIT,6877,38311,Scott Farmer,CINTAS CORP,Chairman/CEO,9/30/16,5/31/21,Executive Director,Yes,CEO
+128,CTAS,6877,38311,Scott Farmer,CINTAS CORP,Chairman/CEO,9/30/16,5/31/21,Executive Director,Yes,CEO
+129,CIS,6908,536628,Chuck Robbins,CISCO SYSTEMS INC,Chair/CEO,12/11/17,,Executive Director,Yes,CEO
+130,CSCO,6908,536628,Chuck Robbins,CISCO SYSTEMS INC,Chair/CEO,12/11/17,,Executive Director,Yes,CEO
+131,C,6930,604908,Mike Corbat,CITIGROUP INC,CEO,10/15/12,2/26/21,Executive Director,Yes,CEO
+132,TRVC,6930,604908,Mike Corbat,CITIGROUP INC,CEO,10/15/12,2/26/21,Executive Director,Yes,CEO
+133,CTX,6959,205153,David Henshall,CITRIX SYSTEMS INC (De-listed 09/2022),President/CEO,7/10/17,10/1/21,Executive Director,Yes,CEO
+134,CTXS,6959,205153,David Henshall,CITRIX SYSTEMS INC (De-listed 09/2022),President/CEO,7/10/17,10/1/21,Executive Director,Yes,CEO
+135,CLX,7089,750963,Benno Dorer,CLOROX COMPANY (THE),Chairman/CEO,8/15/16,9/14/20,Executive Director,Yes,CEO
+136,CXX,7089,750963,Benno Dorer,CLOROX COMPANY (THE),Chairman/CEO,8/15/16,9/14/20,Executive Director,Yes,CEO
+137,CMS,7147,1094129,Patti Poppe,CMS ENERGY CORP,President/CEO,7/1/16,12/1/20,Executive Director,Yes,CEO
+138,CSG,7147,1094129,Patti Poppe,CMS ENERGY CORP,President/CEO,7/1/16,12/1/20,Executive Director,Yes,CEO
+139,TPR,7173,271683,Jide Zeitlin,TAPESTRY INC (Coach Inc prior to 10/2017),Chairman/CEO,9/4/19,7/20/20,Executive Director,Yes,CEO
+140,KO,7204,877797,James Quincey,COCA-COLA CO,Chairman/CEO,4/24/19,,Executive Director,Yes,CEO
+141,CTSH,7256,515842,Brian Humphries,COGNIZANT TECHNOLOGY SOLUTIONS CORP,CEO,4/1/19,1/12/23,Executive Director,Yes,CEO
+142,CCZ,7387,35803,Brian Roberts,COMCAST CORP (AT&T Comcast Corp prior to 11/2002),Chairman/President/CEO,5/25/04,10/11/22,Executive Director,Yes,CEO
+143,CMCSA,7387,35803,Brian Roberts,COMCAST CORP (AT&T Comcast Corp prior to 11/2002),Chairman/President/CEO,5/25/04,10/11/22,Executive Director,Yes,CEO
+144,DXC,7584,205612,Mike Salvino,DXC TECHNOLOGY CO (Computer Sciences Corp prior to 04/2017),President/CEO,9/12/19,7/26/22,Executive Director,Yes,CEO
+145,CAG,7619,837621,Sean Connolly,CONAGRA BRANDS INC (Conagra Foods Inc prior to 11/2016),President/CEO,4/6/15,,Executive Director,Yes,CEO
+146,CAO,7619,837621,Sean Connolly,CONAGRA BRANDS INC (Conagra Foods Inc prior to 11/2016),President/CEO,4/6/15,,Executive Director,Yes,CEO
+147,ED,7705,1074910,John McAvoy,CONSOLIDATED EDISON INC,Chairman/President/CEO,5/12/14,12/29/20,Executive Director,Yes,CEO
+148,EDC,7705,1074910,John McAvoy,CONSOLIDATED EDISON INC,Chairman/President/CEO,5/12/14,12/29/20,Executive Director,Yes,CEO
+149,STZ,7753,82517,Doctor Richard Sands,CONSTELLATION BRANDS INC,Vice Chairman (Executive),3/1/19,1/1/22,Executive Director,Yes,TMT
+150,STZ.B,7753,82517,Doctor Richard Sands,CONSTELLATION BRANDS INC,Vice Chairman (Executive),3/1/19,1/1/22,Executive Director,Yes,TMT
+151,STZ,7753,82522,Rob Sands,CONSTELLATION BRANDS INC,Chairman (Executive),3/1/19,1/1/22,Executive Director,Yes,TMT
+152,STZ.B,7753,82522,Rob Sands,CONSTELLATION BRANDS INC,Chairman (Executive),3/1/19,1/1/22,Executive Director,Yes,TMT
+153,STZ,7753,1130665,Bill Newlands Jr,CONSTELLATION BRANDS INC,President/CEO,3/1/19,,Executive Director,Yes,CEO
+154,STZ.B,7753,1130665,Bill Newlands Jr,CONSTELLATION BRANDS INC,President/CEO,3/1/19,,Executive Director,Yes,CEO
+155,COO,7836,517326,Al White III,COOPER COMPANIES INC,President/CEO,5/1/18,,Executive Director,Yes,CEO
+156,TAP,7847,1202080,Gavin Hattersley,MOLSON COORS BEVERAGE CO (Molson Coors Brewing Co prior to 01/2020),President/CEO,9/28/19,,Executive Director,Yes,CEO
+157,TAP.A,7847,1202080,Gavin Hattersley,MOLSON COORS BEVERAGE CO (Molson Coors Brewing Co prior to 01/2020),President/CEO,9/28/19,,Executive Director,Yes,CEO
+158,CPRT,7852,183351,Jay Adair,COPART INC,CEO,2/12/10,4/1/22,Executive Director,Yes,CEO
+159,CPRT,7852,183354,Willis Johnson,COPART INC,Chairman (Executive),2/12/10,,Executive Director,Yes,TMT
+160,CSGP,8021,201870,Andy Florance,COSTAR GROUP INC,President/CEO,1/1/95,,Executive Director,Yes,CEO
+161,COST,8022,43701,W Jelinek,COSTCO WHOLESALE CORP,President/CEO,1/1/12,2/2/22,Executive Director,Yes,CEO
+162,CTO,8022,43701,W Jelinek,COSTCO WHOLESALE CORP,President/CEO,1/1/12,2/2/22,Executive Director,Yes,CEO
+163,CCI,8304,620002,Jay Brown,CROWN CASTLE INC (Crown Castle International Corp prior to 08/2022),President/CEO,6/1/16,1/16/24,Executive Director,Yes,CEO
+164,CSX,8383,331094,Jim Foote,CSX CORP,President/CEO,12/22/17,9/26/22,Executive Director,Yes,CEO
+165,CXR,8383,331094,Jim Foote,CSX CORP,President/CEO,12/22/17,9/26/22,Executive Director,Yes,CEO
+166,CMI,8426,203776,Tom Linebarger,CUMMINS INC,Chairman/CEO,1/1/12,8/1/22,Executive Director,Yes,CEO
+167,CUM,8426,203776,Tom Linebarger,CUMMINS INC,Chairman/CEO,1/1/12,8/1/22,Executive Director,Yes,CEO
+168,CVS,8468,45626,Larry Merlo,CVS HEALTH CORP (CVS Caremark Corp prior to 09/2014),President/CEO,3/1/11,2/1/21,Executive Director,Yes,CEO
+169,DAP,8663,36902,Steven Rales,DANAHER CORP,Chairman (Executive),2/1/90,,Executive Director,Yes,TMT
+170,DHR,8663,36902,Steven Rales,DANAHER CORP,Chairman (Executive),2/1/90,,Executive Director,Yes,TMT
+171,DAP,8663,490718,Tom Joyce Jr,DANAHER CORP,President/CEO,9/9/14,9/1/20,Executive Director,Yes,CEO
+172,DHR,8663,490718,Tom Joyce Jr,DANAHER CORP,President/CEO,9/9/14,9/1/20,Executive Director,Yes,CEO
+173,DRI,8697,200799,Gene Lee Jr,DARDEN RESTAURANTS INC,President/CEO,2/22/15,1/4/21,Executive Director,Yes,CEO
+174,DVA,8783,71242,Kent Thiry,DAVITA INC (DaVita HealthCare Partners Inc prior to 09/2016),Chairman (Executive),6/1/19,6/1/20,Executive Director,Yes,TMT
+175,DVA,8783,655130,Javier Rodriguez,DAVITA INC (DaVita HealthCare Partners Inc prior to 09/2016),CEO,6/1/19,,Executive Director,Yes,CEO
+176,DCO,8886,1070838,John May,DEERE & CO,President/CEO,11/4/19,5/1/20,Executive Director,No,CEO
+177,DE,8886,1070838,John May,DEERE & CO,President/CEO,11/4/19,5/1/20,Executive Director,No,CEO
+178,DAL,8946,333894,Ed Bastian,DELTA AIR LINES INC,CEO,5/2/16,,Executive Director,Yes,CEO
+179,XRAY,9023,590656,Don Casey Jr,DENTSPLY SIRONA INC (DENTSPLY International Inc prior to 02/2016),CEO,2/12/18,4/19/22,Executive Director,Yes,CEO
+180,DVN,9103,62347,Dave Hager,DEVON ENERGY CORP,President/CEO,6/8/16,1/7/21,Executive Director,Yes,CEO
+181,DY6,9103,62347,Dave Hager,DEVON ENERGY CORP,President/CEO,6/8/16,1/7/21,Executive Director,Yes,CEO
+182,DLTR,9474,106603,Bob Sasser,DOLLAR TREE INC,Chairman (Executive),9/18/17,3/16/22,Executive Director,Yes,TMT
+183,DT3,9474,106603,Bob Sasser,DOLLAR TREE INC,Chairman (Executive),9/18/17,3/16/22,Executive Director,Yes,TMT
+184,DLTR,9474,452406,Gary Philbin,DOLLAR TREE INC,CEO,12/9/19,7/20/20,Executive Director,Yes,CEO
+185,DT3,9474,452406,Gary Philbin,DOLLAR TREE INC,CEO,12/9/19,7/20/20,Executive Director,Yes,CEO
+186,D,9491,36934,Tom Farrell II,DOMINION ENERGY INC (Dominion Resources Inc (Virginia) prior to 05/2017),Chairman/President/CEO,4/27/07,10/1/20,Executive Director,Yes,CEO
+187,DOD,9491,36934,Tom Farrell II,DOMINION ENERGY INC (Dominion Resources Inc (Virginia) prior to 05/2017),Chairman/President/CEO,4/27/07,10/1/20,Executive Director,Yes,CEO
+188,DOV,9555,480780,Rich Tobin,DOVER CORP,President/CEO,5/1/18,2/10/24,Executive Director,Yes,CEO
+189,DHI,9582,65517,Donald Horton,DR HORTON INC,Chairman (Executive),11/1/98,10/1/23,Executive Director,Yes,TMT
+190,DGY,9693,204995,Gerry Anderson,DTE ENERGY CO,Chairman (Executive),7/1/19,5/5/22,Executive Director,Yes,TMT
+191,DTE,9693,204995,Gerry Anderson,DTE ENERGY CO,Chairman (Executive),7/1/19,5/5/22,Executive Director,Yes,TMT
+192,DGY,9693,534436,Jerry Norcia,DTE ENERGY CO,President/CEO,7/1/19,5/5/22,Executive Director,Yes,CEO
+193,DTE,9693,534436,Jerry Norcia,DTE ENERGY CO,President/CEO,7/1/19,5/5/22,Executive Director,Yes,CEO
+194,DRE,9730,333005,Jim Connor,DUKE REALTY CORP (De-listed 10/2022),Chairman/CEO,4/26/17,10/3/22,Executive Director,Yes,CEO
+195,EAC,9940,534777,Mark Costa,EASTMAN CHEMICAL CO,Chair/CEO,6/30/14,,Executive Director,Yes,CEO
+196,EMN,9940,534777,Mark Costa,EASTMAN CHEMICAL CO,Chair/CEO,6/30/14,,Executive Director,Yes,CEO
+197,DISH,10024,43416,Charlie Ergen,DISH NETWORK CORP (Echostar Communications Corp prior to 01/2008) (De-listed 12/2023),Chairman (Executive),12/5/17,12/29/23,Executive Director,Yes,TMT
+198,EOT,10024,43416,Charlie Ergen,DISH NETWORK CORP (Echostar Communications Corp prior to 01/2008) (De-listed 12/2023),Chairman (Executive),12/5/17,12/29/23,Executive Director,Yes,TMT
+199,ECJ,10036,51882,Doug Baker Jr,ECOLAB INC,Chairman/CEO,12/2/11,1/1/21,Executive Director,Yes,CEO
+200,ECL,10036,51882,Doug Baker Jr,ECOLAB INC,Chairman/CEO,12/2/11,1/1/21,Executive Director,Yes,CEO
+201,EIX,10130,791001,Pedro Pizarro,EDISON INTERNATIONAL,President/CEO,9/30/16,,Executive Director,Yes,CEO
+202,EW,10156,90062,Mike Mussallem,EDWARDS LIFESCIENCES CORP,Chairman/CEO,3/31/00,5/11/23,Executive Director,Yes,CEO
+203,EWL,10156,90062,Mike Mussallem,EDWARDS LIFESCIENCES CORP,Chairman/CEO,3/31/00,5/11/23,Executive Director,Yes,CEO
+204,EA,10364,1207036,Andrew Wilson,ELECTRONIC ARTS INC,CEO,9/17/13,8/12/21,Executive Director,Yes,CEO
+205,ERT,10364,1207036,Andrew Wilson,ELECTRONIC ARTS INC,CEO,9/17/13,8/12/21,Executive Director,Yes,CEO
+206,EMR,10535,35223,David Farr,EMERSON ELECTRIC CO,Chairman/CEO,10/5/10,2/5/21,Executive Director,Yes,CEO
+207,ETR,10750,204855,Leo Denault,ENTERGY CORP,Chairman/CEO,2/1/13,11/1/22,Executive Director,Yes,CEO
+208,ETY,10750,204855,Leo Denault,ENTERGY CORP,Chairman/CEO,2/1/13,11/1/22,Executive Director,Yes,CEO
+209,EO5,10844,534761,Bill Thomas,EOG RESOURCES INC (Enron Oil & Gas Co prior to 09/1999),Chairman/CEO,1/1/14,9/30/21,Executive Director,Yes,CEO
+210,EOG,10844,534761,Bill Thomas,EOG RESOURCES INC (Enron Oil & Gas Co prior to 09/1999),Chairman/CEO,1/1/14,9/30/21,Executive Director,Yes,CEO
+211,EFX,10896,202312,Mark Begor,EQUIFAX INC,CEO,4/16/18,,Executive Director,Yes,CEO
+212,EQIX,10899,202552,Peter Van Camp,EQUINIX INC,Chairman (Executive),9/12/18,,Executive Director,Yes,TMT
+213,EQIX,10899,1089745,Charles Meyers,EQUINIX INC,President/CEO,9/12/18,,Executive Director,Yes,CEO
+214,EQR,10928,552575,Mark Parrell,EQUITY RESIDENTIAL (Equity Residential Properties Trust prior to 10/2002),President/CEO,12/31/18,,Executive Director,Yes,CEO
+215,ESS,11060,182075,Mike Schall,ESSEX PROPERTY TRUST INC (Essex Property Corp prior to 06/1994),President/CEO,1/1/11,3/31/23,Executive Director,Yes,CEO
+216,EXP,11060,182075,Mike Schall,ESSEX PROPERTY TRUST INC (Essex Property Corp prior to 06/1994),President/CEO,1/1/11,3/31/23,Executive Director,Yes,CEO
+217,EL,11074,51266,William Lauder,ESTEE LAUDER COS INC,Chairman (Executive),7/1/09,,Executive Director,Yes,TMT
+218,ELAA,11074,51266,William Lauder,ESTEE LAUDER COS INC,Chairman (Executive),7/1/09,,Executive Director,Yes,TMT
+219,EL,11074,51286,Leonard Lauder,ESTEE LAUDER COS INC,Chairman Emeritus,7/1/09,11/17/23,Executive Director,Yes,TMT
+220,ELAA,11074,51286,Leonard Lauder,ESTEE LAUDER COS INC,Chairman Emeritus,7/1/09,11/17/23,Executive Director,Yes,TMT
+221,EL,11074,51301,The Hon. Ronald Lauder,ESTEE LAUDER COS INC,Division Chairman,11/11/16,,Executive Director,Yes,TMT
+222,ELAA,11074,51301,The Hon. Ronald Lauder,ESTEE LAUDER COS INC,Division Chairman,11/11/16,,Executive Director,Yes,TMT
+223,EL,11074,590109,Fabrizio Freda,ESTEE LAUDER COS INC,President/CEO,7/1/09,,Executive Director,Yes,CEO
+224,ELAA,11074,590109,Fabrizio Freda,ESTEE LAUDER COS INC,President/CEO,7/1/09,,Executive Director,Yes,CEO
+225,EXC,11376,534954,Chris Crane,EXELON CORP,President/CEO,3/12/12,10/17/22,Executive Director,Yes,CEO
+226,PEO,11376,534954,Chris Crane,EXELON CORP,President/CEO,3/12/12,10/17/22,Executive Director,Yes,CEO
+227,EW1,11401,452655,Jeff Musser,EXPEDITORS INTERNATIONAL OF WASHINGTON INC,President/CEO,3/1/14,,Executive Director,Yes,CEO
+228,EXPD,11401,452655,Jeff Musser,EXPEDITORS INTERNATIONAL OF WASHINGTON INC,President/CEO,3/1/14,,Executive Director,Yes,CEO
+229,XOM,11430,1253894,Darren Woods,EXXON MOBIL CORP,Chairman/CEO,1/1/17,,Executive Director,Yes,CEO
+230,XONA,11430,1253894,Darren Woods,EXXON MOBIL CORP,Chairman/CEO,1/1/17,,Executive Director,Yes,CEO
+231,FFIV,11468,601275,Francois Locoh-Donou,F5 INC (F5 Networks Inc prior to 11/2021),President/CEO,4/3/17,,Executive Director,Yes,CEO
+232,FFV,11468,601275,Francois Locoh-Donou,F5 INC (F5 Networks Inc prior to 11/2021),President/CEO,4/3/17,,Executive Director,Yes,CEO
+233,FAST,11608,70422,Dan Florness,FASTENAL CO,President/CEO,1/1/16,,Executive Director,Yes,CEO
+234,FRT,11649,332472,Don Wood,FEDERAL REALTY INVESTMENT TRUST,President/CEO,1/1/03,3/11/21,Executive Director,Yes,CEO
+235,FDX,11664,43076,Fred Smith,FEDEX CORP,Chairman/CEO,2/1/17,5/31/22,Executive Director,Yes,CEO
+236,FE,11964,621318,Chuck Jones Jr,FIRSTENERGY CORP,President/CEO,1/1/15,5/24/20,Executive Director,No,CEO
+237,FLIR,12112,1301933,Jim Cannon,FLIR SYSTEMS INC (De-listed 05/2021),President/CEO,6/19/17,5/14/21,Executive Director,Yes,CEO
+238,FLS,12153,1304182,Robert Rowe,FLOWSERVE CORP,President/CEO,4/1/17,,Executive Director,Yes,CEO
+239,FMC,12164,51661,Doctor Pierre Brondeau,FMC CORP,Chairman/CEO,6/1/18,5/31/20,Executive Director,Yes,CEO
+240,FMQ,12164,51661,Doctor Pierre Brondeau,FMC CORP,Chairman/CEO,6/1/18,5/31/20,Executive Director,Yes,CEO
+241,F,12262,23366,Bill Ford Jr,FORD MOTOR CO,Chairman (Executive),9/1/06,,Executive Director,Yes,TMT
+242,FMC1,12262,23366,Bill Ford Jr,FORD MOTOR CO,Chairman (Executive),9/1/06,,Executive Director,Yes,TMT
+243,F,12262,34156,Jim Hackett,FORD MOTOR CO,President/CEO,5/22/17,10/1/20,Executive Director,Yes,CEO
+244,FMC1,12262,34156,Jim Hackett,FORD MOTOR CO,President/CEO,5/22/17,10/1/20,Executive Director,Yes,CEO
+245,FP3,12407,39031,Jim Robo,NEXTERA ENERGY INC (FPL Group Inc prior to 05/2010),Chairman/President/CEO,12/13/13,3/1/22,Executive Director,Yes,CEO
+246,NEE,12407,39031,Jim Robo,NEXTERA ENERGY INC (FPL Group Inc prior to 05/2010),Chairman/President/CEO,12/13/13,3/1/22,Executive Director,Yes,CEO
+247,BEN,12463,36572,Rupert Johnson Jr,FRANKLIN RESOURCES INC,Vice Chairman,12/1/99,,Executive Director,Yes,TMT
+248,FRK,12463,36572,Rupert Johnson Jr,FRANKLIN RESOURCES INC,Vice Chairman,12/1/99,,Executive Director,Yes,TMT
+249,FCX,12493,206065,Richard Adkerson,FREEPORT-MCMORAN INC (Freeport-McMoRan Copper & Gold Inc prior to 07/2014),Vice Chairman/President/CEO,5/31/13,2/2/21,Executive Director,Yes,CEO
+250,AJG,12761,81627,Pat Gallagher Jr,ARTHUR J GALLAGHER & CO,Chairman/President/CEO,10/19/06,1/1/24,Executive Director,Yes,CEO
+251,IT,12862,35090,Gene Hall,GARTNER INC (Gartner Group Inc prior to 08/2001),CEO,8/3/04,,Executive Director,Yes,CEO
+252,GD,12984,45561,Phebe Novakovic,GENERAL DYNAMICS CORP,Chairman/CEO,1/1/13,,Executive Director,Yes,CEO
+253,,12986,36907,Larry Culp Jr,GENERAL ELECTRIC CO,Chairman/CEO,9/30/18,,Executive Director,Yes,CEO
+254,GE,12986,36907,Larry Culp Jr,GENERAL ELECTRIC CO,Chairman/CEO,9/30/18,,Executive Director,Yes,CEO
+255,GEC,12986,36907,Larry Culp Jr,GENERAL ELECTRIC CO,Chairman/CEO,9/30/18,,Executive Director,Yes,CEO
+256,GNE,12986,36907,Larry Culp Jr,GENERAL ELECTRIC CO,Chairman/CEO,9/30/18,,Executive Director,Yes,CEO
+257,GIS,13034,988199,Jeff Harmening,GENERAL MILLS INC,Chairman/CEO,1/1/18,,Executive Director,Yes,CEO
+258,GPC,13110,547628,Paul Donahue,GENUINE PARTS CO,Chairman/CEO,4/22/19,,Executive Director,Yes,CEO
+259,GILD,13273,1015485,Daniel O'Day,GILEAD SCIENCES INC,Chairman/CEO,3/1/19,,Executive Director,Yes,CEO
+260,GIS,13273,1015485,Daniel O'Day,GILEAD SCIENCES INC,Chairman/CEO,3/1/19,,Executive Director,Yes,CEO
+261,GPN,13417,1076347,Jeff Sloan,GLOBAL PAYMENTS INC,CEO,6/30/14,6/1/23,Executive Director,Yes,CEO
+262,GS,13564,795984,David Solomon,GOLDMAN SACHS GROUP INC,Chairman/CEO,1/1/19,,Executive Director,Yes,CEO
+263,GWW,13725,881638,DG Macpherson,WW GRAINGER INC,Chairman/CEO,10/1/17,,Executive Director,Yes,CEO
+264,HAL,14212,1269010,Jeff Miller,HALLIBURTON CO,Chairman/President/CEO,1/1/19,,Executive Director,Yes,CEO
+265,MNST,14301,343707,Rodney Sacks,MONSTER BEVERAGE CORP (Hansen Natural Corp prior to 12/2011),Chairman/CEO,7/1/96,1/13/21,Executive Director,Yes,CEO
+266,MNST,14301,343710,Hilton Schlosberg,MONSTER BEVERAGE CORP (Hansen Natural Corp prior to 12/2011),Vice Chairman/President/CFO/COO/Secretary,7/1/96,1/13/21,Executive Director,Yes,TMT
+267,LHX,14355,34826,Chris Kubasik,L3HARRIS TECHNOLOGIES INC (Harris Corp prior to 07/2019),Vice Chairman/President/COO,6/29/19,6/29/21,Executive Director,Yes,TMT
+268,LHX,14355,484620,Bill Brown,L3HARRIS TECHNOLOGIES INC (Harris Corp prior to 07/2019),Chairman (Executive)/CEO,6/29/19,6/29/21,Executive Director,Yes,CEO
+269,HIG,14372,1073631,Chris Swift,HARTFORD FINANCIAL SERVICES GROUP INC,Chairman/CEO,1/5/15,,Executive Director,Yes,CEO
+270,HAS,14399,205487,Brian Goldner,HASBRO INC,Chairman/CEO,2/6/17,10/12/21,Executive Director,Yes,CEO
+271,WELL,14484,183802,Tom DeRosa,WELLTOWER INC (Health Care REIT Inc prior to 09/2015),Chairman/CEO,5/2/19,10/5/20,Executive Director,Yes,CEO
+272,JKHY,14668,836736,Dave Foss,JACK HENRY & ASSOCIATES INC,President/CEO,7/1/17,7/1/21,Executive Director,Yes,CEO
+273,HS2,14669,85377,Stan Bergman,HENRY SCHEIN INC,Chairman/CEO,5/18/05,,Executive Director,Yes,CEO
+274,HSIC,14669,85377,Stan Bergman,HENRY SCHEIN INC,Chairman/CEO,5/18/05,,Executive Director,Yes,CEO
+275,HS2,14669,85387,Jim Breslawski,HENRY SCHEIN INC,Vice Chairman/President,5/1/18,,Executive Director,Yes,TMT
+276,HSIC,14669,85387,Jim Breslawski,HENRY SCHEIN INC,Vice Chairman/President,5/1/18,,Executive Director,Yes,TMT
+277,HSY,14714,485170,Michele Buck,HERSHEY CO (THE),Chairman/President/CEO,10/11/19,,Executive Director,Yes,CEO
+278,HPQ,14722,607415,Enrique Lores,HP INC (Hewlett-Packard Co prior to 11/2015),President/CEO,11/1/19,,Executive Director,Yes,CEO
+279,HLT,14812,85077,Gregory Dillon,HILTON HOTELS CORP (De-listed 10/2007),Vice Chairman,1/1/96,,Executive Director,Yes,TMT
+280,HOLX,14967,41481,Steve MacMillan,HOLOGIC INC,Chairman/President/CEO,6/16/15,,Executive Director,Yes,CEO
+281,HD,14982,536170,Craig Menear,HOME DEPOT INC,Chairman/President/CEO,2/2/15,10/5/20,Executive Director,Yes,CEO
+282,ALD,15029,1205682,Darius Adamczyk,HONEYWELL INTERNATIONAL INC (AlliedSignal Inc prior to 01/2000),Chairman/CEO,4/23/18,6/1/23,Executive Director,Yes,CEO
+283,HON,15029,1205682,Darius Adamczyk,HONEYWELL INTERNATIONAL INC (AlliedSignal Inc prior to 01/2000),Chairman/CEO,4/23/18,6/1/23,Executive Director,Yes,CEO
+284,HRL,15070,806078,Jim Snee,HORMEL FOODS CORP,Chairman/President/CEO,11/20/17,,Executive Director,Yes,CEO
+285,HMT,15093,38651,Dick Marriott,HOST HOTELS & RESORTS INC,Chairman,12/29/98,,Executive Director,Yes,TMT
+286,HST,15093,38651,Dick Marriott,HOST HOTELS & RESORTS INC,Chairman,12/29/98,,Executive Director,Yes,TMT
+287,HMT,15093,205949,Jim Risoleo,HOST HOTELS & RESORTS INC,President/CEO,1/1/17,,Executive Director,Yes,CEO
+288,HST,15093,205949,Jim Risoleo,HOST HOTELS & RESORTS INC,President/CEO,1/1/17,,Executive Director,Yes,CEO
+289,HUM,15207,272234,Bruce Broussard,HUMANA INC,President/CEO,1/1/13,1/8/24,Executive Director,Yes,CEO
+290,JBHT,15223,141642,James Thompson,HUNT(J.B.)TRANSPORT SERVICES INC,Chairman,1/1/11,1/1/21,Executive Director,Yes,TMT
+291,JBHT,15223,497950,John Roberts III,HUNT(J.B.)TRANSPORT SERVICES INC,President/CEO,1/1/11,8/1/22,Executive Director,Yes,CEO
+292,HBAN,15235,200105,Steve Steinour,HUNTINGTON BANCSHARES INC,Chairman/President/CEO,1/14/09,,Executive Director,Yes,CEO
+293,HU3,15235,200105,Steve Steinour,HUNTINGTON BANCSHARES INC,Chairman/President/CEO,1/14/09,,Executive Director,Yes,CEO
+294,IDXX,15486,1254756,Jonathan Mazelsky,IDEXX LABORATORIES INC,President/CEO,10/23/19,,Executive Director,Yes,CEO
+295,ILT,15580,534201,Ernest Santi,ILLINOIS TOOL WORKS INC (ITW),Chairman/CEO,5/8/15,1/1/24,Executive Director,Yes,CEO
+296,ITW,15580,534201,Ernest Santi,ILLINOIS TOOL WORKS INC (ITW),Chairman/CEO,5/8/15,1/1/24,Executive Director,Yes,CEO
+297,ILMN,15581,647025,Francis DeSouza,ILLUMINA INC,President/CEO,7/5/16,6/11/23,Executive Director,Yes,CEO
+298,INCY,15783,1249099,Herve Hoppenot,INCYTE CORP (Incyte Genomics prior to 03/2003),Chairman/President/CEO,5/22/15,6/5/23,Executive Director,Yes,CEO
+299,IR,16041,336406,Mike Lamach,TRANE TECHNOLOGIES PLC (Ingersoll-Rand PLC prior to 03/2020),Chairman/CEO,6/4/10,7/1/21,Executive Director,Yes,CEO
+300,TT,16041,336406,Mike Lamach,TRANE TECHNOLOGIES PLC (Ingersoll-Rand PLC prior to 03/2020),Chairman/CEO,6/4/10,7/1/21,Executive Director,Yes,CEO
+301,INL,16239,48076,Bob Swan,INTEL CORP,CEO,1/30/19,2/15/21,Executive Director,Yes,CEO
+302,INTC,16239,48076,Bob Swan,INTEL CORP,CEO,1/30/19,2/15/21,Executive Director,Yes,CEO
+303,IPG,16427,48701,Michael Roth,INTERPUBLIC GROUP OF COMPANIES INC,Chairman/CEO,1/19/05,1/1/21,Executive Director,Yes,CEO
+304,IFF,16530,548131,Andreas Fibig,INTERNATIONAL FLAVORS & FRAGRANCES INC,Chairman/CEO,12/1/14,2/14/22,Executive Director,Yes,CEO
+305,INP,16569,621903,Mark Sutton,INTERNATIONAL PAPER CO,Chairman/CEO,1/1/15,,Executive Director,Yes,CEO
+306,INPAP,16569,621903,Mark Sutton,INTERNATIONAL PAPER CO,Chairman/CEO,1/1/15,,Executive Director,Yes,CEO
+307,IP,16569,621903,Mark Sutton,INTERNATIONAL PAPER CO,Chairman/CEO,1/1/15,,Executive Director,Yes,CEO
+308,INTU,16626,444827,Brad Smith,INTUIT INC,Chairman (Executive),1/1/19,1/1/22,Executive Director,Yes,TMT
+309,INTU,16626,556870,Sasan Goodarzi,INTUIT INC,President/CEO,1/1/19,2/1/24,Executive Director,Yes,CEO
+310,ISRG,16627,324511,Doctor Gary Guthart,INTUITIVE SURGICAL INC,President/CEO,1/1/10,5/16/23,Executive Director,Yes,CEO
+311,IPGP,16949,552050,Doctor Valentin Gapontsev,IPG PHOTONICS CORP,Chairman/CEO,1/1/98,5/4/21,Executive Director,Yes,CEO
+312,IRM,17012,1188382,Bill Meaney,IRON MOUNTAIN INC,President/CEO,1/7/13,,Executive Director,Yes,CEO
+313,J,17251,349932,Steve Demetriou,JACOBS SOLUTIONS INC (Jacobs Engineering Group Inc prior to 08/2022),Chairman/CEO,7/28/16,1/24/23,Executive Director,Yes,CEO
+314,JNJ,17478,747756,Alex Gorsky,JOHNSON & JOHNSON,Chairman/CEO,12/28/12,1/3/22,Executive Director,Yes,CEO
+315,CMC,17528,33908,Jamie Dimon,JPMORGAN CHASE & CO,Chairman/CEO,1/30/18,,Executive Director,Yes,CEO
+316,JPM,17528,33908,Jamie Dimon,JPMORGAN CHASE & CO,Chairman/CEO,1/30/18,,Executive Director,Yes,CEO
+317,JNP,17580,1275216,Rami Rahim,JUNIPER NETWORKS INC,CEO,11/10/14,,Executive Director,Yes,CEO
+318,JNPR,17580,1275216,Rami Rahim,JUNIPER NETWORKS INC,CEO,11/10/14,,Executive Director,Yes,CEO
+319,KCY,17690,489655,Pat Ottensmeyer,KANSAS CITY SOUTHERN (De-listed 12/2021),President/CEO,7/1/16,12/14/21,Executive Director,Yes,CEO
+320,KSU,17690,489655,Pat Ottensmeyer,KANSAS CITY SOUTHERN (De-listed 12/2021),President/CEO,7/1/16,12/14/21,Executive Director,Yes,CEO
+321,KSU.PR,17690,489655,Pat Ottensmeyer,KANSAS CITY SOUTHERN (De-listed 12/2021),President/CEO,7/1/16,12/14/21,Executive Director,Yes,CEO
+322,K,17777,455061,Steve Cahillane,KELLANOVA CO (Kellogg Co prior to 10/2023),Chairman/President/CEO,3/16/18,,Executive Director,Yes,CEO
+323,KEY,17862,50551,Beth Mooney,KEYCORP,Chairman/President/CEO,5/1/11,5/1/20,Executive Director,No,CEO
+324,KIM,17915,142173,Milton Cooper,KIMCO REALTY CORP,Chairman (Executive),12/31/09,,Executive Director,Yes,TMT
+325,KIM,17915,888666,Conor Flynn,KIMCO REALTY CORP,CEO,2/27/17,,Executive Director,Yes,CEO
+326,K,17958,889546,J Rollinson,KINROSS GOLD CORP,President/CEO,10/1/14,,Executive Director,Yes,CEO
+327,KLA,17984,51071,Rick Wallace,KLA CORP (KLA Tencor Corp prior to 07/2019),President/CEO,11/13/08,,Executive Director,Yes,CEO
+328,KLAC,17984,51071,Rick Wallace,KLA CORP (KLA Tencor Corp prior to 07/2019),President/CEO,11/13/08,,Executive Director,Yes,CEO
+329,MDLZ,18164,640369,Doctor Dirk van de Put,MONDELEZ INTERNATIONAL INC,Chairman/CEO,4/1/18,,Executive Director,Yes,CEO
+330,KR,18195,35937,William McMullen,KROGER CO,Chairman/CEO,1/1/15,,Executive Director,Yes,CEO
+331,LH,18319,205961,Dave King,LABORATORY CORP OF AMERICA HLDGS (LABCORP),Chairman (Executive),10/31/19,5/13/20,Executive Director,No,TMT
+332,LH,18319,495421,Adam Schechter,LABORATORY CORP OF AMERICA HLDGS (LABCORP),President/CEO,11/1/19,5/13/20,Executive Director,No,CEO
+333,LAR,18384,487342,Tim Archer,LAM RESEARCH CORP,President/CEO,12/5/18,,Executive Director,Yes,CEO
+334,LRCX,18384,487342,Tim Archer,LAM RESEARCH CORP,President/CEO,12/5/18,,Executive Director,Yes,CEO
+335,LEN,18703,61812,Stuart Miller,LENNAR CORP,Chairman (Executive),4/11/18,9/1/23,Executive Director,Yes,TMT
+336,LEN.B,18703,61812,Stuart Miller,LENNAR CORP,Chairman (Executive),4/11/18,9/1/23,Executive Director,Yes,TMT
+337,LEN,18703,67887,Rick Beckwitt,LENNAR CORP,CEO,4/11/18,11/2/20,Executive Director,Yes,CEO
+338,LEN.B,18703,67887,Rick Beckwitt,LENNAR CORP,CEO,4/11/18,11/2/20,Executive Director,Yes,CEO
+339,LLY,18888,1068880,Dave Ricks,ELI LILLY & CO,Chair/President/CEO,6/1/17,,Executive Director,Yes,CEO
+340,BBWI,18892,53436,Leslie Wexner,BATH & BODY WORKS INC (L Brands Inc prior to 08/2021),Chairman/CEO,1/1/02,5/14/20,Executive Director,No,CEO
+341,LNC,18908,54612,Dennis Glass,LINCOLN NATIONAL CORP,President/CEO,7/6/07,5/27/22,Executive Director,Yes,CEO
+342,LMT,19048,202548,Marillyn Hewson,LOCKHEED MARTIN CORP,Chairman/President/CEO,1/1/14,6/15/20,Executive Director,Yes,CEO
+343,LOM,19048,202548,Marillyn Hewson,LOCKHEED MARTIN CORP,Chairman/President/CEO,1/1/14,6/15/20,Executive Director,Yes,CEO
+344,L,19065,11269,Andrew Tisch,LOEWS CORP,Co-Chairman,1/10/06,12/31/21,Executive Director,Yes,TMT
+345,LTR,19065,11269,Andrew Tisch,LOEWS CORP,Co-Chairman,1/10/06,12/31/21,Executive Director,Yes,TMT
+346,L,19065,36800,Jim Tisch,LOEWS CORP,President/CEO,1/1/99,,Executive Director,Yes,CEO
+347,LTR,19065,36800,Jim Tisch,LOEWS CORP,President/CEO,1/1/99,,Executive Director,Yes,CEO
+348,L,19065,36825,Jon Tisch,LOEWS CORP,Co-Chairman,1/10/06,,Executive Director,Yes,TMT
+349,LTR,19065,36825,Jon Tisch,LOEWS CORP,Co-Chairman,1/10/06,,Executive Director,Yes,TMT
+350,LOW,19193,489833,Marvin Ellison,LOWE'S COS INC,President/CEO,7/2/18,6/1/21,Executive Director,Yes,CEO
+351,MTB,19327,484476,Rene Jones,M&T BANK CORP,Chairman/CEO,12/20/17,,Executive Director,Yes,CEO
+352,MAQ,19706,24849,Bill Marriott Jr,MARRIOTT INTERNATIONAL INC,Chairman (Executive),3/31/12,5/6/22,Executive Director,Yes,TMT
+353,MAR,19706,24849,Bill Marriott Jr,MARRIOTT INTERNATIONAL INC,Chairman (Executive),3/31/12,5/6/22,Executive Director,Yes,TMT
+354,MAQ,19706,38571,Arne Sorenson,MARRIOTT INTERNATIONAL INC,President/CEO,3/31/12,2/15/21,Executive Director,Yes,CEO
+355,MAR,19706,38571,Arne Sorenson,MARRIOTT INTERNATIONAL INC,President/CEO,3/31/12,2/15/21,Executive Director,Yes,CEO
+356,MHM,19713,592845,Dan Glaser,MARSH & MCLENNAN COMPANIES INC,President/CEO,1/1/13,12/31/22,Executive Director,Yes,CEO
+357,MMC,19713,592845,Dan Glaser,MARSH & MCLENNAN COMPANIES INC,President/CEO,1/1/13,12/31/22,Executive Director,Yes,CEO
+358,MSN,19713,592845,Dan Glaser,MARSH & MCLENNAN COMPANIES INC,President/CEO,1/1/13,12/31/22,Executive Director,Yes,CEO
+359,MLM,19739,841525,Ward Nye,MARTIN MARIETTA MATERIALS INC,Chairman/President/CEO,5/22/14,,Executive Director,Yes,CEO
+360,MAS,19758,1135450,Keith Allman,MASCO CORP,President/CEO,2/14/14,,Executive Director,Yes,CEO
+361,MXI,19863,36387,Tunc Doluca,MAXIM INTEGRATED PRODUCTS INC (De-listed 08/2021),President/CEO,1/1/07,8/26/21,Executive Director,Yes,CEO
+362,MXIM,19863,36387,Tunc Doluca,MAXIM INTEGRATED PRODUCTS INC (De-listed 08/2021),President/CEO,1/1/07,8/26/21,Executive Director,Yes,CEO
+363,MKC,19939,481697,Lawrence Kurzius,MCCORMICK & CO INC,Chairman/President/CEO,1/31/17,6/1/22,Executive Director,Yes,CEO
+364,MKC.V,19939,481697,Lawrence Kurzius,MCCORMICK & CO INC,Chairman/President/CEO,1/31/17,6/1/22,Executive Director,Yes,CEO
+365,MCD,19944,1381393,Chris Kempczinski,MCDONALD'S CORP,President/CEO,11/1/19,,Executive Director,Yes,CEO
+366,MDO,19944,1381393,Chris Kempczinski,MCDONALD'S CORP,President/CEO,11/1/19,,Executive Director,Yes,CEO
+367,SPGI,19953,604942,Doug Peterson,S&P GLOBAL INC (McGraw Hill Financial Inc prior to 04/2016),President/CEO,11/1/13,,Executive Director,Yes,CEO
+368,MCK,19966,509859,Doctor Brian Tyler,MCKESSON CORP (McKesson HBOC Inc prior to 08/2001),CEO,4/1/19,,Executive Director,Yes,CEO
+369,MET,20426,1135745,Michel Khalaf,METLIFE INC,President/CEO,5/1/19,,Executive Director,Yes,CEO
+370,MET.PRA,20426,1135745,Michel Khalaf,METLIFE INC,President/CEO,5/1/19,,Executive Director,Yes,CEO
+371,MWZ,20426,1135745,Michel Khalaf,METLIFE INC,President/CEO,5/1/19,,Executive Director,Yes,CEO
+372,MTD,20478,205031,Olivier Filliol,METTLER TOLEDO INTERNATIONAL INC,President/CEO,1/1/09,3/31/21,Executive Director,Yes,CEO
+373,MCHP,20566,61502,Steve Sanghi,MICROCHIP TECHNOLOGY INC,Chairman/CEO,2/3/16,3/1/21,Executive Director,Yes,CEO
+374,MCP,20566,61502,Steve Sanghi,MICROCHIP TECHNOLOGY INC,Chairman/CEO,2/3/16,3/1/21,Executive Director,Yes,CEO
+375,MTE,20589,205405,Sanjay Mehrotra,MICRON TECHNOLOGY INC,President/CEO,5/8/17,,Executive Director,Yes,CEO
+376,MU,20589,205405,Sanjay Mehrotra,MICRON TECHNOLOGY INC,President/CEO,5/8/17,,Executive Director,Yes,CEO
+377,MTE,20589,2554735,K Hsu,MICRON TECHNOLOGY INC,Chairman/Regional VP,8/1/15,1/1/21,Executive Director,Yes,TMT
+378,MU,20589,2554735,K Hsu,MICRON TECHNOLOGY INC,Chairman/Regional VP,8/1/15,1/1/21,Executive Director,Yes,TMT
+379,MSF,20601,499383,Satya Nadella,MICROSOFT CORP,CEO,2/4/14,6/16/21,Executive Director,Yes,CEO
+380,MSFT,20601,499383,Satya Nadella,MICROSOFT CORP,CEO,2/4/14,6/16/21,Executive Director,Yes,CEO
+381,MAA,20625,341827,H Bolton Jr,MID-AMERICA APARTMENT COMMUNITIES INC,Chairman/President/CEO,10/1/02,,Executive Director,Yes,CEO
+382,MMM,20777,1310783,Mike Roman,3M CO (Minnesota Mining & Manufacturing Co prior to 02/2002),Chairman/President/CEO,6/1/19,9/1/23,Executive Director,Yes,CEO
+383,MHK,20964,64542,Jeff Lorberbaum,MOHAWK INDUSTRIES INC,Chairman/CEO,11/4/09,,Executive Director,Yes,CEO
+384,MCO,21071,49681,Raymond McDaniel Jr,MOODYS CORP,President/CEO,4/19/12,12/31/20,Executive Director,Yes,CEO
+385,MS,21105,34080,James Gorman,MORGAN STANLEY (Morgan Stanley Dean Witter & Co prior to 07/2002),Chairman/CEO,1/1/12,1/1/24,Executive Director,Yes,CEO
+386,MSI,21174,42861,Greg Brown,MOTOROLA SOLUTIONS INC,Chairman/CEO,5/3/11,,Executive Director,Yes,CEO
+387,,21553,207048,Clay Williams,NOV INC (National Oilwell Varco Inc prior to 01/2021),Chairman/President/CEO,5/30/14,,Executive Director,Yes,CEO
+388,NO8,21553,207048,Clay Williams,NOV INC (National Oilwell Varco Inc prior to 01/2021),Chairman/President/CEO,5/30/14,,Executive Director,Yes,CEO
+389,NOV,21553,207048,Clay Williams,NOV INC (National Oilwell Varco Inc prior to 01/2021),Chairman/President/CEO,5/30/14,,Executive Director,Yes,CEO
+390,NTA,21903,1448606,George Kurian,NETAPP INC (Network Appliance Inc prior to 03/2008),President/CEO,5/20/16,7/1/20,Executive Director,Yes,CEO
+391,NTAP,21903,1448606,George Kurian,NETAPP INC (Network Appliance Inc prior to 03/2008),President/CEO,5/20/16,7/1/20,Executive Director,Yes,CEO
+392,NWL,22048,447647,Ravi Saligram,NEWELL BRANDS INC (Newell Rubbermaid Inc prior to 04/2016),President/CEO,10/2/19,5/5/22,Executive Director,Yes,CEO
+393,NEM,22069,1378869,Tom Palmer,NEWMONT CORP (Newmont Goldcorp Corp prior to 01/2020),President/CEO,10/1/19,,Executive Director,Yes,CEO
+394,NI,22260,594908,Joe Hamrock,NISOURCE INC (NIPSCO Industries Inc prior to 04/1999),President/CEO,7/1/15,2/14/22,Executive Director,Yes,CEO
+395,NSC,22412,534106,Jim Squires,NORFOLK SOUTHERN CORP,Chairman/President/CEO,10/1/15,12/1/21,Executive Director,Yes,CEO
+396,NT4,22509,1122917,Mike O'Grady,NORTHERN TRUST CORP,Chairman/President/CEO,1/23/19,,Executive Director,Yes,CEO
+397,NTRS,22509,1122917,Mike O'Grady,NORTHERN TRUST CORP,Chairman/President/CEO,1/23/19,,Executive Director,Yes,CEO
+398,NOC,22521,1255302,Kathy Warden,NORTHROP GRUMMAN CORP,Chair/President/CEO,8/1/19,,Executive Director,Yes,CEO
+399,NTH,22521,1255302,Kathy Warden,NORTHROP GRUMMAN CORP,Chair/President/CEO,8/1/19,,Executive Director,Yes,CEO
+400,NRG,22626,598675,Mauricio Gutierrez,NRG ENERGY INC,President/CEO,1/4/16,11/17/23,Executive Director,Yes,CEO
+401,ES,22660,206005,Jim Judge,EVERSOURCE ENERGY (Northeast Utilities prior to 02/2015),Chairman/President/CEO,5/3/17,5/5/21,Executive Director,Yes,CEO
+402,NVD,22806,83377,Jensen Huang,NVIDIA CORP,President/CEO,4/1/93,,Executive Director,Yes,CEO
+403,NVDA,22806,83377,Jensen Huang,NVIDIA CORP,President/CEO,4/1/93,,Executive Director,Yes,CEO
+404,OPC,22899,1304382,Vicki Hollub,OCCIDENTAL PETROLEUM CORP,President/CEO,4/29/16,,Executive Director,Yes,CEO
+405,OXY,22899,1304382,Vicki Hollub,OCCIDENTAL PETROLEUM CORP,President/CEO,4/29/16,,Executive Director,Yes,CEO
+406,ODFL,23040,272624,Earl Congdon Jr,OLD DOMINION FREIGHT LINE INC,Senior Chairman (Executive),5/16/18,1/1/21,Executive Director,Yes,TMT
+407,ODFL,23040,272632,David Congdon,OLD DOMINION FREIGHT LINE INC,Chairman (Executive),5/16/18,,Executive Director,Yes,TMT
+408,ODFL,23040,896206,Greg Gantt,OLD DOMINION FREIGHT LINE INC,President/CEO,5/16/18,6/30/23,Executive Director,Yes,CEO
+409,OMC,23113,35509,John Wren III,OMNICOM GROUP INC,Chairman/CEO,5/22/18,,Executive Director,Yes,CEO
+410,ON,23134,200418,Keith Jackson,ON SEMICONDUCTOR CORP,President/CEO,11/19/02,12/7/20,Executive Director,Yes,CEO
+411,OKE,23165,620137,Terry Spencer,ONEOK INC (WAI Inc prior to 11/1997),President/CEO,1/31/14,6/28/21,Executive Director,Yes,CEO
+412,ORC,23295,27485,Larry Ellison,ORACLE CORP,Executive Chairman/Chief Technology Officer,9/17/14,,Executive Director,Yes,TMT
+413,ORCL,23295,27485,Larry Ellison,ORACLE CORP,Executive Chairman/Chief Technology Officer,9/17/14,,Executive Director,Yes,TMT
+414,ORC,23295,33468,Jeff Henley,ORACLE CORP,Vice Chairman (Executive),9/17/14,,Executive Director,Yes,TMT
+415,ORCL,23295,33468,Jeff Henley,ORACLE CORP,Vice Chairman (Executive),9/17/14,,Executive Director,Yes,TMT
+416,ORC,23295,33503,Safra Catz,ORACLE CORP,CEO,10/18/19,,Executive Director,Yes,CEO
+417,ORCL,23295,33503,Safra Catz,ORACLE CORP,CEO,10/18/19,,Executive Director,Yes,CEO
+418,ORLY,23350,102852,David O'Reilly,O'REILLY AUTOMOTIVE INC,Chairman (Executive),2/24/05,5/13/21,Executive Director,Yes,TMT
+419,ORLY,23350,204705,Greg Henslee,O'REILLY AUTOMOTIVE INC,Vice Chairman (Executive),5/8/18,5/13/21,Executive Director,Yes,TMT
+420,PCAR,23563,51632,Mark Pigott,PACCAR INC,Chairman (Executive),4/27/14,,Executive Director,Yes,TMT
+421,PCAR,23563,1526154,R Feight,PACCAR INC,CEO,7/1/19,,Executive Director,Yes,CEO
+422,PKG,23635,205273,Mark Kowlzan,PACKAGING CORP OF AMERICA,Chairman/CEO,1/1/16,,Executive Director,Yes,CEO
+423,PH,23834,502142,Tom Williams,PARKER-HANNIFIN CORP,Chairman/CEO,1/1/16,1/1/23,Executive Director,Yes,CEO
+424,PAYX,23945,39151,Martin Mucci,PAYCHEX INC,President/CEO,10/14/10,12/1/21,Executive Director,Yes,CEO
+425,PCX,23945,39151,Martin Mucci,PAYCHEX INC,President/CEO,10/14/10,12/1/21,Executive Director,Yes,CEO
+426,PEP,24151,1304732,Ramon Laguarta,PEPSICO INC,Chairman/President/CEO,2/1/19,,Executive Director,Yes,CEO
+427,PCG,24303,47996,Bill Johnson,PG&E CORP,President/CEO,6/21/19,6/30/20,Executive Director,Yes,CEO
+428,COP,24355,486834,Ryan Lance,CONOCOPHILLIPS COMPANY,Chairman/CEO,5/1/12,,Executive Director,Yes,CEO
+429,YCP,24355,486834,Ryan Lance,CONOCOPHILLIPS COMPANY,Chairman/CEO,5/1/12,,Executive Director,Yes,CEO
+430,PVH,24356,207452,Manny Chirico,PVH CORP,Chairman/CEO,6/19/07,2/1/21,Executive Director,Yes,CEO
+431,PNW,24493,891832,Jeff Guldner,PINNACLE WEST CAPITAL CORP,Chairman/President/CEO,11/15/19,,Executive Director,Yes,CEO
+432,PWC,24493,891832,Jeff Guldner,PINNACLE WEST CAPITAL CORP,Chairman/President/CEO,11/15/19,,Executive Director,Yes,CEO
+433,PXD,24506,66062,Scott Sheffield,PIONEER NATURAL RESOURCES CO,President/CEO,2/21/19,1/1/21,Executive Director,Yes,CEO
+434,PNC,24669,44576,William Demchak,PNC FINANCIAL SERVICES GROUP INC,Chairman/President/CEO,4/22/14,2/20/24,Executive Director,Yes,CEO
+435,PNCFO,24669,44576,William Demchak,PNC FINANCIAL SERVICES GROUP INC,Chairman/President/CEO,4/22/14,2/20/24,Executive Director,Yes,CEO
+436,PNP,24669,44576,William Demchak,PNC FINANCIAL SERVICES GROUP INC,Chairman/President/CEO,4/22/14,2/20/24,Executive Director,Yes,CEO
+437,RL,24726,220546,Ralph Lauren,RALPH LAUREN CORP,Executive Chairman/Chief Creative Officer,11/2/15,,Executive Director,Yes,TMT
+438,RL,24726,884348,Patrice Louvet,RALPH LAUREN CORP,President/CEO,7/3/17,,Executive Director,Yes,CEO
+439,RL,24726,1319543,David Lauren,RALPH LAUREN CORP,Vice Chairman/Chief Innovation Officer,10/7/16,3/1/22,Executive Director,Yes,TMT
+440,PPG,24887,624113,Michael McGarry,PPG INDUSTRIES INC,Chairman/CEO,9/1/16,1/1/23,Executive Director,Yes,CEO
+441,PPL,24890,333782,Bill Spence,PPL CORP,Chairman/CEO,7/1/19,5/31/20,Executive Director,Yes,CEO
+442,TR1,25020,489855,Bill Stromberg,T ROWE PRICE GROUP INC,Chairman/President/CEO,4/25/19,2/11/21,Executive Director,Yes,CEO
+443,TROW,25020,489855,Bill Stromberg,T ROWE PRICE GROUP INC,Chairman/President/CEO,4/25/19,2/11/21,Executive Director,Yes,CEO
+444,BKNG,25022,549248,Glenn Fogel,BOOKING HOLDINGS INC (Priceline Group Inc (The) prior to 02/2018),President/CEO/Division CEO,6/26/19,,Executive Director,Yes,CEO
+445,PFG,25087,333969,Dan Houston,PRINCIPAL FINANCIAL GROUP INC,Chairman/President/CEO,5/17/16,,Executive Director,Yes,CEO
+446,PG,25150,549272,David Taylor,PROCTER & GAMBLE CO,Chairman/President/CEO,7/1/16,11/1/21,Executive Director,Yes,CEO
+447,PRG,25150,549272,David Taylor,PROCTER & GAMBLE CO,Chairman/President/CEO,7/1/16,11/1/21,Executive Director,Yes,CEO
+448,PGR,25199,40291,Tricia Griffith,PROGRESSIVE CORP (OHIO),President/CEO,7/1/16,,Executive Director,Yes,CEO
+449,PGV,25199,40291,Tricia Griffith,PROGRESSIVE CORP (OHIO),President/CEO,7/1/16,,Executive Director,Yes,CEO
+450,PRU,25332,885991,Charlie Lowrey Jr,PRUDENTIAL FINANCIAL INC,Chairman/President/CEO,4/5/19,,Executive Director,Yes,CEO
+451,PEG,25378,204007,Doctor Ralph Izzo,PUBLIC SERVICE ENTERPRISE GROUP INC,Chairman/President/CEO,4/1/07,8/31/22,Executive Director,Yes,CEO
+452,PSE,25378,204007,Doctor Ralph Izzo,PUBLIC SERVICE ENTERPRISE GROUP INC,Chairman/President/CEO,4/1/07,8/31/22,Executive Director,Yes,CEO
+453,PSA,25380,270150,Joe Russell Jr,PUBLIC STORAGE (Public Storage Inc prior to 06/2007),President/CEO,1/1/19,,Executive Director,Yes,CEO
+454,PUP,25380,270150,Joe Russell Jr,PUBLIC STORAGE (Public Storage Inc prior to 06/2007),President/CEO,1/1/19,,Executive Director,Yes,CEO
+455,PHM,25407,1308442,Ryan Marshall,PULTEGROUP INC,President/CEO,9/8/16,,Executive Director,Yes,CEO
+456,QCI,25529,34486,Doctor Irwin Jacobs,QUALCOMM INC,Chairman/CEO Emeritus,3/6/12,,Executive Director,Yes,CEO
+457,QCOM,25529,34486,Doctor Irwin Jacobs,QUALCOMM INC,Chairman/CEO Emeritus,3/6/12,,Executive Director,Yes,CEO
+458,QCI,25529,640531,Steve Mollenkopf,QUALCOMM INC,CEO,3/4/14,6/30/21,Executive Director,Yes,CEO
+459,QCOM,25529,640531,Steve Mollenkopf,QUALCOMM INC,CEO,3/4/14,6/30/21,Executive Director,Yes,CEO
+460,PWR,25544,1048547,Duke Austin Jr,QUANTA SERVICES INC,President/CEO/COO,3/14/16,1/26/22,Executive Director,Yes,CEO
+461,DGX,25578,37246,Steve Rusckowski,QUEST DIAGNOSTICS INC,Chairman/President/CEO,1/1/17,11/1/22,Executive Director,Yes,CEO
+462,QDI,25578,37246,Steve Rusckowski,QUEST DIAGNOSTICS INC,Chairman/President/CEO,1/1/17,11/1/22,Executive Director,Yes,CEO
+463,RJF,25808,275776,Paul Reilly,RAYMOND JAMES FINANCIAL INC,Chairman/CEO,2/16/17,,Executive Director,Yes,CEO
+464,O,25864,1128307,Sumit Roy,REALTY INCOME CORP,President/CEO,10/16/18,,Executive Director,Yes,CEO
+465,REGN,25954,201093,Doctor Len Schleifer,REGENERON PHARMACEUTICALS INC,President/CEO,1/1/94,6/9/23,Executive Director,Yes,CEO
+466,RGO,25954,201093,Doctor Len Schleifer,REGENERON PHARMACEUTICALS INC,President/CEO,1/1/94,6/9/23,Executive Director,Yes,CEO
+467,RSG,26097,205673,Don Slager,REPUBLIC SERVICES INC,CEO,5/1/19,5/21/21,Executive Director,Yes,CEO
+468,RMD,26113,1089889,Mick Farrell,RESMED INC,CEO,3/1/13,1/25/23,Executive Director,Yes,CEO
+469,RHI,26429,81557,Harold Messmer Jr,ROBERT HALF INC (Robert Half International Inc prior to 07/2023),Chairman (Executive),12/15/19,,Executive Director,Yes,TMT
+470,RHJ,26429,81557,Harold Messmer Jr,ROBERT HALF INC (Robert Half International Inc prior to 07/2023),Chairman (Executive),12/15/19,,Executive Director,Yes,TMT
+471,RHI,26429,81587,Michael Waddell,ROBERT HALF INC (Robert Half International Inc prior to 07/2023),Vice Chairman/CEO/President,12/15/19,,Executive Director,Yes,CEO
+472,RHJ,26429,81587,Michael Waddell,ROBERT HALF INC (Robert Half International Inc prior to 07/2023),Vice Chairman/CEO/President,12/15/19,,Executive Director,Yes,CEO
+473,ROK,26468,1108705,Blake Moret,ROCKWELL AUTOMATION INC,Chairman/President/CEO,1/1/18,,Executive Director,Yes,CEO
+474,RWL,26468,1108705,Blake Moret,ROCKWELL AUTOMATION INC,Chairman/President/CEO,1/1/18,,Executive Director,Yes,CEO
+475,ROL,26519,44241,Richard Rollins Sr,ROLLINS INC,Chairman,7/24/01,8/17/20,Executive Director,Yes,TMT
+476,ROL,26519,141669,Gary Rollins,ROLLINS INC,Vice Chairman/CEO,1/22/13,8/25/20,Executive Director,Yes,CEO
+477,ROP,26544,796522,Laurence Hunn,ROPER TECHNOLOGIES INC (Roper Industries Inc prior to 04/2015),President/CEO,9/19/18,,Executive Director,Yes,CEO
+478,ROST,26560,487157,Barbara Rentler,ROSS STORES INC,CEO,6/1/14,5/19/21,Executive Director,Yes,CEO
+479,RSO,26560,487157,Barbara Rentler,ROSS STORES INC,CEO,6/1/14,5/19/21,Executive Director,Yes,CEO
+480,RCL,26625,13413,Richard Fain,ROYAL CARIBBEAN CRUISES LTD (ROYAL CARIBBEAN GROUP),Chairman/CEO,4/1/88,1/3/22,Executive Director,Yes,CEO
+481,SBAC,27160,346056,Jeff Stoops,SBA COMMUNICATIONS CORP,President/CEO,1/1/02,12/31/23,Executive Director,Yes,CEO
+482,T,27163,33072,Randall Stephenson Jr,AT&T INC (SBC Communications Inc prior to 11/2005),Chairman/CEO,10/1/19,7/1/20,Executive Director,Yes,CEO
+483,6MK,27219,31551,Ken Frazier,MERCK & CO INC (Schering-Plough Corp prior to 11/2009),Chairman/President/CEO,12/1/11,4/1/21,Executive Director,Yes,CEO
+484,MRK,27219,31551,Ken Frazier,MERCK & CO INC (Schering-Plough Corp prior to 11/2009),Chairman/President/CEO,12/1/11,4/1/21,Executive Director,Yes,CEO
+485,SCL,27242,484858,Olivier Le Peuch,SCHLUMBERGER LIMITED,CEO,8/1/19,,Executive Director,Yes,CEO
+486,SLB,27242,484858,Olivier Le Peuch,SCHLUMBERGER LIMITED,CEO,8/1/19,,Executive Director,Yes,CEO
+487,SCHW,27292,957,Chuck Schwab Jr,CHARLES SCHWAB CORP,Chairman (Executive),10/1/08,7/27/22,Executive Director,Yes,TMT
+488,SCHW,27292,486476,Walt Bettinger II,CHARLES SCHWAB CORP,President/CEO,10/1/08,10/15/21,Executive Director,Yes,CEO
+489,POOL,27358,1351667,Pete Arvan,POOL CORP (SCP Pool prior to 05/2006),President/CEO,7/31/19,,Executive Director,Yes,CEO
+490,SDA,27418,516421,Ted Doheny II,SEALED AIR CORP,President/CEO,1/1/18,10/23/23,Executive Director,Yes,CEO
+491,SEE,27418,516421,Ted Doheny II,SEALED AIR CORP,President/CEO,1/1/18,10/23/23,Executive Director,Yes,CEO
+492,SHW,27786,60662,John Morikis,SHERWIN-WILLIAMS CO,Chairman/CEO,3/1/19,3/12/21,Executive Director,Yes,CEO
+493,SPG,28041,70877,David Simon,SIMON PROPERTY GROUP INC,Chairman/President/CEO,2/15/19,,Executive Director,Yes,CEO
+494,SPG,28041,141036,Richard Sokolov,SIMON PROPERTY GROUP INC,Vice Chairman,2/15/19,,Executive Director,Yes,TMT
+495,SLG,28228,181802,Marc Holliday,SL GREEN REALTY CORP,Chairman/CEO,1/1/19,12/31/23,Executive Director,Yes,CEO
+496,AOS,28304,484111,Ajita Rajendra,SMITH (AO) CORP,Chairman (Executive),9/1/18,5/1/20,Executive Director,No,TMT
+497,AOS,28304,1302544,Kevin Wheeler,SMITH (AO) CORP,President/CEO,9/1/18,5/1/20,Executive Director,No,CEO
+498,SJM,28325,43611,Richard Smucker,J. M. SMUCKER CO (THE),Chairman (Executive),5/1/16,8/17/22,Executive Director,Yes,TMT
+499,SJM,28325,548682,Mark Smucker,J. M. SMUCKER CO (THE),President/CEO,5/1/16,8/17/22,Executive Director,Yes,CEO
+500,SNA,28335,206568,Nick Pinchuk,SNAP-ON INC,Chairman/President/CEO,4/23/09,,Executive Director,Yes,CEO
+501,SO,28665,325858,Tom Fanning,SOUTHERN CO,Chairman/President/CEO,12/1/10,3/31/23,Executive Director,Yes,CEO
+502,LUV,28696,44881,Gary Kelly,SOUTHWEST AIRLINES CO,Chairman/CEO,1/10/17,2/1/22,Executive Director,Yes,CEO
+503,SWK,29065,204774,Jim Loree,STANLEY BLACK & DECKER INC,President/CEO,8/1/16,2/23/21,Executive Director,Yes,CEO
+504,SBUX,29093,31844,Kevin Johnson,STARBUCKS CORP,President/CEO,4/3/17,4/4/22,Executive Director,Yes,CEO
+505,SRB,29093,31844,Kevin Johnson,STARBUCKS CORP,President/CEO,4/3/17,4/4/22,Executive Director,Yes,CEO
+506,SYK,29405,1117420,Kevin Lobo,STRYKER CORP,Chair/CEO,8/1/18,10/1/21,Executive Director,Yes,CEO
+507,SNPS,29816,64702,Doctor Aart De Geus,SYNOPSYS INC,Chairman/Co-CEO,5/21/12,4/30/22,Executive Director,Yes,CEO
+508,SNPS,29816,64712,Doctor Chi-Foon Chan,SYNOPSYS INC,President/Co-CEO,5/21/12,11/1/21,Executive Director,Yes,CEO
+509,TTWO,29924,333171,Strauss Zelnick,TAKE TWO INTERACTIVE SOFTWARE INC,Chairman (Executive)/CEO,1/1/11,,Executive Director,Yes,CEO
+510,DYH,29978,34696,Bill Andres,TARGET CORP,Chairman/CEO,,,Executive Director,No,CEO
+511,TGT,29978,34696,Bill Andres,TARGET CORP,Chairman/CEO,,,Executive Director,No,CEO
+512,DYH,29978,310363,Brian Cornell,TARGET CORP,Chair/CEO,8/12/14,,Executive Director,Yes,CEO
+513,TGT,29978,310363,Brian Cornell,TARGET CORP,Chair/CEO,8/12/14,,Executive Director,Yes,CEO
+514,TDY,30261,36111,Professor Doctor Robert Mehrabian,TELEDYNE TECHNOLOGIES INC,Chairman (Executive),1/1/19,10/15/21,Executive Director,Yes,TMT
+515,TFX,30265,1115309,Liam Kelly,TELEFLEX INC,President/CEO,5/4/18,5/1/20,Executive Director,No,CEO
+516,T,30372,336808,Darren Entwistle,TELUS CORP,President/CEO,8/10/15,,Executive Director,Yes,CEO
+517,TER,30437,488571,Mark Jagiela,TERADYNE INC,President/CEO,2/1/14,7/1/22,Executive Director,Yes,CEO
+518,TEY,30437,488571,Mark Jagiela,TERADYNE INC,President/CEO,2/1/14,7/1/22,Executive Director,Yes,CEO
+519,TXN,30509,13520,Rich Templeton,TEXAS INSTRUMENTS INC,Chairman/President/CEO,7/17/18,4/1/23,Executive Director,Yes,CEO
+520,TXT,30529,32459,Scott Donnelly,TEXTRON INC,Chairman/President/CEO,9/1/10,,Executive Director,Yes,CEO
+521,TMO,30616,2810399,Delete Delete,THERMO FISHER SCIENTIFIC INC (Thermo Electron Corp prior to 11/2006),Chairman/VP/Treasurer,,,Executive Director,No,TMT
+522,TN8,30616,2810399,Delete Delete,THERMO FISHER SCIENTIFIC INC (Thermo Electron Corp prior to 11/2006),Chairman/VP/Treasurer,,,Executive Director,No,TMT
+523,TJX,30801,38966,Carol Meyrowitz,TJX COS INC,Chairman (Executive),1/31/16,,Executive Director,Yes,TMT
+524,TJX,30801,540575,Ernie Herrman,TJX COS INC,President/CEO,1/31/16,,Executive Director,Yes,CEO
+525,GL,30937,58941,Gary Coleman,GLOBE LIFE INC (Torchmark Corp prior to 08/2019),Co-Chairman/Co-CEO,4/24/14,12/31/22,Executive Director,Yes,CEO
+526,GL,30937,58946,Larry Hutchison,GLOBE LIFE INC (Torchmark Corp prior to 08/2019),Co-Chairman/Co-CEO,4/24/14,12/31/22,Executive Director,Yes,CEO
+527,TYL,31558,325222,John Marr Jr,TYLER TECHNOLOGIES INC,Chairman (Executive),5/10/18,,Executive Director,Yes,TMT
+528,TYL,31558,325238,H Moore Jr,TYLER TECHNOLOGIES INC,President/CEO,5/10/18,,Executive Director,Yes,CEO
+529,TSN,31563,140460,John Tyson,TYSON FOODS INC,Chairman (Executive),11/17/11,,Executive Director,Yes,TMT
+530,TSN,31563,453851,Noel White,TYSON FOODS INC,CEO,12/20/19,10/3/20,Executive Director,Yes,CEO
+531,UAL,31575,160071,Oscar Munoz,UNITED AIRLINES HOLDINGS INC (United Continental Holdings Inc prior to 07/2019),CEO,8/29/16,5/20/20,Executive Director,No,CEO
+532,UNP,31786,603672,Lance Fritz,UNION PACIFIC CORP,Chairman/President/CEO,10/1/15,8/14/23,Executive Director,Yes,CEO
+533,UHS,31865,81852,Alan Miller,UNIVERSAL HEALTH SERVICES INC,Chairman/CEO,5/20/09,1/1/21,Executive Director,Yes,CEO
+534,UNM,31898,340641,Rick McKenney,UNUM GROUP (UnumProvident Corp prior to 03/2007),President/CEO,5/21/15,,Executive Director,Yes,CEO
+535,UUM,31898,340641,Rick McKenney,UNUM GROUP (UnumProvident Corp prior to 03/2007),President/CEO,5/21/15,,Executive Director,Yes,CEO
+536,USB,31946,34167,Andy Cecere,US BANCORP,Chairman/President/CEO,4/17/18,,Executive Director,Yes,CEO
+537,USB.PRA,31946,34167,Andy Cecere,US BANCORP,Chairman/President/CEO,4/17/18,,Executive Director,Yes,CEO
+538,USB.PRH,31946,34167,Andy Cecere,US BANCORP,Chairman/President/CEO,4/17/18,,Executive Director,Yes,CEO
+539,MTCH,32019,33328,Barry Diller,MATCH GROUP INC (IAC InterActiveCorp prior to 07/2020),Chairman (Executive),12/1/10,6/30/20,Executive Director,Yes,TMT
+540,MTCH,32019,43526,Victor Kaufman,MATCH GROUP INC (IAC InterActiveCorp prior to 07/2020),Vice Chairman (Executive),10/1/99,6/30/20,Executive Director,Yes,TMT
+541,MTCH,32019,641282,Joey Levin,MATCH GROUP INC (IAC InterActiveCorp prior to 07/2020),CEO,6/24/15,6/30/20,Executive Director,Yes,CEO
+542,MRO,32067,1314672,Lee Tillman,MARATHON OIL CORP (USX Marathon Group prior to 01/2002),Chairman/President/CEO,2/1/19,,Executive Director,Yes,CEO
+543,UDR,32094,181650,Tom Toomey,UDR INC (United Dominion Realty Trust Inc prior to 03/2007),Chairman/CEO,1/1/19,,Executive Director,Yes,CEO
+544,UNH,32107,333999,Dave Wichmann,UNITEDHEALTH GROUP INC,CEO,9/1/17,2/4/21,Executive Director,Yes,CEO
+545,UPS,32137,41806,David Abney,UNITED PARCEL SERVICE (UPS) INC,Chairman/CEO,2/10/16,6/1/20,Executive Director,Yes,CEO
+546,URI,32144,628081,Matt Flannery,UNITED RENTALS INC,President/CEO,5/8/19,,Executive Director,Yes,CEO
+547,VAR,32375,453565,Dow Wilson,VARIAN MEDICAL SYSTEMS INC (De-listed 04/2021),President/CEO,9/29/12,10/5/20,Executive Director,Yes,CEO
+548,VNM,32375,453565,Dow Wilson,VARIAN MEDICAL SYSTEMS INC (De-listed 04/2021),President/CEO,9/29/12,10/5/20,Executive Director,Yes,CEO
+549,VTR,32450,180625,Debra Cafaro,VENTAS INC (Vencor Inc prior to 04/1998),Chairman/CEO,11/2/10,,Executive Director,Yes,CEO
+550,BAC,32507,454544,Hans Vestberg,VERIZON COMMUNICATIONS INC,Chairman/CEO,3/8/19,,Executive Director,Yes,CEO
+551,VZ,32507,454544,Hans Vestberg,VERIZON COMMUNICATIONS INC,Chairman/CEO,3/8/19,,Executive Director,Yes,CEO
+552,VFC,32574,831805,Steve Rendle,VF CORP,Chairman (Executive)/President/CEO,10/28/17,12/2/22,Executive Director,Yes,CEO
+553,VFP,32574,831805,Steve Rendle,VF CORP,Chairman (Executive)/President/CEO,10/28/17,12/2/22,Executive Director,Yes,CEO
+554,VNO,32928,142089,Steve Roth,VORNADO REALTY TRUST,Chairman/CEO,4/15/13,,Executive Director,Yes,CEO
+555,VNORP,32928,142089,Steve Roth,VORNADO REALTY TRUST,Chairman/CEO,4/15/13,,Executive Director,Yes,CEO
+556,VMC,32979,1085549,Tom Hill,VULCAN MATERIALS CO,Chairman/President/CEO,1/1/16,9/20/23,Executive Director,Yes,CEO
+557,WAB,33000,205052,Al Neupaver,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP,Chairman (Executive),5/1/18,7/1/20,Executive Director,Yes,TMT
+558,WAB,33000,1188120,Rafael Santana,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP,President/CEO,7/1/19,,Executive Director,Yes,CEO
+559,WBA,33026,3997,Stefano Pessina,WALGREENS BOOTS ALLIANCE INC (Walgreen Co prior to 12/2014),Executive Vice Chairman/CEO,7/9/15,3/15/21,Executive Director,Yes,CEO
+560,WBA,33026,35981,Jim Skinner,WALGREENS BOOTS ALLIANCE INC (Walgreen Co prior to 12/2014),Chairman (Executive),1/9/15,3/15/21,Executive Director,Yes,TMT
+561,WMT,33046,32097,Doug McMillon,WALMART INC (Wal-Mart Stores Inc prior to 02/2018),President/CEO,2/1/14,,Executive Director,Yes,CEO
+562,UWS,33114,1119364,Jim Fish Jr,WASTE MANAGEMENT INC,President/CEO,11/10/16,,Executive Director,Yes,CEO
+563,WM,33114,1119364,Jim Fish Jr,WASTE MANAGEMENT INC,President/CEO,11/10/16,,Executive Director,Yes,CEO
+564,NWT,33264,33951,Charlie Scharf,WELLS FARGO & CO,President/CEO,10/21/19,,Executive Director,Yes,CEO
+565,WFC,33264,33951,Charlie Scharf,WELLS FARGO & CO,President/CEO,10/21/19,,Executive Director,Yes,CEO
+566,WST,33314,1194462,Eric Green,WEST PHARMACEUTICAL SERVICES INC,President/CEO,12/17/15,5/24/22,Executive Director,Yes,CEO
+567,WHC,33418,1266749,Devin Stockfish,WEYERHAEUSER CO,President/CEO,1/1/19,,Executive Director,Yes,CEO
+568,WY,33418,1266749,Devin Stockfish,WEYERHAEUSER CO,President/CEO,1/1/19,,Executive Director,Yes,CEO
+569,WHR,33437,485987,Doctor Marc Bitzer,WHIRLPOOL CORP,Chairman/President/CEO,1/1/19,9/1/21,Executive Director,Yes,CEO
+570,WMB,33512,443291,Alan Armstrong,WILLIAMS COMPANIES INC,President/CEO,1/3/11,,Executive Director,Yes,CEO
+571,WEC,33607,36615,Gale Klappa,WEC ENERGY GROUP INC (Wisconsin Energy Corp prior to 06/2015),Chairman (Executive),2/1/19,,Executive Director,Yes,TMT
+572,WEC,33607,885203,Kevin Fletcher,WEC ENERGY GROUP INC (Wisconsin Energy Corp prior to 06/2015),President/CEO,2/1/19,2/1/22,Executive Director,Yes,CEO
+573,XRX,33850,1117881,John Visentin,XEROX HOLDINGS CORP (Xerox Corp prior to 08/2019),Vice Chairman/CEO,5/14/18,6/28/22,Executive Director,Yes,CEO
+574,XLNX,33857,339239,Victor Peng,XILINX INC (De-listed 02/2022),President/CEO,1/29/18,2/14/22,Executive Director,Yes,CEO
+575,ZBRA,34075,204453,Anders Gustafsson,ZEBRA TECHNOLOGIES CORP,CEO,9/4/07,3/1/23,Executive Director,Yes,CEO
+576,ZBH,34134,1119554,Bryan Hanson,ZIMMER BIOMET HOLDINGS INC (Zimmer Holdings Inc prior to 06/2015),President/CEO,12/19/17,5/14/21,Executive Director,Yes,CEO
+577,ZB1,34139,57861,Harris Simmons,ZIONS BANCORPORATION NA (Zions Bancorporation prior to 10/2018),Chairman/CEO,3/4/14,,Executive Director,Yes,CEO
+578,ZION,34139,57861,Harris Simmons,ZIONS BANCORPORATION NA (Zions Bancorporation prior to 10/2018),Chairman/CEO,3/4/14,,Executive Director,Yes,CEO
+579,L,35930,880948,Galen Weston Jr,LOBLAW COMPANIES LTD,Chairman (Executive),1/1/19,5/6/21,Executive Director,Yes,TMT
+580,NDAQ,42640,483505,Adena Friedman,NASDAQ INC (NASDAQ OMX Group Inc prior to 09/2015),President/CEO,1/1/17,1/1/23,Executive Director,Yes,CEO
+581,ARE,72259,1206037,Jean-Louis Servranckx,AECON GROUP INC,President/CEO,6/4/19,,Executive Director,Yes,CEO
+582,DFS,78171,33852,Roger Hochschild,DISCOVER FINANCIAL SERVICES INC,President/CEO,10/1/18,8/14/23,Executive Director,Yes,CEO
+583,DPZ,90132,1110512,Ritch Allison Jr,DOMINO'S PIZZA INC,CEO,7/1/18,4/26/22,Executive Director,Yes,CEO
+584,NFLX,93427,182088,Wilmot Hastings Jr,NETFLIX INC,Chairman/President/CEO,7/1/99,7/14/20,Executive Director,Yes,CEO
+585,AAP,95856,1013356,Tom Greco,ADVANCE AUTO PARTS INC,President/CEO,8/14/16,9/11/23,Executive Director,Yes,CEO
+586,KMX,107377,1011736,Bill Nash,CARMAX INC,President/CEO,9/1/16,,Executive Director,Yes,CEO
+587,GOOG,116351,887679,Sundar Pichai,ALPHABET INC (Google Inc prior to 10/2015),CEO,12/3/19,,Executive Director,Yes,CEO
+588,GOOGL,116351,887679,Sundar Pichai,ALPHABET INC (Google Inc prior to 10/2015),CEO,12/3/19,,Executive Director,Yes,CEO
+589,WYNN,136226,488858,Matt Maddox,WYNN RESORTS LTD,CEO,5/29/19,1/31/22,Executive Director,Yes,CEO
+590,CME,268946,91452,The Hon. Terry Duffy,CME GROUP INC (Chicago Mercantile Exchange Holdings Inc prior to 07/2007),Chairman/CEO,11/10/16,,Executive Director,Yes,CEO
+591,DXCM,373917,346517,Kevin Sayer,DEXCOM INC,Chairman/President/CEO,7/30/18,,Executive Director,Yes,CEO
+592,BIIB,440155,1694109,Michel Vounatsos,BIOGEN INC (Biogen Idec Inc prior to 03/2015),CEO,1/6/17,11/14/22,Executive Director,Yes,CEO
+593,LKQ,463860,345185,Joe Holsten,LKQ CORPORATION INC,Chairman (Executive),3/6/17,5/10/22,Executive Director,Yes,TMT
+594,LKQ,463860,1523271,Nick Zarcone,LKQ CORPORATION INC,President/CEO,5/31/17,,Executive Director,Yes,CEO
+595,ULTA,465379,487099,Mary Dillon,ULTA BEAUTY INC (Ulta Salon Cosmetics & Fragrance Inc prior to 01/2017),CEO,7/1/13,6/2/21,Executive Director,Yes,CEO
+596,TRV,469152,533891,Alan Schnitzer,THE TRAVELERS COMPANIES INC (St Paul Travelers Companies Inc prior to 02/2007),Chairman/CEO,8/1/17,,Executive Director,Yes,CEO
+597,RF,550049,488345,John Turner Jr,REGIONS FINANCIAL CORP,President/CEO,7/2/18,,Executive Director,Yes,CEO
+598,AIZ,550072,853893,Alan Colberg,ASSURANT INC,President/CEO,1/1/15,5/18/21,Executive Director,Yes,CEO
+599,MOS,550358,549793,Joc O'Rourke,MOSAIC CO,President/CEO,8/5/15,8/29/23,Executive Director,Yes,CEO
+600,MKTX,551122,446101,Rick McVey,MARKETAXESS HOLDINGS INC,Chairman/CEO,9/13/06,4/3/23,Executive Director,Yes,CEO
+601,CMG,598752,1457763,Ryan Schneider,COMPUTER MODELLING GROUP LTD,President/CEO,7/12/18,5/10/22,Executive Director,Yes,CEO
+602,EXR,600874,375394,Joe Margolis,EXTRA SPACE STORAGE INC,CEO,5/18/17,,Executive Director,Yes,CEO
+603,LVS,603630,373289,Sheldon Adelson,LAS VEGAS SANDS CORP,Chairman/CEO/Treasurer,8/1/04,1/11/21,Executive Director,Yes,CEO
+604,CF,603809,331091,David Kassie,CANACCORD GENUITY GROUP INC (Canaccord Financial Inc prior to 10/2013),Chairman (Executive),10/1/15,,Executive Director,Yes,TMT
+605,CF,603809,1131095,Dan Daviau,CANACCORD GENUITY GROUP INC (Canaccord Financial Inc prior to 10/2013),President/CEO,10/1/15,,Executive Director,Yes,CEO
+606,DLR,641924,374955,Bill Stein,DIGITAL REALTY TRUST INC,CEO,5/1/15,12/13/22,Executive Director,Yes,CEO
+607,,643675,1966120,Gurm Sangha,FE BATTERY METALS CORP (First Energy Metals Ltd prior to 11/2022),President/CEO,3/26/18,,Executive Director,Yes,CEO
+608,FE,643675,1966120,Gurm Sangha,FE BATTERY METALS CORP (First Energy Metals Ltd prior to 11/2022),President/CEO,3/26/18,,Executive Director,Yes,CEO
+609,LDOS,660090,881227,Roger Krone,LEIDOS HOLDINGS INC (SAIC Inc prior to 09/2013),Chairman/CEO,3/20/15,5/3/23,Executive Director,Yes,CEO
+610,PPL,664896,1248718,Mick Dilger,PEMBINA PIPELINE CORP,President/CEO,1/1/14,11/19/21,Executive Director,Yes,CEO
+611,CF,665753,534187,Tony Will,CF INDUSTRIES HLDGS INC,President/CEO,1/2/14,,Executive Director,Yes,CEO
+612,AMP,667645,33676,Jim Cracchiolo,AMERIPRISE FINANCIAL INC,Chairman/CEO,9/30/05,,Executive Director,Yes,CEO
+613,WM,742530,1061537,Marz Kord-Gharachorloo,WALLBRIDGE MINING CO LTD,President/CEO,4/25/12,10/10/23,Executive Director,Yes,CEO
+614,EXPE,770141,33328,Barry Diller,EXPEDIA GROUP INC (Expedia Inc prior to 03/2018),Chairman (Executive),8/9/05,,Executive Director,Yes,TMT
+615,LYV,814633,551171,Michael Rapino,LIVE NATION ENTERTAINMENT INC (Live Nation Inc prior to 01/2010),President/CEO,1/1/18,,Executive Director,Yes,CEO
+616,ICE,815224,489174,Jeff Sprecher,INTERCONTINENTAL EXCHANGE INC (IntercontinentalExchange Group Inc prior to 05/2014),Chairman/CEO,11/1/02,,Executive Director,Yes,CEO
+617,WFC,817190,1046778,Bruno Wall,WALL FINANCIAL CORP,President/CEO/CFO/Treasurer,7/6/94,,Executive Director,Yes,CEO
+618,AVGO,817439,102722,Hock Tan,BROADCOM INC (Broadcom Ltd prior to 04/2018),President/CEO,8/6/09,,Executive Director,Yes,CEO
+619,TDG,818089,512642,Nick Howley,TRANSDIGM GROUP INC,Chairman (Executive),4/26/18,8/6/21,Executive Director,Yes,TMT
+620,TDG,818089,895408,Doctor Kevin Stein,TRANSDIGM GROUP INC,President/CEO,4/26/18,,Executive Director,Yes,CEO
+621,WU,840164,502258,Hikmet Ersek,WESTERN UNION CO,President/CEO,9/1/10,12/31/21,Executive Director,Yes,CEO
+622,PODD,862492,1519215,Shacey Petrovic,INSULET CORPORATION,President/CEO,1/1/19,6/1/22,Executive Director,Yes,CEO
+623,DUK,867887,204347,Lynn Good,DUKE ENERGY CORP,Chairman/President/CEO,1/1/16,,Executive Director,Yes,CEO
+624,HBI,882407,514830,Gerald Evans Jr,HANESBRANDS INC,CEO,10/1/16,8/3/20,Executive Director,Yes,CEO
+625,BR,934640,35096,Rich Daly,BROADRIDGE FINANCIAL SOLUTIONS INC,Chairman (Executive),1/2/19,,Executive Director,Yes,TMT
+626,V,937594,33689,Al Kelly Jr,VISA INC,Chairman/CEO,4/16/19,2/1/23,Executive Director,Yes,CEO
+627,PBCT,1013530,204547,Jack Barnes,PEOPLE'S UNITED FINANCIAL INC (De-listed 04/2022),Chairman/CEO,6/26/18,4/4/22,Executive Director,Yes,CEO
+628,PBCTP,1013530,204547,Jack Barnes,PEOPLE'S UNITED FINANCIAL INC (De-listed 04/2022),Chairman/CEO,6/26/18,4/4/22,Executive Director,Yes,CEO
+629,AME,1016911,1379549,Mike McInnis,ABACUS MINING & EXPLORATION CORP (Abacus Minerals Corp prior to 04/2001),Chairman (Executive),11/1/17,,Executive Director,Yes,TMT
+630,IAU,1027070,441971,John Begeman,I-80 GOLD CORP (Premier Gold Mines Ltd prior to 04/2021),Chairman (Executive),6/25/15,4/7/21,Executive Director,Yes,TMT
+631,PG,1027070,441971,John Begeman,I-80 GOLD CORP (Premier Gold Mines Ltd prior to 04/2021),Chairman (Executive),6/25/15,4/7/21,Executive Director,Yes,TMT
+632,IAU,1027070,732790,Ewan Downie,I-80 GOLD CORP (Premier Gold Mines Ltd prior to 04/2021),President/CEO,5/29/06,4/7/21,Executive Director,Yes,CEO
+633,PG,1027070,732790,Ewan Downie,I-80 GOLD CORP (Premier Gold Mines Ltd prior to 04/2021),President/CEO,5/29/06,4/7/21,Executive Director,Yes,CEO
+634,MSCI,1041062,598481,Henry Fernandez,MSCI INC,Chairman/CEO,10/31/17,,Executive Director,Yes,CEO
+635,KDP,1057037,989294,Bob Gamgort Jr,KEURIG DR PEPPER INC (Dr Pepper Snapple Group Inc prior to 07/2018),Chairman/President/CEO,1/13/19,7/29/22,Executive Director,Yes,CEO
+636,PM,1060044,36791,Andre Calantzopoulos,PHILIP MORRIS INTERNATIONAL INC,CEO,5/8/13,5/5/21,Executive Director,Yes,CEO
+637,EW,1195225,482389,Nick DeMare,EAST WEST PETROLEUM CORP (Avere Energy Inc prior to 08/2010),CFO/Secretary/Interim CEO,3/14/19,2/2/23,Executive Director,Yes,CEO
+638,F,1227085,735131,Tim Warman,FIORE GOLD LTD (Fiore Exploration Ltd prior to 09/2017) (De-listed 01/2022),CEO,9/25/17,1/12/22,Executive Director,Yes,CEO
+639,RHT,1243400,1664864,Doctor Lisa Crossley,RELIQ HEALTH TECHNOLOGIES INC (Moseda Technologies Inc prior to 05/2016),CEO,1/18/16,12/11/23,Executive Director,Yes,CEO
+640,BSX,1264297,730965,Mark Eaton,BELO SUN MINING CORP (Verena Minerals Corp prior to 07/2010),Chairman (Executive),8/15/14,,Executive Director,Yes,TMT
+641,BSX,1264297,790420,Peter Tagliamonte,BELO SUN MINING CORP (Verena Minerals Corp prior to 07/2010),President/CEO,8/15/14,,Executive Director,Yes,CEO
+642,MMM,1336232,842949,Doctor Ken Cai,MINCO CAPITAL CORP (Minco Gold Corp prior to 02/2019),Chairman/CEO,6/28/17,6/4/20,Executive Director,Yes,CEO
+643,OGN,1562505,2413290,Paddy Nicol,OROGEN ROYALTIES INC (Evrim Resources Corp prior to 08/2020),President/CEO,1/25/11,8/18/20,Executive Director,Yes,CEO
+644,VRSK,1586724,982579,Scott Stephenson,VERISK ANALYTICS INC,Chairman/President/CEO,4/1/16,5/5/22,Executive Director,Yes,CEO
+645,MPC,1604377,2121957,Marvin Haasen,MADISON PACIFIC PROPERTIES INC,President/CEO,11/1/12,7/17/23,Executive Director,Yes,CEO
+646,MPC.C,1604377,2121957,Marvin Haasen,MADISON PACIFIC PROPERTIES INC,President/CEO,11/1/12,7/17/23,Executive Director,Yes,CEO
+647,DG,1605214,487710,Todd Vasos,DOLLAR GENERAL CORP,CEO,6/3/15,11/1/22,Executive Director,Yes,CEO
+648,FTNT,1606380,1055310,Ken Xie,FORTINET INC,Chairman/CEO,11/11/13,,Executive Director,Yes,CEO
+649,EFX,1630130,1385042,Marc Rossiter,ENERFLEX LTD,President/CEO,5/3/19,,Executive Director,Yes,CEO
+650,CBOE,1647824,1058282,Ed Tilly,CBOE GLOBAL MARKETS INC (CBOE Holdings Inc prior to 10/2017),Chairman/President/CEO,1/14/19,5/12/22,Executive Director,Yes,CEO
+651,TSLA,1650150,1090701,Elon Musk,TESLA INC (Tesla Motors Inc prior to 02/2017),CEO,11/7/18,,Executive Director,Yes,CEO
+652,CHTR,1661731,334487,Tom Rutledge,CHARTER COMMUNICATIONS INC (Spectrum),Chairman/CEO,7/26/16,11/30/22,Executive Director,Yes,CEO
+653,LYB,1667126,1092110,Bob Patel,LYONDELLBASELL INDUSTRIES NV,CEO,6/1/18,12/31/21,Executive Director,Yes,CEO
+654,GM,1673114,892349,Mary Barra,GENERAL MOTORS CO,Chair/CEO,1/4/16,,Executive Director,Yes,CEO
+655,FLT,1677118,1058760,Ron Clarke,FLEETCOR TECHNOLOGIES INC,Chairman/President/CEO,12/15/10,,Executive Director,Yes,CEO
+656,LWRK,1681880,1060498,Stephen Liptrap,LIFEWORKS INC (Morneau Shepell Inc prior to 05/2021) (De-listed 09/2022),President/CEO,5/4/17,9/2/22,Executive Director,Yes,CEO
+657,MSI,1681880,1060498,Stephen Liptrap,LIFEWORKS INC (Morneau Shepell Inc prior to 05/2021) (De-listed 09/2022),President/CEO,5/4/17,9/2/22,Executive Director,Yes,CEO
+658,,1684303,140602,David Kenny,NIELSEN HOLDINGS PLC (Nielsen NV prior to 08/2015) (De-listed 10/2022),CEO/Chief Diversity Officer,1/1/19,3/23/21,Executive Director,Yes,CEO
+659,NLSN,1684303,140602,David Kenny,NIELSEN HOLDINGS PLC (Nielsen NV prior to 08/2015) (De-listed 10/2022),CEO/Chief Diversity Officer,1/1/19,3/23/21,Executive Director,Yes,CEO
+660,KMI,1687673,38016,Rich Kinder,KINDER MORGAN INC (Kinder Morgan Holdco LLC prior to 02/2011),Chairman (Executive),6/1/15,,Executive Director,Yes,TMT
+661,KMI,1687673,480557,Steve Kean,KINDER MORGAN INC (Kinder Morgan Holdco LLC prior to 02/2011),CEO,4/18/18,8/1/23,Executive Director,Yes,CEO
+662,HCA,1692837,35175,Sam Hazen,HCA HEALTHCARE INC (HCA Holdings Inc prior to 05/2017),CEO,1/1/19,,Executive Director,Yes,CEO
+663,HII,1694757,487356,Mike Petters,HUNTINGTON INGALLS INDUSTRIES INC,President/CEO,3/31/11,3/1/22,Executive Director,Yes,CEO
+664,PKI,1719568,1248755,Bob Espey,PARKLAND CORP (Parkland Fuel Corp prior to 05/2020),President/CEO,5/12/11,,Executive Director,Yes,CEO
+665,XYL,1731107,598774,Patrick Decker,XYLEM INC,President/CEO,3/17/14,12/31/23,Executive Director,Yes,CEO
+666,REG,1792078,1061422,John Black,REGULUS RESOURCES INC,CEO,9/30/14,,Executive Director,Yes,CEO
+667,EPAM,1796199,1059890,Arkadiy Dobkin,EPAM SYSTEMS INC,Chairman/President/CEO,2/8/12,,Executive Director,Yes,CEO
+668,ICE,1806144,1194094,Joey St-Aubin,CANLAN ICE SPORTS CORP (Canlan Investment Ltd prior to 08/1999),President/CEO,3/6/09,,Executive Director,Yes,CEO
+669,EOG,1807060,1892119,Gil Holzman,ECO ATLANTIC OIL & GAS LTD (Goldbard Capital Corp prior to 11/2011),President/CEO,11/25/11,,Executive Director,Yes,CEO
+670,ENPH,1810090,1197971,Badri Kothandaraman,ENPHASE ENERGY INC,President/CEO,9/3/17,,Executive Director,Yes,CEO
+671,PSX,1813482,1089975,Greg Garland,PHILLIPS 66,Chairman/CEO,6/1/14,7/1/22,Executive Director,Yes,CEO
+672,META,1820060,646335,Mark Zuckerberg,META PLATFORMS INC (Facebook Inc prior to 11/2021),Chairman/CEO,5/18/12,,Executive Director,Yes,CEO
+673,NOW,1830138,206474,Bill McDermott,SERVICENOW INC,President/CEO,11/18/19,10/25/22,Executive Director,Yes,CEO
+674,FLT,1894801,554070,Mike Zahra,DRONE DELIVERY CANADA CORP (Asher Resources Corp prior to 06/2016),President/CEO,6/10/19,2/22/22,Executive Director,Yes,CEO
+675,FANG,1895607,1277021,Travis Stice,DIAMONDBACK ENERGY INC,CEO,1/1/17,2/22/22,Executive Director,Yes,CEO
+676,ABBV,1921326,33494,Rick Gonzalez,ABBVIE INC,Chairman/CEO,1/2/13,,Executive Director,Yes,CEO
+677,NCLH,1925428,1451131,Frank Del Rio,NORWEGIAN CRUISE LINE HOLDINGS LTD,President/CEO,8/4/15,6/30/23,Executive Director,Yes,CEO
+678,IQV,1951118,33049,Ari Bousbib,IQVIA HOLDINGS INC (Quintiles IMS Holdings Inc prior to 11/2017),Chairman/President/CEO,10/3/16,,Executive Director,Yes,CEO
+679,CDW,1961452,452866,Chris Leahy,CDW CORP,President/CEO,1/1/19,1/5/23,Executive Director,Yes,CEO
+680,NWS,1962516,1282519,Robert Thomson,NEWS CORP,CEO,6/28/13,,Executive Director,Yes,CEO
+681,NWSA,1962516,1282519,Robert Thomson,NEWS CORP,CEO,6/28/13,,Executive Director,Yes,CEO
+682,CMI,1984540,2418090,Doctor Leslie Klein,C-COM SATELLITE SYSTEMS INC,President/CEO,8/15/00,,Executive Director,Yes,CEO
+683,IP,1985284,2589083,Alen Silverrstieen,IMAGINEAR INC (Imagination Park Technologies Inc prior to 04/2020),President/CEO,3/1/19,1/1/21,Executive Director,Yes,CEO
+684,,1985899,2390887,Bernard Tourillon,HPQ SILICON INC (HPQ Silicon Resources Inc prior to 07/2022),Chairman/President/CEO,1/1/18,,Executive Director,Yes,CEO
+685,HPQ,1985899,2390887,Bernard Tourillon,HPQ SILICON INC (HPQ Silicon Resources Inc prior to 07/2022),Chairman/President/CEO,1/1/18,,Executive Director,Yes,CEO
+686,CSX,1986420,1852520,Graeme Lempriere,CLEAN SEED CAPITAL GROUP LTD,Chairman/CEO,10/16/18,,Executive Director,Yes,CEO
+687,WELL,1987496,1607052,Hamed Shahbazi,WELL HEALTH TECHNOLOGIES CORP (Wellness Lifestyles Inc prior to 07/2018),Chairman/CEO,5/23/18,,Executive Director,Yes,CEO
+688,BK,1987552,735008,Steve Finch,CANADIAN BANC CORP,Chairman/President/CEO,7/15/05,,Executive Director,Yes,CEO
+689,DE,1987627,2784754,James Paterson,DECISIVE DIVIDEND CORP,Chairman/CEO,9/24/13,5/31/21,Executive Director,Yes,CEO
+690,TWTR,2006706,334036,Omid Kordestani,TWITTER INC (De-listed 10/2022),Chairman (Executive),10/13/15,6/1/20,Executive Director,Yes,TMT
+691,TWTR,2006706,1132809,Jack Dorsey,TWITTER INC (De-listed 10/2022),CEO,9/30/15,11/29/21,Executive Director,Yes,CEO
+692,AAL,2021732,273457,Doug Parker Jr,AMERICAN AIRLINES GROUP INC (AMR Corp prior to 12/2013),Chairman/CEO,6/4/14,3/31/22,Executive Director,Yes,CEO
+693,HLT,2022926,180239,Chris Nassetta,HILTON WORLDWIDE HOLDINGS INC,President/CEO,12/12/13,,Executive Director,Yes,CEO
+694,VMC,2034565,1537148,William Trainer,VICINITY MOTOR CORP (Grande West Transportation Group Inc prior to 03/2021),President/CEO,8/26/19,,Executive Director,Yes,CEO
+695,PAYC,2061294,1388163,Chad Richison,PAYCOM SOFTWARE INC,Chairman/President/CEO,8/1/16,2/7/24,Executive Director,Yes,CEO
+696,ANET,2073894,201466,Doctor Andy von Bechtolsheim,ARISTA NETWORKS INC,Chairman/Chief Development Officer,5/18/15,12/1/23,Executive Director,Yes,TMT
+697,ANET,2073894,765053,Jayshree Ullal,ARISTA NETWORKS INC,President/CEO,6/6/14,12/1/23,Executive Director,Yes,CEO
+698,CTLT,2129696,1047323,John Chiminski,CATALENT INC,Chairman/CEO,2/13/19,7/1/22,Executive Director,Yes,CEO
+699,SYF,2129744,1111132,Margaret Keane,SYNCHRONY FINANCIAL,CEO,5/2/19,4/1/21,Executive Director,Yes,CEO
+700,CFG,2150201,35815,Bruce van Saun,CITIZENS FINANCIAL GROUP INC,Chairman/CEO,9/24/14,,Executive Director,Yes,CEO
+701,KEYS,2163313,598783,Ron Nersesian,KEYSIGHT TECHNOLOGIES INC,Chairman/President/CEO,11/1/19,5/1/22,Executive Director,Yes,CEO
+702,QRVO,2204149,181113,Bob Bruggeworth,QORVO INC,President/CEO,1/2/15,,Executive Director,Yes,CEO
+703,ETSY,2236759,765386,Josh Silverman,ETSY INC,President/CEO,5/3/17,,Executive Director,Yes,CEO
+704,WRK,2302775,325766,Steve Voorhees,WESTROCK CO,President/CEO,7/1/15,3/15/21,Executive Director,Yes,CEO
+705,PYPL,2308850,54611,Dan Schulman,PAYPAL HOLDINGS INC,President/CEO,7/17/15,9/27/23,Executive Director,Yes,CEO
+706,HPE,2358912,1192124,Antonio Neri,HEWLETT PACKARD ENTERPRISE CO,President/CEO,2/1/18,,Executive Director,Yes,CEO
+707,,2429185,2127717,Mark Goliger,META GROWTH CORP (National Access Cannabis Corp prior to 03/2020) (De-listed 11/2020),CEO,9/10/18,11/18/20,Executive Director,Yes,CEO
+708,META,2429185,2127717,Mark Goliger,META GROWTH CORP (National Access Cannabis Corp prior to 03/2020) (De-listed 11/2020),CEO,9/10/18,11/18/20,Executive Director,Yes,CEO
+709,FTV,2482889,372492,Jim Lico,FORTIVE CORP,President/CEO,7/2/16,,Executive Director,Yes,CEO
+710,LW,2558653,1595178,Tom Werner,LAMB WESTON HOLDINGS INC,President/CEO,11/9/16,,Executive Director,Yes,CEO
+711,INVH,2607907,1862251,Dallas Tanner,INVITATION HOMES INC,President/CEO,1/16/19,3/1/23,Executive Director,Yes,CEO
+712,IR,2656398,1912562,Vicente Reynal,INGERSOLL RAND INC (Gardner Denver Holdings Inc prior to 03/2020),President/CEO,5/12/17,11/9/21,Executive Director,Yes,CEO
+713,C,2667306,1480332,Matt Lennox-King,CONTACT GOLD CORP (Winwell Ventures Inc prior to 06/2017),President/CEO,6/7/17,,Executive Director,Yes,CEO
+714,SPG,2686564,2235636,Jason Sparaga,SPARK POWER GROUP INC (Canaccord Genuity Acquisition Corp prior to 09/2018) (De-listed 12/2023),Co-CEO,8/31/18,1/5/21,Executive Director,Yes,CEO
+715,SPG,2686564,2239576,Andrew Clark,SPARK POWER GROUP INC (Canaccord Genuity Acquisition Corp prior to 09/2018) (De-listed 12/2023),Co-CEO,8/31/18,1/5/21,Executive Director,Yes,CEO
+716,VICI,2771146,648089,Ed Pitoniak,VICI PROPERTIES INC,CEO,2/1/18,,Executive Director,Yes,CEO
+717,EVRG,2824528,345671,Terry Bassham,EVERGY INC,President/CEO,6/5/18,1/4/21,Executive Director,Yes,CEO
+718,CL,2957858,1374341,Charles Bachtell,CRESCO LABS INC,CEO,12/3/18,,Executive Director,Yes,CEO
+719,MRNA,2959246,507530,Stephane Bancel,MODERNA INC,CEO,12/7/18,,Executive Director,Yes,CEO
+720,ETR,2978540,655507,Fiore Aliperti,ETRUSCUS RESOURCES CORP,Chairman (Executive),1/15/19,11/23/21,Executive Director,Yes,TMT
+721,ETR,2978540,2141493,Gordon Lam,ETRUSCUS RESOURCES CORP,President/CEO,1/15/19,7/1/21,Executive Director,Yes,CEO
+722,FOX,3010375,4799,Keith Murdoch,FOX CORP,Chairman,3/19/19,11/17/23,Executive Director,Yes,TMT
+723,FOXA,3010375,4799,Keith Murdoch,FOX CORP,Chairman,3/19/19,11/17/23,Executive Director,Yes,TMT
+724,FOX,3010375,15156,Lachlan Murdoch,FOX CORP,Chair (Executive)/CEO,3/19/19,,Executive Director,Yes,CEO
+725,FOXA,3010375,15156,Lachlan Murdoch,FOX CORP,Chair (Executive)/CEO,3/19/19,,Executive Director,Yes,CEO
+726,CTVA,3039776,1010737,Jim Collins Jr,CORTEVA INC,CEO,6/3/19,11/1/21,Executive Director,Yes,CEO

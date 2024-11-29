@@ -1,0 +1,612 @@
+obs,tic,gvkey,conm_x,CrossVerified_ExecType,DirectorName,Ethnicity,Race(black),BE_fromBermissData,Actual_Bermiss_discrepancy,Minority,Gender,Female,Num_Black_TMT,Active2020,CEO_Appointment_date_within_2020,DirectorName_source
+1,MMM,7435,3M CO,CEO,Mike Roman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+2,ABBV,16101,ABBVIE INC,CEO,Rick Gonzalez,Hispanic/Latino,0,,0,1,M,0,0,Yes,,BoardEx
+3,ABMD,13619,ABIOMED INC,CEO,Mike Minogue,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+4,ATVI,180405,ACTIVISION BLIZZARD INC,CEO,Bobby Kotick,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+5,ADBE,12540,ADOBE INC,CEO,Shantanu Narayen,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+6,AAP,145977,ADVANCE AUTO PARTS INC,CEO,Tom Greco,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+7,AMD,1161,ADVANCED MICRO DEVICES,CEO,Doctor Lisa Su,Asian,0,,0,1,F,1,0,Yes,,BoardEx
+8,AES,24216,AES CORP (THE),CEO,Doctor Andres Gluski Weilert,Hispanic/Latino,0,,0,1,M,0,0,Yes,,BoardEx
+9,AFL,1449,AFLAC INC,TMT,Audrey Boone Tillman,African American/Black,1,1,0,1,F,1,2,Yes,,Bermiss
+10,AFL,1449,AFLAC INC,TMT,Teresa White,African American/Black,1,1,0,1,F,1,2,Yes,,Bermiss
+11,A,126554,AGILENT TECHNOLOGIES INC,CEO,Mike McMullen,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+12,APD,1209,AIR PRODUCTS & CHEMICALS INC,CEO,Seifi Ghasemi,Middle Eastern/Iranian,0,,0,1,M,0,0,Yes,,BoardEx
+13,AKAM,125595,AKAMAI TECHNOLOGIES INC,CEO,Doctor Tom Leighton,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+14,ALK,1230,ALASKA AIR GROUP INC,CEO,Brad Tilden,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+15,ARE,64821,ALEXANDRIA R E EQUITIES INC,CEO,Jean-Louis Servranckx,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+16,ARE,64821,ALEXANDRIA R E EQUITIES INC,TMT,Joel Marcus,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+17,ALXN,62263,ALEXION PHARMACEUTICALS INC,CEO,Doctor Ludwig Hantson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+18,ALGN,141384,ALIGN TECHNOLOGY INC,CEO,Joe Hogan,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+19,LNT,11554,ALLIANT ENERGY CORP,CEO,John Larsen,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+20,ALL,28349,ALLSTATE CORP,CEO,Tom Wilson II,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+21,GOOGL,160329,ALPHABET INC,CEO,Sundar Pichai,Asian/Indian,0,,0,1,M,0,1,Yes,,BoardEx
+22,GOOG,,ALPHABET INC.,TMT,Robin Washington,African American/Black,1,,0,1,F,1,1,Yes,,manually added
+23,GOOG,,ALPHABET INC.,CEO,Sundar Pichai,Asian/Indian,0,,0,1,M,0,1,Yes,,BoardEx
+24,AMZN,64768,AMAZON.COM INC,CEO,Jeff Bezos,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+25,AEE,10860,AMEREN CORP,CEO,Warner Baxter,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+26,AAL,1045,AMERICAN AIRLINES GROUP INC,CEO,Doug Parker Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+27,AEP,1440,AMERICAN ELECTRIC POWER CO,CEO,Nick Akins,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+28,AXP,1447,AMERICAN EXPRESS CO,TMT,Anre Williams,African American/Black,1,1,0,1,M,0,2,Yes,,Bermiss
+29,AXP,1447,AMERICAN EXPRESS CO,TMT,Kim Goodman,African American/Black,1,1,0,1,F,1,2,Yes,,Bermiss
+30,AXP,1447,AMERICAN EXPRESS CO,CEO,Steve Squeri,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+31,AMP,164708,AMERIPRISE FINANCIAL INC,CEO,Jim Cracchiolo,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+32,AME,1598,AMETEK INC,CEO,David Zapico,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+33,AME,1598,AMETEK INC,TMT,Mike McInnis,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+34,AMGN,1602,AMGEN INC,CEO,Bob Bradway,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+35,APH,14282,AMPHENOL CORP,CEO,Richard Norwitt,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+36,ADI,1632,ANALOG DEVICES INC,CEO,Vincent Roche,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+37,ANSS,63080,ANSYS INC,CEO,Doctor Ajei Gopal,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+38,APA,1678,APA CORP,CEO,John Christmann IV,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+39,AIV,30490,APARTMENT INVST & MGMT CO,CEO,The Hon. Terry Considine,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+40,AAPL,1690,APPLE INC,CEO,Tim Cook,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+41,AMAT,1704,APPLIED MATERIALS INC,CEO,Gary Dickerson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+42,ADM,1722,ARCHER-DANIELS-MIDLAND CO,CEO,Juan Luciano,Hispanic/Latino,0,,0,1,M,0,0,Yes,,BoardEx
+43,ANET,20748,ARISTA NETWORKS INC,TMT,Doctor Andy von Bechtolsheim,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+44,ANET,20748,ARISTA NETWORKS INC,CEO,Jayshree Ullal,Asian/Indian,0,,0,1,F,1,0,Yes,,BoardEx
+45,AJG,4973,ARTHUR J GALLAGHER & CO,CEO,Pat Gallagher Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+46,AIZ,157057,ASSURANT INC,CEO,Alan Colberg,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+47,T,9899,AT&T INC,CEO,John Stankey,Caucasian/White,0,1,1,0,M,0,2,Yes,Started in 7/1/2020,BoardEx
+48,T,9899,AT&T INC,CEO,Randall Stephenson Jr,Caucasian/White,0,1,1,0,M,0,2,Yes,Retired in 6/30/2020,BoardEx
+49,T,9899,AT&T INC,TMT,Xavier Williams,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+50,ATO,4383,ATMOS ENERGY CORP,TMT,Kim Cocklin,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+51,ATO,4383,ATMOS ENERGY CORP,CEO,John Akers,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+52,ADSK,1878,AUTODESK INC,CEO,Doctor Andrew Anagnost,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+53,ADP,1891,AUTOMATIC DATA PROCESSING,CEO,Carlos Rodriguez,Hispanic/Latino,0,,0,1,M,0,0,Yes,,BoardEx
+54,AZO,23809,AUTOZONE INC,CEO,Bill Rhodes III,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+55,AVB,29875,AVALONBAY COMMUNITIES INC,CEO,Tim Naughton,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+56,AVY,1913,AVERY DENNISON CORP,CEO,Mitch Butier,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+57,BKR,32106,BAKER HUGHES CO,CEO,Lorenzo Simonelli,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+58,BALL,1988,BALL CORP,CEO,John Hayes,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+59,BAC,7647,BANK OF AMERICA CORP,CEO,Brian Moynihan,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+60,BBWI,6733,BATH & BODY WORKS INC,CEO,Leslie Wexner,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+61,BAX,2086,BAXTER INTERNATIONAL INC,CEO,Joe Almeida,Hispanic/Latino,0,,0,1,M,0,0,Yes,,BoardEx
+62,BSXGF,152558,BELO SUN MINING CORP (Verena Minerals Corp prior to 07/2010),CEO,Peter Tagliamonte,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+63,WRB,14822,BERKLEY (W R) CORP,CEO,Rob Berkley Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+64,WRB,14822,BERKLEY (W R) CORP,TMT,Wm Berkley Sr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+65,BRK.B,2176,BERKSHIRE HATHAWAY,TMT,Ajit Jain,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+66,BRK.B,2176,BERKSHIRE HATHAWAY,TMT,Charlie Munger,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+67,BRK.B,2176,BERKSHIRE HATHAWAY,TMT,Greg Abel,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+68,BRK.B,2176,BERKSHIRE HATHAWAY,CEO,Warren Buffett,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+69,BBY,2184,BEST BUY CO INC,CEO,Corie Barry,Caucasian/White,0,0,0,0,F,1,0,Yes,,BoardEx
+70,BBY,2184,BEST BUY CO INC,TMT,Hubert Joly,Caucasian/White,0,0,0,0,M,0,0,Yes,,BoardEx
+71,BIO,2220,BIO-RAD LABORATORIES INC,CEO,Norman Schwartz,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+72,BIIB,24468,BIOGEN INC,CEO,Michel Vounatsos,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+73,BLK,124434,BLACKROCK INC,CEO,Larry Fink,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+74,BA,2285,BOEING CO,TMT,James Bell,African American/Black,1,1,0,1,M,0,1,No,,Bermiss
+75,BKNG,119314,BOOKING HOLDINGS INC,CEO,Glenn Fogel,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+76,BWA,28742,BORGWARNER INC,CEO,Frederic Lissalde,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+77,BXP,64925,BOSTON PROPERTIES INC,CEO,Owen Thomas,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+78,BSX,25279,BOSTON SCIENTIFIC CORP,TMT,Mark Eaton,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+79,BSX,25279,BOSTON SCIENTIFIC CORP,CEO,Mike Mahoney,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+80,BMY,2403,BRISTOL-MYERS SQUIBB CO,CEO,Doctor Giovanni Caforio,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+81,AVGO,180711,BROADCOM INC,CEO,Hock Tan,Asian,0,,0,1,M,0,0,Yes,,BoardEx
+82,BR,176928,BROADRIDGE FINANCIAL SOLUTNS,TMT,Rich Daly,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+83,BF.B,2435,BROWN FORMAN CORP,CEO,Lawson Whiting,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+84,BG,144435,BUNGE LTD,CEO,Greg Heckman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+85,CHRW,65609,C H ROBINSON WORLDWIDE INC,CEO,Bob Biesterfeld Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+86,CHRW,65609,C H ROBINSON WORLDWIDE INC,TMT,John Wiehoff,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+87,CMI,,C-COM SATELLITE SYSTEMS INC,CEO,Doctor Leslie Klein,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+88,CDNS,13421,CADENCE DESIGN SYSTEMS INC,CEO,Lip-Bu Tan,Asian,0,,0,1,M,0,0,Yes,,BoardEx
+89,CPB,2663,CAMPBELL SOUP CO,CEO,Mark Clouse,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+90,CF,????,CANACCORD GENUITY GROUP INC (Canaccord Financial Inc prior to 10/2013),CEO,Dan Daviau,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+91,BK,,CANADIAN BANC CORP,CEO,Stephen Finch,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+92,COF,30990,CAPITAL ONE FINANCIAL CORP,CEO,Rich Fairbank,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+93,CAH,2751,CARDINAL HEALTH INC,CEO,Mike Kaufmann,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+94,KMX,64410,CARMAX INC,CEO,Bill Nash,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+95,CCL,13498,CARNIVAL CORPORATION & PLC,CEO,Arnold Donald,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+96,CCL,13498,CARNIVAL CORPORATION & PLC,TMT,Micky Arison,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+97,CTLT,20228,CATALENT INC,CEO,John Chiminski,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+98,CAT,2817,CATERPILLAR INC,CEO,Jim Umpleby III,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+99,CBOE,184500,CBOE GLOBAL MARKETS INC,CEO,Ed Tilly,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+100,CBRE,260774,CBRE GROUP INC,CEO,Bob Sulentic,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+101,PARA,13714,CBS Television Distribution,CEO,Roger King,Caucasian/White,0,0,0,0,M,0,0,Yes,,Bermiss
+102,CDW,28320,CDW CORP,CEO,Chris Leahy,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+103,CNC,145552,CENTENE CORP,CEO,Michael Neidorff,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+104,CNP,5742,CENTERPOINT ENERGY INC,TMT,Milton Carroll,African American/Black,1,,0,1,M,0,1,Yes,,BoardEx
+105,CERN,12850,CERNER CORP,CEO,D Shafer,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+106,CF,163946,CF INDUSTRIES HOLDINGS INC,TMT,David Kassie,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+107,CF,163946,CF INDUSTRIES HOLDINGS INC,CEO,Tony Will,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+108,CHTR,126136,CHARTER COMMUNICATIONS INC,CEO,Tom Rutledge,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+109,CVX,2991,CHEVRON CORP,CEO,Mike Wirth,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+110,CMG,165914,CHIPOTLE MEXICAN GRILL INC,CEO,Ryan Schneider,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+111,CHD,3026,CHURCH & DWIGHT INC,CEO,Matthew Farrell,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+112,CI,2547,CIGNA CORP,CEO,David Cordani,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+113,CI,2547,CIGNA CORP,TMT,Michael Triplett,Caucasian/White,0,1,1,0,M,0,2,Yes,,Bermiss
+114,CI,2547,CIGNA CORP,TMT,Nicole Jones,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+115,CINF,14824,CINCINNATI FINANCIAL CORP,CEO,Steve Johnston,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+116,CTAS,3062,CINTAS CORP,TMT,Phillip Holloman,African American/Black,1,1,0,1,M,0,1,No,,Bermiss
+117,CTAS,3062,CINTAS CORP,CEO,Scott Farmer,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+118,CSCO,20779,CISCO SYSTEMS INC,CEO,Chuck Robbins,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+119,C,3243,CITIGROUP INC,TMT,Mark Mason,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+120,C,3243,CITIGROUP INC,CEO,Mike Corbat,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+121,CFG,21825,CITIZENS FINANCIAL GROUP INC,CEO,Bruce van Saun,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+122,CTXS,61676,CITRIX SYSTEMS INC,CEO,David Henshall,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+123,CSXh,67890,CLEAN SEED CAPITAL GROUP LTD,CEO,Graeme Lempriere,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+124,CLX,3121,CLOROX CO/DE,CEO,Benno Dorer,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+125,CME,149070,CME GROUP INC,CEO,The Hon. Terry Duffy,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+126,CMS,3439,CMS ENERGY CORP,CEO,Patti Poppe,Caucasian/White,0,1,1,0,F,1,1,Yes,Retired in 12/1/2020,BoardEx
+127,CMS,3439,CMS ENERGY CORP,TMT,Rejji Hayes,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+128,KO,3144,COCA-COLA CO,TMT,Alexander Cummings,African American/Black,1,1,0,1,M,0,3,No,,Bermiss
+129,KO,3144,COCA-COLA CO,CEO,James Quincey,Caucasian/White,0,1,1,0,M,0,3,No,,BoardEx
+130,KO,3144,COCA-COLA CO,TMT,Kathy Waller,African American/Black,1,1,0,1,F,1,3,No,,Bermiss
+131,KO,3144,COCA-COLA CO,TMT,Vicki Palmer,African American/Black,1,1,0,1,F,1,3,No,,Bermiss
+132,CTSH,111864,COGNIZANT TECH SOLUTIONS,CEO,Brian Humphries,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+133,CL,3170,COLGATE-PALMOLIVE CO,CEO,Charles Bachtell,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+134,CMCSA,3226,COMCAST CORP,CEO,Brian Roberts,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+135,CMCSA,3226,COMCAST CORP,TMT,Kimberley Harris,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+136,CAG,3362,CONAGRA BRANDS INC,CEO,Sean Connolly,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+137,COP,8549,CONOCOPHILLIPS,CEO,Ryan Lance,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+138,ED,3413,CONSOLIDATED EDISON INC,CEO,John McAvoy,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+139,STZ,2710,CONSTELLATION BRANDS,CEO,Bill Newlands Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+140,STZ,2710,CONSTELLATION BRANDS,TMT,Doctor Richard Sands,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+141,STZ,2710,CONSTELLATION BRANDS,TMT,Rob Sands,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+142,COO,3504,COOPER COS INC (THE),CEO,Al White III,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+143,CPRT,29901,COPART INC,CEO,Jay Adair,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+144,CPRT,29901,COPART INC,TMT,Willis Johnson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+145,GLW,3532,CORNING INC,TMT,Lawrence McRae,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+146,CTVA,35168,CORTEVA INC,CEO,Jim Collins Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+147,CSGP,112111,COSTAR GROUP INC,CEO,Andy Florance,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+148,COST,29028,COSTCO WHOLESALE CORP,CEO,W Jelinek,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+149,CTRA,20548,COTERRA ENERGY INC,CEO,Dan Dinges,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+150,CCI,113490,CROWN CASTLE INC,CEO,Jay Brown,African American/Black,1,,1,1,M,0,1,Yes,,BoardEx
+151,CSX,23456,CSX CORP,CEO,Jim Foote,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+152,CMI,3650,CUMMINS INC,CEO,Tom Linebarger,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+153,CVS,7241,CVS HEALTH CORP,CEO,Larry Merlo,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+154,DHI,25340,D R HORTON INC,TMT,Donald Horton,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+155,DHR,3735,DANAHER CORP,TMT,Steven Rales,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+156,DHR,3735,DANAHER CORP,CEO,Tom Joyce Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+157,DRI,31846,DARDEN RESTAURANTS INC,CEO,Gene Lee Jr,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+158,DVA,61483,DAVITA INC,CEO,Javier Rodriguez,Hispanic/Latino,0,,0,1,M,0,0,Yes,,BoardEx
+159,DVA,61483,DAVITA INC,TMT,Kent Thiry,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+160,DE,3835,DECISIVE DIVIDEND CORP,CEO,James Paterson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+161,DCO,6255,DEERE & CO,CEO,John May,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+162,DAL,3851,DELTA AIR LINES INC,CEO,Ed Bastian,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+163,XRAY,13700,DENTSPLY SIRONA INC,CEO,Don Casey Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+164,DVN,14934,DEVON ENERGY CORP,CEO,Dave Hager,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+165,DXCM,162887,DEXCOM INC,CEO,Kevin Sayer,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+166,FANG,170750,DIAMONDBACK ENERGY INC,CEO,Travis Stice,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+167,DLR,160991,DIGITAL REALTY TRUST INC,CEO,Bill Stein,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+168,DFS,177376,DISCOVER FINANCIAL SVCS,CEO,Roger Hochschild,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+169,DISH,60900,DISH NETWORK CORP,TMT,Charlie Ergen,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+170,DIS,3980,DISNEY (WALT) CO,TMT,Dennis Hightower,African American/Black,1,1,0,1,M,0,2,No,,Bermiss
+171,DIS,3980,DISNEY (WALT) CO,TMT,Richard Nanula,African American/Black,1,1,0,1,M,0,2,No,,Bermiss
+172,DG,4016,DOLLAR GENERAL CORP,CEO,Todd Vasos,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+173,DLTR,31587,DOLLAR TREE INC,TMT,Bob Sasser,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+174,DLTR,31587,DOLLAR TREE INC,CEO,Gary Philbin,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+175,D,4029,DOMINION ENERGY INC,CEO,Tom Farrell II,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+176,DPZ,160211,DOMINO'S PIZZA INC,CEO,Ritch Allison Jr,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+177,DPZ,160211,DOMINO'S PIZZA INC,TMT,Troy Ellis,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+178,DOV,4058,DOVER CORP,CEO,Rich Tobin,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+179,FLT,184700,DRONE DELIVERY CANADA CORP (Asher Resources Corp prior to 06/2016),CEO,Mike Zahra,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+180,DTE,3897,DTE ENERGY CO,TMT,Gerry Anderson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+181,DTE,3897,DTE ENERGY CO,CEO,Jerry Norcia,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+182,DUK,4093,DUKE ENERGY CORP,CEO,Lynn Good,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+183,DRE,13510,DUKE REALTY CORP,CEO,Jim Connor,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+184,DXC,3336,DXC TECHNOLOGY CO,CEO,Mike Salvino,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+185,EMN,29392,EASTMAN CHEMICAL CO,CEO,Mark Costa,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+186,ECL,4213,ECOLAB INC,CEO,Doug Baker Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+187,EIX,9846,EDISON INTERNATIONAL,CEO,Pedro Pizarro,Hispanic/Latino,0,,0,1,M,0,0,Yes,,BoardEx
+188,EW,133366,EDWARDS LIFESCIENCES CORP,CEO,Mike Mussallem,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+189,EW,133366,EDWARDS LIFESCIENCES CORP,CEO,Nick DeMare,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+190,EA,16721,ELECTRONIC ARTS INC,CEO,Andrew Wilson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+191,ELV,145046,ELEVANCE HEALTH INC,CEO,Gail Boudreaux,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+192,EMR,4321,EMERSON ELECTRIC CO,CEO,David Farr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+193,ENPH,187450,ENPHASE ENERGY INC,CEO,Badri Kothandaraman,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+194,ETR,7366,ENTERGY CORP,TMT,Fiore Aliperti,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+195,ETR,7366,ENTERGY CORP,CEO,Gordon Lam,Asian,0,1,1,1,M,0,2,Yes,,BoardEx
+196,ETR,7366,ENTERGY CORP,CEO,Leo Denault,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+197,ETR,7366,ENTERGY CORP,TMT,Marcus Brown,African American/Black,1,1,0,1,M,0,2,Yes,,Bermiss
+198,ETR,7366,ENTERGY CORP,TMT,Roderick West,African American/Black,1,1,0,1,M,0,2,Yes,,Bermiss
+199,EOG,16478,EOG RESOURCES INC,CEO,Bill Thomas,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+200,EOG,16478,EOG RESOURCES INC,CEO,Gil Holzman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+201,EPAM,187697,EPAM SYSTEMS INC,CEO,Arkadiy Dobkin,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+202,EFX,4423,EQUIFAX INC,CEO,Marc Rossiter,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+203,EFX,4423,EQUIFAX INC,CEO,Mark Begor,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+204,EQIX,138743,EQUINIX INC,CEO,Charles Meyers,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+205,EQIX,138743,EQUINIX INC,TMT,Peter Van Camp,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+206,EQR,28733,EQUITY RESIDENTIAL,CEO,Mark Parrell,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+207,ESS,30293,ESSEX PROPERTY TRUST,CEO,Mike Schall,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+208,EL,61567,ESTEE LAUDER COMPANIES INC,CEO,Fabrizio Freda,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+209,EL,61567,ESTEE LAUDER COMPANIES INC,TMT,Leonard Lauder,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+210,EL,61567,ESTEE LAUDER COMPANIES INC,TMT,The Hon. Ronald Lauder,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+211,EL,61567,ESTEE LAUDER COMPANIES INC,TMT,Tracey Travis,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+212,EL,61567,ESTEE LAUDER COMPANIES INC,TMT,William Lauder,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+213,ETSY,23238,ETSY INC,CEO,Josh Silverman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+214,EVRG,6338,EVERGY INC,CEO,Terry Bassham,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+215,ES,7970,EVERSOURCE ENERGY,CEO,Jim Judge,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+216,EXC,8539,EXELON CORP,CEO,Chris Crane,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+217,EXC,8539,EXELON CORP,TMT,Frank Clark,African American/Black,1,1,0,1,M,0,1,No,,Bermiss
+218,EXPD,4494,EXPEDITORS INTL WASH INC,CEO,Jeff Musser,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+219,EXR,160479,EXTRA SPACE STORAGE INC,CEO,Joe Margolis,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+220,XOM,4503,EXXON MOBIL CORP,CEO,Darren Woods,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+221,FFIV,121077,F5 INC,CEO,Francois Locoh-Donou,African American/Black,1,1,0,1,M,0,1,Yes,,BoardEx
+222,FAST,14225,FASTENAL CO,CEO,Dan Florness,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+223,FRT,4605,FEDERAL REALTY INVESTMENT TR,CEO,Don Wood,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+224,FDX,4598,FEDEX CORP,CEO,Fred Smith,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+225,FIS,165993,FIDELITY NATIONAL INFO SVCS,CEO,Gary Norcross,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+226,FITB,4640,FIFTH THIRD BANCORP,CEO,Greg Carmichael,Caucasian/White,0,0,0,0,M,0,0,Yes,,Bermiss
+227,F,4839,FIORE GOLD LTD (Fiore Exploration Ltd prior to 09/2017) (De-listed 01/2022),CEO,Tim Warman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+228,FE,8099,FIRSTENERGY CORP,CEO,Chuck Jones Jr,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+229,FE,8099,FIRSTENERGY CORP,CEO,Gurm Sangha,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+230,FLT,184700,FLEETCOR TECHNOLOGIES INC,CEO,Ron Clarke,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+231,FLIR,28477,FLIR SYSTEMS INC,CEO,Jim Cannon,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+232,FLS,4108,FLOWSERVE CORP,CEO,Robert Rowe,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+233,FMC,4510,FMC CORP,CEO,Doctor Pierre Brondeau,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+234,F,4839,FORD MOTOR CO,TMT,Bill Ford Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+235,F,4839,FORD MOTOR CO,CEO,Jim Hackett,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+236,FTNT,183377,FORTINET INC,CEO,Ken Xie,Asian/Chinese,0,,0,1,M,0,0,Yes,,BoardEx
+237,FTV,26590,FORTIVE CORP,CEO,Jim Lico,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+238,FOXA,34636,FOX CORP,TMT,Keith Murdoch,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+239,FOXA,34636,FOX CORP,CEO,Lachlan Murdoch,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+240,BEN,4885,FRANKLIN RESOURCES INC,TMT,Rupert Johnson Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+241,FCX,14590,FREEPORT-MCMORAN INC,CEO,Richard Adkerson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+242,IT,12441,GARTNER INC,CEO,Gene Hall,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+243,GD,5046,GENERAL DYNAMICS CORP,CEO,Phebe Novakovic,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+244,GE,5047,GENERAL ELECTRIC CO,CEO,Larry Culp Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+245,GIS,5071,GENERAL MILLS INC,CEO,Jeff Harmening,Caucasian/White,0,0,0,0,M,0,1,Yes,,BoardEx
+246,GIS,5071,GENERAL MILLS INC,TMT,Marc Belton,African American/Black,1,0,1,1,M,0,1,No,,Bermiss
+247,GM,5073,GENERAL MOTORS CO,TMT,Alicia Boler Davis,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+248,GM,5073,GENERAL MOTORS CO,CEO,Mary Barra,Caucasian/White,0,1,1,0,F,1,1,Yes,,BoardEx
+249,GPC,5125,GENUINE PARTS CO,CEO,Paul Donahue,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+250,GPJA,9850,GEORGIA POWER CO,CEO,Christopher Womack,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+251,GILD,24856,GILEAD SCIENCES INC,CEO,Daniel O'Day,Caucasian/White,0,0,0,0,M,0,1,Yes,,Bermiss
+252,GILD,24856,GILEAD SCIENCES INC,TMT,Robin Washington,African American/Black,1,0,1,1,F,1,1,Yes,,Bermiss
+253,GPN,141913,GLOBAL PAYMENTS INC,CEO,Jeff Sloan,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+254,GL,10614,GLOBE LIFE INC,CEO (Co-CEO),Gary Coleman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+255,GL,10614,GLOBE LIFE INC,CEO (Co-CEO),Larry Hutchison,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+256,GS,114628,GOLDMAN SACHS GROUP INC,CEO,David Solomon,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+257,GWW,5256,GRAINGER (W W) INC,CEO,DG Macpherson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+258,HAL,5439,HALLIBURTON CO,CEO,Jeff Miller,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+259,HBI,175319,HANESBRANDS INC,CEO,Gerald Evans Jr,African American/Black,1,1,0,1,M,0,2,Yes,,BoardEx
+260,HBI,175319,HANESBRANDS INC,TMT,Joia Johnson,African American/Black,1,1,0,1,F,1,2,Yes,,Bermiss
+261,HIG,61739,HARTFORD FINANCIAL SERVICES,CEO,Chris Swift,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+262,HAS,5518,HASBRO INC,CEO,Brian Goldner,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+263,HCA,22260,HCA HEALTHCARE INC,CEO,Sam Hazen,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+264,JKHY,11811,HENRY (JACK) & ASSOCIATES,CEO,Dave Foss,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+265,HSIC,61494,HENRY SCHEIN INC,TMT,Jim Breslawski,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+266,HSIC,61494,HENRY SCHEIN INC,CEO,Stan Bergman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+267,HSY,5597,HERSHEY CO,CEO,Michele Buck,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+268,HES,1380,HESS CORP,CEO,John Hess,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+269,HPE,26156,HEWLETT PACKARD ENTERPRISE,CEO,Antonio Neri,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+270,HLT,5643,HILTON WORLDWIDE HOLDINGS,CEO,Chris Nassetta,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+271,HLT,5643,HILTON WORLDWIDE HOLDINGS,TMT,Gregory Dillon,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+272,HOLX,20904,HOLOGIC INC,CEO,Steve MacMillan,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+273,HD,5680,HOME DEPOT INC,TMT,Ann-Marie Campbell,African American/Black,1,1,0,1,F,1,3,Yes,,Bermiss
+274,HD,5680,HOME DEPOT INC,CEO,Craig Menear,Caucasian/White,0,1,1,0,M,0,3,Yes,,BoardEx
+275,HD,5680,HOME DEPOT INC,TMT,Marvin Ellison,African American/Black,1,1,0,1,M,0,3,Yes,,Bermiss
+276,HD,5680,HOME DEPOT INC,TMT,Teresa Wynn Roseborough,African American/Black,1,1,0,1,F,1,3,Yes,,Bermiss
+277,HON,1300,HONEYWELL INTERNATIONAL INC,CEO,Darius Adamczyk,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+278,HON,,HONEYWELL INTERNATIONAL INC,TMT,Robin Washington,African American/Black,1,,0,1,F,1,1,Yes,,manually added
+279,HRL,5709,HORMEL FOODS CORP,CEO,Jim Snee,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+280,HST,7063,HOST HOTELS & RESORTS INC,TMT,Dick Marriott,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+281,HST,7063,HOST HOTELS & RESORTS INC,CEO,Jim Risoleo,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+282,HPQ,,HP INC,CEO,Enrique Lores,Hispanic/Latino,0,,0,1,M,0,0,Yes,,BoardEx
+283,HPQ,,HPQ SILICON INC (HPQ Silicon Resources Inc prior to 07/2022),CEO,Bernard Tourillon,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+284,HUM,27914,HUMANA INC,CEO,Bruce Broussard,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+285,JBHT,5783,HUNT (JB) TRANSPRT SVCS INC,TMT,James Thompson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+286,JBHT,5783,HUNT (JB) TRANSPRT SVCS INC,CEO,John Roberts III,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+287,HBAN,5786,HUNTINGTON BANCSHARES,CEO,Steve Steinour,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+288,HII,186310,HUNTINGTON INGALLS IND INC,TMT,Kellye Walker,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+289,HII,186310,HUNTINGTON INGALLS IND INC,TMT,Michael Smith,Caucasian/White,0,1,1,0,M,0,2,Yes,,Bermiss
+290,HII,186310,HUNTINGTON INGALLS IND INC,CEO,Mike Petters,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+291,IAU,8762,I-80 GOLD CORP (Premier Gold Mines Ltd prior to 04/2021),CEO,Ewan Downie,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+292,IDXX,24197,IDEXX LABS INC,CEO,Jonathan Mazelsky,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+293,ITW,5878,ILLINOIS TOOL WORKS,CEO,Ernest Santi,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+294,ILMN,138205,ILLUMINA INC,CEO,Francis DeSouza,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+295,INCY,29127,INCYTE CORP,CEO,Herve Hoppenot,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+296,IR,30098,INGERSOLL RAND INC,CEO,Mike Lamach,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+297,IR,30098,INGERSOLL RAND INC,CEO,Vicente Reynal,Hispanic/Latino,0,,0,1,M,0,0,Yes,,BoardEx
+298,PODD,177227,INSULET CORP,CEO,Shacey Petrovic,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+299,INTC,6008,INTEL CORP,CEO,Bob Swan,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+300,ICE,163610,INTERCONTINENTAL EXCHANGE,CEO,Jeff Sprecher,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+301,ICE,163610,INTERCONTINENTAL EXCHANGE,CEO,Joey St-Aubin,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+302,IPG,6136,INTERPUBLIC GROUP OF COS,CEO,Michael Roth,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+303,IFF,6078,INTL FLAVORS & FRAGRANCES,CEO,Andreas Fibig,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+304,IP,6104,INTL PAPER CO,CEO,Alen Silverrstieen,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+305,IP,6104,INTL PAPER CO,CEO,Mark Sutton,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+306,INTU,27928,INTUIT INC,TMT,Brad Smith,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+307,INTU,27928,INTUIT INC,CEO,Sasan Goodarzi,Middle Eastern,0,,0,1,M,0,0,Yes,,BoardEx
+308,ISRG,136725,INTUITIVE SURGICAL INC,CEO,Doctor Gary Guthart,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+309,IVZ,29804,INVESCO LTD,CEO,Marty Flanagan,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+310,INVH,30004,INVITATION HOMES INC,CEO,Dallas Tanner,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+311,IPGP,175955,IPG PHOTONICS CORP,CEO,Doctor Valentin Gapontsev,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+312,IQV,17928,IQVIA HOLDINGS INC,CEO,Ari Bousbib,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+313,IRM,62374,IRON MOUNTAIN INC,CEO,Bill Meaney,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+314,J,6216,JACOBS ENGINEERING GROUP INC,CEO,Steve Demetriou,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+315,JNJ,6266,JOHNSON & JOHNSON,CEO,Alex Gorsky,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+316,JPM,2968,JPMORGAN CHASE & CO,CEO,Jamie Dimon,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+317,JNPR,121718,JUNIPER NETWORKS INC,CEO,Rami Rahim,Middle Eastern,0,,0,1,M,0,0,Yes,,BoardEx
+318,KSU,6335,KANSAS CITY SOUTHERN,CEO,Pat Ottensmeyer,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+319,K,6375,KELLOGG CO,CEO,J Rollinson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+320,K,6375,KELLOGG CO,CEO,Steve Cahillane,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+321,KDP,28877,KEURIG DR PEPPER INC,CEO,Bob Gamgort Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+322,KEY,9783,KEYCORP,CEO,Beth Mooney,Caucasian/White,0,1,1,0,F,1,2,Yes,,BoardEx
+323,KEY,9783,KEYCORP,TMT,Jeffrey Weaver,Caucasian/White,0,1,1,0,M,0,2,Yes,,Bermiss
+324,KEY,9783,KEYCORP,TMT,Paul Harris,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+325,KEYS,20232,KEYSIGHT TECHNOLOGIES INC,CEO,Ron Nersesian,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+326,KIM,24731,KIMCO REALTY CORP,CEO,Conor Flynn,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+327,KIM,24731,KIMCO REALTY CORP,TMT,Milton Cooper,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+328,KMI,6310,KINDER MORGAN INC,TMT,Rich Kinder,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+329,KMI,6310,KINDER MORGAN INC,CEO,Steve Kean,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+330,KLAC,6304,KLA CORP,CEO,Rick Wallace,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+331,KR,6502,KROGER CO,CEO,William McMullen,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+332,LHX,5492,L3HARRIS TECHNOLOGIES INC,CEO,Bill Brown,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+333,LHX,5492,L3HARRIS TECHNOLOGIES INC,TMT,Chris Kubasik,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+334,LH,14960,LABORATORY CP OF AMER HLDGS,CEO,Adam Schechter,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+335,LH,14960,LABORATORY CP OF AMER HLDGS,TMT,Dave King,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+336,LRCX,6565,LAM RESEARCH CORP,CEO,Tim Archer,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+337,LW,28790,LAMB WESTON HOLDINGS INC,CEO,Tom Werner,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+338,LVS,161844,LAS VEGAS SANDS CORP,CEO,Sheldon Adelson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+339,LDOS,165123,LEIDOS HOLDINGS INC,CEO,Roger Krone,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+340,LEN,6669,LENNAR CORP,CEO,Rick Beckwitt,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+341,LEN,6669,LENNAR CORP,TMT,Stuart Miller,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+342,LWRK,7585,LIFEWORKS INC (Morneau Shepell Inc prior to 05/2021) (De-listed 09/2022),CEO,Stephen Liptrap,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+343,LLY,6730,LILLY (ELI) & CO,CEO,Dave Ricks,Caucasian/White,0,1,1,0,M,0,3,Yes,,BoardEx
+344,LLY,6730,LILLY (ELI) & CO,CEO,Derica Rice,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+345,LNC,6742,LINCOLN NATIONAL CORP,CEO,Dennis Glass,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+346,LYV,165746,LIVE NATION ENTERTAINMENT,CEO,Michael Rapino,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+347,LKQ,155394,LKQ CORP,TMT,Joe Holsten,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+348,LKQ,155394,LKQ CORP,CEO,Nick Zarcone,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+349,LMT,6774,LOCKHEED MARTIN CORP,TMT,Linda Gooden,African American/Black,1,1,0,1,F,1,1,No,,Bermiss
+350,LMT,6774,LOCKHEED MARTIN CORP,CEO,Marillyn Hewson,Caucasian/White,0,1,1,0,F,1,1,Yes,,BoardEx
+351,L,6781,LOEWS CORP,TMT,Andrew Tisch,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+352,L,6781,LOEWS CORP,TMT,Galen Weston Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+353,L,6781,LOEWS CORP,CEO,Jim Tisch,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+354,L,6781,LOEWS CORP,TMT,Jon Tisch,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+355,LUMN,2884,LUMEN TECHNOLOGIES INC,CEO,Jeff Storey,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+356,LYB,294524,LYONDELLBASELL INDUSTRIES NV,CEO,Bob Patel,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+357,MTB,4699,M & T BANK CORP,CEO,Rene Jones,African American/Black,1,1,0,1,M,0,1,Yes,,BoardEx
+358,MRO,7017,MARATHON OIL CORP,CEO,Lee Tillman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+359,MPC,186989,MARATHON PETROLEUM CORP,CEO,Marvin Haasen,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+360,MKTX,158742,MARKETAXESS HOLDINGS INC,CEO,Rick McVey,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+361,MAR,28930,MARRIOTT INTL INC,CEO,Arne Sorenson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+362,MAR,28930,MARRIOTT INTL INC,TMT,Bill Marriott Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+363,MMC,7065,MARSH & MCLENNAN COS,CEO,Dan Glaser,Caucasian/White,0,0,0,0,M,0,0,Yes,,BoardEx
+364,MMC,7065,MARSH & MCLENNAN COS,CEO,Dean Klisura,Caucasian/White,0,0,0,0,M,0,0,Yes,,Bermiss
+365,MLM,29733,MARTIN MARIETTA MATERIALS,CEO,Ward Nye,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+366,MAS,7085,MASCO CORP,CEO,Keith Allman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+367,MTCH,26061,MATCH GROUP INC,TMT,Barry Diller,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+368,MTCH,26061,MATCH GROUP INC,CEO,Joey Levin,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+369,MTCH,26061,MATCH GROUP INC,TMT,Victor Kaufman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+370,MXIM,14256,MAXIM INTEGRATED PRODUCTS,CEO,Tunc Doluca,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+371,MKC,7146,MCCORMICK & CO INC,CEO,Lawrence Kurzius,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+372,MCD,7154,MCDONALD'S CORP,CEO,Chris Kempczinski,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+373,MCD,7154,MCDONALD'S CORP,CEO,Donald Thompson,African American/Black,1,1,0,1,M,0,2,Yes,,Bermiss
+374,MCD,7154,MCDONALD'S CORP,TMT,Raymond Mines,African American/Black,1,1,0,1,M,0,2,No,,Bermiss
+375,MCK,7171,MCKESSON CORP,CEO,Doctor Brian Tyler,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+376,MRK,7257,MERCK & CO,TMT,Bridgette Heller,African American/Black,1,1,0,1,F,1,3,No,,Bermiss
+377,MRK,7257,MERCK & CO,CEO,Ken Frazier,African American/Black,1,1,0,1,F,1,3,Yes,,BoardEx
+378,MRK,7257,MERCK & CO,TMT,Willie Deese,African American/Black,1,1,0,1,M,0,3,No,,Bermiss
+379,MRK,7257,MERCK & CO INC (Schering-Plough Corp prior to 11/2009),TMT,Mirian Graddick,African American/Black,1,1,0,1,F,1,1,No,,manually added
+380,META,170617,META GROWTH CORP (National Access Cannabis Corp prior to 03/2020) (De-listed 11/2020),CEO,Mark Goliger,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+381,META,170617,META PLATFORMS INC,CEO,Mark Zuckerberg,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+382,MET,133768,METLIFE INC,CEO,Michel Khalaf,Middle Eastern,0,,0,1,M,0,0,Yes,,BoardEx
+383,MTD,65772,METTLER-TOLEDO INTL INC,CEO,Olivier Filliol,Caucasian/White,0,0,0,0,M,0,0,Yes,,Bermiss
+384,MCHP,27965,MICROCHIP TECHNOLOGY INC,CEO,Steve Sanghi,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+385,MU,7343,MICRON TECHNOLOGY INC,TMT,K Hsu,Asian/Chinese,0,,0,1,M,0,0,Yes,,BoardEx
+386,MU,7343,MICRON TECHNOLOGY INC,CEO,Sanjay Mehrotra,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+387,MSFT,12141,MICROSOFT CORP,CEO,Satya Nadella,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+388,MAA,29649,MID-AMERICA APT CMNTYS INC,CEO,H Bolton Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+389,MGHCF,7435,MINCO CAPITAL CORP,CEO,Doctor Ken Cai,Asian,0,,0,1,M,0,0,Yes,,BoardEx
+390,MRNA,34410,MODERNA INC,CEO,Stephane Bancel,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+391,MHK,25119,MOHAWK INDUSTRIES INC,CEO,Jeff Lorberbaum,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+392,TAP,3505,MOLSON COORS BEVERAGE CO,CEO,Gavin Hattersley,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+393,MDLZ,142953,MONDELEZ INTERNATIONAL INC,CEO,Doctor Dirk van de Put,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+394,MDLZ,142953,MONDELEZ INTERNATIONAL INC,TMT,Mary Beth West,Caucasian/White,0,1,1,0,F,1,1,No,,Bermiss
+395,MNST,24316,MONSTER BEVERAGE CORP,TMT,Hilton Schlosberg,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+396,MNST,24316,MONSTER BEVERAGE CORP,CEO,Rodney Sacks,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+397,MCO,139665,MOODY'S CORP,CEO,Raymond McDaniel Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+398,MS,12124,MORGAN STANLEY,CEO,James Gorman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+399,MOS,162129,MOSAIC CO,CEO,Joc O'Rourke,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+400,MSI,7585,MOTOROLA SOLUTIONS INC,CEO,Greg Brown,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+401,MSCI,178507,MSCI INC,CEO,Henry Fernandez,Hispanic/Latino,0,,0,1,M,0,0,Yes,,BoardEx
+402,NDAQ,149337,NASDAQ INC,CEO,Adena Friedman,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+403,NTAP,61591,NETAPP INC,CEO,George Kurian,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+404,NFLX,147579,NETFLIX INC,CEO,Wilmot Hastings Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+405,NWL,7875,NEWELL BRANDS INC,CEO,Ravi Saligram,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+406,NEM,7881,NEWMONT CORP,CEO,Tom Palmer,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+407,NWSA,18043,NEWS CORP,CEO,Robert Thomson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+408,NEE,4517,NEXTERA ENERGY INC,CEO,Jim Robo,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+409,NLSN,100873,NIELSEN HOLDINGS PLC,CEO,David Kenny,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+410,NLSN,100873,NIELSEN HOLDINGS PLC,TMT,Jamere Jackson,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+411,NI,7974,NISOURCE INC,TMT,Donald Brown,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+412,NI,7974,NISOURCE INC,CEO,Joe Hamrock,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+413,NSC,7923,NORFOLK SOUTHERN CORP,CEO,Jim Squires,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+414,NTRS,7982,NORTHERN TRUST CORP,CEO,Mike O'Grady,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+415,NTRS,7982,NORTHERN TRUST CORP,TMT,Shundrawn Thomas,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+416,NOC,7985,NORTHROP GRUMMAN CORP,CEO,Kathy Warden,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+417,NLOK,15855,NORTONLIFELOCK INC,CEO,John Thompson,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+418,NLOK,15855,NORTONLIFELOCK INC,TMT,Scott Taylor,Caucasian/White,0,1,1,0,M,0,2,Yes,,Bermiss
+419,NCLH,104432,NORWEGIAN CRUISE LINE HLDGS,CEO,Frank Del Rio,Hispanic/Latino,0,,0,1,M,0,0,Yes,,BoardEx
+420,NOV,63892,NOV INC,CEO,Clay Williams,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+421,NRG,135990,NRG ENERGY INC,CEO,Mauricio Gutierrez,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+422,NVDA,117768,NVIDIA CORP,CEO,Jensen Huang,Asian/Taiwanese,0,,0,1,M,0,0,Yes,,BoardEx
+423,ORLY,28180,O'REILLY AUTOMOTIVE INC,TMT,David O'Reilly,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+424,ORLY,28180,O'REILLY AUTOMOTIVE INC,TMT,Greg Henslee,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+425,OXY,8068,OCCIDENTAL PETROLEUM CORP,CEO,Vicki Hollub,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+426,ODFL,24617,OLD DOMINION FREIGHT,TMT,David Congdon,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+427,ODFL,24617,OLD DOMINION FREIGHT,TMT,Earl Congdon Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+428,ODFL,24617,OLD DOMINION FREIGHT,CEO,Greg Gantt,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+429,OMC,4066,OMNICOM GROUP INC,CEO,John Wren III,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+430,ON,134932,ON SEMICONDUCTOR CORP,CEO,Keith Jackson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+431,OKE,8151,ONEOK INC,CEO,Terry Spencer,Caucasian/White,0,0,0,0,M,0,0,Yes,,BoardEx
+432,ORCL,12142,ORACLE CORP,TMT,Charles Phillips,African American/Black,1,,0,0,M,0,1,No,,Bermiss
+433,ORCL,12142,ORACLE CORP,TMT,Jeff Henley,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+434,ORCL,12142,ORACLE CORP,TMT,Larry Ellison,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+435,ORCL,12142,ORACLE CORP,CEO,Safra Catz,Caucasian/White,0,1,1,0,F,1,1,Yes,,BoardEx
+436,OGN,38821,ORGANON & CO,CEO,Paddy Nicol,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+437,PCAR,8253,PACCAR INC,TMT,Mark Pigott,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+438,PCAR,8253,PACCAR INC,CEO,R Feight,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+439,PKG,128978,PACKAGING CORP OF AMERICA,CEO,Mark Kowlzan,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+440,PARA,13714,PARAMOUNT GLOBAL,CEO,Bob Bakish,Caucasian/White,0,0,0,0,M,0,0,Yes,,BoardEx
+441,PH,8358,PARKER-HANNIFIN CORP,CEO,Tom Williams,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+442,PAYX,8402,PAYCHEX INC,CEO,Martin Mucci,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+443,PAYC,20116,PAYCOM SOFTWARE INC,CEO,Chad Richison,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+444,PYPL,24616,PAYPAL HOLDINGS INC,CEO,Dan Schulman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+445,PPL,8455,PEMBINA PIPELINE CORP,CEO,Mick Dilger,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+446,PBCT,16245,PEOPLE'S UNITED FINL INC,CEO,Jack Barnes,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+447,PEP,8479,PEPSICO INC,CEO,Ramon Laguarta,Hispanic/Latino,0,,0,1,M,0,0,Yes,,BoardEx
+448,PKI,4145,PERKINELMER INC,CEO,Bob Espey,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+449,PFE,8530,PFIZER INC,TMT,Freda Lewis-Hall,African American/Black,1,1,0,1,F,1,1,No,,Bermiss
+450,PCG,8264,PG&E CORP,CEO,Bill Johnson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+451,PM,179621,PHILIP MORRIS INTERNATIONAL,CEO,Andre Calantzopoulos,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+452,PSX,170841,PHILLIPS 66,CEO,Greg Garland,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+453,PNW,1075,PINNACLE WEST CAPITAL CORP,CEO,Jeff Guldner,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+454,PXD,14359,PIONEER NATURAL RESOURCES CO,CEO,Scott Sheffield,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+455,PNC,8245,PNC FINANCIAL SVCS GROUP INC,CEO,William Demchak,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+456,POOL,61420,POOL CORP,CEO,Pete Arvan,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+457,PPG,8247,PPG INDUSTRIES INC,CEO,Michael McGarry,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+458,PPL,8455,PPL CORP,CEO,Bill Spence,Caucasian/White,0,,0,0,M,0,0,Yes,Retired in 6/1/2020,BoardEx
+459,PPL,8455,PPL CORP,CEO,Vincent Sorgi,Caucasian/White,0,,0,0,M,0,0,Yes,Started in 6/1/2020,manually added
+460,TROW,12138,PRICE (T. ROWE) GROUP,CEO,Bill Stromberg,Caucasian/White,0,0,0,0,M,0,0,Yes,,BoardEx
+461,TROW,12138,PRICE (T. ROWE) GROUP,CEO,William Stromberg,Caucasian/White,0,0,0,0,M,0,0,Yes,,Bermiss
+462,PFG,145701,PRINCIPAL FINANCIAL GRP INC,CEO,Dan Houston,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+463,PG,8762,PROCTER & GAMBLE CO,CEO,David Taylor,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+464,PG,8762,PROCTER & GAMBLE CO,TMT,John Begeman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+465,PGR,13341,PROGRESSIVE CORP-OHIO,CEO,Tricia Griffith,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+466,PLD,29984,PROLOGIS INC,CEO,Hamid Moghadam,Middle Eastern,0,,0,1,M,0,0,Yes,,BoardEx
+467,PRU,143356,PRUDENTIAL FINANCIAL INC,CEO,Charlie Lowrey Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+468,PEG,8810,PUBLIC SERVICE ENTRP GRP INC,CEO,Doctor Ralph Izzo,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+469,PSA,10096,PUBLIC STORAGE,CEO,Joe Russell Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+470,PHM,8823,PULTEGROUP INC,CEO,Ryan Marshall,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+471,PVH,8551,PVH CORP,CEO,Manny Chirico,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+472,QRVO,64853,QORVO INC,CEO,Bob Bruggeworth,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+473,QCOM,24800,QUALCOMM INC,CEO Emeritus,Doctor Irwin Jacobs,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+474,QCI,24800,QUALCOMM INC,CEO,Steve Mollenkopf,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+475,PWR,66446,QUANTA SERVICES INC,CEO,Duke Austin Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+476,DGX,64166,QUEST DIAGNOSTICS INC,CEO,Steve Rusckowski,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+477,RL,64891,RALPH LAUREN CORP,TMT,David Lauren,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+478,RL,64891,RALPH LAUREN CORP,CEO,Patrice Louvet,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+479,RL,64891,RALPH LAUREN CORP,TMT,Ralph Lauren,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+480,RJF,8898,RAYMOND JAMES FINANCIAL INC,CEO,Paul Reilly,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+481,RTN,8972,RAYTHEON CO,CEO,Hansel Tookes,African American/Black,1,1,0,1,M,0,1,No,,Bermiss
+482,O,30822,REALTY INCOME CORP,CEO,Sumit Roy,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+483,RHT,122841,RED HAT INC,CEO,Doctor Lisa Crossley,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+484,REG,29099,REGENCY CENTERS CORP,CEO,John Black,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+485,REGN,23812,REGENERON PHARMACEUTICALS,CEO,Doctor Len Schleifer,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+486,RF,4674,REGIONS FINANCIAL CORP,CEO,John Turner Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+487,RSG,112168,REPUBLIC SERVICES INC,CEO,Don Slager,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+488,RMD,31887,RESMED INC,CEO,Mick Farrell,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+489,RHI,2312,ROBERT HALF INTL INC,TMT,Harold Messmer Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+490,RHI,2312,ROBERT HALF INTL INC,CEO,Michael Waddell,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+491,ROK,9203,ROCKWELL AUTOMATION,CEO,Blake Moret,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+492,ROL,9225,ROLLINS INC,CEO,Gary Rollins,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+493,ROL,9225,ROLLINS INC,TMT,Richard Rollins Sr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+494,ROP,24925,ROPER TECHNOLOGIES INC,CEO,Laurence Hunn,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+495,ROST,9248,ROSS STORES INC,CEO,Barbara Rentler,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+496,RCL,28191,ROYAL CARIBBEAN GROUP,CEO,Richard Fain,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+497,SPGI,7163,S&P GLOBAL INC,CEO,Doug Peterson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+498,CRM,,"SALESFORCE, INC.",TMT,Robin Washington,African American/Black,1,,0,1,F,1,1,Yes,,manually added
+499,SBAC,121382,SBA COMMUNICATIONS CORP,CEO,Jeff Stoops,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+500,SLB,9465,SCHLUMBERGER LTD,CEO,Olivier Le Peuch,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+501,SCHW,13988,SCHWAB (CHARLES) CORP,TMT,Chuck Schwab Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+502,SCHW,13988,SCHWAB (CHARLES) CORP,CEO,Walt Bettinger II,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+503,SEE,9555,SEALED AIR CORP,CEO,Ted Doheny II,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+504,SRE,8272,SEMPRA ENERGY,CEO,Donald Felsinger,Caucasian/White,0,0,0,0,M,0,0,No,,Bermiss
+505,NOW,171007,SERVICENOW INC,CEO,Bill McDermott,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+506,SHW,9667,SHERWIN-WILLIAMS CO,CEO,John Morikis,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+507,SPG,29389,SIMON PROPERTY GROUP INC,CEO,David Simon,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+508,SPG,29389,SIMON PROPERTY GROUP INC,TMT,Richard Sokolov,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+509,SWKS,1327,SKYWORKS SOLUTIONS INC,CEO,Liam Griffin,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+510,SLG,65290,SL GREEN REALTY CORP,CEO,Marc Holliday,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+511,AOS,9771,SMITH (A.O.),TMT,Ajita Rajendra,Asian/South Asian,0,,0,1,M,0,0,No,,BoardEx
+512,AOS,9771,SMITH (A.O.),CEO,Kevin Wheeler,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+513,SJM,9777,SMUCKER (JM) CO,CEO,Mark Smucker,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+514,SJM,9777,SMUCKER (JM) CO,TMT,Richard Smucker,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+515,SNA,9778,SNAP-ON INC,CEO,Nick Pinchuk,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+516,SO,,SOUTHERN CO,CEO,Tom Fanning,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+517,LUV,9882,SOUTHWEST AIRLINES,CEO,Gary Kelly,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+518,SPG,29389,SPARK POWER GROUP INC (Canaccord Genuity Acquisition Corp prior to 09/2018) (De-listed 12/2023),CEO (Co-CEO),Andrew Clark,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+519,SPG,29389,SPARK POWER GROUP INC (Canaccord Genuity Acquisition Corp prior to 09/2018) (De-listed 12/2023),CEO (Co-CEO),Jason Sparaga,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+520,SWK,10016,STANLEY BLACK & DECKER INC,CEO,Jim Loree,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+521,SBUX,25434,STARBUCKS CORP,CEO,Kevin Johnson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+522,SYK,10115,STRYKER CORP,CEO,Kevin Lobo,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+523,SYF,20686,SYNCHRONY FINANCIAL,CEO,Margaret Keane,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+524,SNPS,24975,SYNOPSYS INC,CEO (Co-CEO),Doctor Aart De Geus,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+525,SNPS,24975,SYNOPSYS INC,CEO (Co-CEO),Doctor Chi-Foon Chan,Asian/Chinese,0,,0,1,M,0,0,Yes,,BoardEx
+526,TTWO,64630,TAKE-TWO INTERACTIVE SFTWR,CEO,Strauss Zelnick,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+527,TPR,140541,TAPESTRY INC,CEO,Jide Zeitlin,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+528,TGT,3813,TARGET CORP,CEO,Brian Cornell,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+529,TGT,3813,TARGET CORP,TMT,Laysha Ward,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+530,TDY,126721,TELEDYNE TECHNOLOGIES INC,TMT,Professor Doctor Robert Mehrabian,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+531,TFX,10407,TELEFLEX INC,CEO,Liam Kelly,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+532,TU,9899,TELUS CORP,CEO,Darren Entwistle,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+533,TER,10453,TERADYNE INC,CEO,Mark Jagiela,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+534,TSLA,184996,TESLA INC,CEO,Elon Musk,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+535,TXN,10499,TEXAS INSTRUMENTS INC,CEO,Rich Templeton,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+536,TXT,10519,TEXTRON INC,CEO,Scott Donnelly,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+537,TMO,10530,THERMO FISHER SCIENTIFIC INC,TMT,Delete Delete,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+538,TJX,11672,TJX COS INC (THE),TMT,Carol Meyrowitz,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+539,TJX,11672,TJX COS INC (THE),CEO,Ernie Herrman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+540,TDG,148349,TRANSDIGM GROUP INC,CEO,Doctor Kevin Stein,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+541,TDG,148349,TRANSDIGM GROUP INC,TMT,Nick Howley,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+542,TRV,62689,TRAVELERS COS INC,CEO,Alan Schnitzer,Caucasian/White,0,0,0,0,M,0,0,Yes,,Bermiss
+543,TFC,11856,TRUIST FINANCIAL CORP,CEO,Kelly King,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+544,TWTR,18872,TWITTER INC,CEO,Jack Dorsey,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+545,TWTR,18872,TWITTER INC,TMT,Omid Kordestani,Middle Eastern,0,,0,1,M,0,0,Yes,,BoardEx
+546,TYL,10789,TYLER TECHNOLOGIES INC,CEO,H Moore Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+547,TYL,10789,TYLER TECHNOLOGIES INC,TMT,John Marr Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+548,TSN,10793,TYSON FOODS INC -CL A,TMT,John Tyson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+549,TSN,10793,TYSON FOODS INC -CL A,CEO,Noel White,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+550,UDR,10894,UDR INC,CEO,Tom Toomey,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+551,ULTA,178704,ULTA BEAUTY INC,CEO,Mary Dillon,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+552,UNP,10867,UNION PACIFIC CORP,TMT,Eric Butler,African American/Black,1,1,0,1,M,0,2,No,,Bermiss
+553,UNP,10867,UNION PACIFIC CORP,CEO,Lance Fritz,Caucasian/White,0,1,1,0,M,0,3,Yes,,BoardEx
+554,UNP,10867,UNION PACIFIC CORP,TMT,Rhonda Ferguson,African American/Black,1,1,0,1,F,1,2,Yes,,Bermiss
+555,UAL,10795,UNITED AIRLINES HOLDINGS INC,CEO,Brett Hart,African American/Black,1,1,0,1,M,0,1,Yes,Started in 5/1/2020,Bermiss
+556,UAL,10795,UNITED AIRLINES HOLDINGS INC,CEO,Oscar Munoz,Hispanic/Latino,0,1,1,1,M,0,1,Yes,Retired in 5/1/2020,BoardEx
+557,UPS,10920,UNITED PARCEL SERVICE INC,CEO,Carol Tome,Caucasian/White,0,0,0,0,F,1,0,Yes,Started in 6/1/2020,manually added
+558,UPS,10920,UNITED PARCEL SERVICE INC,CEO,David Abney,Caucasian/White,0,0,0,0,M,0,0,Yes,Retired in 5/31/2020,BoardEx
+559,URI,66065,UNITED RENTALS INC,CEO,Matt Flannery,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+560,URI,66065,UNITED RENTALS INC,TMT,William Plummer,Caucasian/White,0,1,1,0,M,0,1,No,,Bermiss
+561,UNH,10903,UNITEDHEALTH GROUP INC,CEO,Dave Wichmann,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+562,UNH,10903,UNITEDHEALTH GROUP INC,TMT,Reed Tuckson,African American/Black,1,1,0,1,M,0,1,No,,Bermiss
+563,UHS,11032,UNIVERSAL HEALTH SVCS INC,CEO,Alan Miller,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+564,UNM,12726,UNUM GROUP,CEO,Rick McKenney,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+565,USB,4723,US BANCORP,CEO,Andy Cecere,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+566,VAR,11115,VARIAN MEDICAL SYSTEMS INC,CEO,Dow Wilson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+567,VTR,110179,VENTAS INC,CEO,Debra Cafaro,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+568,VRSK,180652,VERISK ANALYTICS INC,CEO,Scott Stephenson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+569,VZ,,VERIZON COMMUNICATIONS INC,CEO,Hans Vestberg,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+570,VFC,11060,VF CORP,CEO,Steve Rendle,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+571,VICI,32580,VICI PROPERTIES INC,CEO,Ed Pitoniak,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+572,VMC,11228,VICINITY MOTOR CORP (Grande West Transportation Group Inc prior to 03/2021),CEO,William Trainer,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+573,V,179534,VISA INC,CEO,Al Kelly Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+574,VNO,11220,VORNADO REALTY TRUST,CEO,Steve Roth,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+575,VMC,11228,VULCAN MATERIALS CO,CEO,Tom Hill,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+576,WAB,60979,WABTEC CORP,TMT,Al Neupaver,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+577,WAB,60979,WABTEC CORP,CEO,Rafael Santana,Hispanic/Latino,0,,0,1,M,0,0,Yes,,BoardEx
+578,WBA,11264,WALGREENS BOOTS ALLIANCE INC,TMT,Jim Skinner,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+579,WBA,11264,WALGREENS BOOTS ALLIANCE INC,TMT,Kathleen Wilson-Thompson,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+580,WBA,11264,WALGREENS BOOTS ALLIANCE INC,CEO,Stefano Pessina,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+581,WFC,8007,WALL FINANCIAL CORP,CEO,Bruno Wall,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+582,WM,14477,WALLBRIDGE MINING CO LTD,CEO,Marz Kord-Gharachorloo,Middle Eastern,0,,0,1,M,0,0,Yes,,BoardEx
+583,WMT,11259,WALMART INC,CEO,Doug McMillon,Caucasian/White,0,0,0,0,M,0,0,Yes,,BoardEx
+584,WM,14477,WASTE MANAGEMENT INC,CEO,Jim Fish Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+585,WEC,11550,WEC ENERGY GROUP INC,TMT,Gale Klappa,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+586,WEC,11550,WEC ENERGY GROUP INC,CEO,Kevin Fletcher,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+587,WFC,8007,WELLS FARGO & CO,CEO,Charlie Scharf,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+588,WFC,8007,WELLS FARGO & CO,TMT,Michelle Lee,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+589,WFC,8007,WELLS FARGO & CO,TMT,Yvette Hollingsworth Clark,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+590,WELL,5543,WELLTOWER INC,CEO,Hamed Shahbazi,Middle Eastern,0,,0,1,M,0,0,Yes,,BoardEx
+591,WELL,5543,WELLTOWER INC,CEO,Tom DeRosa,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+592,WST,11376,WEST PHARMACEUTICAL SVSC INC,CEO,Eric Green,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+593,WU,175263,WESTERN UNION CO,CEO,Hikmet Ersek,Caucasian/White,0,0,0,0,M,0,0,Yes,,BoardEx
+594,WRK,29830,WESTROCK CO,CEO,Steve Voorhees,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+595,WU,175263,WEYERHAEUSER CO,CEO,Devin McGranahan,Caucasian/White,0,0,0,0,M,0,0,Yes,,Bermiss
+596,WY,11456,WEYERHAEUSER CO,CEO,Devin Stockfish,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+597,WHR,11465,WHIRLPOOL CORP,CEO,Doctor Marc Bitzer,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+598,WHR,11465,WHIRLPOOL CORP,TMT,Michael Todman,African American/Black,1,1,0,1,M,0,1,No,,Bermiss
+599,WMB,11506,WILLIAMS COS INC,CEO,Alan Armstrong,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+600,WYNN,149318,WYNN RESORTS LTD,CEO,Matt Maddox,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+601,XRX,11636,XEROX HOLDINGS CORP,TMT,Barry Rand,African American/Black,1,1,0,1,M,0,3,No,,Bermiss
+602,XRX,11636,XEROX HOLDINGS CORP,TMT,Darrell Ford,African American/Black,1,1,0,1,M,0,3,Yes,,Bermiss
+603,XRX,11636,XEROX HOLDINGS CORP,CEO,John Visentin,Caucasian/White,0,1,1,0,M,0,3,Yes,,BoardEx
+604,XRX,11636,XEROX HOLDINGS CORP,TMT,Kevin Warren,African American/Black,1,1,0,1,M,0,3,Yes,,Bermiss
+605,XLNX,22325,XILINX INC,CEO,Victor Peng,Asian/Chinese,0,,0,1,M,0,0,Yes,,BoardEx
+606,XYL,189491,XYLEM INC,CEO,Patrick Decker,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+607,YUM,"	12566",YUM! BRANDS INC,TMT,Mirian Graddick,African American/Black,1,1,0,1,F,1,1,Yes,,manually added
+608,ZBRA,24405,ZEBRA TECHNOLOGIES CP -CL A,CEO,Anders Gustafsson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+609,ZBH,144559,ZIMMER BIOMET HOLDINGS INC,CEO,Bryan Hanson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+610,ZION,11687,ZIONS BANCORPORATION NA,CEO,Harris Simmons,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+611,ZTS,13721,ZOETIS INC,TMT,Clinton Lewis,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss

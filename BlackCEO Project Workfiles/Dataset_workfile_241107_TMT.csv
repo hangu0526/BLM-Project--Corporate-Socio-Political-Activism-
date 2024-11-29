@@ -1,0 +1,141 @@
+obs,tic,gvkey,conm_x,CrossVerified_ExecType,DirectorName,Ethnicity,Race(black),BE_fromBermissData,Actual_Bermiss_discrepancy,Minority,Gender,Female,Num_Black_TMT,Active2020,CEO_Appointment_date_within_2020,DirectorName_source
+1,AFL,1449,AFLAC INC,TMT,Audrey Boone Tillman,African American/Black,1,1,0,1,F,1,2,Yes,,Bermiss
+2,AFL,1449,AFLAC INC,TMT,Teresa White,African American/Black,1,1,0,1,F,1,2,Yes,,Bermiss
+3,ARE,64821,ALEXANDRIA R E EQUITIES INC,TMT,Joel Marcus,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+4,GOOG,,ALPHABET INC.,TMT,Robin Washington,African American/Black,1,,0,1,F,1,1,Yes,,manually added
+5,AXP,1447,AMERICAN EXPRESS CO,TMT,Anre Williams,African American/Black,1,1,0,1,M,0,2,Yes,,Bermiss
+6,AXP,1447,AMERICAN EXPRESS CO,TMT,Kim Goodman,African American/Black,1,1,0,1,F,1,2,Yes,,Bermiss
+7,AME,1598,AMETEK INC,TMT,Mike McInnis,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+8,ANET,20748,ARISTA NETWORKS INC,TMT,Doctor Andy von Bechtolsheim,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+9,T,9899,AT&T INC,TMT,Xavier Williams,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+10,ATO,4383,ATMOS ENERGY CORP,TMT,Kim Cocklin,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+11,WRB,14822,BERKLEY (W R) CORP,TMT,Wm Berkley Sr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+12,BRK.B,2176,BERKSHIRE HATHAWAY,TMT,Ajit Jain,Asian/Indian,0,,0,1,M,0,0,Yes,,BoardEx
+13,BRK.B,2176,BERKSHIRE HATHAWAY,TMT,Charlie Munger,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+14,BRK.B,2176,BERKSHIRE HATHAWAY,TMT,Greg Abel,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+15,BBY,2184,BEST BUY CO INC,TMT,Hubert Joly,Caucasian/White,0,0,0,0,M,0,0,Yes,,BoardEx
+16,BA,2285,BOEING CO,TMT,James Bell,African American/Black,1,1,0,1,M,0,1,No,,Bermiss
+17,BSX,25279,BOSTON SCIENTIFIC CORP,TMT,Mark Eaton,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+18,BR,176928,BROADRIDGE FINANCIAL SOLUTNS,TMT,Rich Daly,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+19,CHRW,65609,C H ROBINSON WORLDWIDE INC,TMT,John Wiehoff,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+20,CCL,13498,CARNIVAL CORPORATION & PLC,TMT,Micky Arison,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+21,CNP,5742,CENTERPOINT ENERGY INC,TMT,Milton Carroll,African American/Black,1,,0,1,M,0,1,Yes,,BoardEx
+22,CF,163946,CF INDUSTRIES HOLDINGS INC,TMT,David Kassie,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+23,CI,2547,CIGNA CORP,TMT,Michael Triplett,Caucasian/White,0,1,1,0,M,0,2,Yes,,Bermiss
+24,CI,2547,CIGNA CORP,TMT,Nicole Jones,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+25,CTAS,3062,CINTAS CORP,TMT,Phillip Holloman,African American/Black,1,1,0,1,M,0,1,No,,Bermiss
+26,C,3243,CITIGROUP INC,TMT,Mark Mason,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+27,CMS,3439,CMS ENERGY CORP,TMT,Rejji Hayes,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+28,KO,3144,COCA-COLA CO,TMT,Alexander Cummings,African American/Black,1,1,0,1,M,0,3,No,,Bermiss
+29,KO,3144,COCA-COLA CO,TMT,Kathy Waller,African American/Black,1,1,0,1,F,1,3,No,,Bermiss
+30,KO,3144,COCA-COLA CO,TMT,Vicki Palmer,African American/Black,1,1,0,1,F,1,3,No,,Bermiss
+31,CMCSA,3226,COMCAST CORP,TMT,Kimberley Harris,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+32,STZ,2710,CONSTELLATION BRANDS,TMT,Doctor Richard Sands,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+33,STZ,2710,CONSTELLATION BRANDS,TMT,Rob Sands,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+34,CPRT,29901,COPART INC,TMT,Willis Johnson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+35,GLW,3532,CORNING INC,TMT,Lawrence McRae,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+36,DHI,25340,D R HORTON INC,TMT,Donald Horton,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+37,DHR,3735,DANAHER CORP,TMT,Steven Rales,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+38,DVA,61483,DAVITA INC,TMT,Kent Thiry,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+39,DISH,60900,DISH NETWORK CORP,TMT,Charlie Ergen,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+40,DIS,3980,DISNEY (WALT) CO,TMT,Dennis Hightower,African American/Black,1,1,0,1,M,0,2,No,,Bermiss
+41,DIS,3980,DISNEY (WALT) CO,TMT,Richard Nanula,African American/Black,1,1,0,1,M,0,2,No,,Bermiss
+42,DLTR,31587,DOLLAR TREE INC,TMT,Bob Sasser,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+43,DPZ,160211,DOMINO'S PIZZA INC,TMT,Troy Ellis,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+44,DTE,3897,DTE ENERGY CO,TMT,Gerry Anderson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+45,ETR,7366,ENTERGY CORP,TMT,Fiore Aliperti,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+46,ETR,7366,ENTERGY CORP,TMT,Marcus Brown,African American/Black,1,1,0,1,M,0,2,Yes,,Bermiss
+47,ETR,7366,ENTERGY CORP,TMT,Roderick West,African American/Black,1,1,0,1,M,0,2,Yes,,Bermiss
+48,EQIX,138743,EQUINIX INC,TMT,Peter Van Camp,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+49,EL,61567,ESTEE LAUDER COMPANIES INC,TMT,Leonard Lauder,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+50,EL,61567,ESTEE LAUDER COMPANIES INC,TMT,The Hon. Ronald Lauder,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+51,EL,61567,ESTEE LAUDER COMPANIES INC,TMT,Tracey Travis,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+52,EL,61567,ESTEE LAUDER COMPANIES INC,TMT,William Lauder,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+53,EXC,8539,EXELON CORP,TMT,Frank Clark,African American/Black,1,1,0,1,M,0,1,No,,Bermiss
+54,F,4839,FORD MOTOR CO,TMT,Bill Ford Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+55,FOXA,34636,FOX CORP,TMT,Keith Murdoch,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+56,BEN,4885,FRANKLIN RESOURCES INC,TMT,Rupert Johnson Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+57,GIS,5071,GENERAL MILLS INC,TMT,Marc Belton,African American/Black,1,0,1,1,M,0,1,No,,Bermiss
+58,GM,5073,GENERAL MOTORS CO,TMT,Alicia Boler Davis,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+59,GILD,24856,GILEAD SCIENCES INC,TMT,Robin Washington,African American/Black,1,0,1,1,F,1,1,Yes,,Bermiss
+60,HBI,175319,HANESBRANDS INC,TMT,Joia Johnson,African American/Black,1,1,0,1,F,1,2,Yes,,Bermiss
+61,HSIC,61494,HENRY SCHEIN INC,TMT,Jim Breslawski,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+62,HLT,5643,HILTON WORLDWIDE HOLDINGS,TMT,Gregory Dillon,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+63,HD,5680,HOME DEPOT INC,TMT,Ann-Marie Campbell,African American/Black,1,1,0,1,F,1,3,Yes,,Bermiss
+64,HD,5680,HOME DEPOT INC,TMT,Marvin Ellison,African American/Black,1,1,0,1,M,0,3,Yes,,Bermiss
+65,HD,5680,HOME DEPOT INC,TMT,Teresa Wynn Roseborough,African American/Black,1,1,0,1,F,1,3,Yes,,Bermiss
+66,HON,,HONEYWELL INTERNATIONAL INC,TMT,Robin Washington,African American/Black,1,,0,1,F,1,1,Yes,,manually added
+67,HST,7063,HOST HOTELS & RESORTS INC,TMT,Dick Marriott,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+68,JBHT,5783,HUNT (JB) TRANSPRT SVCS INC,TMT,James Thompson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+69,HII,186310,HUNTINGTON INGALLS IND INC,TMT,Kellye Walker,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+70,HII,186310,HUNTINGTON INGALLS IND INC,TMT,Michael Smith,Caucasian/White,0,1,1,0,M,0,2,Yes,,Bermiss
+71,INTU,27928,INTUIT INC,TMT,Brad Smith,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+72,KEY,9783,KEYCORP,TMT,Jeffrey Weaver,Caucasian/White,0,1,1,0,M,0,2,Yes,,Bermiss
+73,KEY,9783,KEYCORP,TMT,Paul Harris,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+74,KIM,24731,KIMCO REALTY CORP,TMT,Milton Cooper,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+75,KMI,6310,KINDER MORGAN INC,TMT,Rich Kinder,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+76,LHX,5492,L3HARRIS TECHNOLOGIES INC,TMT,Chris Kubasik,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+77,LH,14960,LABORATORY CP OF AMER HLDGS,TMT,Dave King,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+78,LEN,6669,LENNAR CORP,TMT,Stuart Miller,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+79,LKQ,155394,LKQ CORP,TMT,Joe Holsten,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+80,LMT,6774,LOCKHEED MARTIN CORP,TMT,Linda Gooden,African American/Black,1,1,0,1,F,1,1,No,,Bermiss
+81,L,6781,LOEWS CORP,TMT,Andrew Tisch,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+82,L,6781,LOEWS CORP,TMT,Galen Weston Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+83,L,6781,LOEWS CORP,TMT,Jon Tisch,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+84,MAR,28930,MARRIOTT INTL INC,TMT,Bill Marriott Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+85,MTCH,26061,MATCH GROUP INC,TMT,Barry Diller,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+86,MTCH,26061,MATCH GROUP INC,TMT,Victor Kaufman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+87,MCD,7154,MCDONALD'S CORP,TMT,Raymond Mines,African American/Black,1,1,0,1,M,0,2,No,,Bermiss
+88,MRK,7257,MERCK & CO,TMT,Bridgette Heller,African American/Black,1,1,0,1,F,1,3,No,,Bermiss
+89,MRK,7257,MERCK & CO,TMT,Willie Deese,African American/Black,1,1,0,1,M,0,3,No,,Bermiss
+90,MRK,7257,MERCK & CO INC (Schering-Plough Corp prior to 11/2009),TMT,Mirian Graddick,African American/Black,1,1,0,1,F,1,1,No,,manually added
+91,MU,7343,MICRON TECHNOLOGY INC,TMT,K Hsu,Asian/Chinese,0,,0,1,M,0,0,Yes,,BoardEx
+92,MDLZ,142953,MONDELEZ INTERNATIONAL INC,TMT,Mary Beth West,Caucasian/White,0,1,1,0,F,1,1,No,,Bermiss
+93,MNST,24316,MONSTER BEVERAGE CORP,TMT,Hilton Schlosberg,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+94,NLSN,100873,NIELSEN HOLDINGS PLC,TMT,Jamere Jackson,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+95,NI,7974,NISOURCE INC,TMT,Donald Brown,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+96,NTRS,7982,NORTHERN TRUST CORP,TMT,Shundrawn Thomas,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
+97,NLOK,15855,NORTONLIFELOCK INC,TMT,Scott Taylor,Caucasian/White,0,1,1,0,M,0,2,Yes,,Bermiss
+98,ORLY,28180,O'REILLY AUTOMOTIVE INC,TMT,David O'Reilly,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+99,ORLY,28180,O'REILLY AUTOMOTIVE INC,TMT,Greg Henslee,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+100,ODFL,24617,OLD DOMINION FREIGHT,TMT,David Congdon,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+101,ODFL,24617,OLD DOMINION FREIGHT,TMT,Earl Congdon Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+102,ORCL,12142,ORACLE CORP,TMT,Charles Phillips,African American/Black,1,,0,0,M,0,1,No,,Bermiss
+103,ORCL,12142,ORACLE CORP,TMT,Jeff Henley,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+104,ORCL,12142,ORACLE CORP,TMT,Larry Ellison,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+105,PCAR,8253,PACCAR INC,TMT,Mark Pigott,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+106,PFE,8530,PFIZER INC,TMT,Freda Lewis-Hall,African American/Black,1,1,0,1,F,1,1,No,,Bermiss
+107,PG,8762,PROCTER & GAMBLE CO,TMT,John Begeman,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+108,RL,64891,RALPH LAUREN CORP,TMT,David Lauren,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+109,RL,64891,RALPH LAUREN CORP,TMT,Ralph Lauren,Caucasian/White,0,1,1,0,M,0,1,Yes,,BoardEx
+110,RHI,2312,ROBERT HALF INTL INC,TMT,Harold Messmer Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+111,ROL,9225,ROLLINS INC,TMT,Richard Rollins Sr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+112,CRM,,"SALESFORCE, INC.",TMT,Robin Washington,African American/Black,1,,0,1,F,1,1,Yes,,manually added
+113,SCHW,13988,SCHWAB (CHARLES) CORP,TMT,Chuck Schwab Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+114,SPG,29389,SIMON PROPERTY GROUP INC,TMT,Richard Sokolov,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+115,AOS,9771,SMITH (A.O.),TMT,Ajita Rajendra,Asian/South Asian,0,,0,1,M,0,0,No,,BoardEx
+116,SJM,9777,SMUCKER (JM) CO,TMT,Richard Smucker,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+117,TGT,3813,TARGET CORP,TMT,Laysha Ward,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+118,TDY,126721,TELEDYNE TECHNOLOGIES INC,TMT,Professor Doctor Robert Mehrabian,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+119,TMO,10530,THERMO FISHER SCIENTIFIC INC,TMT,Delete Delete,Caucasian/White,0,,0,0,M,0,0,No,,BoardEx
+120,TJX,11672,TJX COS INC (THE),TMT,Carol Meyrowitz,Caucasian/White,0,,0,0,F,1,0,Yes,,BoardEx
+121,TDG,148349,TRANSDIGM GROUP INC,TMT,Nick Howley,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+122,TWTR,18872,TWITTER INC,TMT,Omid Kordestani,Middle Eastern,0,,0,1,M,0,0,Yes,,BoardEx
+123,TYL,10789,TYLER TECHNOLOGIES INC,TMT,John Marr Jr,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+124,TSN,10793,TYSON FOODS INC -CL A,TMT,John Tyson,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+125,UNP,10867,UNION PACIFIC CORP,TMT,Eric Butler,African American/Black,1,1,0,1,M,0,2,No,,Bermiss
+126,UNP,10867,UNION PACIFIC CORP,TMT,Rhonda Ferguson,African American/Black,1,1,0,1,F,1,2,Yes,,Bermiss
+127,URI,66065,UNITED RENTALS INC,TMT,William Plummer,Caucasian/White,0,1,1,0,M,0,1,No,,Bermiss
+128,UNH,10903,UNITEDHEALTH GROUP INC,TMT,Reed Tuckson,African American/Black,1,1,0,1,M,0,1,No,,Bermiss
+129,WAB,60979,WABTEC CORP,TMT,Al Neupaver,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+130,WBA,11264,WALGREENS BOOTS ALLIANCE INC,TMT,Jim Skinner,Caucasian/White,0,1,1,0,M,0,2,Yes,,BoardEx
+131,WBA,11264,WALGREENS BOOTS ALLIANCE INC,TMT,Kathleen Wilson-Thompson,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+132,WEC,11550,WEC ENERGY GROUP INC,TMT,Gale Klappa,Caucasian/White,0,,0,0,M,0,0,Yes,,BoardEx
+133,WFC,8007,WELLS FARGO & CO,TMT,Michelle Lee,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+134,WFC,8007,WELLS FARGO & CO,TMT,Yvette Hollingsworth Clark,African American/Black,1,1,0,1,F,1,1,Yes,,Bermiss
+135,WHR,11465,WHIRLPOOL CORP,TMT,Michael Todman,African American/Black,1,1,0,1,M,0,1,No,,Bermiss
+136,XRX,11636,XEROX HOLDINGS CORP,TMT,Barry Rand,African American/Black,1,1,0,1,M,0,3,No,,Bermiss
+137,XRX,11636,XEROX HOLDINGS CORP,TMT,Darrell Ford,African American/Black,1,1,0,1,M,0,3,Yes,,Bermiss
+138,XRX,11636,XEROX HOLDINGS CORP,TMT,Kevin Warren,African American/Black,1,1,0,1,M,0,3,Yes,,Bermiss
+139,YUM,"	12566",YUM! BRANDS INC,TMT,Mirian Graddick,African American/Black,1,1,0,1,F,1,1,Yes,,manually added
+140,ZTS,13721,ZOETIS INC,TMT,Clinton Lewis,African American/Black,1,1,0,1,M,0,1,Yes,,Bermiss
